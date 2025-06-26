@@ -95,28 +95,31 @@ ServerEvents.tags('item', allthemods => {
 })
 
 ServerEvents.tags('entity_type', allthemods => {
-  // Productive Bees
-  allthemods.add('justdirethings:paradox_deny', /productivebees:/);
-  allthemods.add('industrialforegoing:mob_duplicator_blacklist', /productivebees:/)
 
-  // Allthemodium
-  allthemods.add('justdirethings:paradox_deny', 'allthemodium:piglich');
-  allthemods.add('industrialforegoing:mob_duplicator_blacklist', 'allthemodium:piglich')
-
-  // Occultism
-  allthemods.add('justdirethings:paradox_deny', /occultism:/);
-  allthemods.add('industrialforegoing:mob_duplicator_blacklist', /occultism:/)
-
-  //Industrial Foregoing
-  allthemods.add('industrialforegoing:mob_crusher_blacklist', [
-    "minecraft:warden",
-    "minecraft:elder_guardian",
-    "minecraft:ender_dragon",
-    "minecraft:wither",
-    "artifacts:mimic",
-    "allthemodium:piglich"
+  allthemods.add('c:bosses', [
+    "allthemodium:piglich",
+    "#neoforge:bosses",
   ])
 
+  allthemods.add('allthemods:entity_blacklist', [
+    'ars_nouveau:animated_block',
+    'artifacts:mimic',
+    'create:package',
+    'mekanism:robit',
+    '#c:bosses',
+    /occultism:/,
+    /productivebees:/
+  ])
+
+  allthemods.add('apothic_spawners:blacklisted_from_spawners', '#allthemods:entity_blacklist')
+  allthemods.add('enderio:soul_vial_blacklist', '#allthemods:entity_blacklist')
+  allthemods.add('industrialforegoing:mob_duplicator_blacklist', '#allthemods:entity_blacklist')
+  allthemods.add('industrialforegoing:mob_crusher_blacklist', '#allthemods:entity_blacklist')
+  allthemods.add('justdirethings:paradox_deny', '#allthemods:entity_blacklist');
+  allthemods.add('tombstone:unhandled_tamable', '#allthemods:entity_blacklist')
+  allthemods.add('mob_grinding_utils:no_swab', '#allthemods:entity_blacklist')
+  allthemods.add('mob_grinding_utils:no_spawn', '#allthemods:entity_blacklist')
+  allthemods.add('enderio:spawner_blacklist', '#allthemods:entity_blacklist')
 });
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10 To The Sky.
