@@ -6,18 +6,7 @@ const $SoundSource = Java.tryLoadClass('net.minecraft.sounds.SoundSource')
 const $ParticleTypes = Java.tryLoadClass('net.minecraft.core.particles.ParticleTypes')
 const $Block = Java.tryLoadClass('net.minecraft.world.level.block.Block')
 
-const recipes = [
-    {
-        clickedBlock: 'minecraft:obsidian',
-        baseBlock:    'allthecompressed:obsidian_1x',
-        inputItem:    'minecraft:redstone',
-        outputItem:   'fluxnetworks:flux_dust',
-        resultBlock:  'minecraft:cobblestone'
-    }
-];
-
-recipes.forEach(recipe => {
-
+global.flux.forEach(recipe => {
     NativeEvents.onEvent("net.neoforged.neoforge.event.entity.player.PlayerInteractEvent$LeftClickBlock", event => {
 
         // Don't ask questions or you'll scare it
