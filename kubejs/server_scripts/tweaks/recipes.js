@@ -64,21 +64,6 @@ ServerEvents.recipes(allthemods => {
 
     allthemods.smelting(Item.of('mysticalagriculture:soulstone'), Item.of('mysticalagriculture:soulium_dust'), 0.1)
 
-    // recipe fixes
-    allthemods.remove('handcrafted:oak_cupboard')
-    allthemods.shaped(
-        Item.of('handcrafted:oak_cupboard'),
-        [
-            'OOO',
-            'SCS',
-            'OOO'
-        ], {
-            O: 'minecraft:oak_planks',
-            S: 'minecraft:oak_slab',
-            C: 'minecraft:chest'
-        }
-    )
-
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
