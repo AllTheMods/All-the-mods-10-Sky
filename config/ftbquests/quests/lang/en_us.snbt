@@ -205,8 +205,8 @@
 	]
 	quest.012912FDAFCD1C66.quest_desc: ["&e&lCaliburn&r will start off not much better than a &bDiamond Sword&r but once upgraded; the &bDiamond Sword&r looks more like a normal Stick than &e&lCaliburn&r! \\nBoth &4&lMorgan&r and &e&lCaliburn&r have their actual Damage and their Innate Cap. \\n\\nInnate Cap is max Damage it can be increased to. To increase the Innate Cap of &e&lCaliburn&r, enchant it with &5Smite&r then toss it in the &3Lake&r with Nether Stars. \\n\\nTo get the Max Cap you need 60 Nether Stars. Once upgraded it can't be upgraded anymore so make sure you toss in all 60 at once! \\n\\nTo increase the normal Damage you'll need to enchant it with &5Smite&r then back in the &3Lake&r it goes! You'll need more damage in order to..."]
 	quest.012912FDAFCD1C66.title: "Upgrading &l&eCaliburn"
-	quest.01323E7CFB50B625.quest_desc: ["{atm9.quest.start1.desc.string}"]
-	quest.01323E7CFB50B625.title: "{atm9.quest.start1.string}"
+	quest.01323E7CFB50B625.quest_desc: ["To get string in a skyblock, some might say it is easier than it used to be... you will want to grow a tree, add a silkworm to one of the leaves, and watch the infestation spread across all the leaves! Once done, harvest these with your crook!"]
+	quest.01323E7CFB50B625.title: "String"
 	quest.0133DA323E24A455.quest_desc: ["Talking about replacing things (&6Hazmat Suit&r with &aRadiation Shielding &7Unit&r) lets replace the &eScube Gear&r! \\n\\nWith this &7Module Unit&r added to our &a&lMekaSuit Helmet&r, we will be able to swim &9Underwater&r and breathe! \\n\\nIf we have a &cJetpack &7Unit&r in our &a&lMekaSuit Bodyarmor&r it will feed it &7Hydrogen&r when in &9Water&r."]
 	quest.0133DA323E24A455.quest_subtitle: "Helmet"
 	quest.0133DA323E24A455.title: "&9Electrolytic Breathing &7Unit"
@@ -373,8 +373,8 @@
 	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r Spawn Egg"
 	quest.035C52EF63AD23A7.quest_desc: ["Hence the name of the mod, &lRailCraft&r, and what it revolves around, &5Trains&r, &6Rails&r are pretty important. \\n\\nThe &2Vanilla&r ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)"]
 	quest.035C52EF63AD23A7.title: "&6&lRails&r!"
-	quest.03693B6210A071BB.quest_desc: ["{atm9.quest.start1.desc.dirt}"]
-	quest.03693B6210A071BB.quest_subtitle: "{atm9.quest.start1.subt.dirt}"
+	quest.03693B6210A071BB.quest_desc: ["You can make more Dirt using Gravel and Dirt to make Coarse Dirt, then tilling it with &ba hoe&r to make Farmland. Mine that farmland and get &edouble the Dirt&r you started with (by sacrificing Gravel)."]
+	quest.03693B6210A071BB.quest_subtitle: "Infinite dirt!"
 	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
 	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
 	quest.0373198D54FA6B93.quest_subtitle: "Double it Up"
@@ -685,8 +685,8 @@
 	quest.063241B72BB3403E.title: "&8&lHeavy Plated Shield"
 	quest.063F5023D56CA6B1.quest_desc: ["Once you've got polyethylene set up, you can switch to making machine hulls in the Assembler to save on some materials"]
 	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
-	quest.0650924B5A84161E.quest_desc: ["{atm9.quest.start1.desc.furnace}"]
-	quest.0650924B5A84161E.title: "{atm9.quest.start1.furnace}"
+	quest.0650924B5A84161E.quest_desc: ["Once you have a Flint Mesh, you will start to get basic materials from sieving, like Iron!\\n\\nCombine your ore pieces into proper ores, then throw them in your furnace to smelt them!"]
+	quest.0650924B5A84161E.title: "Smelting the chunks"
 	quest.0650996C7818ADB5.quest_desc: ["The &6&lHeat Generator&r has 2 modes to generate &aEnergy&r. \\n\\nPassive: Surrounding the &6&lGenerator&r with &cLava Source&r or flowing blocks creates passive &aEnergy&r by creating &6Heat&r. \\n\\nPlace one &cLava Source Block&r on top, and let it flow over the sides. \\n\\nMake sure to connect &bPipes&r first!\\n\\nActive: Placing combustible materials such as &0Coal&r or &6Wood&r into the &6&lGenerator&r will burn the fuel to create &cEnergy&r. \\n\\nIt now creates 320FE/t."]
 	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
 	quest.0650996C7818ADB5.title: "&6&lHeat Generator"
@@ -801,10 +801,10 @@
 		"Breaks nearby grass and flowers when activated."
 	]
 	quest.076DFB0B39A4259F.quest_desc: [
-		"{atm9.quest.enchant.desc.infused_seashelf}"
+		"If you want higher &aEterna&r and &5Arcana&r you'll need Infused Seashelves. To get them you need at least &a22.5 Eterna&r, &c15%% Quanta&r, and &510%% Arcana&r. You can use 15 Bookshelves and &b5 Seashelves&r or just &b15 Seashelves&r. (&c15%% Quanta&r is default you won't need &4Hellshelves&r for this)."
 		"{image:atm:textures/questpics/apotheosis/enchant_sea.png width:100 height:100 align:1}"
 	]
-	quest.076DFB0B39A4259F.title: "{atm9.quest.enchant.infused_seashelf}"
+	quest.076DFB0B39A4259F.title: "&bInfused Seashelf"
 	quest.07753C5D94312A50.quest_desc: [
 		"&3Augment&r: Generator is the opposite of the &3Augment&r: Factory, instead of using Energy to Smelt, it Smelts for Energy. You will no longer smelt items in it, every Fuel used will be made into Energy!"
 		""
@@ -832,7 +832,7 @@
 	]
 	quest.079383355D14FBC9.title: "Coke Oven"
 	quest.079A415488A32076.quest_desc: ["Blaze Ember is a new material added by JDT. Blaze Ember is aquired by performing Goo Spread on Primal Coal Blocks using tier two goo or higher. Blaze Ember Ore is affected by fortune."]
-	quest.07B516EEB790F6B4.quest_desc: ["{atm9.quest.start1.desc.usefulseeds}"]
+	quest.07B516EEB790F6B4.quest_desc: ["Right clicking Dirt with these seeds will cause it to turn into Grass/Mycelium. This will spread to surrounding Dirt!"]
 	quest.07BEB974DF1E5AD3.quest_desc: ["Makes Energy at the same rate as an &aEmerald Generator&r but has a much higher Transfer Rate. Also arguably cheaper as it takes less items but that item is also &5Netherite&r so..."]
 	quest.07BEB974DF1E5AD3.title: "&5Netherite Generator"
 	quest.07BEE6FEC14765DC.quest_desc: ["Pretty simple recipe needing Clay, Iron, Slimeballs, and more... \\n\\nLodestones are best to loot for, Mods add these in Loot Pools all over &c&lThe Nether&r so don't craft one just find one! \\n\\nWax is a new Item added by &6&lForbidden \\& Arcanus&r which is a mix of Bottle of Honey and Slimeballs! \\n\\nYou can use it on a &6Darkstone Pedestal&r to get &7Magnetized Pedestals&r which work in hand with Hoppers (and Hopper like Items like Pipes). \\n\\nYou can also use it with Boots to increase how close Items can be to get dragged into your Inventory!"]
@@ -921,7 +921,7 @@
 	quest.08C66BCA3AAE765B.quest_desc: ["This one adds Non-&2&lMinecraft&r Blocks so I'd rather not discuss it."]
 	quest.08C66BCA3AAE765B.title: "&b&lMacaw's Roofs"
 	quest.08C6B7D2DAE87222.quest_subtitle: "Oak + Birch"
-	quest.08C9935CE32E0134.title: "{atm9.quest.start1.cobble2}"
+	quest.08C9935CE32E0134.title: "Cobblestone Generator Mk2"
 	quest.08CE14FFED813992.quest_subtitle: "13 Wet Dark Pink Blocks"
 	quest.08D48D7C2C6EEF54.quest_desc: ["What good is regular Tungsten? Well, since you asked, it is an integral component of many IV Machines, primarily in the form of Tungsten Cables"]
 	quest.08D9C809CF4062E8.quest_desc: ["Eat em raw, roast them, put them on a Stick. \\n\\nWhat can't you do with Underbeans!"]
@@ -1214,9 +1214,9 @@
 	]
 	quest.0BE2E7C9454058C3.title: "&dCherry Veteran Tree"
 	quest.0BFAF1499415DD68.quest_subtitle: "Silver Lime + Cherry"
-	quest.0C031A20062227CD.quest_desc: ["{atm9.quest.start1.desc.flintmesh}"]
-	quest.0C031A20062227CD.quest_subtitle: "{atm9.quest.start1.subt.flintmesh}"
-	quest.0C031A20062227CD.title: "{atm9.quest.start1.flintmesh}"
+	quest.0C031A20062227CD.quest_desc: ["With the Flint Mesh, you'll start getting some actual resources.\\n\\nIf you are wondering what each mesh drops when sieving, you can always hit 'U' in JEI on the mesh to check out the list."]
+	quest.0C031A20062227CD.quest_subtitle: "Our First Upgrade"
+	quest.0C031A20062227CD.title: "Flint Mesh"
 	quest.0C096EE635645E43.quest_desc: ["The Crystal Crossbow is a crafted like a Mechanical Crossbow just with Crystals instead of sticks. \\n\\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
 	quest.0C1D55AA9CC902BD.quest_desc: [
 		"Valid Upgrades:"
@@ -1246,8 +1246,8 @@
 	]
 	quest.0C3B3D7F82A6DB3D.quest_subtitle: "Making use of the Fusion Reactor"
 	quest.0C557A9494F58400.quest_desc: ["Causes the Mana Burst to create flame on the block it hits. This flame provides light and is purely decorative. It can be put out by using another Mana Burst on it."]
-	quest.0C596CB7C7C24615.quest_desc: ["{atm9.quest.enchant.desc.Soul_deep}"]
-	quest.0C596CB7C7C24615.title: "{atm9.quest.enchant.Soul_deep}"
+	quest.0C596CB7C7C24615.quest_desc: ["Like an improved &4Hellshelf&r, the &9Soul Touched Deepshelf&r gives a lot of &cQuanta&r, it does give higher &aEterna&r max to &a37.5&r though! Which means better Enchants!"]
+	quest.0C596CB7C7C24615.title: "&9Soul-Touched Deepshelf"
 	quest.0C6719D81DE5A614.quest_desc: [
 		""
 		"The Forge requires 4 different items to be powered: Aureal, Souls, Blood, and Experience."
@@ -1628,10 +1628,10 @@
 		"This wire is &3superconducting&r, so it does not lose any voltage no matter how far the wire travels"
 	]
 	quest.0F77A9AD1F422537.quest_desc: [
-		"{atm9.quest.enchant.desc.glowing}"
+		"The &4Glowing Hellshelf&r is an upgrade to the &4Infused Hellshelf&r. It also increases the Max &aEterna&r and decent stats for everything else. We can use these for the next step, Infusing &9Dormant Deepshelves&r to &9Deepshelves&r. You'll need &410 Glowing Hellshelves&r and &46 Infused Hellshelves&r to get it."
 		"{image:atm:textures/questpics/apotheosis/enchant_helldeep.png width:150 height:100 align:1}"
 	]
-	quest.0F77A9AD1F422537.title: "{atm9.quest.enchant.glowing}"
+	quest.0F77A9AD1F422537.title: "&4Glowing Hellshelf"
 	quest.0F7BB4ECCA5C082C.quest_desc: [
 		"This is where you will put the &eAlchemical Sulfur&r into it. \\n\\nWhatever Item is in the &eAlchemical Sulfur&r will be turned back into that Item from Incubation!"
 		"{image:atm:textures/questpics/theurgy/theurgy_vessel_3.png width:100 height:125 align:center}"
@@ -1665,8 +1665,8 @@
 	quest.0FAF274ADA65B26A.quest_desc: ["Portal Fluid is a mysterious green fluid vital in the opertaion of the Advanced Portal Gun.\\n\\nDropping Portal Fluid Catalyst into Polymorphic Fluid will create Unstable Portal Fluid BUT Unstable Portal Fluid can only exist in the End. Performing Goo Spread with Tier Three goo or higher will convert Unstable Portal Fluid into Portal Fluid."]
 	quest.0FB1FC640471363A.quest_subtitle: "Lapis + Emerald"
 	quest.0FB1FC640471363A.title: "Experience Bee"
-	quest.0FBA19D5579B1FDD.quest_desc: ["{atm9.quest.start1.desc.dank}"]
-	quest.0FBA19D5579B1FDD.quest_subtitle: "{atm9.quest.start1.subt.dank}"
+	quest.0FBA19D5579B1FDD.quest_desc: ["The Dank is like a mini Shulker Box, and it can automatically store certain types of items in it.\\n\\nSieving drops lots of annoying Pebbles, but have no fear! You can store over a thousand of them in the first-tier Dank! Right click to open up the dank GUI, place the Pebbles inside it, and click the 'P' at the top to set it to Filtered Pickup. This will now pick up all of the Pebbles and stop them from cluttering your inventory!"]
+	quest.0FBA19D5579B1FDD.quest_subtitle: "Store those pebbles"
 	quest.0FD26FD88E801C0E.quest_desc: ["You can make a large number of vanilla mobs with the &2Altar of Birthing&r. &dSpirits of Birthing&r are made by breeding animals in areas with large amounts of aura. "]
 	quest.0FD26FD88E801C0E.quest_subtitle: "Makin' Babies with Magic"
 	quest.0FD26FD88E801C0E.title: "&2Altar of Birthing"
@@ -1691,8 +1691,8 @@
 	quest.100ACB5C8A359BF0.title: "Lapis Bee"
 	quest.100ADA8508F6502A.quest_desc: ["A Glass Lens (Red) can also make this, but making glass lenses is an HV recipe"]
 	quest.10162AD188CB3327.quest_subtitle: "Plum + Red Delicious Apple"
-	quest.101695B8290C87FD.quest_desc: ["{atm9.quest.start1.desc.shears}"]
-	quest.101695B8290C87FD.title: "{atm9.quest.start1.shears}"
+	quest.101695B8290C87FD.quest_desc: ["Shears, no iron required. Use this to collect leaves from your trees."]
+	quest.101695B8290C87FD.title: "Flint Shears, cheaper than Iron!"
 	quest.103834774B57D611.quest_desc: ["The Mini End Portal will need quite a few &dEndshelves&r. These are the last tiers of Shelves you'll get from &5&lApotheosis&r. You'll need &dInfused Dragon's Breath&r to craft them. \\n\\nAfter that you'll just need Eyes of Ender which you'll need to have made them in order to actually get the &dEndshelves&r. \\n\\nIf you somehow got to &d&lThe End&r and got the Shelves without Eyes of Ender then I'm impressed!"]
 	quest.104049993CC62E7F.quest_desc: ["The Advanced Item Loader is everything the regular one is but can be used from anywhere near the &6Track&r. Next to, above, next to on the other side. Use the &4Crowbar&r to change its direction."]
 	quest.104049993CC62E7F.title: "Advanced Item Loader"
@@ -1717,8 +1717,8 @@
 	quest.106884349C9FF3BA.title: "&l&bChipped&r Lights"
 	quest.1069244EB72F64CA.quest_desc: ["Takes more Energy with the Energy Modules!"]
 	quest.106A3D79B1CDE895.title: "Netherack 6X"
-	quest.107E5C51A7827241.quest_desc: ["{atm9.quest.start1.desc.crucible}"]
-	quest.107E5C51A7827241.title: "{atm9.quest.start1.crucible}"
+	quest.107E5C51A7827241.quest_desc: ["I mean, it's a skyblock. No matter how many different power generation methods we try to show you in these quests, you will ultimately end up with 20 of these in your base...\\n\\nThese convert cobblestone and other stone types into lava when a heat source is placed underneath it. You can use a torch to start with, even though it is slow."]
+	quest.107E5C51A7827241.title: "All Fired Up"
 	quest.109310AF19AAC482.quest_desc: ["The &4Flamethrower&r is one of the Ranged Weapons &5&lMekanism&r offers. \\n\\nLike the &cJetpack&r it uses Hydrogen as Fuel and is loaded just the same way as the &cJetpack&r. \\n\\nWe can press (N) to change its modes. \\n\\n&eCombat&r: will set Mobs on &6Fire&r and do Damage, but won't Burn Blocks or Items. \\n&6Heat&r: from what I can tell can only do the same. \\n\\n&4Inferno&r: Burns everything!"]
 	quest.109310AF19AAC482.title: "&4Flamethrower"
 	quest.109AD73F016D576B.quest_desc: ["Using the vanilla method, go ahead and make yourself a &9Beehive&r to have your own little setup!\\n\\nThese can hold 3 Bees each, but we won't be using it for long...\\n\\nBees will only create Honey and Honeycombs if they have the right flowers. Vanilla bees can use any flower, but most bees in the mod will require a specific block! Make sure to check JEI for more info."]
@@ -1734,8 +1734,8 @@
 	]
 	quest.10AB188AC6FB24D3.title: "Starlight Golem"
 	quest.10B71AD29063471F.title: "Iron stone generator"
-	quest.10C527C66EE4E95A.quest_desc: ["{atm9.quest.enchant.desc.Soul_sculk}"]
-	quest.10C527C66EE4E95A.title: "{atm9.quest.enchant.Soul_sculk}"
+	quest.10C527C66EE4E95A.quest_desc: ["Suprisingly you don't need infusion for these! You just need to kill the most powerful boss in vanilla Minecraft! The &9Skulk shelves&r increase &aEterna&r to &a40&r which will allow us to Infuse the next item."]
+	quest.10C527C66EE4E95A.title: "&9Soul-Touched Sculkshelf"
 	quest.10DF2125B647379E.quest_desc: ["I promise, this is not something you want to touch or get on your skin..."]
 	quest.10DF2125B647379E.quest_subtitle: "Do Not Touch!"
 	quest.10E8BC20D406D9FB.quest_subtitle: "Makes various Nether Materials"
@@ -1795,9 +1795,9 @@
 	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils required"
 	quest.11B1FB0AB2677902.quest_subtitle: "Balsa + Silver Lime"
 	quest.11B8C5F88DCB3BF5.title: "What Happens Next?"
-	quest.11BF05E2F93CC987.quest_desc: ["{atm9.quest.start1.desc.hammersss}"]
-	quest.11BF05E2F93CC987.quest_subtitle: "{atm9.quest.start1.subt.hammersss}"
-	quest.11BF05E2F93CC987.title: "{atm9.quest.start1.hammersss}"
+	quest.11BF05E2F93CC987.quest_desc: ["A faster way of hammering for Gravel or Sand is by hammering compressed blocks. Normal hammers won't work though, so you'll need a Compressed Hammer!"]
+	quest.11BF05E2F93CC987.quest_subtitle: "Compressed hammering is still a thing!"
+	quest.11BF05E2F93CC987.title: "Hammering Compressed Items"
 	quest.11C0233861D3DD0C.quest_desc: [
 		"The first thing we need to make is &aCreosote Oil&r! "
 		""
@@ -2294,12 +2294,12 @@
 	quest.1658780534451E39.title: "Start a Farm"
 	quest.1659A59303C15CC9.quest_desc: ["Barrels work the same as Chests only they can't be combined together into 1. They look cool though."]
 	quest.16665A8A7D1AB887.quest_desc: [
-		"{atm9.quest.start1.desc.ready}"
+		"You are about to be sieving a lot of blocks. Use Ultimine for fast mining with a hammer and perhaps get an autoclicker ready!\\n\\nYou can set up multiple sieves like this to sieve up to 25 blocks at once."
 		""
 		"{image:atm:textures/questpics/9sieve.png width:220 height:200 align:1}"
 	]
-	quest.16665A8A7D1AB887.quest_subtitle: "{atm9.quest.start1.subt.ready}"
-	quest.16665A8A7D1AB887.title: "{atm9.quest.start1.ready}"
+	quest.16665A8A7D1AB887.quest_subtitle: "A lot of sieving incoming"
+	quest.16665A8A7D1AB887.title: "Get ready..."
 	quest.166971866A9234C7.quest_desc: ["One of the 3 most important Infused Items is the &cInfused Alloy&r. \\n\\nTo make it we'll need to Infuse a &6Copper Ingot&r with 10mB of &4Redstone&r. \\n\\nHow do we get 10mB of &4Redstone&r you ask? By placing a &4Redstone Item&r into the &eYellow Square&r of the &9&lMetallurgic Infuser&r! \\n\\nWe'll lose the &4Redstone Item&r and different &4Items&r give different amounts. &4Redstone Dust&r gives 10mB, &4Enriched Redstone&r gives 80mB, and a &4Block of Redstone&r gives 90mB."]
 	quest.166971866A9234C7.quest_subtitle: "The Basic Alloy for Crafting Items"
 	quest.166971866A9234C7.title: "&cInfused Alloy"
@@ -2462,8 +2462,8 @@
 		"&lAbility Function:&r"
 		"Highlights nearby mobs with particals when activated."
 	]
-	quest.17CA527616CBE427.quest_desc: ["{atm9.quest.start1.desc.drops}"]
-	quest.17CA527616CBE427.title: "{atm9.quest.start1.diamondmesh}"
+	quest.17CA527616CBE427.quest_desc: ["Sometimes, lower tier meshes drop certain loot more than higher tier meshes! Make sure to check drop rates in JEI."]
+	quest.17CA527616CBE427.title: "Diamond Mesh"
 	quest.17CA9D80D8EC3EF7.quest_desc: [
 		"&4&lThe Harbinger&r takes a lot of inspiration from what powers him, the Nether Star. \\n\\nHe has 15,600 &4Hearts&r and will attack every Mob and Player he sees that doesn't spawn in the &4Ancient Factory&r. \\n\\nHe will fly around and even charge at you. Like &0The Wither&r, &l&4The Harbringer&r will break almost every Block in its path. \\n\\nTo attack he can shoot &4Wither Missiles&r at you which can give you &0Wither Effect&r or shoot &4Wither Howitzers&r from his back which will shoot off in every direction. \\n\\nHe also has &4Lasers&r he can shoot you with, &4Laser Gatlings&r, and a &4big mouth beam&r. \\n\\nHe has a big weakness, like the other living machines, he is weak to the &4EMPs&r! If you use them on him, he will be stun locked, unable to move or fight for a few seconds."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_harbinger.png width:100 height:100 align:center}"
@@ -2477,10 +2477,10 @@
 	quest.17E2C05C48B03043.quest_desc: ["Sodium can be used as a &bCoolant&r instead of &9Water&r. Sodium is more Efficient, gets higher &6Temperatures&r, but is harder to get and reuse. \\n\\nNow how do we get it? \\n\\nWe'll need a &6&lThermal Evaporation Plant&r. I've made like 3 Quests explaining how to Build and use them, this won't be the 4th. \\n\\nWe'll use the &6&lThermal Evaporation Plant&r to take our &9Water&r and make &eBrine&r. \\n\\nThen, we can use an &9&lElectrolytic Separator&r to demolish that &eBrine&r to get our Sodium! \\n\\nAnd another &cChemical&r but we don't care about it!"]
 	quest.17E2C05C48B03043.title: "Sodium &bCoolant"
 	quest.17E71AAD6C1D3877.quest_desc: [
-		"{atm9.quest.start1.desc.crook}"
+		"Crooks will give you a much better chance of getting saplings and apples from leaves, but is also how to get silkworms. You will need these to get string for further progression."
 		""
 	]
-	quest.17E71AAD6C1D3877.title: "{atm9.quest.start1.crook}"
+	quest.17E71AAD6C1D3877.title: "Is that crooked, or are my eyes funny?"
 	quest.17EC65B33AC5F0B4.quest_desc: [
 		"Thirst Walkers are neutral Mobs that spawn on the surface of the Crystallized Deserts. \\n\\nWhen aggro-ed they will hit you and give you Hunger. \\n\\nThey have 20 Hearts and can drop Tooth of Hunger on death."
 		"{image:atm:textures/questpics/eternal/starlight_thirst.png width:100 height:125 align:center}"
@@ -2577,7 +2577,7 @@
 	quest.18A2FBE2D4133FA2.title: "Arcane Pedestals"
 	quest.18A9392BBCF5A871.quest_desc: ["Like every Machine Mod, &8&lImmersive Engineering&r needs a way of moving &eItems&r, &bFluids&r, and more! \\n\\nMost Machines will have default set &6Outputs&r and &9Inputs&r but these can be configured, like with the &6Engineer's Screwdriver&r! You also might need to use an &6Engineer's Hammer&r but that's different."]
 	quest.18A9392BBCF5A871.title: "&8&lImmersive Engineering&r Logistics"
-	quest.18C6AC6D55CDDAB9.quest_desc: ["{atm9.quest.start1.desc.ma}"]
+	quest.18C6AC6D55CDDAB9.quest_desc: ["&aMystical Agriculture&r is an easy way to get a ton of resources and loot, without even needing power! Go check it out."]
 	quest.18D4BE3AF7869DE2.quest_subtitle: "Ceylon Ebony + Persimmon"
 	quest.18DB8C875F2331B2.quest_desc: ["Are Rockets just too expensive? You can use an &7Elytra Booster&r instead of Rockets. Wear both Elytra and &7Elytra Booster&r, then Fuel the Booster. It accepts any Furnace Fuel: Coal, Lava, Logs, even Dried Kelp Blocks. Then when flying with an Elytra, Left Alt to press Accelerate! Now you're flying with much cheaper Eco-Friendly Fuel!"]
 	quest.18DB8C875F2331B2.quest_subtitle: "Found in End Cities and End Ships"
@@ -2748,8 +2748,8 @@
 	]
 	quest.1A6A383B4EF26B20.quest_desc: ["The &4&lMining Drill&r doesn't have many choices, we have an &7Iron Drill Head&r or a &8Steel Drill Head&r. \\n\\n&7Iron Drill Heads&r Mine in a 2x2 Area at the Tier of an &7Iron Pickaxe&r. It also does 6 Damage and has less Durability than the... \\n\\n&8Steel Drill Heads&r Mine in a 3x3 Area at the same Tier of a &bDiamond Pickaxe&r. These do 7 Damage and have more Durability!"]
 	quest.1A6A383B4EF26B20.title: "&8Drill Heads"
-	quest.1A6E4AD2392509A5.quest_desc: ["{atm9.quest.start1.desc.slime}"]
-	quest.1A6E4AD2392509A5.title: "{atm9.quest.start1.slime}"
+	quest.1A6E4AD2392509A5.quest_desc: ["This one has been changed, the recipe is now adding Milk to Water in a barrel."]
+	quest.1A6E4AD2392509A5.title: "Slime"
 	quest.1A73520CB284217F.quest_desc: [
 		"Finally, the last of the Advanced SMD Components"
 		""
@@ -2948,19 +2948,19 @@
 		""
 		"This will give you beryllium and is also a very good source of silicon!"
 	]
-	quest.1CE06A8238A97973.quest_desc: ["{atm9.quest.start1.desc.bone}"]
-	quest.1CE06A8238A97973.quest_subtitle: "{atm9.quest.start1.subt.bone}"
-	quest.1CE06A8238A97973.title: "{atm9.quest.start1.bones}"
+	quest.1CE06A8238A97973.quest_desc: ["Throw dust in a sieve to get some bone meal."]
+	quest.1CE06A8238A97973.quest_subtitle: "For porcelain clay"
+	quest.1CE06A8238A97973.title: "Bone Meal"
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oThe unknown but yet it is everything we do know."
 	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
-	quest.1CF3EC530E320902.quest_desc: ["{atm9.quest.start1.desc.lava}"]
-	quest.1CF3EC530E320902.quest_subtitle: "{atm9.quest.start1.subt.lava}"
-	quest.1CF3EC530E320902.title: "{atm9.quest.start1.lava}"
+	quest.1CF3EC530E320902.quest_desc: ["Add Cobblestone to a Crucible, heat source underneath, and you get \"free\" lava!\\n\\nConnect a Hopper to the Crucible to pump in Cobblestone automatically. A Crucible can hold up to 4 buckets of lava."]
+	quest.1CF3EC530E320902.quest_subtitle: "Just add cobble"
+	quest.1CF3EC530E320902.title: "Infinite Lava"
 	quest.1CF8263756EE8F2A.quest_desc: ["This special &eDust&r is dropped from the Wither and the Ender Dragon when killed by an &dEssence Weapon&r enchanted with &dMystical Enlightenment&r."]
 	quest.1CF8263756EE8F2A.title: "&5Cognizant Dust&r"
-	quest.1D06097B6206BA60.quest_desc: ["{atm9.quest.enchant.desc.infusion}"]
-	quest.1D06097B6206BA60.title: "{atm9.quest.enchant.infusion}"
+	quest.1D06097B6206BA60.quest_desc: ["Infusion is a special version of Enchanting which ironically is used for better enchantments. When the right amount of &aEterna&r, &cQuanta&r, and &5Arcana&r is reached the enchantments will offer Infusion. (To know the Levels needed you can check JEI or follow these Quests)."]
+	quest.1D06097B6206BA60.title: "&lInfusion Enchanting"
 	quest.1D0B60026346A844.quest_desc: ["Mixing Iridium and Osmium together will get you this Ingot! We have quite a few uses for this new resource. Having a bunch on standby may prove useful!"]
 	quest.1D0B60026346A844.quest_subtitle: "Making Osmium OP"
 	quest.1D1ABA9BD978E8A1.quest_subtitle: "Citron + Wild Cherry"
@@ -3215,8 +3215,8 @@
 	quest.1FEB1ECDDDD8AD0E.quest_subtitle: "All"
 	quest.1FF5906DF721D091.quest_desc: ["The &2Hyrda&r drops &cFiery Blood&r that can be used to craft &cFiery Armor&r.\\n\\nWhen wearing the full set, enemies that attack you will be set on fire for 10 seconds."]
 	quest.1FF5906DF721D091.title: "&cFiery Armor"
-	quest.1FF912225252DF9C.quest_desc: ["{atm9.quest.start1.desc.clay}"]
-	quest.1FF912225252DF9C.title: "{atm9.quest.start1.clay}"
+	quest.1FF912225252DF9C.quest_desc: ["Fill a barrel with water and right-click it with Dust to get Clay."]
+	quest.1FF912225252DF9C.title: "Clay"
 	quest.1FFA1DA6A5EA4E70.quest_desc: [
 		"Valid Upgrades:"
 		"- Step Assist"
@@ -3920,7 +3920,7 @@
 	quest.25DBFE887B041E94.quest_subtitle: "The basics"
 	quest.25DBFE887B041E94.title: "Ore Processing"
 	quest.25E267AAAD4B992B.quest_desc: ["Throw dust in a sieve to get some bone meal."]
-	quest.25E267AAAD4B992B.title: "{atm9.quest.start1.bones}"
+	quest.25E267AAAD4B992B.title: "Bone Meal"
 	quest.25E782DB4309A1B8.quest_desc: ["Aurora Deer Antlers are dropped by Aurora Deers on death. \\n\\nIt can be used as a Sword or a Hoe."]
 	quest.25E915AE1FC53254.quest_desc: ["Celestigem Templetes are used to upgrade Blazegold armor and tools to Celestigem while retaining enchantments and installed upgrades."]
 	quest.25EFC21A3C48E0B6.title: "Tier: &2Spirited"
@@ -5900,8 +5900,8 @@
 		""
 		"Provides the player with an Elytra, note the Elytra provided by this upgrade is affected by the Walk and Run Speed upgrades."
 	]
-	quest.3A478C8399A155DB.quest_desc: ["{atm9.quest.start1.desc.drawer}"]
-	quest.3A478C8399A155DB.quest_subtitle: "{atm9.quest.start1.subt.drawer}"
+	quest.3A478C8399A155DB.quest_desc: ["Place this thing on top of your Cobble Gen and it'll automatically compress everything it recieves, left click to extract!\\n\\n&lRight click it with an item before trying to pipe into it!"]
+	quest.3A478C8399A155DB.quest_subtitle: "You need this"
 	quest.3A4A8EAA3022C7BA.quest_desc: ["Water Wheels are one of the Machines we can use for the Kinetic Dynamo. \\n\\nThese are much more compact but also expensive, compared to the Windmill. \\n\\nTo use them you'll need &9Water&r flowing over the Waterwheel. The more &9Water&r around it, the faster it'll go. Just make sure the &9Water&r isn't flowing in 2 different ways! \\n\\nBeing more compact means we can place 3 Waterwheels on 1 Kinetic Dynamo to get even more Energy."]
 	quest.3A4B5A9B432576AD.title: "&cAwakened Watering&r"
 	quest.3A4C17878FC8315B.quest_desc: ["The &6Allthemodium Furnace&r is pretty much the same as the Netherite Furnace. You will need this to craft the &3Vibranium Furnace&r."]
@@ -8796,7 +8796,7 @@
 		"{image:atm:textures/questpics/logistics/pipez_energy.png width:200 height:50 align:center}"
 	]
 	quest.53EC96FA0E7C4ED4.title: "&cEnergy Pipez"
-	quest.53F7B1EE005A696C.quest_desc: ["{atm9.quest.start1.desc.clay}"]
+	quest.53F7B1EE005A696C.quest_desc: ["Fill a barrel with water and right-click it with Dust to get Clay."]
 	quest.53F7B1EE005A696C.title: "Clay"
 	quest.53F861876B991C36.quest_desc: ["Adds a Jukebox GUI to the Backpack."]
 	quest.53F861876B991C36.quest_subtitle: "Now we're jammin"
@@ -9521,8 +9521,8 @@
 	quest.5B2FD54E425D5C9D.title: "&dVoid &cForge"
 	quest.5B36DE3826F26963.quest_desc: ["&dRotational Power&r is the most important and confusing part of &6&lCreate&r. \\n\\nAll Machines will need some sort of &dRotational Power&r to work, but what is it and how do we use it? \\n\\n&dRotational Power&r is simply our Machines moving. Blocks like Shafts and Cogs will move that &dRotational Power&r to our Machines. \\n\\nTalking about Shafts, that is our start to &dRotational Power&r. They can be placed in a straight line, next to each other. \\n\\nWhen one &8Shaft&r is moved, all &8Shafts&r connected to it (on the same axis) will move with it. \\n\\nCraft 2 &8Andesite Alloys&r to create 8 &8Shafts&r."]
 	quest.5B36DE3826F26963.title: "&d&lRotational Power"
-	quest.5B3CC3F66F2C3DE5.quest_desc: ["{atm9.quest.enchant.desc.seashelf}"]
-	quest.5B3CC3F66F2C3DE5.title: "{atm9.quest.enchant.seashelf}"
+	quest.5B3CC3F66F2C3DE5.quest_desc: ["Find the Nether too warm and deadly? Maybe the Seashelf path is better for you, you can use Seashelves as a path to Perfect Enchanting rather than Hellshelves. &bSeashelves&r are your introduction to &5Arcana&r, they give &52%% Arcana&r and &a1.5 Eterna&r. Better than normal shelves right? You're going to need 15 for the next step, just craft 10 I'll give you 5 extra!"]
+	quest.5B3CC3F66F2C3DE5.title: "&bSeashelves"
 	quest.5B4397D4EC23E702.quest_desc: [
 		"The perfect place for all &6B&8e&6e&r Warriors! \\n\\nHere you can grab a Stinger Spear and enchants for it!"
 		"{image:atm:textures/questpics/bumblezone/bumble_stingy.png width:200 height:100 align:center}"
@@ -9584,7 +9584,7 @@
 	]
 	quest.5BC4250E4C9F803C.title: "&9Imperium Farmland"
 	quest.5BCA3F716348ECCD.quest_desc: ["The &9Energy Hopper&r will charge any chargeable item inside of the inventory of the block it is pointed to, like a chest."]
-	quest.5BCC05F44FB90FB4.quest_desc: ["{atm9.quest.start1.desc.stonebarrel}"]
+	quest.5BCC05F44FB90FB4.quest_desc: ["The Stone Barrel can hold Lava, unlike the wooden ones. With this, you can make Blackstone and whatnot."]
 	quest.5BD5737703F3F077.quest_desc: ["Ferricore is a new material added by JDT. Ferricore is aquired by performing Goo Spread on Iron Blocks using tier one goo or higher. Ferricore Ore is affected by fortune."]
 	quest.5BD5737703F3F077.title: "Ferricore"
 	quest.5BDBE666E604FCAC.quest_desc: [
@@ -9643,8 +9643,8 @@
 	quest.5C47935A3B2877FF.title: "&9Mekanism: &aUniversal Cables"
 	quest.5C5546A5103BCF55.quest_desc: ["This one is supposed to shoot Chemicals like &bFluids&r or Gases... but it won't do it for me. \\n\\nIt can hold 2 Upgrades atleast! Those work!"]
 	quest.5C5546A5103BCF55.title: "&b&lChemical Thrower"
-	quest.5C56452BE7879D0A.quest_desc: ["{atm9.quest.enchant.desc.negative}"]
-	quest.5C56452BE7879D0A.title: "{atm9.quest.enchant.negative}"
+	quest.5C56452BE7879D0A.quest_desc: ["Some infusions need very very exact amounts of &aEterna&r, &cQuanta&r, or &5Arcana&r to get these you might need one of these shelves. Each lowers the amount of its respective mystic value."]
+	quest.5C56452BE7879D0A.title: "Negative amounts"
 	quest.5C590DB2F3D935E5.quest_desc: ["The Seed Reprocessor can convert essence seeds back into essences."]
 	quest.5C590DB2F3D935E5.quest_subtitle: "Recycling!"
 	quest.5C6709350BEF4050.quest_desc: [
@@ -10051,17 +10051,17 @@
 	]
 	quest.5FD3C68D5F218D02.title: "&dBotania&r"
 	quest.5FD4F40CEC37D9FD.quest_desc: [
-		"{atm9.quest.enchant.desc.alexandria}"
+		"The Library of Alexandria is a better Enchantment Library. It can hold more, that's it. you need to Infuse a Enchantment Library. It needs exactly &a50 Eterna&r, between &c45%%-50%% Quanta&r, and &5100%% Arcana&r. This can be done with &97 Echoing Deepshelves&r, &92 Soul-Touched Deepshelves&r, and &d3 Draconic Shelves&r."
 		"{image:atm:textures/questpics/apotheosis/enchant_library.png width:150 height:100 align:1}"
 	]
-	quest.5FD4F40CEC37D9FD.title: "{atm9.quest.enchant.alexandria}"
+	quest.5FD4F40CEC37D9FD.title: "Library of Alexandria"
 	quest.5FD4FB9D24586B9B.quest_desc: ["I wonder what you need to do to get a &9Lightning Staff&r? \\n\\nCould it be getting struck by &9Lightning&r while holding the Strengthened Stick?\\n\\nI think so! \\n\\nOnce you have &9&lEmrys&r hold it in your off hand and hold Right Click, the results will be SHOCKING!"]
 	quest.5FD4FB9D24586B9B.title: "&9&lEmrys"
 	quest.5FD6A738754F6013.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.5FD88ED4937971D7.quest_subtitle: "Tuscarora Crepe Myrtle + Luck"
 	quest.5FD88ED4937971D7.title: "Moonlight Magic Crepe Myrtle Sapling"
-	quest.5FD95ABA63C56BD5.quest_desc: ["{atm9.quest.enchant.desc.heart-forged}"]
-	quest.5FD95ABA63C56BD5.title: "{atm9.quest.enchant.heart-forged}"
+	quest.5FD95ABA63C56BD5.quest_desc: ["These little Hearts of the Sea are very important for Minecraft, it's mods, and of course Apotheosis. You can craft them with Mystical Agriculture or Mekanism. Or the normal Minecraft way of killing Elder Guardians! Wait, sorry, I forgot the sky doesn't have Oceans to spawn Elder Guardians... Thankfully our friend Occultism can help us with that! You can Conjure an Elder Guardian with a ritual, check JEI!"]
+	quest.5FD95ABA63C56BD5.title: "&bHearts of the Books"
 	quest.5FDEAA78891874FD.quest_desc: ["This machine charges the items placed inside."]
 	quest.5FDEAA78891874FD.quest_subtitle: "Charges Items"
 	quest.5FE4DAE8F41B1437.quest_desc: ["The &cOre Magnet&r that can pull up anything with Ore in name, except Coal.\\n\\nThis can be found in &2Hollow Hill&r chests."]
@@ -10107,8 +10107,8 @@
 	quest.604F2B68B27885BF.quest_desc: ["There are a lot of different foods you can make from the &9Twilight Forest&r!\\n\\nTry them all!"]
 	quest.604F2B68B27885BF.title: "Fancy Noms"
 	quest.6063F4B7BE4D394C.quest_desc: ["The Sender Modules will move Items in the Router's Buffer Slot into another Inventory. \\n\\nMK1 will only move items into Inventories on the same XYZ axis as the Router and with direct line of sight. If there is a block in the way, the MK1 Sender will not send."]
-	quest.606780E5B8CF83BE.quest_desc: ["{atm9.quest.enchant.desc.echo_sculk}"]
-	quest.606780E5B8CF83BE.title: "{atm9.quest.enchant.echo_sculk}"
+	quest.606780E5B8CF83BE.quest_desc: ["You might need to kill a few Wardens for these, but that's okay, Apotheosis makes it easier! This shelf is mostly for &5Arcana&r but it's a good source for all quantities. It will be needed for next Infusion."]
+	quest.606780E5B8CF83BE.title: "&9Echoing Sculkshelf"
 	quest.60736D37F7705B39.quest_desc: [
 		"That is one hot ingot! Cool it off in your &aVacuum Freezer&r"
 		""
@@ -10248,8 +10248,8 @@
 	quest.61BC5BBD1657D409.quest_desc: ["Optimize your Naq line, as your going to need quite a bit of Naquadah Plates for your ZPM Machine Hulls"]
 	quest.61BC5BBD1657D409.quest_subtitle: "Naq Plates for Days"
 	quest.61BE7882EE0E6FAF.quest_desc: ["What rolls down stairs \\nAlone or in pairs... \\nRolls over your neighbor's dog \\nWhat's great for a snack \\nAnd fits on your back? \\nIt's Log! Log! Log!"]
-	quest.61C14AED15DE8C3C.quest_desc: ["{atm9.quest.start1.desc.dirt}"]
-	quest.61C14AED15DE8C3C.quest_subtitle: "{atm9.quest.start1.subt.dirt}"
+	quest.61C14AED15DE8C3C.quest_desc: ["You can make more Dirt using Gravel and Dirt to make Coarse Dirt, then tilling it with &ba hoe&r to make Farmland. Mine that farmland and get &edouble the Dirt&r you started with (by sacrificing Gravel)."]
+	quest.61C14AED15DE8C3C.quest_subtitle: "Infinite dirt!"
 	quest.61C49BC2B384FB80.quest_desc: ["Once you've gathered enough Ender Pearls and Blaze Powders, you can make your way to the End Portal in the Overworld.\\n\\nTo do this, craft some &dEyes of Ender&r and right click to throw them in the sky. These will point in the direction of the closest End Portal.\\n\\nMake your way to the Stronghold, find the End Portal, and complete the frame using the Eyes of Ender to create the portal to &dThe End&r."]
 	quest.61C49BC2B384FB80.title: "&aFinding &dThe End"
 	quest.61C93ABE07742DCD.quest_desc: [
@@ -10301,8 +10301,8 @@
 	quest.623E6A855B363C8D.quest_desc: ["The &9Water Block&r acts as Water without the whole moving part.\\n\\nCobble Gens can be made with them, Farmland can be watered with it, you just can't MLG clutch with it. (Fish will also try to get into it but will still die)."]
 	quest.623E6A855B363C8D.quest_subtitle: "Water but Solid, Ice?"
 	quest.623E6A855B363C8D.title: "&9Water Block"
-	quest.6244032FE2E5F1E1.quest_desc: ["{atm9.quest.enchant.desc.draconic}"]
-	quest.6244032FE2E5F1E1.title: "{atm9.quest.enchant.draconic}"
+	quest.6244032FE2E5F1E1.quest_desc: ["The &dDraconic Shelf&r is the last Shelf we'll need for perfect set up. It might only give &aEterna&r but it has the Max Max &aEterna&r of &a50&r."]
+	quest.6244032FE2E5F1E1.title: "&dDraconic Endshelf"
 	quest.6255E2FE6DD4084A.quest_subtitle: "Holly + Alder"
 	quest.6258F26293B9C1C1.quest_desc: ["What does &9&lCrystalix&r give us you ask? \\nIt gives Glass! All different types of Glass! There is Normal, Clear, and Bordered. \\n\\nBordered is the normal &2&lMinecraft&r Glass pattern. It has borders and pixels near corner to let you know it is Glass. Clear has the borders but no pixels near the corners, so the inside is all clear. Normal has no borders or pixels, it is entirely 100% clear and one color. \\n\\nEach &9&lCrystalix&r Glass has its own properties as well: Shadeless, Reinforced, Light, and Ghost. \\n\\nShadeless will affect how it reacts to Shaders and even &2&lMinecraft&r lighting. Reinforced will affect Blast Resistance. Light will affect whether it gives Light, ignores Light, or acts like normal Glass, letting Light in. Ghost will be able to change who can walk through the Glass, this one has the most settings."]
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
@@ -10338,8 +10338,8 @@
 	quest.62827AA1AD29A222.quest_desc: ["&aUniversal Cables&r are used to move &aEnergy&r from &5Machine &fto &5Machine&r! \\n\\nMost &5Machines&r will have a default &aEnergy&r taking Side notified by the &aGreen Square&r on them. These can be changed within the GUI of the &5Machine&r in Side Configs. \\n\\n&5Machines&r will also share the &aEnergy&r they have in them with other &5Machines&r next to them, if their Configs are set to it!\\n\\n&aUniversal Cables&r are made with 2 &8Steel Ingots&r and a &4Redstone Dust&r. They can be upgraded by combining 8 of the same Tier with a &aControl Circuit&r! \\n\\n&a&lBasic&r: will hold and move 3.2kFE per Tick. \\n\\n&c&lAdvanced&r: will hold and move 51.2kFE per Tick. \\n\\n&b&lElite&r: will hold and move 409.6kFE per Tick. \\n\\n&d&lUltimate&r: will hold and move 3.27mFE per Tick."]
 	quest.62827AA1AD29A222.title: "&aUniversal Cables"
 	quest.62991D7431A48F6D.quest_subtitle: "Banana + Kapok"
-	quest.629B63C16A4A8808.quest_subtitle: "{atm9.quest.start1.subt.water}"
-	quest.629B63C16A4A8808.title: "{atm9.quest.start1.water}"
+	quest.629B63C16A4A8808.quest_subtitle: "Now you have infinite"
+	quest.629B63C16A4A8808.title: "Making Water?"
 	quest.629DC8DED0F6B578.quest_desc: ["Distilling biomass results in ethanol, which is alcohol, but don't tell anyone I told you"]
 	quest.629DC8DED0F6B578.quest_subtitle: "Not for drinking"
 	quest.62A262A706CFCAF0.quest_desc: ["We won't be creating Dark Power Gems using pools of blood anymore.\\n\\nInstead, we can make the &9Blood Infuser&r to do all of the messy work for us. This allows you to directly infuse items with blood!\\n\\nThese can be upgraded using &6Promises&r as well. This is one of the main machines used for progression!"]
@@ -10589,8 +10589,8 @@
 	quest.64E85274D24FE394.title: "Storage Monitor"
 	quest.64EC182B81BD8B86.quest_desc: ["To progress, we'll need to create our first &5Dark Power Gem&r.\\n\\nTo do this, you'll need to collect at least 5 buckets worth of blood in your &aBlood Extractor&r. Once collected, make a hole with at least 5 blocks of space, and then fill it with the blood.\\n\\nOnce you've created your pool of blood, toss in a &9Dark Gem&r to infuse it."]
 	quest.64EC182B81BD8B86.title: "&dInfusing Gems with&r &cBlood"
-	quest.64F44FFC11950111.quest_desc: ["{atm9.quest.start1.desc.stone}"]
-	quest.64F44FFC11950111.title: "{atm9.quest.start1.stone}"
+	quest.64F44FFC11950111.quest_desc: ["Just like other skyblocks, you can get pebbles from shift-right-clicking grass, but here it works a little differently.\\n\\nYou have a 50%% chance for cobblestone pebbles, and a 50%% chance to get any of the other pebble variants."]
+	quest.64F44FFC11950111.title: "Kick Rocks"
 	quest.64FEF31955CB158D.quest_desc: ["Hit &dFlowers&r with &ePollen Puffs&r to spawn 8 more &dFlowers&r."]
 	quest.64FF7118E29931C0.quest_desc: ["Before we get into the many &eItems&r we can get from the &6Millstone&r, let's talk about how to use it! \\n\\nFirst, it will need some &dRotational Power&r, don't worry it only needs a little. \\n\\nThen, you'll need to Drop the &eItem&r you want &6Milled&r, into the top of the &6Millstone&r. After it gets &6Milled&r, just Right Click the &6Millstone&r to take out your &eItems&r. \\n\\nNow, what &eItems&r can we get from the &6Millstone&r? We can get Dyes from pretty much every Flower, we can crush &7Stone&r into Gravel or other &7Stone&r like Blocks into similar Gravel Items. You can even get Wheat Flour from Wheat!"]
 	quest.64FF7118E29931C0.title: "&6Millstone"
@@ -11809,9 +11809,9 @@
 	quest.70494167486FB2BF.quest_desc: ["The UV Emitter is one part of 2 very important blocks. We will go over these blocks later."]
 	quest.70494167486FB2BF.quest_subtitle: "Part 1 of 2"
 	quest.7060290E107D92AB.quest_desc: ["A lot of things will need &cEnergy&r, including some &eItems&r that can't be placed down, like the &5&lRailgun&r! So how do we charge them? \\n\\nThe Charging Station is our man for that job! \\n\\nSimply &6Input &cEnergy&r from either the Back or Bottom, and it will be ready to charge any &eItem&r put within it! \\n\\nThis includes &5&lRailguns&r, &cAccumulators&r, and stuff from other Mods! It can't charge Blocks near it though..."]
-	quest.70700DCDEB30D5A1.quest_desc: ["{atm9.quest.start1.desc.part2}"]
-	quest.70700DCDEB30D5A1.quest_subtitle: "{atm9.quest.start1.subt.part2}"
-	quest.70700DCDEB30D5A1.title: "{atm9.quest.start1.part2}"
+	quest.70700DCDEB30D5A1.quest_desc: ["If we want to get started with automation in ATM10:TTS, we'll need to dip our toes further into power.\\n\\nTo continue our progression, check out the &aGetting Started: Part 2&r to keep moving forward!"]
+	quest.70700DCDEB30D5A1.quest_subtitle: "Starting with Power and Beyond"
+	quest.70700DCDEB30D5A1.title: "Getting Started: Part 2"
 	quest.707EBA5717938515.quest_desc: ["A necessary component for the &bMV Cutter&r"]
 	quest.708129CB530BAC67.quest_subtitle: "Wild Cherry + Cacao"
 	quest.70902EF96F060672.quest_desc: ["This upgrade will make Drawers output a Redstone signal on all sides, signal strength saying how full/empty it is.\\n\\nFor multi-slot Drawers, the upgrade can be configured to which slot to monitor.\\n\\n0 - means empty.\\n15 - means full."]
@@ -12034,8 +12034,8 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_subway.png width:200 height:100 align:center}"
 	]
 	quest.7231F6177EEF5BF0.title: "Subway"
-	quest.7234CB42AEF6C941.quest_desc: ["{atm9.quest.enchant.desc.quanta}"]
-	quest.7234CB42AEF6C941.title: "{atm9.quest.enchant.quanta}"
+	quest.7234CB42AEF6C941.quest_desc: ["&cQuanta&r sets how random the Enchants you get will be. It can be used against you though depending on &eRectification&r. If the &cQuanta&r is high and &eRectification&r is low, you're more likely to get bad enchantments and curses. Default &cQuanta 15%%&r and its max is &c100%%&r. &eRectification&r default is &e0%%&r and max is &e100%%&r."]
+	quest.7234CB42AEF6C941.title: "l&cQuanta&r"
 	quest.7242F591DA474B37.quest_desc: ["&bFluids &fand &bLiquids&r aren't the most important in every aspect of &6&lCreate&r, but luck is, you'll most likely run into them anyways! \\n\\nYou'll need to learn the difficult path of &bFluid Logistics&r in order to use and move them. \\n\\nAnd to start, you'll need &cCopper&r!"]
 	quest.7242F591DA474B37.title: "&b&lFluid Logistics"
 	quest.7244FA69157727AF.quest_desc: ["Take that Trinium Sulfide we got in the last quest, and put it in an EBF with Zinc, and out will pop a Hot Trinium Inogt. Cool that down and now we have the Trinium we are after."]
@@ -12097,8 +12097,8 @@
 		"The &9Water Pump&r is used to pump water from an infinite water source below it into the Distributor. You can also pump water in using a sink or an &dEternal Water Block&r."
 	]
 	quest.72B3CDA595D08587.title: "Oxygen for your Bases!"
-	quest.72B52C56C2EB292D.quest_desc: ["{atm9.quest.start1.desc.leaves}"]
-	quest.72B52C56C2EB292D.title: "{atm9.quest.start1.leaves}"
+	quest.72B52C56C2EB292D.quest_desc: ["Get ready to make free water with these!"]
+	quest.72B52C56C2EB292D.title: "Leaves"
 	quest.72B531D6BCCF42C4.quest_desc: [
 		"&dAd Astra&r will take you out of this world! Literally! "
 		""
@@ -12239,12 +12239,12 @@
 		"{image:atm:textures/questpics/pneumaticcraft/item_search_upgrade.png width:200 height:200 align:center}"
 	]
 	quest.7386A8433698946C.quest_subtitle: "Max: 1"
-	quest.73875075EFB42999.title: "{atm9.quest.start1.ironmesh}"
+	quest.73875075EFB42999.title: "Iron Mesh"
 	quest.738FB4AC92679507.quest_subtitle: "Mythic"
 	quest.738FB4AC92679507.title: "&6Godforged Pearl&r"
-	quest.739358CEDA323787.quest_desc: ["{atm9.quest.start1.desc.log}"]
-	quest.739358CEDA323787.quest_subtitle: "{atm9.quest.start1.subt.log}"
-	quest.739358CEDA323787.title: "{atm9.quest.start1.log}"
+	quest.739358CEDA323787.quest_desc: ["Chop down the tree.\\n\\n&9IMPORTANT&r: Yes, being a modded skyblock pack, you can spam crouch to make anything, including your trees and crops, grow faster."]
+	quest.739358CEDA323787.quest_subtitle: "The Start of Everyone's Journey"
+	quest.739358CEDA323787.title: "I'm twerkin' 9 to 5..."
 	quest.7395B41685F4BC1A.quest_desc: ["The &3Flux Compressor&r can create a ton of pressure using power. Simply pump some FE in and it will start generating some. If you have enough FE to spare, this is probably the easiest way to generate pressure."]
 	quest.7395B41685F4BC1A.quest_subtitle: "Power = Pressure"
 	quest.7395B41685F4BC1A.title: "Pressure from Power"
@@ -12269,8 +12269,8 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_fountain.png width:200 height:100 align:center}"
 	]
 	quest.73C7F57B90731010.title: "&6Honey&r Fountain"
-	quest.73CAF44792FAEAFF.quest_subtitle: "{atm9.quest.start1.subt.dust}"
-	quest.73CAF44792FAEAFF.title: "{atm9.quest.start1.dust}"
+	quest.73CAF44792FAEAFF.quest_subtitle: "Hammer 3x"
+	quest.73CAF44792FAEAFF.title: "Dust"
 	quest.73CD6CE2B10830B9.title: "&6Master of The Universe&r"
 	quest.73D60868024FF907.quest_desc: ["The Fluid MK2! \\n\\nAny Liquid Source nearby can be used with this one, not just adjacent."]
 	quest.73D6B980D35082A0.quest_desc: ["This one takes awhile to explain so have patience. \\n\\nFirst, find an &aEvoker Fort&r. \\nNext, find a Research Book hidden in it. Then, have a Trader who's hostage in the &aFort&r translate it. (Like our hostage Quest Translators!) \\nOnce, it's translated bring it to a &6&lPriest&r in a &6Village&r to trade it for the &eSpell Book&r! \\n\\nIt gives a boost to &6Holy Spells&r and don't worry the hostage Traders are very very rare, keep looking!"]
@@ -12392,8 +12392,8 @@
 		""
 		"This also produces Cobalt Oxide and some Sulfur Dioxide which can be further processed to get some of that oxygen back"
 	]
-	quest.74F1AE4856F975AC.quest_desc: ["{atm9.quest.start2.desc.orehammer}"]
-	quest.74F1AE4856F975AC.quest_subtitle: "{atm9.quest.start1.subt.orehammer}"
+	quest.74F1AE4856F975AC.quest_desc: ["This hammer can be used to turn ores into dusts, at a rate of 1 to 2! You can now double all your ores with this hammer, and even make steel dust."]
+	quest.74F1AE4856F975AC.quest_subtitle: "Double Ores"
 	quest.74F524F4F0231A78.quest_desc: ["Can be used to charge items, augment machines, or fill up items with liquid."]
 	quest.74FC0DDDB91DB172.quest_desc: ["To make life that much easier, AE2 provides a whole suite of devices for the manipulation of ME data, i.e. moving stored items around the world.\\n\\nThe &bME Interface&f is one of these devices. As an input device, the Interface allows any item/fluid/etc to be piped externally through it, which is then automatically stored in the ME Network that the interface is connected to.\\n\\nAs an output device, the Interface can be configured to keep a certain available amount of a stored item in stock, from the ME network to its own internal inventory. This allows items to then be received by some external source like another player or some pipe."]
 	quest.74FC0DDDB91DB172.quest_subtitle: "OI, OI, OI!"
@@ -12428,8 +12428,8 @@
 		"Alternatively, you can fill Soul Jars inside of the &3Soul Extractor&r by inserting a jar and using mob items to fill them. For example, adding Rotten Flesh will give a portion of a Zombie Soul."
 	]
 	quest.75560045ED084900.title: "Creating Mob Seeds"
-	quest.75676F58C9CFEE44.quest_subtitle: "{atm9.quest.start1.subt.oakcrucible}"
-	quest.75676F58C9CFEE44.title: "{atm9.quest.start1.oakcrucible}"
+	quest.75676F58C9CFEE44.quest_subtitle: "Just add the leaves..."
+	quest.75676F58C9CFEE44.title: "Oak Crucible"
 	quest.7574A782DCFB87CE.quest_desc: ["Kivi can be used for a couple of things, mainly for decorations and machines.\\n\\nYou'll need Kivi for Machine Frames and other machines in XyCraft. It can be used with Xychorium Gems in a Stonecutter for decorative blocks."]
 	quest.7574A782DCFB87CE.title: "&l&7Kivi"
 	quest.7578ED590C84EA3A.quest_desc: ["Now with the hot ingots you need to use a freezer to turn it into a usable ingot."]
@@ -12803,8 +12803,8 @@
 	quest.78ECC28DD4BA9696.title: "Tools of the Trade: Divination Rod"
 	quest.78FEDE6FA4845585.quest_desc: ["Some &d&lInfusions&r need very, very exact amounts of &aEterna&r, &cQuanta&r, or &5Arcana&r. \\n\\nTo get these you might need one of these &7Shelves&r. \\n\\nEach lowers the amount of its respective quantities."]
 	quest.78FEDE6FA4845585.title: "&4Negative&r amounts"
-	quest.790C475D7D805D31.quest_desc: ["{atm9.quest.start1.desc.emergency}"]
-	quest.790C475D7D805D31.title: "{atm9.quest.start1.emergency}"
+	quest.790C475D7D805D31.quest_desc: ["Ran out of saplings? You can get some emergency saplings at the top right of the quest menu! It's repeatable too: no need to restart your world if something bad happens!"]
+	quest.790C475D7D805D31.title: "Emergency Saplings"
 	quest.790EC3EDC2DB1FB0.quest_desc: ["Like it was mentioned before. This mod adds a ton of fun ways to generate power that require specific builds."]
 	quest.790EC3EDC2DB1FB0.title: "Generators Galore"
 	quest.790F509BAA15A68E.quest_desc: [
@@ -13007,7 +13007,7 @@
 		"You can get steel ingots by smelting steel dust, made by mixing iron dust with coal"
 	]
 	quest.7A62C1B9385DF643.title: "Glass Tube"
-	quest.7A8019EFCAE0F123.quest_desc: ["{atm9.quest.start1.desc.witchwater}"]
+	quest.7A8019EFCAE0F123.quest_desc: ["When placing a barrel on top of mycellium and filling it with water, it produces witch water. This can be used to make soul sand, netherrack, and blackstone.\\n\\n&lCheck JEI on this bucket&r."]
 	quest.7A8242E6D0BC6294.quest_desc: ["The centrifuge lets you separate compounds into their respective materials by spinning very fast"]
 	quest.7A8242E6D0BC6294.quest_subtitle: "You spin me right round"
 	quest.7A82D66B1B138F0F.quest_desc: ["Doubles the amount of Mana a Mana Burst can carry, at the cost of speed and increased mana loss over longer distances."]
@@ -13135,9 +13135,9 @@
 	quest.7B95C7407A1F5550.quest_desc: ["This converts the Mana Spreader's bursts to only fire a continuous particle rather than short bursts. No mana is consumed. Great for decorative uses."]
 	quest.7B9672C4FCFFB887.quest_desc: ["These &9Blueprints&r can be Crafted and boy are they cheap! \\n\\nWarning Signs are very simple decorations we can make with &7Metal Plates&r, Dyes, and this &9Blueprint&r."]
 	quest.7B9672C4FCFFB887.title: "&9Warning Signs Blueprints "
-	quest.7BAA0B485E3042DA.quest_desc: ["{atm9.quest.start1.desc.mesh}"]
-	quest.7BAA0B485E3042DA.quest_subtitle: "{atm9.quest.start1.subt.mesh}"
-	quest.7BAA0B485E3042DA.title: "{atm9.quest.start1.mesh}"
+	quest.7BAA0B485E3042DA.quest_desc: ["Sieving is your most common method of gathering resources in this modpack, and countless useful materials can be acquired this way!\\n\\nYou can also sieve blocks 25 at a time by making 25 Oak Sieves, and placing them in a 5x5 square. Right-clicking the middle Sieve with the item you want to sieve will use 25 instead of 1. Each Sieve in the group needs its own mesh, and all meshes should be the same tier."]
+	quest.7BAA0B485E3042DA.quest_subtitle: "Its like baking a cake!"
+	quest.7BAA0B485E3042DA.title: "Sieving time!"
 	quest.7BBCE618001884B1.quest_desc: ["Place this under the soil to allow Nether Star Seeds to grow."]
 	quest.7BBCE618001884B1.title: "Nether Star Crux"
 	quest.7BC616DDB5933479.quest_desc: ["This one can be created with a &5Blood Vial&r and normal ingrediants for Scrolls. \\nYou will need to make sure it is Level 10 and &6Legendary&r which you can upgrade it to."]
@@ -13255,8 +13255,8 @@
 	quest.7CC49360D07086B8.quest_subtitle: "Wireless Power, Gases, Fluids, Everything."
 	quest.7CC49360D07086B8.title: "&5Quantum Entangloporters"
 	quest.7CC96CE9901F25BB.quest_desc: ["&l&5Forbidden and Arcanus&r is another magic mod, this one revolving around the Multiblock structure called, the Hephaestus Forge.\\n\\nTo make it follow the instructions in the forge's tooltip! Once made you can feed it the 4 Materials to power Rituals: Aureal, Souls, Blood, and Experience.\\n\\nYou'll also need to upgrade the Forge via Rituals (all these you can find in JEI)."]
-	quest.7CCA2358CBA5D999.quest_desc: ["{atm9.quest.start1.desc.barrel}"]
-	quest.7CCA2358CBA5D999.title: "{atm9.quest.start1.barrel}"
+	quest.7CCA2358CBA5D999.quest_desc: ["The barrel is one of the most important ways to get materials in this pack, second only to the sieve.\\n\\nThese can make clay using water, soul sand using witch water, and even create dirt from saplings and leaves.\\n\\nNote: These will fill with water when it rains."]
+	quest.7CCA2358CBA5D999.title: "Oak Barrel"
 	quest.7CE86300AF8E9BCA.quest_desc: ["Crafting 8 of the same Generators together combines them into 1 massive Generator! Works the same as 8 regular generators but only takes up the space of 1."]
 	quest.7CE86300AF8E9BCA.title: "8x What a deal!"
 	quest.7CF13A4941F608E5.quest_desc: ["From normal Glass, to Glass with Panes, to even Mosaics!"]
@@ -13778,7 +13778,7 @@
 	task.1F929F1DF23460AE.title: "Binding Cards"
 	task.1FFAC5E733A2680C.title: "Scythes"
 	task.200CE35BF3C04F6F.title: "Copper Chests"
-	task.2019707AE4DAC703.title: "{atm9.quest.start1.emergency}"
+	task.2019707AE4DAC703.title: "Emergency Saplings"
 	task.201F519941A2C7F4.title: "AllRightsReserved"
 	task.20210147BF5613E5.title: "Exploration Mod Iron Swords"
 	task.20374000F8ADE952.title: "Macaw's Trapdoors"
@@ -13799,7 +13799,7 @@
 	task.238F4D40E6D9238E.title: "Dyes"
 	task.23C7F92BD9D39E14.title: "AllRightsReserved"
 	task.23D186249A999B8C.title: "Quartz Cutting Knives"
-	task.249CEE535CED9202.title: "{atm9.quest.start1.emergency}"
+	task.249CEE535CED9202.title: "Emergency Saplings"
 	task.2510A7EE5D886B63.title: "AllRightsReserved"
 	task.25FF884779D98BAD.title: "Construction Bricks™"
 	task.2606DDF2AE263B42.title: "Track Kits"
@@ -13830,7 +13830,7 @@
 	task.2A6E713A062510B6.title: "Fueling the Reactor"
 	task.2A7CD3F14D3DC7C5.title: "Unobtainium Armor"
 	task.2ADE9DBE9448AC7F.title: "Silent Gear Pickaxes"
-	task.2B8892A1251325D9.title: "{atm9.quest.start1.usewitchwater}"
+	task.2B8892A1251325D9.title: "Use Witch Water for These"
 	task.2BA7FC10243AA011.title: "Pressurized Tubes"
 	task.2BECEC3EFA8F6DA3.title: "Chipped Stones"
 	task.2C1B1D314E190B80.title: "Personal Storage"
@@ -14002,7 +14002,7 @@
 	task.48A30B08A090BD75.title: "Wrenches"
 	task.48C19477CB216AD4.title: "Sulfur Dust"
 	task.48CF7A7622423DEA.title: "Pipe Upgrades"
-	task.48D02BDD6B3A554E.title: "{atm9.quest.start1.drops}"
+	task.48D02BDD6B3A554E.title: "CHECK DROPS"
 	task.490EAAA3703A576F.title: "Black Lotus"
 	task.496C4FDD2515EB24.title: "&aInduction Providers"
 	task.497485048E0AD20D.title: "Auxiliary Process Sieve"
@@ -14113,7 +14113,7 @@
 	task.5DD919AF75C92C8A.title: "Tools"
 	task.5DEABD15EDE5736F.title: "XyCraft Glass"
 	task.5DEBE38C614EFBB4.title: "AllRightsReserved"
-	task.5DF219ADC0D0011D.title: "{atm9.quest.start1.usewitchwater}"
+	task.5DF219ADC0D0011D.title: "Use Witch Water for These"
 	task.5DFD1C0334466FF2.title: "Expanded Tank Construction"
 	task.5E017E6B7E3F56B7.title: "Slimy Comb"
 	task.5E4B74F97BDED243.title: "AllRightsReserved"
