@@ -3920,7 +3920,7 @@
 	quest.25DBFE887B041E94.quest_subtitle: "The basics"
 	quest.25DBFE887B041E94.title: "Ore Processing"
 	quest.25E267AAAD4B992B.quest_desc: ["Throw dust in a sieve to get some bone meal."]
-	quest.25E267AAAD4B992B.title: "{atm9.quest.start1.bones}"
+	quest.25E267AAAD4B992B.title: "Bone Meal"
 	quest.25E782DB4309A1B8.quest_desc: ["Aurora Deer Antlers are dropped by Aurora Deers on death. \\n\\nIt can be used as a Sword or a Hoe."]
 	quest.25E915AE1FC53254.quest_desc: ["Celestigem Templetes are used to upgrade Blazegold armor and tools to Celestigem while retaining enchantments and installed upgrades."]
 	quest.25EFC21A3C48E0B6.title: "Tier: &2Spirited"
@@ -5473,7 +5473,7 @@
 	quest.35EAE767CEC14DAA.title: "{atm9.quest.start1.cobble1}"
 	quest.35EC08D610382860.quest_desc: ["The &9Filter&r is an item used in a Grid to specify which items or fluids can be visible."]
 	quest.35EC08D610382860.title: "Filter"
-	quest.35EF391AB5344094.quest_desc: ["{atm9.quest.start1.desc.hammer}"]
+	quest.35EF391AB5344094.quest_desc: ["To get resources, we'll need to bust up our cobblestone into something we can sieve.\\n\\nThis is where the hammer comes in. Place down the block you want to hammer, and... well... hammer it."]
 	quest.35EF391AB5344094.quest_subtitle: "A totally overused joke"
 	quest.35EF391AB5344094.title: "Hammer Time!"
 	quest.35FA55BE8DF49EE8.quest_desc: ["Using the power of a slain &9Vengeance Spirit&r, we can use the Blood Infuser to create &dGarmonbozia&r.\\n\\nThis is &dPain&r and &dSorrow&r materialized. It's also the high-end crafting material for powerful tools and items in EvilCraft."]
@@ -5637,7 +5637,7 @@
 	quest.3751015CD5C84134.title: "&b4096k Fluid Part&r"
 	quest.375359043E71349C.quest_desc: ["The Simple Reforging Table is used like an Enchantment Table but with Affixes. With Gem Dust, Rarity Materials, and an Affixed Item you can reroll the affixes for a cost of EXP. This can also be used to change the Rarity of the Affixed item up to Rare "]
 	quest.375359043E71349C.title: "Simple Reforging Table"
-	quest.3755C36AE60FF795.quest_subtitle: "{atm9.quest.start1.subt.oakcrucible}"
+	quest.3755C36AE60FF795.quest_subtitle: "Just add the leaves..."
 	quest.3755C36AE60FF795.title: "Oak Crucible"
 	quest.375F0A098589CF29.quest_desc: [
 		"Using your Seeking Eyes you might become confused why they've suddenly gone underground. That's probably because the Golem Forge is deep underground, like in the negative Y levels. \\n\\nThere's many winding rooms each full of Loot, Lava, and Freezes! The room we are looking for holds the Starlight Golem!"
@@ -5900,8 +5900,8 @@
 		""
 		"Provides the player with an Elytra, note the Elytra provided by this upgrade is affected by the Walk and Run Speed upgrades."
 	]
-	quest.3A478C8399A155DB.quest_desc: ["{atm9.quest.start1.desc.drawer}"]
-	quest.3A478C8399A155DB.quest_subtitle: "{atm9.quest.start1.subt.drawer}"
+	quest.3A478C8399A155DB.quest_desc: ["Place this thing on top of your Cobble Gen and it'll automatically compress everything it recieves, left click to extract!\\\\n\\\\n&lRight click it with an item before trying to pipe into it!"]
+	quest.3A478C8399A155DB.quest_subtitle: "You need this"
 	quest.3A4A8EAA3022C7BA.quest_desc: ["Water Wheels are one of the Machines we can use for the Kinetic Dynamo. \\n\\nThese are much more compact but also expensive, compared to the Windmill. \\n\\nTo use them you'll need &9Water&r flowing over the Waterwheel. The more &9Water&r around it, the faster it'll go. Just make sure the &9Water&r isn't flowing in 2 different ways! \\n\\nBeing more compact means we can place 3 Waterwheels on 1 Kinetic Dynamo to get even more Energy."]
 	quest.3A4B5A9B432576AD.title: "&cAwakened Watering&r"
 	quest.3A4C17878FC8315B.quest_desc: ["The &6Allthemodium Furnace&r is pretty much the same as the Netherite Furnace. You will need this to craft the &3Vibranium Furnace&r."]
@@ -8796,7 +8796,7 @@
 		"{image:atm:textures/questpics/logistics/pipez_energy.png width:200 height:50 align:center}"
 	]
 	quest.53EC96FA0E7C4ED4.title: "&cEnergy Pipez"
-	quest.53F7B1EE005A696C.quest_desc: ["{atm9.quest.start1.desc.clay}"]
+	quest.53F7B1EE005A696C.quest_desc: ["Fill a barrel with water and right-click it with Dust to get Clay."]
 	quest.53F7B1EE005A696C.title: "Clay"
 	quest.53F861876B991C36.quest_desc: ["Adds a Jukebox GUI to the Backpack."]
 	quest.53F861876B991C36.quest_subtitle: "Now we're jammin"
