@@ -464,28 +464,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["6C9191DA4B1039D6"]
-			hide_until_deps_complete: true
-			id: "232A06C9FF0EE7B2"
-			optional: true
-			rewards: [{
-				count: 5
-				id: "6DE9B8EFA21DFD7A"
-				item: {
-					count: 1
-					id: "integrateddynamics:menril_berries"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "578E01FF81FBBCD4"
-				item: { count: 1, id: "mysticalagriculture:menril_seeds" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 3.0d
-		}
-		{
 			dependencies: ["499CF9F39CED8899"]
 			id: "6C9191DA4B1039D6"
 			rewards: [{
