@@ -1,0 +1,7 @@
+{
+  "type": "exdeorum:crucible_heat_source",
+  "block_predicate": {
+    "block": "allthemodium:soul_lava"
+  },
+  "heat_value": 80
+}

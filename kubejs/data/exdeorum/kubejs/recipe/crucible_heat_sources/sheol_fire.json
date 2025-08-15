@@ -1,0 +1,7 @@
+{
+  "type": "exdeorum:crucible_heat_source",
+  "block_predicate": {
+    "block": "oritech:still_sheol_fire_block"
+  },
+  "heat_value": 30
+}
