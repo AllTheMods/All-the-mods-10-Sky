@@ -2372,7 +2372,13 @@
 	quest.162AB6F9257EB71E.quest_desc: [
 		"If we want to get started with automation in ATM10:TTS, we'll need to dip our toes further into power and some new mods!"
 		""
-		"To continue our progression, check out &lChapter 2&r to keep moving forward."
+		"Whilst Chapter 2 is not out yet, you can get started with the mods it will include!"
+		""
+		"&bGenerators Galore&r (tiers and changes)"
+		""
+		"&bGrowth Accelerator tiers&r (we recommend directional, it's super fast!)"
+		""
+		"&bGeores&r (Grow those materials you are missing!)&r"
 	]
 	quest.162AB6F9257EB71E.title: "The Next Chapter"
 	quest.162CE44400A63575.quest_desc: ["The first and most important &5Machine&r is the &9&lMetallurgic Infuser&r! \\n\\nThe &9&lMetallurgic Infuser&r will combine an &eItem&r and a &cChemicals&r to Craft new &eItems&r and Alloys. \\n\\n&cChemicals &for &aInfuse Types&r will go into the &eYellow Square&r and will show up in the &eBar&r to the Left of it. \\n\\nThe &4Red Square&r will hold the Item that gets Infused. \\n\\nThe &9Dark Blue Square&r will be where the product goes to! \\n\\nTo the Right, the &aLight Green Slot&r and &aBar&r are for &aEnergy&r! \\n\\nIf you need to make room in the &eChemical Bar&r, use the &lDUMP&r Button. This will eject all &aChemicals&r in it!"]

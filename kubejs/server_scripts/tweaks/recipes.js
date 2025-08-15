@@ -199,6 +199,27 @@ ServerEvents.recipes(allthemods => {
 
     allthemods.remove({id: 'mysticalagriculture:watering_can'})
     allthemods.remove({id: 'mysticalagriculture:diamond_scythe'})
+
+    allthemods.shapeless(
+        Item.of('4x minecraft:quartz'),
+        [
+            '#c:storage_blocks/quartz'
+        ]
+    )
+
+    allthemods.shapeless(
+        Item.of('9x minecraft:nether_wart'),
+        [
+            'minecraft:nether_wart_block'
+        ]
+    )
+
+    allthemods.shapeless(
+        Item.of('4x minecraft:lapis_lazuli'),
+        [
+            'supplementaries:lapis_bricks'
+        ]
+    )
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
