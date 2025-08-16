@@ -35,7 +35,8 @@ const removals = [
         'mekanism:upgrade_anchor',
         'railcraft:world_spike',
         'railcraft:personal_world_spike',
-        'railcraft:world_spike_minecart'
+        'railcraft:world_spike_minecart',
+        'sophisticatedstorage:stack_upgrade_omega_tier'
     ]
 
 const seedRemovals = [
