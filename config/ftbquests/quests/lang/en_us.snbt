@@ -12372,7 +12372,7 @@
 	quest.7244FA69157727AF.quest_desc: ["Take that Trinium Sulfide we got in the last quest, and put it in an EBF with Zinc, and out will pop a Hot Trinium Inogt. Cool that down and now we have the Trinium we are after."]
 	quest.7244FA69157727AF.quest_subtitle: "Smelted Trinium"
 	quest.72489FB9D9A5A24B.quest_desc: ["Can be found in structures in the &l&6Bumblezone&r or traded for with the &5Bee Queen&r! \\n\\nThese Carpenter Bee Boots truly are incredible, you can wall-run or jump farther off of Wood Planks, Leaves, and &6Honey Blocks&r. \\n\\nAlso while holding Shift the Boots will Mine the Block beneath you."]
-	quest.72537968598AB884.quest_desc: ["&6Engineer's Goggles are perfect for you little know-it-alls. \\n\\nWhen worn it will tell just about everything the Block or &6Machine&r has to tell! \\n\\nStressometers will tell how much Stress is given and how much it can take. Speedometers will tell how much Speed is within your system. \\n\\n&dSteam Boilers&r will tell how big, how much &9Water&r, and how much Heat they have. \\n\\nOther &6Machines&r, like &6Deployers&r or &6Mechanical Presses&r, will show how much Stress Units is being used up."]
+	quest.72537968598AB884.quest_desc: ["&6Engineer's Goggles&r are perfect for you little know-it-alls. \\n\\nWhen worn it will tell just about everything the Block or &6Machine&r has to tell! \\n\\nStressometers will tell how much Stress is given and how much it can take. Speedometers will tell how much Speed is within your system. \\n\\n&dSteam Boilers&r will tell how big, how much &9Water&r, and how much Heat they have. \\n\\nOther &6Machines&r, like &6Deployers&r or &6Mechanical Presses&r, will show how much Stress Units is being used up."]
 	quest.72537968598AB884.title: "&6Engineer's Goggles"
 	quest.725512C3707E9B46.quest_desc: [
 		"The cutting machine is required for automating rods and bolts. This will require lubricating fluid."
@@ -14660,3 +14660,4 @@
 	task.7FD508DB6C911DF5.title: "Quests By AllTheMods"
 	task.7FED013A7F667CC6.title: "Crates"
 }
+
