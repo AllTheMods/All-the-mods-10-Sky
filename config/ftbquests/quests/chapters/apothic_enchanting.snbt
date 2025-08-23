@@ -516,11 +516,8 @@
 				{
 					id: "2B9F99F6035232B2"
 					item: {
-						components: {
-							"ftbquests:missing_item": "naturescompass:naturescompass"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "naturescompass:naturescompass"
 					}
 					type: "item"
 				}
