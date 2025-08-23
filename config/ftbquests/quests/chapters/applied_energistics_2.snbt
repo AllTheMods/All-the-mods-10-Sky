@@ -39,7 +39,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:chests)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: 1.5d
 			y: 0.5d
 		}
 		{
@@ -73,11 +73,10 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
+			x: 3.0d
 			y: 0.5d
 		}
 		{
-			dependencies: ["79D2617E01481281"]
 			id: "00611844AFD5C31E"
 			rewards: [
 				{
@@ -189,7 +188,6 @@
 			y: 0.5d
 		}
 		{
-			dependencies: ["79D2617E01481281"]
 			id: "4BF0BB763BFFACF0"
 			rewards: [
 				{
@@ -472,7 +470,7 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:quartz_wrench)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 2.5d
 			y: 1.5d
 		}
 		{
@@ -1928,35 +1926,11 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.5d
+			x: 2.5d
 			y: -0.5d
 		}
 		{
 			dependencies: ["68B0B3DAF1145191"]
-			id: "79D2617E01481281"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "50DCD8EFE7378736"
-					table_id: 727499692191347770L
-					type: "random"
-				}
-				{
-					id: "4E6A6BD49ED7040D"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "5E71B7A861C36609"
-				item: { count: 1, id: "ae2:flawless_budding_quartz" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 0.5d
-		}
-		{
-			dependencies: ["79D2617E01481281"]
 			id: "748EC01C031E661A"
 			rewards: [
 				{

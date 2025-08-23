@@ -72,7 +72,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "5DD862CF56AF7BF9"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(integrateddynamics:menril_logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { count: 1, id: "integrateddynamics:menril_sapling" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -459,28 +459,6 @@
 			]
 			x: -1.5d
 			y: 0.0d
-		}
-		{
-			dependencies: ["6C9191DA4B1039D6"]
-			hide_until_deps_complete: true
-			id: "232A06C9FF0EE7B2"
-			optional: true
-			rewards: [{
-				count: 5
-				id: "6DE9B8EFA21DFD7A"
-				item: {
-					count: 1
-					id: "integrateddynamics:menril_berries"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "578E01FF81FBBCD4"
-				item: { count: 1, id: "mysticalagriculture:menril_seeds" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 3.0d
 		}
 		{
 			dependencies: ["499CF9F39CED8899"]

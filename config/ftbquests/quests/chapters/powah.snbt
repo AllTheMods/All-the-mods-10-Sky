@@ -352,7 +352,7 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				id: "3F7525BD10ED2BF4"
+				id: "1842F24A543F5EED"
 				item: { count: 1, id: "powah:uraninite" }
 				type: "item"
 			}]

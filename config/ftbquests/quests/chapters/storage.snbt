@@ -2082,5 +2082,104 @@
 			x: 0.0d
 			y: 2.0d
 		}
+		{
+			icon: {
+				id: "integratedterminals:part_terminal_storage"
+			}
+			id: "3043C83CCFC9706D"
+			rewards: [{
+				id: "6BE5357326D7C44D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0594ECD64C5094A2"
+				item: { count: 1, id: "integratedterminals:menril_glass" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3043C83CCFC9706D"]
+			icon: {
+				id: "integratedtunnels:part_interface_item"
+			}
+			id: "6F6A23579CAE8013"
+			tasks: [
+				{
+					id: "45352E7318BF3FC0"
+					item: { count: 1, id: "integrateddynamics:cable" }
+					type: "item"
+				}
+				{
+					id: "1F032CCEF28543A5"
+					item: { count: 1, id: "integratedtunnels:part_interface_item" }
+					type: "item"
+				}
+				{
+					id: "54B4D3AEF54E2AD2"
+					item: { count: 1, id: "integratedterminals:part_terminal_storage" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6F6A23579CAE8013"]
+			icon: {
+				id: "integratedterminals:terminal_storage_portable"
+			}
+			id: "11A351E2CDE2A31E"
+			rewards: [{
+				id: "7C08907C569AEECE"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					id: "115844D39F538E09"
+					item: { count: 1, id: "integratedterminals:terminal_storage_portable" }
+					type: "item"
+				}
+				{
+					id: "647639375DD87BBD"
+					item: { count: 1, id: "integrateddynamics:part_connector_omni_directional" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6F6A23579CAE8013"]
+			icon: {
+				id: "integratedcrafting:part_interface_crafting"
+			}
+			id: "3CE3CDB9C93CBDAD"
+			rewards: [{
+				id: "2DFE7DBB73BED0F0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "258852C4EC01BB6D"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6F6A23579CAE8013"]
+			id: "289ED1DFD83B9838"
+			tasks: [{
+				id: "797E39E8E3429038"
+				item: { count: 1, id: "integratedtunnels:part_interface_fluid" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.0d
+		}
 	]
 }
