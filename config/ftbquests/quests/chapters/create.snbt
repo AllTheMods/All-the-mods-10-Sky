@@ -949,6 +949,14 @@
 			x: -6.0d
 			y: -8.5d
 		}
+		{
+			height: 1.5d
+			image: "atm:textures/questpics/create/create_cog.png"
+			rotation: 22.0d
+			width: 1.5d
+			x: -1.5d
+			y: 4.5d
+		}
 	]
 	order_index: 3
 	progression_mode: "flexible"
@@ -3722,6 +3730,17 @@
 			}]
 			x: -8.0d
 			y: -7.0d
+		}
+		{
+			dependencies: ["1712C3B3CF158843"]
+			id: "6637B33E9D474D5F"
+			tasks: [{
+				id: "066865F9453EABED"
+				item: { count: 1, id: "create:rotation_speed_controller" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
 		}
 	]
 }
