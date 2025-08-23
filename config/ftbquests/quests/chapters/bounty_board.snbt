@@ -53,15 +53,14 @@
 			id: "444ACE285311ECB4"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "6A111F9EEADA4BA2"
+					type: "random"
+				}
+				{
 					id: "6FCE69EAA8F7D08C"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "4BF404A8AF704A9B"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -97,15 +96,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "3FDDD3EECB6D7A85"
+					type: "random"
+				}
+				{
 					id: "5E76EDDE93587CF1"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "4BED978B61BABD26"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -128,7 +126,7 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "19E4A6E31DBEC44F"
+					id: "231C63C803080640"
 					table_id: 4196188979167302596L
 					type: "random"
 				}
@@ -177,15 +175,14 @@
 			id: "4748831E75A840BE"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "056975CFED74BF64"
+					type: "random"
+				}
+				{
 					id: "750E749A079F915D"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "3B776789D5EA481C"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -221,15 +218,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "649295B3143B081D"
+					type: "random"
+				}
+				{
 					id: "313019F9ED9DC6FE"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "4886238DFBA8B648"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -301,15 +297,14 @@
 			id: "65BBA5C0DAEEC31F"
 			rewards: [
 				{
-					id: "4CB001EDFDF6BB51"
-					type: "xp"
-					xp: 25
+					exclude_from_claim_all: true
+					id: "01F13A0B354BBBFD"
+					type: "random"
 				}
 				{
-					exclude_from_claim_all: true
-					id: "3CEDB0631B417345"
-					table_id: 487623848494439020L
-					type: "random"
+					id: "52557DBFFE61E796"
+					type: "xp"
+					xp: 25
 				}
 			]
 			tasks: [{
@@ -335,15 +330,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "2C419A310D1686C7"
+					type: "random"
+				}
+				{
 					id: "1E1ACF28D0392E3B"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "4D4C7C903FD2DF11"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -577,15 +571,14 @@
 			id: "2916F873A4DA84E8"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "2666996F798768C7"
+					type: "random"
+				}
+				{
 					id: "268C07B6CA4CDF5E"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5FA8B38F9AE5677A"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -612,15 +605,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "46897BBCAF61CBCB"
+					type: "random"
+				}
+				{
 					id: "0E43D55ADBF66410"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5503C799119ECA57"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -692,15 +684,14 @@
 			id: "283CA6DB77D5D2EB"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "4A6C2A97D769418B"
+					type: "random"
+				}
+				{
 					id: "524BCAEA8EC772F5"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "06622A61437D7805"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -736,15 +727,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "319B63A612336BE5"
+					type: "random"
+				}
+				{
 					id: "3F780B09E39A1F03"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5774D9E43A0770A1"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -816,15 +806,14 @@
 			id: "4F48A4839B549C92"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "7E7B0138373F4D28"
+					type: "random"
+				}
+				{
 					id: "375FDEF229AED155"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "38A942439DF93CC2"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -851,15 +840,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "3DD5D5A5D39C411C"
+					type: "random"
+				}
+				{
 					id: "633125E5D7705BFF"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "22D47A8AAEF654ED"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -937,15 +925,14 @@
 			id: "6E4FD0B568BEB3F9"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "6CCE54980E8D2003"
+					type: "random"
+				}
+				{
 					id: "4227DE8BC66C8470"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "33A181B71F86525D"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -995,15 +982,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "3F4C40818D552881"
+					type: "random"
+				}
+				{
 					id: "2A063FC9FE48C54F"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "74FAF4210C6D2E99"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -1089,15 +1075,14 @@
 			id: "738E94C4CFB05D11"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "021EACDBD76A9D2E"
+					type: "random"
+				}
+				{
 					id: "45DA910A0FE7A08E"
 					type: "xp"
 					xp: 25
-				}
-				{
-					exclude_from_claim_all: true
-					id: "381FFDB780AB66B5"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{
@@ -1132,15 +1117,14 @@
 					type: "item"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "24573A422CE166A4"
+					type: "random"
+				}
+				{
 					id: "1050FBCABC67BA5A"
 					type: "xp"
 					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "6034030874A2B961"
-					table_id: 487623848494439020L
-					type: "random"
 				}
 			]
 			tasks: [{

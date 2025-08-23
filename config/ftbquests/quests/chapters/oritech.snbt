@@ -112,8 +112,11 @@
 				count: 4
 				id: "3D2BDA118E492E13"
 				item: {
+					components: {
+						"ftbquests:missing_item": "oritech:insulated_wire"
+					}
 					count: 1
-					id: "oritech:energy_pipe"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

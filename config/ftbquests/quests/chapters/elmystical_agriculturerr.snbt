@@ -231,14 +231,6 @@
 			x: 7.5d
 			y: 6.125d
 		}
-		{
-			height: 2.0d
-			image: "ftbquests:textures/gui/alert.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 5.0d
-			y: -4.0d
-		}
 	]
 	order_index: 8
 	progression_mode: "flexible"
@@ -1085,8 +1077,36 @@
 				item: { count: 1, id: "mysticalagriculture:cow_seeds" }
 				type: "item"
 			}]
-			x: 15.000000000000007d
-			y: 2.75d
+			x: 15.5d
+			y: 2.625d
+		}
+		{
+			dependencies: [
+				"75560045ED084900"
+				"0B37355262121DD5"
+			]
+			id: "75D09040185B0E40"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49A0EFB3EA64AC84"
+					table_id: 2427872771413920777L
+					type: "random"
+				}
+				{
+					id: "2A981B7E8FD66CE7"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "4AC1F7DF47EB532C"
+				item: { count: 1, id: "mysticalagriculture:pig_seeds" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 2.625d
 		}
 		{
 			dependencies: [
@@ -1436,6 +1456,34 @@
 				"2C9C9CB71941DC01"
 				"0B37355262121DD5"
 			]
+			id: "155A843A562DB7C4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7349D9FD3EA0E91F"
+					table_id: 7270734658375550536L
+					type: "random"
+				}
+				{
+					id: "5CDD46AC9273D889"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "622AAF6C554CA027"
+				item: { count: 1, id: "mysticalagriculture:zombie_seeds" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 2.625d
+		}
+		{
+			dependencies: [
+				"2C9C9CB71941DC01"
+				"0B37355262121DD5"
+			]
 			id: "7ADE214373DE135F"
 			rewards: [
 				{
@@ -1456,8 +1504,8 @@
 				item: { count: 1, id: "mysticalagriculture:creeper_seeds" }
 				type: "item"
 			}]
-			x: 19.971938775510218d
-			y: 2.709183673469383d
+			x: 20.5d
+			y: 2.625d
 		}
 		{
 			dependencies: ["2C9C9CB71941DC01"]
@@ -2823,16 +2871,6 @@
 			}]
 			x: 30.0d
 			y: 7.125d
-		}
-		{
-			id: "7BBD85F94D98CA46"
-			tasks: [{
-				id: "601D0A55B7C843EE"
-				item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: -2.5d
 		}
 	]
 }

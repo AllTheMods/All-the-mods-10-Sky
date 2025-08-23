@@ -809,13 +809,13 @@
 			size: 2.0d
 			tasks: [
 				{
-					count: 5L
+					count: 4L
 					id: "1F985EE897C559DA"
 					item: { count: 4, id: "apothic_enchanting:soul_touched_sculkshelf" }
 					type: "item"
 				}
 				{
-					count: 5L
+					count: 4L
 					id: "7E52C8FAC7C1773C"
 					item: { count: 4, id: "apothic_enchanting:echoing_sculkshelf" }
 					type: "item"

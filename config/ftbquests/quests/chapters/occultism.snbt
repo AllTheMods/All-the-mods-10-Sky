@@ -494,7 +494,6 @@
 			}
 			id: "4F35D04721DFC9FF"
 			min_width: 300
-			require_sequential_tasks: false
 			rewards: [{
 				id: "0BAC09BCF9644834"
 				type: "xp"
@@ -658,8 +657,8 @@
 				xp: 100
 			}]
 			tasks: [{
-				id: "03350093F049AD67"
-				item: { count: 1, id: "occultism:raw_iesnium" }
+				id: "2C341B16967645C9"
+				item: { count: 1, id: "occultism:iesnium_ore" }
 				type: "item"
 			}]
 			x: 17.0d
@@ -879,7 +878,7 @@
 			}
 			id: "39647A2473F6F7D7"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "4AD6D3E0605F8F3C"
 				type: "xp"
@@ -956,7 +955,7 @@
 			}
 			id: "0BD6365534BF04D5"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "7911ABFD485D38FB"
 				type: "xp"
@@ -995,7 +994,6 @@
 				id: "occultism:chalk_orange_impure"
 			}
 			id: "74130EB1E4B8586D"
-			require_sequential_tasks: false
 			tasks: [
 				{
 					id: "56B5E2D58E61A670"
@@ -1021,7 +1019,7 @@
 			}
 			id: "38A1295878B68F83"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "1412ED0B0BCBCBA2"
 				type: "xp"
@@ -1061,7 +1059,7 @@
 			}
 			id: "0D18BBB04693885A"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "7363A3F35687ED86"
 				type: "xp"
@@ -1190,7 +1188,7 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["39647A2473F6F7D7"]
+			dependencies: ["0D18BBB04693885A"]
 			id: "5AE80FF518B1BBA6"
 			optional: true
 			rewards: [{
@@ -1203,8 +1201,8 @@
 				item: { count: 1, id: "occultism:ritual_satchel_t1" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 6.5d
+			x: 15.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["0D18BBB04693885A"]
@@ -1230,7 +1228,7 @@
 			}
 			id: "2960FFE0C53DFEB1"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "32B5A1C3342B5DD9"
 				type: "xp"
@@ -1338,7 +1336,7 @@
 			}
 			id: "429B5A81DF6C43FE"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "57CB202D58CB3A82"
 				type: "xp"
@@ -1377,7 +1375,6 @@
 				id: "occultism:chalk_pink_impure"
 			}
 			id: "2E68E1D96B25336D"
-			require_sequential_tasks: false
 			rewards: [
 				{
 					exclude_from_claim_all: true
@@ -1434,7 +1431,7 @@
 			}
 			id: "53DEA3DFEDC4809E"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "689F05C25DEFD7E1"
 				type: "xp"
@@ -1513,7 +1510,7 @@
 			}
 			id: "2AD68066C1948C90"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "0252C0BC3DEF31F5"
 				type: "xp"
@@ -1553,7 +1550,7 @@
 			}
 			id: "56EC79AF11B0869E"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "51B3FB4AEFE0E2A2"
 				type: "xp"
@@ -1597,7 +1594,7 @@
 			}
 			id: "2CF96A264EB5522C"
 			min_width: 300
-			require_sequential_tasks: false
+			require_sequential_tasks: true
 			rewards: [{
 				id: "624180C81D6D3EB9"
 				type: "xp"
@@ -1675,7 +1672,7 @@
 				}
 			]
 			x: 25.5d
-			y: 12.0d
+			y: 11.0d
 		}
 		{
 			dependencies: [
@@ -1748,8 +1745,6 @@
 				"3543563DF036D461"
 				"7BCD4A425CF6199B"
 				"00A6020BC979947F"
-				"2E68E1D96B25336D"
-				"1EB887F8072439A3"
 			]
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_misc"
@@ -2000,31 +1995,6 @@
 			}]
 			x: 10.5d
 			y: 3.0d
-		}
-		{
-			dependencies: ["1DE0F289821F55D1"]
-			hide_dependency_lines: false
-			id: "0C554FD9A150D2CD"
-			optional: true
-			rewards: [{
-				id: "257DD34C7F9C949C"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [
-				{
-					id: "0607DFA56DE7811D"
-					item: { count: 1, id: "occultism:silver_sacrificial_bowl" }
-					type: "item"
-				}
-				{
-					id: "5D47558436A20FCB"
-					item: { count: 1, id: "occultism:copper_sacrificial_bowl" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: 6.0d
 		}
 	]
 }
