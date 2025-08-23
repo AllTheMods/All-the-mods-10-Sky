@@ -65,8 +65,6 @@
 		{ id: "6DFE20F200A9B71A", item: { count: 1, id: "mysticalagriculture:spider_seeds" } }
 		{ id: "56D9C363A37F4CAD", item: { count: 1, id: "mysticalagriculture:skeleton_seeds" } }
 		{ id: "776883BC39C2A17A", item: { count: 1, id: "mysticalagriculture:rabbit_seeds" } }
-		{ id: "31E80459C7053AB4", item: { count: 1, id: "mysticalagriculture:steeleaf_seeds" } }
-		{ id: "005D7D46B0012AE0", item: { count: 1, id: "mysticalagriculture:ironwood_seeds" } }
 	]
 	use_title: true
 }

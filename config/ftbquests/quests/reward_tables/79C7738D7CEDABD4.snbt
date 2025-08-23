@@ -54,7 +54,6 @@
 			}
 			weight: 3.0f
 		}
-		{ id: "1D0E7C2715125A3B", item: { count: 1, id: "mysticalagriculture:enderium_seeds" } }
 	]
 	use_title: true
 }
