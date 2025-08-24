@@ -1090,7 +1090,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(chipped:andesite)item_tag(chipped:basalt)item_tag(chipped:blackstone)item_tag(chipped:calcite)item_tag(chipped:cobblestone)item_tag(chipped:deepslate)item_tag(chipped:diorite)item_tag(chipped:granite)item_tag(chipped:stone)item_tag(chipped:tuff))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: 0.0d
 			y: -3.5d
 		}
 		{
@@ -1145,40 +1145,6 @@
 			}]
 			x: -5.5d
 			y: 2.5d
-		}
-		{
-			dependencies: ["09955CF85F579E0F"]
-			icon: {
-				id: "railcraft:quarried_stone"
-			}
-			id: "22E007025C19EC0A"
-			rewards: [
-				{
-					count: 16
-					id: "6D883E065044B7F4"
-					item: {
-						count: 1
-						id: "railcraft:quarried_stone"
-					}
-					type: "item"
-				}
-				{
-					count: 16
-					id: "3ED212B8B2BE22C6"
-					item: {
-						count: 1
-						id: "railcraft:abyssal_stone"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "50BED71A6677392E"
-				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:abyssal_stone)item(railcraft:quarried_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: -3.5d
 		}
 		{
 			dependencies: ["6F65216B13E9FFA9"]

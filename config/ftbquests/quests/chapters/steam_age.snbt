@@ -779,6 +779,22 @@
 		{
 			dependencies: ["4E4C4C962753B6AB"]
 			id: "3B8CD878A4D91F9F"
+			rewards: [
+				{
+					count: 3
+					id: "699A7A4F9C1B3E1E"
+					item: {
+						count: 1
+						id: "alltheores:copper_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "59B3B8E7ADE4FC7D"
+					type: "xp"
+					xp: 10
+				}
+			]
 			tasks: [{
 				id: "2D5EE6F4F4D4E5CA"
 				type: "checkmark"
