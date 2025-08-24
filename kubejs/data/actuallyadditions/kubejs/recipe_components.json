@@ -1,0 +1,3 @@
+{
+    "actuallyadditions:effect": "{effect: id, duration: int, amplifier: int}"
+}

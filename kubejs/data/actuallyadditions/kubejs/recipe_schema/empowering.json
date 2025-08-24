@@ -1,0 +1,34 @@
+{
+  "keys" : [
+    {
+      "name": "result",
+      "type": "strict_item_stack",
+      "role": "output"
+    },
+    {
+      "name": "base",
+      "type": "non_empty_ingredient",
+      "role": "input"
+    },
+    {
+      "name": "modifiers",
+      "type": "non_empty_ingredient[]",
+      "role": "input"
+    },
+    {
+      "name": "energy",
+      "type": "int",
+      "role": "other"
+    },
+    {
+      "name": "color",
+      "type": "int",
+      "role": "other"
+    },
+    {
+      "name": "time",
+      "type": "int",
+      "role": "other"
+    }
+  ]
+}
