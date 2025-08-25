@@ -1,0 +1,42 @@
+{
+	id: "6329856B9A5563C4"
+	loot_size: 1
+	order_index: 44
+	rewards: [
+		{
+			count: 3
+			id: "2FEE42F3F171DB83"
+			item: {
+				count: 1
+				id: "draconicevolution:awakened_core"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 4
+			id: "587B071582CFA529"
+			item: {
+				count: 1
+				id: "draconicevolution:awakened_draconium_ingot"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "1385E35055AAA708"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "6D0B3F4FF912514D"
+			item: {
+				count: 1
+				id: "draconicevolution:draconic_energy_core"
+			}
+		}
+	]
+}

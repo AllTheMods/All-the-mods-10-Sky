@@ -1,0 +1,12 @@
+{
+  "type": "productivebees:bee_fishing",
+  "bee": "productivebees:patrick",
+  "biomes": [],
+  "chance": 0.01,
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:patrick"
+    }
+  ]
+}

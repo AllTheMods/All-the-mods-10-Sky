@@ -1,0 +1,42 @@
+{
+	id: "17BF0466A6A4DA01"
+	loot_size: 1
+	order_index: 45
+	rewards: [
+		{
+			count: 3
+			id: "38A0E687F2C01AB2"
+			item: {
+				count: 1
+				id: "draconicevolution:chaotic_core"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "4193696AB0590135"
+			item: {
+				count: 1
+				id: "draconicevolution:medium_chaos_frag"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "0941538058F19770"
+			item: {
+				count: 1
+				id: "draconicevolution:awakened_draconium_block"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "75A7A97DF5EB52B1"
+			item: {
+				count: 1
+				id: "draconicevolution:chaotic_energy_core"
+			}
+		}
+	]
+}

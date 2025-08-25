@@ -1,0 +1,42 @@
+{
+	id: "73742263F9E32427"
+	loot_size: 1
+	order_index: 42
+	rewards: [
+		{
+			count: 5
+			id: "4E2ED0D943AD12C1"
+			item: {
+				count: 1
+				id: "draconicevolution:draconium_dust"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 5
+			id: "7FB7B55C2C48CA84"
+			item: {
+				count: 1
+				id: "draconicevolution:draconium_ingot"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "17908A92FDE61D64"
+			item: {
+				count: 1
+				id: "draconicevolution:draconium_core"
+			}
+		}
+		{
+			count: 3
+			id: "1672CE29C1FD9F6B"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 0.5f
+		}
+	]
+}
