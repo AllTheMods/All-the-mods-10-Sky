@@ -8,6 +8,7 @@
 	}
 	id: "306DBE1EBB85D02E"
 	order_index: 11
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{

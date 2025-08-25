@@ -5,6 +5,7 @@
 	group: "029264819125415F"
 	id: "3B0302DB5E77C3A2"
 	order_index: 0
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
