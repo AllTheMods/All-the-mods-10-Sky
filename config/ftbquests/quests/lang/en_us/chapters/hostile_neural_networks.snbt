@@ -5,7 +5,6 @@
 	quest.12AE2856444996F6.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.14B3542ECB59869C.quest_desc: ["The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions.\\n\\nWhen given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated.\\n\\nExamples of Mob Predictions:\\n\\n- &dEnder Dragons&r for &dDragon Eggs\\n - &2Zombies&r for Iron\\n - &0Withers&r for &5Nether Stars"]
 	quest.14B3542ECB59869C.title: "Creating &dLoot"
-	quest.14F7F256DA863280.quest_subtitle: "Makes various Twilight Forest Materials"
 	quest.2559201BCF5D497C.quest_subtitle: "Makes various Overworld Materials"
 	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
 	quest.34CD54347E9821B5.title: "Leveling Up Data Models"
@@ -25,3 +24,4 @@
 	task.6B580F95A2E5A465.title: "AllRightsReserved"
 	task.7F17E48ACE65C84E.title: "Data Models"
 }
+

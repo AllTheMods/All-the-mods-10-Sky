@@ -4,6 +4,8 @@
 	quest.078C5B50CDC174CB.quest_desc: ["&aMechanical Bearings&r are the most simple forms of &aContraption&r movement. \\n\\nWhen given &dRotational Power&r from their bottom, they will rotate any Blocks above at the same Speed and Direction. \\nBlocks will automatically be &aGlued&r to the &aMechanical Bearing&r, but any other Blocks will need to be &aGlued&r to that Block to move as well! \\n\\nIf you use a &aMechanical Bearing&r within a &aContraption&r itself, it will try and keep the Block attached still instead of Rotating."]
 	quest.078C5B50CDC174CB.title: "&aMechanical Bearing"
 	quest.087F6C09CB5B2D1A.quest_desc: ["&bSmart Fluid Pipes&r will give us Filtering for &bFluid Pipes&r. \\n\\nWhen put on the Machine that the &bPipes&r are extracting from, it can be set to only take out the one &bFluid&r. This is set by adding a Bucket full of that &bLiquid&r in the Filter Slot. \\n\\nYou can place the &bSmart Fluid Pipe&r later in the &bPipe system&r to only send that certain &bFluid&r through the &bPipes&r after it. \\n\\nThis is helpful for mass sorting a bunch of &bFluid Tanks&r!"]
+	quest.6637B33E9D474D5F.quest_desc: ["The Rotation Speed Controller is a core progression item in Create. It allows you to control and fine-tune rotational speed, which is required for many advanced contraptions."]
+	quest.6637B33E9D474D5F.title: "&eRotation Speed Controller"
 	quest.087F6C09CB5B2D1A.title: "&bSmart Fluid Pipe"
 	quest.09936F8FCEA72C5C.quest_desc: [
 		"The &aCart Assembler&r can be placed on tracks. Anything you build on top of it will be picked up by a &7Minecart&r if the &aAssembler&r has a &4Redstone signal&r."
@@ -204,3 +206,4 @@
 	task.3AB6845819FF686F.title: "Cardboard Packages"
 	task.6F72D8976359CFF9.title: "Water Wheels"
 }
+

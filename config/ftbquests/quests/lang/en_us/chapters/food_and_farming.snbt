@@ -1,4 +1,51 @@
 {
+	quest.63050A2CACD6ADC9.quest_subtitle: "or is it?"
+	quest.63050A2CACD6ADC9.title: "A Maxed Rod"
+	quest.528304AA09EA8C23.quest_desc: ["Gotta catch em' all!"]
+	quest.528304AA09EA8C23.quest_subtitle: "Fishing for days"
+	quest.528304AA09EA8C23.title: "Gone Fishin"
+	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r is all about Farming and Cooking Food Items! We can also use those same Items for Decoration and usage! \\n\\nThe Stove, Pots, and Pans are perfect for a Kitchen. \\n\\nThe Food Barrels are great for a Pantry. \\n\\nThe Farm stuff is great for outdoor decor and the Cabinets are perfect for anywhere!"]
+	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
+	quest.0AC713AEEBCF2CD2.quest_desc: ["Or you can use MA...but who does that?"]
+	quest.0AC713AEEBCF2CD2.quest_subtitle: "Humane egg collection"
+	quest.0AC713AEEBCF2CD2.title: "Egg Automation"
+	quest.0CB4CF33BD96D730.quest_desc: ["Productive Farming allows you to increase crop returns by modifying their stats! (Quests coming soon)"]
+	quest.0A7F53BFE6A4DFDC.quest_desc: ["Tired of seeing only recipes you can make? With this you can view how to make every food in the game."]
+	quest.0A7F53BFE6A4DFDC.quest_subtitle: "The encyclopedia of cooking"
+	quest.0A7F53BFE6A4DFDC.title: "No Filter Cookbook"
+	quest.0FE88A567578C720.quest_desc: ["These are superfoods that give a wide array of buffs, depending on the apple."]
+	quest.0FE88A567578C720.quest_subtitle: "Crystallized apples"
+	quest.79DD2C115A5FC23B.quest_desc: ["Each tier gives a new positive effect. Safe to say these are pretty OP..."]
+	quest.79DD2C115A5FC23B.quest_subtitle: "Tiered apples"
+	quest.79DD2C115A5FC23B.title: "MA Apples"
+	quest.460969C070B5C8E5.quest_desc: [
+		"I'd say crafting it is easiest..."
+		"We don't have to stop here!"
+	]
+	quest.460969C070B5C8E5.quest_subtitle: "The limit of Vanilla..."
+	quest.460969C070B5C8E5.title: "\"Notch\" apple"
+	quest.083309154A8974DA.quest_desc: ["The most basic of improvements"]
+	quest.083309154A8974DA.quest_subtitle: "A slight boost"
+	quest.083309154A8974DA.title: "Gilded Foods"
+	quest.12139F09C0F1361D.quest_desc: ["Increases speed of growth, conflicts with green fertilizer."]
+	quest.12139F09C0F1361D.quest_subtitle: "Productive shrooms"
+	quest.60053279577A59C1.quest_desc: ["Tired of annihilating your crops when jumping? Well you're in luck! Usable with the other two types."]
+	quest.60053279577A59C1.quest_subtitle: "Productive gold"
+	quest.34F29677E6B5E40C.quest_desc: ["Increases output per harvest, conflicts with red fertilizer."]
+	quest.34F29677E6B5E40C.quest_subtitle: "Productive mold"
+	quest.2FBF54AC8273E8DF.quest_desc: ["Productive Trees adds lots of new trees that each have their own goodies. You can harvest these fruits by breaking the leaves."]
+	quest.2FBF54AC8273E8DF.quest_subtitle: "Fruits and fruits and fruits"
+	quest.2FBF54AC8273E8DF.title: "Productive Trees"
+	quest.1B4A74D744F39516.quest_desc: ["Break some Oak Leaves."]
+	quest.1B4A74D744F39516.quest_subtitle: "Any tool works (including your fist)"
+	quest.1B4A74D744F39516.title: "Break the Leaves"
+	quest.1E7A4F84CEDBE2AF.quest_desc: ["Bonemeal is the most basic way to amplify your returns."]
+	quest.1E7A4F84CEDBE2AF.quest_subtitle: "Gotta use those bones"
+	quest.1E7A4F84CEDBE2AF.title: "Improving Growth"
+	quest.7FB5AFB3A30830D4.quest_desc: ["Grow this sapling to gain access to the most basic of fruits."]
+	quest.7FB5AFB3A30830D4.title: "Fruits from Trees"
+	quest.0500DA5C4D383DC6.quest_desc: ["Get these by killing zombies or sieving dirt."]
+	quest.0500DA5C4D383DC6.quest_subtitle: "Eat your veggies"
 	quest.04D0543FE2820F64.quest_desc: ["Time to Grow some string! Some of these allow you to grow it directly, whilst others give you an alternative that works in recipes."]
 	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
 	quest.04D0543FE2820F64.title: "Flax String"
@@ -85,4 +132,13 @@
 	task.669DEA201002793D.title: "Fridges"
 	task.78D7794707E4BD83.title: "Crops"
 	task.7F08D4E77359BF4A.title: "Wool"
+	task.7C686DA23151A0F3.title: "Golden food"
+	task.690D9E03BB024BCF.title: "Allthemodium metal"
+	task.6DF92BBEC7E3EC10.title: "Allthemodium food"
+	task.3824DC29D8790DAB.title: "Gem Apples"
+	task.73E843FE4FCCEA33.title: "MA Apples"
+	task.003A07A0E816B302.title: "Productive Farming"
+	task.32791AD78C17C814.title: "Farmer's Delight Tools"
+	task.3DA0D9582AEFCBCF.title: "Flax Seeds"
 }
+

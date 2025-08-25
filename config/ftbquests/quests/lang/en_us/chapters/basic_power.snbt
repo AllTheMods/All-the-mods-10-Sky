@@ -20,7 +20,7 @@
 		"Right clicking a functional Flux Network block will give you this UI.\\n\\nEach Plug or Point can be named, have a custom priority level, and have a custom power transfer limit. This allows complete control over all parts of your system.\\n\\n&aBypass Limit&r ignores the limit set.\\n\\nThere are several other tabs to check out, mostly for statistics on your network!\\n"
 		"{image:atm:textures/questpics/basic_power/flux_ui.png width:125 height:150 align:center}"
 	]
-	quest.35ABB0DEE70DF7FD.quest_desc: ["Believe it or not, the &aPowah&r mod has some great options for getting... powwe.\\n\\nMake sure to check out the &cPowah&r qyest chapter to learn more!"]
+	quest.35ABB0DEE70DF7FD.quest_desc: ["Believe it or not, the &aPowah&r mod has some great options for getting...power.\\n\\nMake sure to check out the &cPowah&r quest chapter to learn more!"]
 	quest.35ABB0DEE70DF7FD.title: "More &aPowah&r!"
 	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r is a mod that aims to be the solution to all of your wireless power needs.\\n\\nThe mod itself does not have a way to generate power, but it can store and wirelessly transmit power, even across dimensions. It can even charge your items in your inventory.\\n\\nYou can even charge your Jetpacks while you are flying with this mod.\\n\\nTo get started with the mod, you'll need some Flux Dust. Craft some Obsidian 1x Compressed (9 Obsidian in crafting table), place it down, then throw some Redstone on top of it. Place some Obsidian right above the floating Redstone (1 block above), then left click (punch) the Obsidian."]
 	quest.35CC898E0E49FE58.quest_subtitle: "The Ultimate Wireless Power Solution"
@@ -86,4 +86,5 @@
 	task.6C4B8A2662030CB0.title: "Universal Cables"
 	task.76378687551A79C3.title: "Energy Cubes"
 }
+
 

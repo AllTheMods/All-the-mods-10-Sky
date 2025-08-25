@@ -1,4 +1,7 @@
 {
+	quest.3B8CD878A4D91F9F.quest_desc: ["Uh oh."]
+	quest.3B8CD878A4D91F9F.quest_subtitle: "Get ready for some processing"
+	quest.3B8CD878A4D91F9F.title: "More Bronze Machines"
 	quest.017194E29D6745E8.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
 	quest.079383355D14FBC9.quest_desc: [
@@ -77,3 +80,4 @@
 	task.3B6E674F4C958EA6.title: "Hammers"
 	task.76DAFB50056E4238.title: "AllRightsReserved"
 }
+

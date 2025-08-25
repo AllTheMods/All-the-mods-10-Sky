@@ -1,4 +1,16 @@
 {
+	quest.1C2CF6253F8B32EE.quest_subtitle: "Tier: &56"
+	quest.398DEF6BA2E488C1.quest_subtitle: "Tier: &56"
+	quest.617F1FA978197AFD.quest_subtitle: "Tier: &56"
+	quest.5A417BE804E46E8C.quest_subtitle: "Tier: &a2"
+	quest.56201F98819478AB.quest_subtitle: "Tier: &a2"
+	quest.42218A7D42CF0A4C.quest_subtitle: "Tier: &a2"
+	quest.3BD8315851A3EE5F.quest_subtitle: "Tier: &a2"
+	quest.4352505361D61BB2.quest_subtitle: "Tier: &a2"
+	quest.2A59C2FE4AAA79D4.quest_subtitle: "Tier: &a2"
+	quest.5782E9F866453D1D.quest_subtitle: "Tier: &b4"
+	quest.20851E0CF315F722.quest_desc: ["For seeds of this tier, you will need a crux of the same type placed below the farmland in order for the seeds to grow."]
+	quest.20851E0CF315F722.title: "&5Insanium Farmland"
 	quest.04A7AA70C23830FF.quest_desc: ["Sickles tools that can be used to clear large amount of organic materials. Sickles break blocks in an area around the block you mine."]
 	quest.04B6E31120663EB2.quest_subtitle: "Tier: &a2"
 	quest.06EAA74E0A10CBB6.quest_subtitle: "Range: &b36&r Blocks"
@@ -179,3 +191,4 @@
 	task.773CA1FDC4CEFCEF.title: "AllRightsReserved"
 	task.7D9A58EBADE91F54.title: "Inferium Tools"
 }
+

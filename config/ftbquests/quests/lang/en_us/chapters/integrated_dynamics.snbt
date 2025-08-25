@@ -9,7 +9,7 @@
 	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
 	quest.3C9539083BCC145C.quest_desc: ["Menril Bees can be used to automate Crystallized Menril Chunks."]
 	quest.3C9539083BCC145C.quest_subtitle: "Automating Menril"
-	quest.437F4945AFBE0825.quest_desc: ["When you right-click on an Importer or an Exporter, it brings up a menu. The menu is mainly for filtering, say you have a Variable Card set to Cobblestone, your Exporter will only send Cobblestone.\\n\\nThere is a little \"+\" to the left of variables when you insert them, clicking on it opens another GUI. In here you can change transfer rates to be able to send &dINFINITE&r items/fluids/energy, as well as being able to do some other stuff.\\n\\nOn the top left we have settings, these are for the most part the same thing as the interface settings."]
+	quest.437F4945AFBE0825.quest_desc: ["When you right-click on an Importer or an Exporter, it brings up a menu. The menu is mainly for filtering, say you have a Variable Card set to Cobblestone, your Exporter will only send Cobblestone.\\n\\nThere is a little \"+\" to the left of variables when you insert them, clicking on it opens another GUI. In here you can change transfer rates to be able to send &dINFINITE&r items/fluids/energy, as well as being able to do some other stuff.\\n\\nOn the top left we have settings, these are for the most part the same thing as the interface settings.\\n\\nNote: Lag may limit transfer rate."]
 	quest.44DA091B53473723.quest_desc: ["The Mechanical Squeezer uses energy to squeeze."]
 	quest.450EDE68EC992A5A.quest_desc: ["Interfaces &cread&r whatever they're looking at. You can think of this like an &bAE2&r Storage Bus.\\n\\nYou don't know what that is? Well here's an example: A chest with 100 Cobblestone in it has an interface on it, this means your ID network has 100 Cobblestone in it's system, pretty simple, right?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Have GUIs!"
@@ -59,3 +59,4 @@
 	task.4209A06A392362DB.title: "Importer \\& Exporter GUI"
 	task.5DD862CF56AF7BF9.title: "Menril Logs"
 }
+
