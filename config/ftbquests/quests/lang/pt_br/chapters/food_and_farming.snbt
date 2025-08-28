@@ -1,90 +1,141 @@
 {
-	quest.04D0543FE2820F64.quest_desc: ["Hora de cultivar um pouco de linha! Alguns destes permitem cultivá-la diretamente, enquanto outros oferecem uma alternativa que funciona nas receitas."]
-	quest.04D0543FE2820F64.quest_subtitle: "Quem precisa de Aranhas de qualquer maneira?"
-	quest.04D0543FE2820F64.title: "&fFio de Linho"
+	quest.04D0543FE2820F64.quest_desc: ["Hora de cultivar um pouco de linha! Alguns destes permitem que você a cultive diretamente, enquanto outros oferecem uma alternativa que funciona em receitas."]
+	quest.04D0543FE2820F64.quest_subtitle: "Quem precisa de Aranhas, afinal?"
+	quest.04D0543FE2820F64.title: "Linha de Linho"
+	quest.0500DA5C4D383DC6.quest_desc: ["Obtenha-os matando zumbis ou peneirando terra."]
+	quest.0500DA5C4D383DC6.quest_subtitle: "Coma seus vegetais"
+	quest.083309154A8974DA.quest_desc: ["A mais básica das melhorias"]
+	quest.083309154A8974DA.quest_subtitle: "Um pequeno impulso"
+	quest.083309154A8974DA.title: "Alimentos Dourados"
 	quest.0893EFCAC7031FEA.quest_desc: ["Hora de assar um bolo, se você tiver leite e ovos prontos."]
 	quest.0893EFCAC7031FEA.quest_subtitle: "Tenha seu Bolo e Coma-o Também"
-	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Adoram Isso"
-	quest.0A1C2A7A8617D3E4.title: "&eTrigo"
-	quest.0EFF1AA37772156B.quest_desc: ["Este bloco fornece água para a cozinha multiblock.\\n\\nEle também pode fornecer água infinita bombeando água para fora através de cabos ou canos."]
+	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Amam Isso"
+	quest.0A1C2A7A8617D3E4.title: "Trigo"
+	quest.0A7F53BFE6A4DFDC.quest_desc: ["Cansado de ver apenas as receitas que você pode fazer? Com isto, você pode ver como fazer todas as comidas do jogo."]
+	quest.0A7F53BFE6A4DFDC.quest_subtitle: "A enciclopédia da culinária"
+	quest.0A7F53BFE6A4DFDC.title: "Livro de Receitas Sem Filtro"
+	quest.0AC713AEEBCF2CD2.quest_desc: ["Ou você pode usar MA... mas quem faz isso?"]
+	quest.0AC713AEEBCF2CD2.quest_subtitle: "Coleta de ovos humanitária"
+	quest.0AC713AEEBCF2CD2.title: "Automação de Ovos"
+	quest.0CB4CF33BD96D730.quest_desc: ["Productive Farming permite que você aumente o retorno das colheitas modificando seus status! (Missões em breve)"]
+	quest.0EFF1AA37772156B.quest_desc: ["Este bloco fornece água para a cozinha multi-bloco.\\n\\nEle também pode fornecer água infinita bombeando água para fora através de cabos ou canos."]
 	quest.0EFF1AA37772156B.quest_subtitle: "1 Bloco resolve o problema!"
-	quest.0EFF1AA37772156B.title: "&fA Pia = Água Infinita"
+	quest.0EFF1AA37772156B.title: "A Pia = Água Infinita"
+	quest.0FE88A567578C720.quest_desc: ["Estes são superalimentos que concedem uma grande variedade de bônus, dependendo da maçã."]
+	quest.0FE88A567578C720.quest_subtitle: "Maçãs cristalizadas"
+	quest.12139F09C0F1361D.quest_desc: ["Aumenta a velocidade de crescimento, entra em conflito com o fertilizante verde."]
+	quest.12139F09C0F1361D.quest_subtitle: "Cogumelos produtivos"
 	quest.13AFCD3B6F62B986.quest_desc: ["Fornece receitas de Gelo e Neve!"]
 	quest.13AFCD3B6F62B986.quest_subtitle: "Ice, Ice, Baby!"
-	quest.13AFCD3B6F62B986.title: "&fMelhoria de Gelo"
+	quest.13AFCD3B6F62B986.title: "Melhoria de Gelo"
 	quest.1515B32545F51266.quest_desc: ["Permite que você conecte energia ao Fogão."]
-	quest.1515B32545F51266.title: "M&felhoria de Aquecimento"
+	quest.1515B32545F51266.title: "Melhoria de Aquecimento"
 	quest.1697CC05D08B388D.quest_subtitle: "Delicioso Frango Frito!"
-	quest.1697CC05D08B388D.title: "&fAs Galinhas Devem Partir"
+	quest.1697CC05D08B388D.title: "As Galinhas Devem Ir"
 	quest.1827DEEA2DF1B144.quest_desc: ["Bem-vindo ao capítulo de Comida e Agricultura!\\n\\nAqui, você encontrará diferentes maneiras de cultivar e fazer comida!"]
-	quest.1827DEEA2DF1B144.title: "&5Comida e Agricultura"
+	quest.1827DEEA2DF1B144.title: "Comida e Agricultura"
 	quest.18EADBAFC932F864.quest_desc: ["Para tosquiar Ovelhas você precisa de Tesouras, você não conseguiria Lã de outra forma... certo?"]
-	quest.18EADBAFC932F864.quest_subtitle: "Corrida Pacifista"
-	quest.18EADBAFC932F864.title: "&fÉ Hora de Tosquiar"
-	quest.1D2EF12FD7FDD217.quest_desc: ["As galinhas botam estes ovos naturalmente. Acho que não é realmente considerado naturalmente...\\n\\nAcho que as galinhas estão apenas se... &oOvo-xercitando!!!&r."]
-	quest.1D2EF12FD7FDD217.quest_subtitle: "...ou será que estou?"
-	quest.1D2EF12FD7FDD217.title: "&fNão vou fazer uma piada de Ovo"
+	quest.18EADBAFC932F864.quest_subtitle: "Jornada Pacifista"
+	quest.18EADBAFC932F864.title: "É Hora de Tosquiar"
+	quest.1B4A74D744F39516.quest_desc: ["Quebre algumas Folhas de Carvalho."]
+	quest.1B4A74D744F39516.quest_subtitle: "Qualquer ferramenta funciona (incluindo seu punho)"
+	quest.1B4A74D744F39516.title: "Quebre as Folhas"
+	quest.1D2EF12FD7FDD217.quest_desc: ["Galinhas botarão estes naturalmente. Acho que não é realmente considerado natural...\\n\\nEu acho que as galinhas estão apenas se... &oOvo-rcitando!!!&r."]
+	quest.1D2EF12FD7FDD217.quest_subtitle: "...ou estou?"
+	quest.1D2EF12FD7FDD217.title: "Não vou fazer um trocadilho com Ovo"
 	quest.1D48298525EEADC9.quest_desc: ["Você já deve ter tudo o que precisa."]
-	quest.1D48298525EEADC9.quest_subtitle: "Derrame um pouco de Açúcar em mim!"
+	quest.1D48298525EEADC9.quest_subtitle: "Jogue um pouco de Açúcar em mim!"
 	quest.1D48298525EEADC9.title: "Você é tão doce"
 	quest.1DCAA0310AA55F1C.quest_desc: ["Mas ele geralmente fecha às 5, então quem se importa?"]
 	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Ficaria Orgulhoso"
-	quest.1DCAA0310AA55F1C.title: "O Começo de um Pescador"
-	quest.1F114EB0AAB86DB4.quest_desc: ["Mercados fornecem um aldeão que pode te vender qualquer coisa se você tiver a quantidade certa de esmeraldas.\\n\\nSpoiler: Geralmente é apenas 1 Esmeralda por item, felizmente, eles têm TUDO."]
-	quest.1F114EB0AAB86DB4.quest_subtitle: "O Aldeão tem mais de uma maneira de Nascer"
-	quest.1F114EB0AAB86DB4.title: "Comprando Suprimentos Agrícolas"
-	quest.2786D5AC19163524.quest_desc: ["Este bloco ativa receitas de fundição no seu multibloco de cozinha!"]
-	quest.2786D5AC19163524.quest_subtitle: "Não precisa de temporizador"
-	quest.2786D5AC19163524.title: "&fQuerida, tem uma Fornalha na Cozinha"
-	quest.28C9EDBF6607E180.quest_desc: ["Este bloco faz parte de uma cozinha multibloco.\\n\\nEle mostrará todas as receitas disponíveis para você com a comida que você tem em seu inventário, ou armazenada no multibloco da cozinha.\\n\\nVocê pode finalmente criar uma cozinha bonita no Minecraft."]
+	quest.1DCAA0310AA55F1C.title: "O Início de um Pescador"
+	quest.1E7A4F84CEDBE2AF.quest_desc: ["Farinha de Osso é a maneira mais básica de ampliar seus retornos."]
+	quest.1E7A4F84CEDBE2AF.quest_subtitle: "Tem que usar esses ossos"
+	quest.1E7A4F84CEDBE2AF.title: "Melhorando o Crescimento"
+	quest.1F114EB0AAB86DB4.quest_desc: ["Mercados fornecem a você um aldeão que pode te vender qualquer coisa se você tiver a quantidade certa de esmeraldas.\\n\\nSpoiler: Geralmente é apenas 1 Esmeralda por item, por sorte, eles têm TUDO."]
+	quest.1F114EB0AAB86DB4.quest_subtitle: "O Aldeão tem mais de uma maneira de Surgir"
+	quest.1F114EB0AAB86DB4.title: "Comprando Suprimentos de Fazenda"
+	quest.2786D5AC19163524.quest_desc: ["Este bloco habilita receitas de fundição na sua cozinha multi-bloco!"]
+	quest.2786D5AC19163524.quest_subtitle: "Nenhum Cronômetro Necessário"
+	quest.2786D5AC19163524.title: "Querida, tem uma Fornalha na Cozinha"
+	quest.28C9EDBF6607E180.quest_desc: ["Este bloco faz parte de uma cozinha multi-bloco.\\n\\nIsto mostrará todas as receitas disponíveis para você com a comida que você tem no seu inventário, ou armazenada na cozinha multi-bloco.\\n\\nVocê pode finalmente criar uma bela cozinha no Minecraft."]
 	quest.28C9EDBF6607E180.quest_subtitle: "Betty White nasceu antes do Pão de Forma"
-	quest.28C9EDBF6607E180.title: "&fA MELHOR COISA DESDE O PÃO DE FORMA"
-	quest.2E9C035EEE7E5C34.quest_desc: ["A clássica Coleira. Use-a para levar animais para a sua área de fazenda.\\n\\nIsso não é a mesma coisa que o minério de chumbo."]
-	quest.2E9C035EEE7E5C34.quest_subtitle: "Vamos lá, cãozinho..."
-	quest.2E9C035EEE7E5C34.title: "&fVamos fazer do jeito antigo"
+	quest.28C9EDBF6607E180.title: "A MELHOR COISA DESDE O PÃO DE FORMA"
+	quest.2E9C035EEE7E5C34.quest_desc: ["O Laço clássico. Use-o para levar animais para a área da sua fazenda.\\n\\nNão é a mesma coisa que o minério."]
+	quest.2E9C035EEE7E5C34.quest_subtitle: "Vamos lá, cachorrinho"
+	quest.2E9C035EEE7E5C34.title: "Faremos isso à Moda Antiga"
+	quest.2FBF54AC8273E8DF.quest_desc: ["Productive Trees adiciona muitas árvores novas, cada uma com suas próprias guloseimas. Você pode colher essas frutas quebrando as folhas."]
+	quest.2FBF54AC8273E8DF.quest_subtitle: "Frutas e frutas e frutas"
+	quest.2FBF54AC8273E8DF.title: "Productive Trees"
+	quest.34F29677E6B5E40C.quest_desc: ["Aumenta a produção por colheita, entra em conflito com o fertilizante vermelho."]
+	quest.34F29677E6B5E40C.quest_subtitle: "Mofo produtivo"
 	quest.361DFDB1E1352D6B.quest_desc: ["Encontre um pouco de Cana-de-Açúcar perto da água."]
-	quest.361DFDB1E1352D6B.quest_subtitle: "Hmmmm... Docinho..."
-	quest.361DFDB1E1352D6B.title: "&fAçúcar, Açúcar"
-	quest.37CA6F9F0226F10E.quest_desc: ["Este bloco armazena itens para cozinhar.\\n\\nVocê também pode colocar outros itens de multiblock de cozinha sobre ele, como torradeiras e uma Vaca em um Pote."]
+	quest.361DFDB1E1352D6B.title: "Açúcar Açúcar"
+	quest.37CA6F9F0226F10E.quest_desc: ["Este bloco armazena itens para cozinhar.\\n\\nVocê também pode colocar outros itens da cozinha multi-bloco sobre ele, como torradeiras e uma Vaca na Jarra."]
 	quest.37CA6F9F0226F10E.quest_subtitle: "Precisamos de mais espaço para cozinhar"
-	quest.37CA6F9F0226F10E.title: "&fPrecisa de mais espaço para cozinhar?"
-	quest.3EA883C0BB7BD38F.quest_desc: ["Vamos coletar alguns pedaços de Lã!"]
-	quest.3EA883C0BB7BD38F.quest_subtitle: "De quem era o Velo... Arco-íris?"
-	quest.3EA883C0BB7BD38F.title: "&fMaria Tinha um Carneirinho"
+	quest.37CA6F9F0226F10E.title: "Precisa de mais espaço para cozinhar?"
+	quest.3EA883C0BB7BD38F.quest_desc: ["Vamos juntar alguns pedaços de Lã!"]
+	quest.3EA883C0BB7BD38F.quest_subtitle: "De quem era o Velo.... Arco-Íris?"
+	quest.3EA883C0BB7BD38F.title: "Mary Tinha um Carneirinho"
 	quest.43021923E220CF68.quest_desc: ["Para arar Terra e transformá-la em Terra Arada, você precisará de uma Enxada."]
 	quest.43021923E220CF68.quest_subtitle: "Espere até conseguir Máquinas para isso..."
-	quest.43021923E220CF68.title: "&fO Plantador"
-	quest.45F83C2750F70F9B.quest_desc: ["Vá em frente, coloque um Livro em uma Fornalha e derreta-o."]
+	quest.43021923E220CF68.title: "O Plantador"
+	quest.45F83C2750F70F9B.quest_desc: ["Vá em frente, coloque um Livro em uma Fornalha e queime-o."]
 	quest.45F83C2750F70F9B.quest_subtitle: "Totalmente não vai pegar fogo..."
-	quest.45F83C2750F70F9B.title: "&fFazendo uma Cozinha, com um Livro"
-	quest.47764EFC822E462A.quest_desc: ["Este bloco produz leite ao longo do tempo e habilita receitas de leite para a multiblock da cozinha.\\n\\nPara colocar uma vaca no pote, coloque o pote em um buraco. Atraia a vaca para cair no dito buraco acima do pote, e então jogue uma bigorna nela.\\n\\nNão tenho ideia de que vidro é esse, mas é mais forte que meu relacionamento com a Galinha."]
-	quest.47764EFC822E462A.quest_subtitle: "Poderes de ordenha fenomenais.... espacinho de vida minúscula!"
-	quest.47764EFC822E462A.title: "&fUma Vaca num Pote"
-	quest.55C4824DAD905512.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
-	quest.58495CFBF4F20CE9.quest_desc: ["Isso funciona como o balcão da cozinha, exceto no ar.\\n\\nE você não pode colocar coisas em cima dele."]
+	quest.45F83C2750F70F9B.title: "Fazendo uma Cozinha, com um Livro"
+	quest.460969C070B5C8E5.quest_desc: [
+		"Eu diria que fabricá-la é mais fácil..."
+		"Não precisamos parar por aqui!"
+	]
+	quest.460969C070B5C8E5.quest_subtitle: "O limite do Vanilla..."
+	quest.460969C070B5C8E5.title: "Maçã do \"Notch\""
+	quest.47764EFC822E462A.quest_desc: ["Este bloco produz leite ao longo do tempo e habilita receitas com leite para a cozinha multi-bloco.\\n\\nPara colocar uma vaca na jarra, coloque a jarra em um buraco. Atraia a vaca para cair no buraco acima da jarra, depois jogue uma bigorna nela.\\n\\nNão tenho ideia de que vidro é feito, mas é mais forte que meu relacionamento com a Galinha."]
+	quest.47764EFC822E462A.quest_subtitle: "Poderes de Ordenha Fenomenais.... Espaço de vida Mínimo"
+	quest.47764EFC822E462A.title: "Uma Vaca na Jarra"
+	quest.528304AA09EA8C23.quest_desc: ["Temos que pegar todos!"]
+	quest.528304AA09EA8C23.quest_subtitle: "Pescando por dias"
+	quest.528304AA09EA8C23.title: "Fui Pescar"
+	quest.55C4824DAD905512.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2colaborador da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
+	quest.58495CFBF4F20CE9.quest_desc: ["Isto funciona como o balcão da cozinha, exceto no ar.\\n\\nE você não pode colocar coisas em cima."]
 	quest.58495CFBF4F20CE9.quest_subtitle: "Tanto espaço para atividades!"
 	quest.58495CFBF4F20CE9.title: "Ainda Mais Armazenamento"
-	quest.58D5BD3106BFD94A.quest_desc: ["Crie a próxima versão do livro. Eu prometo, vale a pena.\\n\\nEu até te devolvo um Diamante."]
+	quest.58D5BD3106BFD94A.quest_desc: ["Crie a próxima versão do livro. Eu prometo, vale a pena.\\n\\nEu até te darei um Diamante de volta."]
 	quest.58D5BD3106BFD94A.quest_subtitle: "Isso vale totalmente a pena"
-	quest.58D5BD3106BFD94A.title: "&fCozinhando com o poder dos Diamantes"
+	quest.58D5BD3106BFD94A.title: "Cozinhando com o poder dos Diamantes"
+	quest.60053279577A59C1.quest_desc: ["Cansado de aniquilar suas plantações ao pular? Bem, você está com sorte! Utilizável com os outros dois tipos."]
+	quest.60053279577A59C1.quest_subtitle: "Ouro produtivo"
+	quest.63050A2CACD6ADC9.quest_subtitle: "ou não é?"
+	quest.63050A2CACD6ADC9.title: "Uma Vara no Máximo"
 	quest.635620A03E3505BF.quest_desc: ["Não quero saber como você conseguiu isso."]
-	quest.635620A03E3505BF.quest_subtitle: "Mas... Vacas não podem ser tosqueadas..."
-	quest.635620A03E3505BF.title: "&fCouro"
+	quest.635620A03E3505BF.quest_subtitle: "Mas.... Vacas não podem ser tosquiadas..."
+	quest.635620A03E3505BF.title: "Couro"
 	quest.659A903F97F93BE2.quest_subtitle: "Rápido e Simples"
 	quest.659A903F97F93BE2.title: "O Pão da Vida"
-	quest.72717D1135486D7F.quest_desc: ["Vamos coletar algumas sementes."]
-	quest.72717D1135486D7F.quest_subtitle: "Mão no Bloco 1, Grama no Bloco 0"
-	quest.72717D1135486D7F.title: "&fSoque a Grama"
+	quest.72717D1135486D7F.quest_desc: ["Vamos juntar algumas sementes."]
+	quest.72717D1135486D7F.quest_subtitle: "Bloco Mão 1, Bloco Grama 0"
+	quest.72717D1135486D7F.title: "Soque a Grama"
 	quest.73B8A70240E6070E.quest_desc: ["Encontre uma Vaca e Clique com o Botão Direito nela com um Balde.\\n\\nSério, por que não há Touros?"]
 	quest.73B8A70240E6070E.quest_subtitle: "Por que não há Touros no jogo?"
-	quest.73B8A70240E6070E.title: "Ordenhar uma Vaca - Lucro"
+	quest.73B8A70240E6070E.title: "Ordenhe uma Vaca - Lucre"
 	quest.791AE62ACACBD5BA.quest_subtitle: "Você vai abrir, fechar, e abrir de novo, só porque está entediado"
-	quest.791AE62ACACBD5BA.title: "&fGeladeiras"
-	task.1D8904E53906D972.title: "TodosOsDireitosReservados"
+	quest.79DD2C115A5FC23B.quest_desc: ["Cada nível concede um novo efeito positivo. Pode-se dizer que são bem OP..."]
+	quest.79DD2C115A5FC23B.quest_subtitle: "Maçãs em níveis"
+	quest.79DD2C115A5FC23B.title: "Maçãs de MA"
+	quest.7FB5AFB3A30830D4.quest_desc: ["Cultive esta muda para ter acesso às frutas mais básicas."]
+	quest.7FB5AFB3A30830D4.title: "Frutas das Árvores"
+	task.003A07A0E816B302.title: "Productive Farming"
+	task.1D8904E53906D972.title: "TodosDireitosReservados"
 	task.2725700B5EA1CD75.title: "Tesouras"
 	task.323A434E1AF54408.title: "Enxadas"
-	task.5805158E69C05AED.title: "TodosOsDireitosReservados"
+	task.32791AD78C17C814.title: "Ferramentas do Farmer's Delight"
+	task.3824DC29D8790DAB.title: "Maçãs de Gema"
+	task.3DA0D9582AEFCBCF.title: "Sementes de Linho"
+	task.5805158E69C05AED.title: "TodosDireitosReservados"
 	task.669DEA201002793D.title: "Geladeiras"
+	task.690D9E03BB024BCF.title: "Metal de Allthemodium"
+	task.6DF92BBEC7E3EC10.title: "Comida de Allthemodium"
+	task.73E843FE4FCCEA33.title: "Maçãs de MA"
 	task.78D7794707E4BD83.title: "Plantações"
+	task.7C686DA23151A0F3.title: "Comida dourada"
 	task.7F08D4E77359BF4A.title: "Lã"
 }

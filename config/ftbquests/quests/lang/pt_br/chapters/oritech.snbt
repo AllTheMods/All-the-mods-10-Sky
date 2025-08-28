@@ -17,6 +17,8 @@
 	quest.1831B35A3239B583.quest_subtitle: "Fazendo múltiplas receitas de uma vez"
 	quest.1B2BD489D5173B40.quest_subtitle: "Muitas maneiras de conseguir isto"
 	quest.1D9A00C81C2A97F0.quest_subtitle: "Decepcionante"
+	quest.1DBF1D4061518B0B.quest_subtitle: "Transformando um em vários"
+	quest.1DBF1D4061518B0B.title: "Refinamento de Minérios"
 	quest.1F139091C1B4E50B.quest_subtitle: "Um circuito normal"
 	quest.208F759905CF7744.quest_desc: [
 		"As estações de drones são bem rápidas, mas requerem uma distância mínima de &450 blocos&r para funcionar."
@@ -66,7 +68,11 @@
 	quest.46EFCAE81C09368A.title: "Núcleos de Máquina"
 	quest.49D03933633D6A45.quest_subtitle: "É IA"
 	quest.4CFA7EE8174E3FD8.quest_subtitle: "Aumente a taxa de entrada de energia"
+	quest.4EAD06B0B3AD7D6E.quest_subtitle: "Fragmentar minérios brutos"
+	quest.4EAD06B0B3AD7D6E.title: "Agregados"
 	quest.4ED29ACF4A699E1B.quest_subtitle: "É melhor ainda"
+	quest.4F89C04CEBF812F9.quest_subtitle: "Fundir gemas em barras"
+	quest.4F89C04CEBF812F9.title: "Barras"
 	quest.50243E5CF1B156ED.quest_desc: ["Para obter &5pó de Plutônio&r, você deve carregar &aCristais de Uranita&r encontrados pelo mundo."]
 	quest.50243E5CF1B156ED.quest_subtitle: "Carregando cristal de Uranita"
 	quest.5189D72ED3808DC6.quest_desc: [

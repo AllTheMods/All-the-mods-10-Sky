@@ -124,8 +124,8 @@
 	quest.543F00603790AD3E.quest_subtitle: "Por favor não"
 	quest.543F00603790AD3E.title: "Descascando"
 	quest.54E7967B45B20F36.quest_subtitle: "Azevinho + Murta de Crepe Roxa"
-	quest.5577F49A93ADB19C.quest_desc: ["&lÁrvores Produtivas&r é um Mod irmão de &lAbelhas Produtivas&r.\\n\\nPara obter as diferentes Árvores, você precisará de Folhas Polinizadas. Para obter Folhas Polinizadas, você precisa de Pólen. Para Pólen, você precisa de Abelhas.\\n\\nAs abelhas que florescem perto das Árvores polinizarão automaticamente as Folhas, ou você pode usar uma Melhoria de Peneira de Pólen na Colmeia para obter e usar o Pólen você mesmo! Pegue uma por conta da casa!"]
-	quest.5577F49A93ADB19C.title: "Árvores Produtivas"
+	quest.5577F49A93ADB19C.quest_desc: ["&lProdutctive Trees&r é um Mod irmão de &lProductive Bees&r.\\n\\nPara obter as diferentes Árvores, você precisará de Folhas Polinizadas. Para obter Folhas Polinizadas, você precisa de Pólen. Para Pólen, você precisa de Abelhas.\\n\\nAs abelhas que florescem perto das Árvores polinizarão automaticamente as Folhas, ou você pode usar uma Melhoria de Peneira de Pólen na Colmeia para obter e usar o Pólen você mesmo! Pegue uma por conta da casa!"]
+	quest.5577F49A93ADB19C.title: "&fProdutctive Trees"
 	quest.5753E0138A072A3F.quest_subtitle: "Cerejeira + Carvalho/Carvalho Escuro"
 	quest.577A5FC500E14C05.quest_subtitle: "Cipreste de Lawson + Carvalho"
 	quest.5A84A64CB3D3E6F5.quest_subtitle: "Salgueiro Branco + Carvalho/Bétula/Tília Prateada"

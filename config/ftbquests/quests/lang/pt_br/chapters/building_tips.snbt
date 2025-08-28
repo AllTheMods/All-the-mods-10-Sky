@@ -41,8 +41,6 @@
 	quest.2094D1CE4BA66091.quest_desc: ["A luz é uma parte muito importante de qualquer Base. \\n\\nEla impede que Monstros apareçam, ajuda a ver e até adiciona mais Cor e vida às suas Construções! \\n\\nOu você pode simplesmente usar Visão Noturna, mas onde está a graça nisso!"]
 	quest.22D2CFDDB06C720C.quest_desc: ["Ferramentas são muito importantes no &2&lMinecraft&r, mas o espaço no inventário também é. Então, por que não liberar algum espaço fazendo um Paxel! \\nPaxels são uma combinação de Picaretas (P), Machados (axe) e Pás (els). \\n\\nEles podem descascar madeira, fazer caminhos e minerar quaisquer blocos que o mesmo nível de picareta/machado/pá possa!"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
-	quest.22E007025C19EC0A.quest_desc: ["O &l&7Railcraft&r, junto com Trens, adiciona algumas Pedras para Decoração! \\n\\nPedra de Pedreira e Pedra Abissal podem ser criadas juntas para fazer versões Polidas, Talhadas ou de Tijolo! \\n\\nE não se esqueça de Escadas e Lajes!"]
-	quest.22E007025C19EC0A.title: "Pedras do &l&7Railcraft&r"
 	quest.23631A4A743D4F0C.quest_desc: ["Nem reclame deste. \\n\\nExistem dezenas de maneiras de obter Ferro e é necessário até mesmo para a progressão normal. \\n\\nVocê vai obter Ferro, vai transformá-lo em um Bloco e vai deixá-lo bonito!"]
 	quest.23631A4A743D4F0C.title: "Metais &l&bLascascados&r"
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r é um Mod que adiciona alguns itens muito úteis. \\n\\nTodos, é claro, para construção! \\n\\nCada um requer &cEnergia&r para funcionar e tem um Menu que é aberto por padrão com &lG&r."]
@@ -168,7 +166,6 @@
 	task.4B13D48FF9D2530E.title: "Luzes do XyCraft"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "Luzes do Chipped"
-	task.50BED71A6677392E.title: "Pedras do Railcraft"
 	task.53A682560123F9B6.title: "Glassential"
 	task.5936B8B8EDE0AE55.title: "Blocos de Metal e Gema"
 	task.5DEABD15EDE5736F.title: "Vidro do XyCraft"
