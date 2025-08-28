@@ -68,8 +68,6 @@
 			}
 			weight: 2.0f
 		}
-		{ id: "525CD6F4CE36503D", item: { count: 1, id: "mysticalagriculture:fiery_ingot_seeds" } }
-		{ id: "69D0E41FAF7E30A7", item: { count: 1, id: "mysticalagriculture:knightmetal_seeds" } }
 	]
 	use_title: true
 }

@@ -73,8 +73,8 @@
 	quest.4ED29ACF4A699E1B.quest_subtitle: "Its betterer"
 	quest.4F89C04CEBF812F9.quest_subtitle: "Smelt gems into ingots"
 	quest.4F89C04CEBF812F9.title: "Ingots"
-	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must charge &aUranite Crystals&r found around the world."]
-	quest.50243E5CF1B156ED.quest_subtitle: "Uranite crystal charging"
+	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must fragment &aUranite Ore&r in the Fragment Forge to aquire &5Small Plutonium Dust&r."]
+	quest.50243E5CF1B156ED.quest_subtitle: "From Uranite to Plutonium"
 	quest.5189D72ED3808DC6.quest_desc: [
 		"&aShift right-click&r your target designator on the amethyst cluster and then &ashift right-click&r the laser to set the target."
 		""

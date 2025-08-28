@@ -24,4 +24,10 @@
 		""
 		"Now you can use a cupronickel EBF to smelt this into Stainless steel hot ingots."
 	]
+	quest.1130C09090FD0ED7.quest_desc: ["In order to get oil you need to place down an &9Oil Drilling Rig&r with a Platinum Drill. This will generate you Oil from nothing"]
+	quest.1130C09090FD0ED7.quest_subtitle: "Oil from nothing"
+	quest.20CAEF615D7A6506.quest_desc: ["In order to get some of the resources you need, place down a &9Quarry&r with a Drill. This will generate you Resources based on the Drill you are using"]
+	quest.20CAEF615D7A6506.quest_subtitle: "Ores from nothing"
+	quest.2DCDD37933172A55.quest_desc: ["Now that you have aquirred Oil you need to process it"]
+	quest.2DCDD37933172A55.quest_subtitle: "Distilling Oil"
 }

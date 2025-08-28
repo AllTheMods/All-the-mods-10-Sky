@@ -255,7 +255,7 @@
 				}
 				{
 					id: "22716B7AE8B5C488"
-					item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:steel_drill)item(modern_industrialization:stainless_steel_drill)item(modern_industrialization:gold_drill)item(modern_industrialization:copper_drill)item(modern_industrialization:titanium_drill)item(modern_industrialization:bronze_drill)item(kubejs:allthemodium_drill)item(kubejs:vibranium_drill)item(kubejs:unobtainium_drill))", "minecraft:custom_name": "\"Mining Drill\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:steel_drill)item(modern_industrialization:stainless_steel_drill)item(modern_industrialization:gold_drill)item(modern_industrialization:copper_drill)item(modern_industrialization:titanium_drill)item(modern_industrialization:bronze_drill))", "minecraft:custom_name": "\"Mining Drill\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
@@ -373,8 +373,8 @@
 					type: "item"
 				}
 			]
-			x: -14.5d
-			y: -15.0d
+			x: -16.5d
+			y: -14.25d
 		}
 		{
 			dependencies: ["0EE9BA9653F483E5"]
@@ -484,15 +484,15 @@
 			y: -19.5d
 		}
 		{
-			dependencies: ["0D705F03FB44510C"]
+			dependencies: ["32263E5A5D364416"]
 			id: "2DCDD37933172A55"
 			tasks: [{
 				id: "19125CC448A64705"
 				item: { count: 1, id: "modern_industrialization:distillery" }
 				type: "item"
 			}]
-			x: -18.5d
-			y: -16.0d
+			x: -16.5d
+			y: -19.5d
 		}
 		{
 			dependencies: ["1130C09090FD0ED7"]
@@ -502,8 +502,8 @@
 				item: { count: 1, id: "modern_industrialization:crude_oil_bucket" }
 				type: "item"
 			}]
-			x: -14.5d
-			y: -17.0d
+			x: -16.5d
+			y: -16.5d
 		}
 		{
 			dependencies: ["25EF6C8B77F36181"]
@@ -513,7 +513,7 @@
 				item: { count: 1, id: "modern_industrialization:polyethylene_bucket" }
 				type: "item"
 			}]
-			x: -8.5d
+			x: -6.5d
 			y: -19.5d
 		}
 		{
@@ -524,7 +524,7 @@
 				item: { count: 1, id: "modern_industrialization:ethylene_bucket" }
 				type: "item"
 			}]
-			x: -10.5d
+			x: -8.5d
 			y: -19.5d
 		}
 		{
@@ -535,7 +535,7 @@
 				item: { count: 1, id: "modern_industrialization:steam_cracked_light_fuel_bucket" }
 				type: "item"
 			}]
-			x: -12.5d
+			x: -10.5d
 			y: -19.5d
 		}
 		{
@@ -546,21 +546,18 @@
 				item: { count: 1, id: "modern_industrialization:light_fuel_bucket" }
 				type: "item"
 			}]
-			x: -14.5d
+			x: -12.5d
 			y: -19.5d
 		}
 		{
-			dependencies: [
-				"32263E5A5D364416"
-				"2DCDD37933172A55"
-			]
+			dependencies: ["2DCDD37933172A55"]
 			id: "4A45B1515CE9B720"
 			tasks: [{
 				id: "032A590787B209FC"
 				item: { count: 1, id: "modern_industrialization:sulfuric_light_fuel_bucket" }
 				type: "item"
 			}]
-			x: -16.5d
+			x: -14.5d
 			y: -19.5d
 		}
 		{
@@ -571,8 +568,8 @@
 				item: { components: { "productivebees:bee_type": "productivebees:oily" }, count: 1, id: "productivebees:configurable_honeycomb" }
 				type: "item"
 			}]
-			x: -13.0d
-			y: -17.0d
+			x: -14.5d
+			y: -16.5d
 		}
 		{
 			dependencies: ["479C91B96285B98B"]
