@@ -72,10 +72,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "5DD862CF56AF7BF9"
-				item: {
-					count: 1
-					id: "integrateddynamics:menril_sapling"
-				}
+				item: { count: 1, id: "integrateddynamics:menril_sapling" }
 				type: "item"
 			}]
 			x: 0.0d

@@ -24,7 +24,6 @@
 		"Integrated Terminals also lets you access your storage wirelessly! Just attach an Omni-Directional Splitter from Integrated Dynamics on any Logic Cables connecting your storage, "
 		"right click with the Portable Storage Terminal, and you now have unfettered access to your system."
 	]
-	quest.11A351E2CDE2A31E.quest_subtitle: ""
 	quest.11A351E2CDE2A31E.title: "Portable Storage Access"
 	quest.11D4EEAC61C7E530.quest_desc: ["The Collector Upgrade will make the Drawer vacuum items in from one of the sides."]
 	quest.11D57C768032E3F7.quest_subtitle: "More Filtering Options"
@@ -69,8 +68,6 @@
 		""
 		"A convenient way to interact with your fluid is by having buckets in your inventory and clicking in the fluid and then clicking again on the buckets to fill them!"
 	]
-	quest.289ED1DFD83B9838.quest_subtitle: ""
-	quest.289ED1DFD83B9838.title: ""
 	quest.2B422B7E0CE3590D.quest_desc: ["The Compacting Drawer can convert items placed inside to their nugget or block forms.\\n\\nFor example: An Iron Ingot placed in this will allow you to pull out 9 nuggets, or if more Iron is placed in, will covert it to Iron Blocks."]
 	quest.2B422B7E0CE3590D.quest_subtitle: "Auto Compacts/Decompacts"
 	quest.2F9B0C642A6BE30C.title: "&fIron Backpack"
@@ -84,7 +81,6 @@
 		""
 		"First, make some Menril Glass by putting Glass in a Drying Basin filled with Menril Resin."
 	]
-	quest.3043C83CCFC9706D.quest_subtitle: ""
 	quest.3043C83CCFC9706D.title: "Integrated Terminals"
 	quest.33882172DA8021F6.quest_desc: ["Keeps the player's inventory stacked up from items inside the Backpack."]
 	quest.33AADC1B97E9F7A9.quest_desc: ["Minecarts with Chests are Minecarts with Chests in them. You can't ride in these but they can be useful for transporting items across Rail systems."]
@@ -98,7 +94,6 @@
 	quest.3B570B3DB5F6D2CB.quest_subtitle: "x16 Storage Upgrade"
 	quest.3B570B3DB5F6D2CB.title: "&eGold Upgrade&r"
 	quest.3CE3CDB9C93CBDAD.quest_desc: ["[ \"Want to do some autocrafting? Check out the full \", { \"text\": \"IntegratedDynamics\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"499CF9F39CED8899\" } }, \" guide!\" ]"]
-	quest.3CE3CDB9C93CBDAD.quest_subtitle: ""
 	quest.3CE3CDB9C93CBDAD.title: "Autocrafting"
 	quest.3E33730DC2115D26.title: "&eGold Chest"
 	quest.4007DFA7CC3A5FF2.quest_desc: ["To save you from having this &oentire quest section&r covered with upgrades, take a look at the Sophisticated Backpack upgrades\\n\\nYou'll need to make the Sophisticated Storage equivalent, but they function about the same."]
@@ -155,7 +150,6 @@
 		""
 		"Then all you have to do is slap a Storage Terminal on there and voilà! You have access to your entire storage system."
 	]
-	quest.6F6A23579CAE8013.quest_subtitle: ""
 	quest.6F6A23579CAE8013.title: "Connecting Your Storage"
 	quest.6FBAE89EE782DABA.quest_desc: ["When placed and connected with the &aLinking Tool&r to other Drawers, the Controller acts as a \"Hub\".\\n\\nIf you double right-click this, all the items in your inventory that have a slot in the Drawer network will be pulled.\\n\\nBy sneak right-Clicking the controller with an empty hand, you can open the upgrades tab, add normal storage upgrades to those slots to increase the Controller's range. Max range is 40 blocks for all sides, or a cube of 80x80x80."]
 	quest.6FBAE89EE782DABA.quest_subtitle: "The Brain of the Drawers"
@@ -191,7 +185,6 @@
 	task.1809DDEA104A9CE8.title: "AllRightsReserved"
 	task.200CE35BF3C04F6F.title: "Copper Chests"
 	task.21FBC4E0F668347C.title: "NBT and YOU!"
-	task.258852C4EC01BB6D.title: ""
 	task.26A85DCA60F71DFF.title: "Fluid Drawers"
 	task.2E04D0F6EEABE677.title: "Drawers"
 	task.301665A6315B569C.title: "Storage Controllers"

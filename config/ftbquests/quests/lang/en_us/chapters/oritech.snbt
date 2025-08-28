@@ -1,10 +1,4 @@
 {
-	quest.4F89C04CEBF812F9.quest_subtitle: "Smelt gems into ingots"
-	quest.4F89C04CEBF812F9.title: "Ingots"
-	quest.4EAD06B0B3AD7D6E.quest_subtitle: "Fragment raw ores"
-	quest.4EAD06B0B3AD7D6E.title: "Clumps"
-	quest.1DBF1D4061518B0B.quest_subtitle: "Turning one into more"
-	quest.1DBF1D4061518B0B.title: "Refining Ores"
 	quest.01C0DC225CB25A0C.quest_subtitle: "Hunter addon allows the laser to target mobs"
 	quest.01C0DC225CB25A0C.title: "Hurting Mobs"
 	quest.02315D55EB638E3C.quest_subtitle: "Make biomass to use it"
@@ -23,6 +17,8 @@
 	quest.1831B35A3239B583.quest_subtitle: "Doing multiple recipes at once"
 	quest.1B2BD489D5173B40.quest_subtitle: "Loads of ways to get this"
 	quest.1D9A00C81C2A97F0.quest_subtitle: "Underwhelming"
+	quest.1DBF1D4061518B0B.quest_subtitle: "Turning one into more"
+	quest.1DBF1D4061518B0B.title: "Refining Ores"
 	quest.1F139091C1B4E50B.quest_subtitle: "A normal circuit"
 	quest.208F759905CF7744.quest_desc: [
 		"Drone ports are fairly fast but they require a minimum of &450 blocks&r distance to work."
@@ -72,7 +68,11 @@
 	quest.46EFCAE81C09368A.title: "Machine Cores"
 	quest.49D03933633D6A45.quest_subtitle: "It's AI"
 	quest.4CFA7EE8174E3FD8.quest_subtitle: "Increase energy input rate"
+	quest.4EAD06B0B3AD7D6E.quest_subtitle: "Fragment raw ores"
+	quest.4EAD06B0B3AD7D6E.title: "Clumps"
 	quest.4ED29ACF4A699E1B.quest_subtitle: "Its betterer"
+	quest.4F89C04CEBF812F9.quest_subtitle: "Smelt gems into ingots"
+	quest.4F89C04CEBF812F9.title: "Ingots"
 	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must charge &aUranite Crystals&r found around the world."]
 	quest.50243E5CF1B156ED.quest_subtitle: "Uranite crystal charging"
 	quest.5189D72ED3808DC6.quest_desc: [
@@ -119,4 +119,3 @@
 	task.7C454550A8F933AC.title: "Power Generation"
 	task.7C85CBE79E91F28B.title: "Addons"
 }
-

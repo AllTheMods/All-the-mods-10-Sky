@@ -1,16 +1,4 @@
 {
-	quest.1C2CF6253F8B32EE.quest_subtitle: "Tier: &56"
-	quest.398DEF6BA2E488C1.quest_subtitle: "Tier: &56"
-	quest.617F1FA978197AFD.quest_subtitle: "Tier: &56"
-	quest.5A417BE804E46E8C.quest_subtitle: "Tier: &a2"
-	quest.56201F98819478AB.quest_subtitle: "Tier: &a2"
-	quest.42218A7D42CF0A4C.quest_subtitle: "Tier: &a2"
-	quest.3BD8315851A3EE5F.quest_subtitle: "Tier: &a2"
-	quest.4352505361D61BB2.quest_subtitle: "Tier: &a2"
-	quest.2A59C2FE4AAA79D4.quest_subtitle: "Tier: &a2"
-	quest.5782E9F866453D1D.quest_subtitle: "Tier: &b4"
-	quest.20851E0CF315F722.quest_desc: ["For seeds of this tier, you will need a crux of the same type placed below the farmland in order for the seeds to grow."]
-	quest.20851E0CF315F722.title: "&5Insanium Farmland"
 	quest.04A7AA70C23830FF.quest_desc: ["Sickles tools that can be used to clear large amount of organic materials. Sickles break blocks in an area around the block you mine."]
 	quest.04B6E31120663EB2.quest_subtitle: "Tier: &a2"
 	quest.06EAA74E0A10CBB6.quest_subtitle: "Range: &b36&r Blocks"
@@ -23,7 +11,6 @@
 	quest.0B37355262121DD5.title: "&4Infusion Altar"
 	quest.0EFEDB0DD90DFC81.quest_desc: ["The Harvester can auto-harvest crops and re-plant them. Items collected by the Harvester are put into it's internal inventory."]
 	quest.13124A7E22999850.quest_subtitle: "Tier: &e1"
-	quest.155A843A562DB7C4.quest_subtitle: "Tier: &63"
 	quest.15D764CAF047EA7A.title: "&cTertium Armor&r"
 	quest.1609BF52108238B0.quest_subtitle: "Tier: &e1"
 	quest.1636F3F12E92CAEA.quest_desc: [
@@ -32,6 +19,7 @@
 		"Essence Watering cans have the ability of auto-watering. Just shift-right-click the Watering Can in the air to toggle auto-watering on or off. It will look like the Watering Can is enchanted when it's turned on."
 	]
 	quest.16E3031D800B40D5.quest_desc: ["The Soulium Spawner uses mob essences to spawn mobs. For example if you put in some Ghast Essence you can spawn a Ghast."]
+	quest.1C2CF6253F8B32EE.quest_subtitle: "Tier: &56"
 	quest.1C4ABF4518638A82.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)\\n - Regeneration II (3:00)\\n - Strength II (3:00)"]
 	quest.1C4ABF4518638A82.title: "&4Supremium Apple"
 	quest.1CC4F8570A7A99EB.quest_desc: ["&dEssence&r is the starting point for all of your growing needs in Mystical Agriculture.\\n\\n&eInferium Essence&r is the base tier of all essences. You can get this from mining, killing mobs, or by making seeds to grow them! \\n\\nTo make the bigger and better essences, you'll need to make an &9Infusion Crystal&r. "]
@@ -51,6 +39,8 @@
 	quest.202B1F54D3F06DAB.quest_desc: ["This is the Tier 6 Essence, made by combining 4 Supremium together with an Infusion Crystal."]
 	quest.202B1F54D3F06DAB.quest_subtitle: "Tier: &56"
 	quest.202B1F54D3F06DAB.title: "&5Insanium"
+	quest.20851E0CF315F722.quest_desc: ["For seeds of this tier, you will need a crux of the same type placed below the farmland in order for the seeds to grow."]
+	quest.20851E0CF315F722.title: "&5Insanium Farmland"
 	quest.212EF8601746C500.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)\\n - Regeneration II (3:00)"]
 	quest.212EF8601746C500.title: "&9Imperium Apple"
 	quest.21A90474590FCDB8.quest_desc: ["The \"Furnace\" is an upgraded version of a vanilla Furnace that can be upgraded for faster speed and better efficiency."]
@@ -64,6 +54,7 @@
 	quest.27A0BCE75F198A82.quest_subtitle: "Tier: &e1"
 	quest.27E8ED4B5F8127F9.quest_subtitle: "Tier: &b4"
 	quest.29AE69722AB4C75C.quest_subtitle: "Tier: &a2"
+	quest.2A59C2FE4AAA79D4.quest_subtitle: "Tier: &a2"
 	quest.2A7E3F2CD335EAD0.quest_desc: ["To start your journey making &aEssence Gear&r, you'll need to make the Inferium Armor first.\\n\\nThis gear can be upgraded to higher tiers, just like the Essences. You can also &9Augment&r them with the &bTinkering Table&r!"]
 	quest.2A7E3F2CD335EAD0.title: "&aInferium Armor"
 	quest.2AECDD9E2DEA708C.quest_subtitle: "Tier: &a2"
@@ -85,8 +76,10 @@
 	quest.37B297640F537383.quest_desc: ["The Unattuned Augment is used in an Infusion Alter to create various augments. Get &eHaste&r, &1Night Vision&r, &bFall Damage Resistance&r, &6Fire Resistance&r, and much more with these amazing augments!"]
 	quest.37B297640F537383.title: "&fUnattuned Augment"
 	quest.38A77DBAD24C4B53.quest_subtitle: "Tier: &63"
+	quest.398DEF6BA2E488C1.quest_subtitle: "Tier: &56"
 	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Prudentium Apple"
+	quest.3BD8315851A3EE5F.quest_subtitle: "Tier: &a2"
 	quest.3C9F5EB59D72AC90.quest_desc: ["An Awakened Supremium Ingot Block is needed to craft the &6ATM Star&r."]
 	quest.3E555B364FD88B43.quest_subtitle: "Range: &c45&r Blocks"
 	quest.3E555B364FD88B43.title: "&4Supremium Growth Accelerator"
@@ -95,6 +88,8 @@
 	quest.408D8B1CFBA22BAF.title: "&0Witherproof Blocks"
 	quest.409A92D40F539485.quest_subtitle: "Tier: &e1"
 	quest.41DBE44D7AA0B623.quest_desc: ["The Tinkering Table is how you add these augments to your essence gear!"]
+	quest.42218A7D42CF0A4C.quest_subtitle: "Tier: &a2"
+	quest.4352505361D61BB2.quest_subtitle: "Tier: &a2"
 	quest.4526E151BAE88310.quest_subtitle: "Tier: &e1"
 	quest.4530C14828C3D153.quest_subtitle: "Tier: &b4"
 	quest.45549E52B3CE2D23.quest_desc: ["Scythes are tools that can farm large areas of crops all at once. They can also be used as a fairly good weapon."]
@@ -124,13 +119,17 @@
 		""
 		"An Insanium Coal Block is needed to craft the &6ATM Star&r."
 	]
+	quest.56201F98819478AB.quest_subtitle: "Tier: &a2"
 	quest.576ABF43FCF886B7.title: "&2Prudentium Farmland"
+	quest.5782E9F866453D1D.quest_subtitle: "Tier: &b4"
+	quest.5A417BE804E46E8C.quest_subtitle: "Tier: &a2"
 	quest.5B1E0E3E876339E7.title: "&4Supremium Armor"
 	quest.5BC4250E4C9F803C.title: "&9Imperium Farmland"
 	quest.5C590DB2F3D935E5.quest_desc: ["The Seed Reprocessor can convert essence seeds back into essences."]
 	quest.5C590DB2F3D935E5.quest_subtitle: "Recycling!"
 	quest.5F6ACDE014A61F46.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)"]
 	quest.5F6ACDE014A61F46.title: "&cTertium Apple"
+	quest.617F1FA978197AFD.quest_subtitle: "Tier: &56"
 	quest.6235B9923BE0AAEB.quest_desc: ["The Enchanter is a block that allows you to add enchantments to enchantable items using items and essences."]
 	quest.6235B9923BE0AAEB.title: "&bEnchanter"
 	quest.62D572BAB055F56F.quest_subtitle: "Tier: &e1"
@@ -162,7 +161,6 @@
 	quest.75560045ED084900.title: "Creating Mob Seeds"
 	quest.7580037DB8ADEB3C.quest_desc: ["Meow meow I'm a Cow..."]
 	quest.7580037DB8ADEB3C.quest_subtitle: "Tier: &a2"
-	quest.75D09040185B0E40.quest_subtitle: "Tier: &a2"
 	quest.76071C22A73A2026.title: "&cTertium Farmland"
 	quest.7655E1C6C5E5469F.quest_subtitle: "Range: &a18&r Blocks"
 	quest.7655E1C6C5E5469F.title: "&2Prudentium Growth Accelerator"
@@ -191,4 +189,3 @@
 	task.773CA1FDC4CEFCEF.title: "AllRightsReserved"
 	task.7D9A58EBADE91F54.title: "Inferium Tools"
 }
-

@@ -11,14 +11,15 @@
 	kill_old_app = true
 	#If options.txt doesn't exist, the default language will be used.
 	default_lang = "en_us"
-	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
-	show_dont_send_screenshot_of_gui_notice = true
-	#List of blacklisted log files. This files won't show in GUI logs list.
-	blacklisted_logs = ["CrashAssistant: latest.log"]
+	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
+	blacklisted_logs = []
 	#Anyways log will be uploaded to mclo.gs, but with this option you can wrap link to gnomebot.dev for better formatting.
 	#If help_link equals 'CHANGE_ME', this value will be ignored and gnomebot.dev used.
 	#Supported values: mclo.gs / gnomebot.dev
 	upload_to = "mclo.gs"
+	#Before uploading the first log, requires the user to accept the privacy policy.
+	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
+	enable_privacy_policy_acceptance = true
 
 #Here you can change text of lang placeHolders.
 #Also you can change any text in lang files.
@@ -43,7 +44,11 @@
 	#nicknames of players, who considered as modpack creator.
 	#Only this players can overwrite modlist.json
 	#If this feature is enabled and this array is empty, will be appended with nickname of current player.
-	modpack_creators = ["oly2o6", "billbertking1", "Satherov"]
+	#-----------------------------------------------------------------------------------------------------
+	#Warning! This is not displayed anywhere, it's just tech param used for modlist feature to work correctly.
+	#Here must be actual nicknames of people who work with the modpack and publishing releases!
+	#-----------------------------------------------------------------------------------------------------
+	modpack_creators = ["oly2o7", "billbertking1", "Satherov"]
 	#If enabled, modlist.json will be overwritten on every launch(first tick of TitleScreen),
 	#then game is launched by modpack creator.
 	#So you won't forget to save it before publishing.
@@ -52,6 +57,11 @@
 	#If enabled, will add resourcepacks to modlist.json
 	#After filename where will be ' (resourcepack)' suffix.
 	add_resourcepacks = true
+	#If enabled, will add modloader jar name to modlist, to easily track if user changed version of modloader.
+	add_modloader_jar_name = true
+	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.
+	#
+	add_modlist_txt_as_log = true
 
 #Settings of '/crash_assistant crash' command feature.
 [crash_command]
@@ -79,9 +89,63 @@
 	#Add ### prefix before filename.
 	#This can prevent too small, hard to hit on mobile links.
 	h3_prefix = true
+	#Replaces "\n" separator between logs to "   |   " to make message vertically smaller.
+	one_line_logs = true
+	#Adds line in log list about this Intel processor can be corrupted.
+	intel_corrupted_notification = true
+	#Puts problematic frame from hs_err to message.
+	put_problematic_frame_to_message = true
+	#Puts analysis result(names of crash reasons) to message, instead of just count.
+	put_analysis_result_to_message = true
+	#Color modified mods count/analysis in msg with ANSI.
+	#Can be needed to be disabled if issues are reported to something not supporting ANSI codeblocks, like GitHub.
+	color_message = true
 
 [greeting]
 	#You don't need to touch this option.
 	#On first world join of modpack creator if set to false shows greeting, then self enables.
 	shown_greeting = true
+
+#Settings of analysis feature.
+#Analysing logs for most common reasons of crashes and displaying recommendations with fixes.
+[analysis]
+	#Enable feature.
+	enabled = true
+	#Here you can disable some Analysis by class names.
+	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.logs_analyser.crash_reasons
+	#For example "Create6Addons"
+	blacklisted_reasons = []
+
+#Settings of notifying about intel corrupted processors.
+[intel_corrupted]
+	#Enable feature.
+	enabled = true
+	#Show funny related gif in warning message.
+	show_gif = true
+
+#You can customise GUI with this options.
+[gui_customisation]
+	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
+	show_dont_send_screenshot_of_gui_notice = true
+	#Animate border to request user attention even more.
+	screenshot_of_gui_notice_animated_border = true
+	#You can make Upload All Button bigger/smaller to request user attention.
+	#Default Swing font size is 12, Default for this button in crash assistant is 16.
+	#Not recommended to set it more than 16, as it will affect the increase of GUI size because all text won't fit.
+	upload_all_button_font_size = 16
+	#Same as upload_all_button_font_size, but for Request Help button.
+	request_help_button_font_size = 16
+	#You can change Upload All Button color to request user attention.
+	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color. Use "default" to use default swing color.
+	#Default for this button is "0_178_0" (dark green color).
+	upload_all_button_foreground_color = "0_178_0"
+	#Same as upload_all_button_foreground_color, but for Request Help button.
+	#Default for this button is "0_0_178" (dark blue color).
+	request_help_button_foreground_color = "0_0_178"
+
+#Checks crash_assistant compatibility with other incompatible mods.
+#Highly unrecommended to disable!
+[compatibility]
+	#Enable feature.
+	enabled = true
 

@@ -1,8 +1,6 @@
 {
 	quest.1568CBFA09827137.quest_desc: ["Same thing as Logic Programmer, only this one can be used anywhere."]
 	quest.1B5C86AE05678420.quest_desc: ["When you right-click on an interface, it brings up several options, here's what they all do:\\n\\n&lSet Side&r: At the top of the screen, you can set the side that the interface \"acts\" like it's on. It can be useful for machines with specific input/output sides.\\n\\n&lTicks/Operation&r: If an interface is set to 10 ticks/operation, it will import/export once every 10 ticks (0.5 seconds).\\n\\n&lPriority&r: Sends items to the inventory with the higher priority interface on it.\\n\\n&lItem/Energy Channels&r: This will split your system into multiple channels. You can push and pull from different places in your network."]
-	quest.232A06C9FF0EE7B2.quest_desc: ["Menril Seeds can be used to automate Menril Berries, Menril Logs and Menril Saplings."]
-	quest.232A06C9FF0EE7B2.quest_subtitle: "Automating Menril"
 	quest.2F37E284BB83BFF6.quest_desc: ["The Wrench is used to rotate or destroy certain blocks, shift right-click in the air to change modes."]
 	quest.33F4A7613764A016.quest_desc: ["Works like Importers do, only they export instead."]
 	quest.33F4A7613764A016.quest_subtitle: "Exporting"
@@ -59,4 +57,3 @@
 	task.4209A06A392362DB.title: "Importer \\& Exporter GUI"
 	task.5DD862CF56AF7BF9.title: "Menril Logs"
 }
-

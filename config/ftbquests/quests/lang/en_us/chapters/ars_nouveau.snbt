@@ -25,8 +25,8 @@
 	quest.3142A40E1EAEBAA3.quest_desc: ["The &6Dowsing Rod&r gives you Magic Find and Scrying when used. \\n\\nThis allows you to see nearby magic creatures as well as helping you find amethyst!"]
 	quest.3142A40E1EAEBAA3.quest_subtitle: "Magic Finder"
 	quest.3182E8AF755104E4.quest_desc: ["When blocking damage, the &9Enchanter's Shield&r will give the user Mana Regen and Spell Damage for a short amount of time. \\n\\nAdditionally, the shield will repair itself over time using the wearer's mana."]
-	quest.33682F4B44950123.title: "Archwood"
 	quest.33682F4B44950123.quest_desc: ["To gain further knowledge of spells, we'll need a specific type of magical wood!"]
+	quest.33682F4B44950123.title: "Archwood"
 	quest.36CDA39C23D3AA2B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.3D4D88B8BE881351.quest_desc: ["If you want to cast better spells, you'll need a &6Scribe's Table&r to unlock new glyphs for your spellbook. \\n\\nThere are 3 tiers of glyphs to unlock, and each one requires some experience and items. \\n\\nThe Scribe's Table is also used to attach spells to Spell Parchments. To do this, place a Spell Parchment on the table, select the spell in your Spellbook, then sneak right-click the book on the table. \\n\\nTo create a Glyph, right-click on the Scribe's Table with your spellbook. Search for the glyph you want to make, then click Select at the bottom. Right-click the table with the items required, and the glyph will be created. Use the glyph to learn it. \\n\\nNote: The table can pull items from nearby inventories."]
 	quest.3D4D88B8BE881351.quest_subtitle: "Upgrading Spells"
@@ -83,8 +83,7 @@
 	task.15C6E9C02D1FBEC0.title: "Tier 2 Glyphs"
 	task.1B916AE67F84E6D7.title: "Creating Your First Spell"
 	task.1CC556A6921208B8.title: "Tier 1 Glyphs"
+	task.2BC0F5A88E2F03C3.title: "Archwood"
 	task.388545A0E3B4930D.title: "AllRightsReserved"
 	task.65D68BEEB36FC805.title: "Tier 3 Glyphs"
-	task.2BC0F5A88E2F03C3.title: "Archwood"
 }
-

@@ -235,8 +235,6 @@
 		"However, unlike regular cells, their contents can also be accessed standalone via the cell item itself, a bit like a digital ME-flavoured backpack."
 	]
 	quest.78311531069807DE.quest_desc: ["In Applied Energistics 2, every ME network has a certain number of &echannels&f available, which simply means how many networked devices can fit on the whole network.\\n\\nAs a rule of thumb, any device that more or less handles ME data directly (items stored within the network) and carries out some form of I/O will take up a channel. Usually components that are only concerned with the internal power storage of the network, like &eEnergy Cells&f and &eInscribers&f, do &onot&r take up channels.\\n\\nNetworks without an &bME Controller&f are known as 'ad-hoc' networks and only support a maximum of 8 channels."]
-	quest.79D2617E01481281.quest_desc: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. Certus quartz buds can be made by using A quartz bud in the ender crafter with some certus dust. Not sure how to make those? Check out Chapter 2 for more information!"]
-	quest.79D2617E01481281.title: "Certus Quartz"
 	quest.7B7D1F0CB326B28F.quest_desc: ["The &bME IO Port&f allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses.\\n\\nWhen a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."]
 	quest.7B7D1F0CB326B28F.quest_subtitle: "Defragmentation"
 	quest.7EFBAF3E281D2EBE.quest_desc: [

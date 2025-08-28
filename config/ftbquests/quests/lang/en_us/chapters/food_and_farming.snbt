@@ -1,61 +1,30 @@
 {
-	quest.63050A2CACD6ADC9.quest_subtitle: "or is it?"
-	quest.63050A2CACD6ADC9.title: "A Maxed Rod"
-	quest.528304AA09EA8C23.quest_desc: ["Gotta catch em' all!"]
-	quest.528304AA09EA8C23.quest_subtitle: "Fishing for days"
-	quest.528304AA09EA8C23.title: "Gone Fishin"
-	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r is all about Farming and Cooking Food Items! We can also use those same Items for Decoration and usage! \\n\\nThe Stove, Pots, and Pans are perfect for a Kitchen. \\n\\nThe Food Barrels are great for a Pantry. \\n\\nThe Farm stuff is great for outdoor decor and the Cabinets are perfect for anywhere!"]
-	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.0AC713AEEBCF2CD2.quest_desc: ["Or you can use MA...but who does that?"]
-	quest.0AC713AEEBCF2CD2.quest_subtitle: "Humane egg collection"
-	quest.0AC713AEEBCF2CD2.title: "Egg Automation"
-	quest.0CB4CF33BD96D730.quest_desc: ["Productive Farming allows you to increase crop returns by modifying their stats! (Quests coming soon)"]
-	quest.0A7F53BFE6A4DFDC.quest_desc: ["Tired of seeing only recipes you can make? With this you can view how to make every food in the game."]
-	quest.0A7F53BFE6A4DFDC.quest_subtitle: "The encyclopedia of cooking"
-	quest.0A7F53BFE6A4DFDC.title: "No Filter Cookbook"
-	quest.0FE88A567578C720.quest_desc: ["These are superfoods that give a wide array of buffs, depending on the apple."]
-	quest.0FE88A567578C720.quest_subtitle: "Crystallized apples"
-	quest.79DD2C115A5FC23B.quest_desc: ["Each tier gives a new positive effect. Safe to say these are pretty OP..."]
-	quest.79DD2C115A5FC23B.quest_subtitle: "Tiered apples"
-	quest.79DD2C115A5FC23B.title: "MA Apples"
-	quest.460969C070B5C8E5.quest_desc: [
-		"I'd say crafting it is easiest..."
-		"We don't have to stop here!"
-	]
-	quest.460969C070B5C8E5.quest_subtitle: "The limit of Vanilla..."
-	quest.460969C070B5C8E5.title: "\"Notch\" apple"
-	quest.083309154A8974DA.quest_desc: ["The most basic of improvements"]
-	quest.083309154A8974DA.quest_subtitle: "A slight boost"
-	quest.083309154A8974DA.title: "Gilded Foods"
-	quest.12139F09C0F1361D.quest_desc: ["Increases speed of growth, conflicts with green fertilizer."]
-	quest.12139F09C0F1361D.quest_subtitle: "Productive shrooms"
-	quest.60053279577A59C1.quest_desc: ["Tired of annihilating your crops when jumping? Well you're in luck! Usable with the other two types."]
-	quest.60053279577A59C1.quest_subtitle: "Productive gold"
-	quest.34F29677E6B5E40C.quest_desc: ["Increases output per harvest, conflicts with red fertilizer."]
-	quest.34F29677E6B5E40C.quest_subtitle: "Productive mold"
-	quest.2FBF54AC8273E8DF.quest_desc: ["Productive Trees adds lots of new trees that each have their own goodies. You can harvest these fruits by breaking the leaves."]
-	quest.2FBF54AC8273E8DF.quest_subtitle: "Fruits and fruits and fruits"
-	quest.2FBF54AC8273E8DF.title: "Productive Trees"
-	quest.1B4A74D744F39516.quest_desc: ["Break some Oak Leaves."]
-	quest.1B4A74D744F39516.quest_subtitle: "Any tool works (including your fist)"
-	quest.1B4A74D744F39516.title: "Break the Leaves"
-	quest.1E7A4F84CEDBE2AF.quest_desc: ["Bonemeal is the most basic way to amplify your returns."]
-	quest.1E7A4F84CEDBE2AF.quest_subtitle: "Gotta use those bones"
-	quest.1E7A4F84CEDBE2AF.title: "Improving Growth"
-	quest.7FB5AFB3A30830D4.quest_desc: ["Grow this sapling to gain access to the most basic of fruits."]
-	quest.7FB5AFB3A30830D4.title: "Fruits from Trees"
-	quest.0500DA5C4D383DC6.quest_desc: ["Get these by killing zombies or sieving dirt."]
-	quest.0500DA5C4D383DC6.quest_subtitle: "Eat your veggies"
 	quest.04D0543FE2820F64.quest_desc: ["Time to Grow some string! Some of these allow you to grow it directly, whilst others give you an alternative that works in recipes."]
 	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
 	quest.04D0543FE2820F64.title: "Flax String"
+	quest.0500DA5C4D383DC6.quest_desc: ["Get these by killing zombies or sieving dirt."]
+	quest.0500DA5C4D383DC6.quest_subtitle: "Eat your veggies"
+	quest.083309154A8974DA.quest_desc: ["The most basic of improvements"]
+	quest.083309154A8974DA.quest_subtitle: "A slight boost"
+	quest.083309154A8974DA.title: "Gilded Foods"
 	quest.0893EFCAC7031FEA.quest_desc: ["Time to bake a cake, if you've got some milk and eggs ready."]
 	quest.0893EFCAC7031FEA.quest_subtitle: "Have your Cake and Eat it too"
 	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Love this Stuff"
 	quest.0A1C2A7A8617D3E4.title: "Wheat"
+	quest.0A7F53BFE6A4DFDC.quest_desc: ["Tired of seeing only recipes you can make? With this you can view how to make every food in the game."]
+	quest.0A7F53BFE6A4DFDC.quest_subtitle: "The encyclopedia of cooking"
+	quest.0A7F53BFE6A4DFDC.title: "No Filter Cookbook"
+	quest.0AC713AEEBCF2CD2.quest_desc: ["Or you can use MA...but who does that?"]
+	quest.0AC713AEEBCF2CD2.quest_subtitle: "Humane egg collection"
+	quest.0AC713AEEBCF2CD2.title: "Egg Automation"
+	quest.0CB4CF33BD96D730.quest_desc: ["Productive Farming allows you to increase crop returns by modifying their stats! (Quests coming soon)"]
 	quest.0EFF1AA37772156B.quest_desc: ["This block provides water to the multi-block kitchen.\\n\\nIt can also provide infinite water by pumping water out via cables or pipes."]
 	quest.0EFF1AA37772156B.quest_subtitle: "1 Block does the trick!"
 	quest.0EFF1AA37772156B.title: "The Sink = Infinite Water"
+	quest.0FE88A567578C720.quest_desc: ["These are superfoods that give a wide array of buffs, depending on the apple."]
+	quest.0FE88A567578C720.quest_subtitle: "Crystallized apples"
+	quest.12139F09C0F1361D.quest_desc: ["Increases speed of growth, conflicts with green fertilizer."]
+	quest.12139F09C0F1361D.quest_subtitle: "Productive shrooms"
 	quest.13AFCD3B6F62B986.quest_desc: ["Provides Ice and Snow recipes!"]
 	quest.13AFCD3B6F62B986.quest_subtitle: "Ice, Ice, Baby!"
 	quest.13AFCD3B6F62B986.title: "Ice Upgrade"
@@ -68,6 +37,9 @@
 	quest.18EADBAFC932F864.quest_desc: ["To shear Sheep you need Shears, you wouldn't get Wool any other way...right?"]
 	quest.18EADBAFC932F864.quest_subtitle: "Pacifist Run"
 	quest.18EADBAFC932F864.title: "It's Clippin' Time"
+	quest.1B4A74D744F39516.quest_desc: ["Break some Oak Leaves."]
+	quest.1B4A74D744F39516.quest_subtitle: "Any tool works (including your fist)"
+	quest.1B4A74D744F39516.title: "Break the Leaves"
 	quest.1D2EF12FD7FDD217.quest_desc: ["Chickens will lay these naturally. I guess it's not really considered naturally...\\n\\nI guess the chickens are just getting... &oEggs-ercise!!!&r."]
 	quest.1D2EF12FD7FDD217.quest_subtitle: "...or am I?"
 	quest.1D2EF12FD7FDD217.title: "I'm not gonna make an Egg pun"
@@ -77,6 +49,9 @@
 	quest.1DCAA0310AA55F1C.quest_desc: ["But he usually closes by 5, so who cares?"]
 	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Would be Proud"
 	quest.1DCAA0310AA55F1C.title: "The Start of a Fisher"
+	quest.1E7A4F84CEDBE2AF.quest_desc: ["Bonemeal is the most basic way to amplify your returns."]
+	quest.1E7A4F84CEDBE2AF.quest_subtitle: "Gotta use those bones"
+	quest.1E7A4F84CEDBE2AF.title: "Improving Growth"
 	quest.1F114EB0AAB86DB4.quest_desc: ["Markets provide you with a villager than can sell you anything if you have the right amount of emeralds.\\n\\nSpoiler: It's usually just 1 Emerald per item, luckily, they have EVERYTHING."]
 	quest.1F114EB0AAB86DB4.quest_subtitle: "The Villager has more than one way to Spawn"
 	quest.1F114EB0AAB86DB4.title: "Purchasing Farm Supplies"
@@ -89,6 +64,11 @@
 	quest.2E9C035EEE7E5C34.quest_desc: ["The classic Lead. Use this to get animals into your farm area.\\n\\nThis isn't the same thing as the ore."]
 	quest.2E9C035EEE7E5C34.quest_subtitle: "Get along little Doggy"
 	quest.2E9C035EEE7E5C34.title: "We're doing this the Old Fashioned way"
+	quest.2FBF54AC8273E8DF.quest_desc: ["Productive Trees adds lots of new trees that each have their own goodies. You can harvest these fruits by breaking the leaves."]
+	quest.2FBF54AC8273E8DF.quest_subtitle: "Fruits and fruits and fruits"
+	quest.2FBF54AC8273E8DF.title: "Productive Trees"
+	quest.34F29677E6B5E40C.quest_desc: ["Increases output per harvest, conflicts with red fertilizer."]
+	quest.34F29677E6B5E40C.quest_subtitle: "Productive mold"
 	quest.361DFDB1E1352D6B.quest_desc: ["Find some Sugar Cane near some water."]
 	quest.361DFDB1E1352D6B.title: "Sugar Sugar"
 	quest.37CA6F9F0226F10E.quest_desc: ["This block stores items for cooking.\\n\\nYou can also place other kitchen multi-block items on it, like toasters and a Cow in a Jar."]
@@ -103,9 +83,18 @@
 	quest.45F83C2750F70F9B.quest_desc: ["Go ahead, put a Book in a Furnace and smelt it."]
 	quest.45F83C2750F70F9B.quest_subtitle: "Totally won't catch on fire..."
 	quest.45F83C2750F70F9B.title: "Making a Kitchen, with a Book"
+	quest.460969C070B5C8E5.quest_desc: [
+		"I'd say crafting it is easiest..."
+		"We don't have to stop here!"
+	]
+	quest.460969C070B5C8E5.quest_subtitle: "The limit of Vanilla..."
+	quest.460969C070B5C8E5.title: "\"Notch\" apple"
 	quest.47764EFC822E462A.quest_desc: ["This block produces milk over time, and enables milk recipes for the kitchen multi-block.\\n\\nTo get a cow in the jar, place the jar in a hole. Lure the cow to fall in said hole above the jar, then drop an anvil on it.\\n\\nI have no clue what this glass is made of, but it's stronger than my relationship with Chicken."]
 	quest.47764EFC822E462A.quest_subtitle: "Phenomenal Milking Powers....Itty bitty living space"
 	quest.47764EFC822E462A.title: "A Cow in a Jar"
+	quest.528304AA09EA8C23.quest_desc: ["Gotta catch em' all!"]
+	quest.528304AA09EA8C23.quest_subtitle: "Fishing for days"
+	quest.528304AA09EA8C23.title: "Gone Fishin"
 	quest.55C4824DAD905512.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.58495CFBF4F20CE9.quest_desc: ["This works just like the kitchen counter, except in the air.\\n\\nAnd you can't put things on top of it."]
 	quest.58495CFBF4F20CE9.quest_subtitle: "So much room for activities!"
@@ -113,6 +102,10 @@
 	quest.58D5BD3106BFD94A.quest_desc: ["Craft the next version of the book. I promise you, it's worth it.\\n\\nI'll even give you a Diamond back."]
 	quest.58D5BD3106BFD94A.quest_subtitle: "This is totally worth it"
 	quest.58D5BD3106BFD94A.title: "Cooking with the power of Diamonds"
+	quest.60053279577A59C1.quest_desc: ["Tired of annihilating your crops when jumping? Well you're in luck! Usable with the other two types."]
+	quest.60053279577A59C1.quest_subtitle: "Productive gold"
+	quest.63050A2CACD6ADC9.quest_subtitle: "or is it?"
+	quest.63050A2CACD6ADC9.title: "A Maxed Rod"
 	quest.635620A03E3505BF.quest_desc: ["I don't wanna know how you got these."]
 	quest.635620A03E3505BF.quest_subtitle: "But....Cows can't be sheared..."
 	quest.635620A03E3505BF.title: "Leather"
@@ -125,20 +118,24 @@
 	quest.73B8A70240E6070E.quest_subtitle: "Why aren't there Bulls in the game?"
 	quest.73B8A70240E6070E.title: "Milk a Cow - Profit"
 	quest.791AE62ACACBD5BA.quest_subtitle: "You'll open it, close it, then open it again, just because you're bored"
+	quest.79DD2C115A5FC23B.quest_desc: ["Each tier gives a new positive effect. Safe to say these are pretty OP..."]
+	quest.79DD2C115A5FC23B.quest_subtitle: "Tiered apples"
+	quest.79DD2C115A5FC23B.title: "MA Apples"
+	quest.7FB5AFB3A30830D4.quest_desc: ["Grow this sapling to gain access to the most basic of fruits."]
+	quest.7FB5AFB3A30830D4.title: "Fruits from Trees"
+	task.003A07A0E816B302.title: "Productive Farming"
 	task.1D8904E53906D972.title: "AllRightsReserved"
 	task.2725700B5EA1CD75.title: "Shears"
 	task.323A434E1AF54408.title: "Hoes"
+	task.32791AD78C17C814.title: "Farmer's Delight Tools"
+	task.3824DC29D8790DAB.title: "Gem Apples"
+	task.3DA0D9582AEFCBCF.title: "Flax Seeds"
 	task.5805158E69C05AED.title: "AllRightsReserved"
 	task.669DEA201002793D.title: "Fridges"
-	task.78D7794707E4BD83.title: "Crops"
-	task.7F08D4E77359BF4A.title: "Wool"
-	task.7C686DA23151A0F3.title: "Golden food"
 	task.690D9E03BB024BCF.title: "Allthemodium metal"
 	task.6DF92BBEC7E3EC10.title: "Allthemodium food"
-	task.3824DC29D8790DAB.title: "Gem Apples"
 	task.73E843FE4FCCEA33.title: "MA Apples"
-	task.003A07A0E816B302.title: "Productive Farming"
-	task.32791AD78C17C814.title: "Farmer's Delight Tools"
-	task.3DA0D9582AEFCBCF.title: "Flax Seeds"
+	task.78D7794707E4BD83.title: "Crops"
+	task.7C686DA23151A0F3.title: "Golden food"
+	task.7F08D4E77359BF4A.title: "Wool"
 }
-

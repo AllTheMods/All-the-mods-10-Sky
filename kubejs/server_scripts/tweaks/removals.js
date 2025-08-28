@@ -209,6 +209,10 @@ ServerEvents.recipes(allthemods => {
     allthemods.remove({ id: 'silentgear:diamond_shard' })
     allthemods.remove({ id: 'actuallyadditions:tagged_slime_block' })
     allthemods.remove({ id: `mekanism:compat/ae2/sand_to_silicon` })
+    allthemods.remove({ id: `create:crushing/deepslate_copper_ore` })
+    allthemods.remove({ id: `create:crushing/deepslate_zinc_ore` })
+    allthemods.remove({ id: `create:crushing/deepslate_iron_ore` })
+    allthemods.remove({ id: `create:crushing/tuff_recycling` })
 });
 
 ServerEvents.generateData('after_mods', allthemods => {

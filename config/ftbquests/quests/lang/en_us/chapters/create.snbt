@@ -4,8 +4,6 @@
 	quest.078C5B50CDC174CB.quest_desc: ["&aMechanical Bearings&r are the most simple forms of &aContraption&r movement. \\n\\nWhen given &dRotational Power&r from their bottom, they will rotate any Blocks above at the same Speed and Direction. \\nBlocks will automatically be &aGlued&r to the &aMechanical Bearing&r, but any other Blocks will need to be &aGlued&r to that Block to move as well! \\n\\nIf you use a &aMechanical Bearing&r within a &aContraption&r itself, it will try and keep the Block attached still instead of Rotating."]
 	quest.078C5B50CDC174CB.title: "&aMechanical Bearing"
 	quest.087F6C09CB5B2D1A.quest_desc: ["&bSmart Fluid Pipes&r will give us Filtering for &bFluid Pipes&r. \\n\\nWhen put on the Machine that the &bPipes&r are extracting from, it can be set to only take out the one &bFluid&r. This is set by adding a Bucket full of that &bLiquid&r in the Filter Slot. \\n\\nYou can place the &bSmart Fluid Pipe&r later in the &bPipe system&r to only send that certain &bFluid&r through the &bPipes&r after it. \\n\\nThis is helpful for mass sorting a bunch of &bFluid Tanks&r!"]
-	quest.6637B33E9D474D5F.quest_desc: ["The Rotation Speed Controller is a core progression item in Create. It allows you to control and fine-tune rotational speed, which is required for many advanced contraptions."]
-	quest.6637B33E9D474D5F.title: "&eRotation Speed Controller"
 	quest.087F6C09CB5B2D1A.title: "&bSmart Fluid Pipe"
 	quest.09936F8FCEA72C5C.quest_desc: [
 		"The &aCart Assembler&r can be placed on tracks. Anything you build on top of it will be picked up by a &7Minecart&r if the &aAssembler&r has a &4Redstone signal&r."
@@ -151,6 +149,8 @@
 	quest.64860340A5BEBAB9.title: "Shops"
 	quest.64FF7118E29931C0.quest_desc: ["Before we get into the many &eItems&r we can get from the &6Millstone&r, let's talk about how to use it! \\n\\nFirst, it will need some &dRotational Power&r, don't worry it only needs a little. \\n\\nThen, you'll need to Drop the &eItem&r you want &6Milled&r, into the top of the &6Millstone&r. After it gets &6Milled&r, just Right Click the &6Millstone&r to take out your &eItems&r. \\n\\nNow, what &eItems&r can we get from the &6Millstone&r? We can get Dyes from pretty much every Flower, we can crush &7Stone&r into Gravel or other &7Stone&r like Blocks into similar Gravel Items. You can even get Wheat Flour from Wheat!"]
 	quest.64FF7118E29931C0.title: "&6Millstone"
+	quest.6637B33E9D474D5F.quest_desc: ["The Rotation Speed Controller is a core progression item in Create. It allows you to control and fine-tune rotational speed, which is required for many advanced contraptions."]
+	quest.6637B33E9D474D5F.title: "&eRotation Speed Controller"
 	quest.672F9CF5B0E626F1.quest_desc: ["&ePackagers&r are the new and very important &6Machine&r for &6&lCreate&r. In order to use pretty much everything from the Update we'll need a &ePackager&r. \\nCombine some of our new-found &eCardboard&r to make a Block of Cardboard. No, these aren't &eBoxes&r yet and they certainly don't do anything. \\n\\nWell besides Crafting our &ePackager&r! The &ePackager&r will then be placed onto a Block with an Inventory, like Chest or Barrel. You'll know it is connected when one of the sides changes to appear like a wall. \\n\\nThen, when given a &4Redstone Signal&r it will pull all &eItems&r within the Inventory into a &ePackage&r! More on that later! \\n\\nThe &ePackages&r can then be pulled out by Hand or &eBelt&r. You can also send &ePackages&r back into the &ePackager&r to put the &eItems&r back into an Inventory. \\n\\nIf you place and name a Sign on the &ePackager&r it will give all &ePackages&r that it makes an Address."]
 	quest.672F9CF5B0E626F1.title: "&ePackagers"
 	quest.67A46ED73E488CEE.quest_desc: ["&dGearshifts&r work similar to a &dClutch&r by connecting to our Systems and being powered by &4Redstone&r. \\n\\nInstead of stopping &dRotational Power&r though, the &dGearshift&r will change its Direction! \\n\\nIf it is going &e&oClockwise&r into the powered &dGearshift&r, it will come out &9&oCounter-Clockwise&r, and vice versa."]
@@ -206,4 +206,3 @@
 	task.3AB6845819FF686F.title: "Cardboard Packages"
 	task.6F72D8976359CFF9.title: "Water Wheels"
 }
-
