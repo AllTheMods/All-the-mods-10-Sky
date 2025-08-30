@@ -43,6 +43,7 @@ ServerEvents.recipes(allthemods => {
     'mob_grinding_utils:fluid_xp',
     'pneumaticcraft:memory_essence',
     'sophisticatedcore:xp_still',
+    'justdirethings:xp_fluid_source',
     'create_enchantment_industry:experience'
   ]
   xpFluid.sort()
