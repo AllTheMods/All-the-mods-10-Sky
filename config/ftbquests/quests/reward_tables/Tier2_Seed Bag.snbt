@@ -84,6 +84,7 @@
 			}
 			weight: 2.5f
 		}
+		{ id: "17362C617280E46E", item: { count: 1, id: "mysticalagriculture:honey_seeds" } }
 	]
 	use_title: true
 }

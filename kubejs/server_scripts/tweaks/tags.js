@@ -239,6 +239,8 @@ ServerEvents.tags('item', allthemods => {
         'mysticalagriculture:nitro_crystal_seeds',
         'mysticalagriculture:compressed_iron_seeds',
         'mysticalagriculture:draconium_seeds',
+        'mysticalagriculture:marble_seeds',
+        'mysticalagriculture:marble_essence',
         'exmachinis:netherite_upgrade',
         /geore:.*tungsten.*/,
         /geore:.*monazite.*/,

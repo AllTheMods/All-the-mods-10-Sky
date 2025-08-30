@@ -339,7 +339,7 @@
 				}
 				{
 					id: "2F3F55EDC60018DA"
-					item: { components: { "minecraft:damage": 48 }, count: 1, id: "alltheores:copper_ore_hammer" }
+					item: { count: 1, id: "alltheores:copper_ore_hammer" }
 					type: "item"
 				}
 			]
@@ -390,11 +390,15 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["7ADFD864139BF2F2"]
+			dependencies: [
+				"7ADFD864139BF2F2"
+				"057A182F4DC408CE"
+			]
 			icon: {
 				id: "minecraft:grass_block"
 			}
 			id: "145917B219D0D28D"
+			min_required_dependencies: 1
 			rewards: [{
 				count: 5
 				id: "31CB93462FCBDB8E"
@@ -471,7 +475,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "417EF9716FAEA831"
-				item: { components: { "minecraft:damage": 98 }, count: 1, id: "exdeorum:stone_hammer" }
+				item: { count: 1, id: "exdeorum:stone_hammer" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -984,6 +988,9 @@
 		}
 		{
 			dependencies: ["043AB8772206FF71"]
+			icon: {
+				id: "pickletweaks:flint_shears"
+			}
 			id: "091F1D752FA3BAAC"
 			rewards: [
 				{
@@ -1009,7 +1016,7 @@
 			tasks: [
 				{
 					id: "66C8F49BB7B67EB5"
-					item: { components: { "minecraft:damage": 75 }, count: 1, id: "pickletweaks:flint_shears" }
+					item: { count: 1, id: "pickletweaks:flint_shears" }
 					type: "item"
 				}
 				{
@@ -1363,7 +1370,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3DE6BFA19CAF3FFF"
-				item: { components: { "minecraft:damage": 98 }, count: 1, id: "exdeorum:compressed_stone_hammer" }
+				item: { count: 1, id: "exdeorum:compressed_stone_hammer" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -1545,6 +1552,29 @@
 			}]
 			x: 16.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["7ADFD864139BF2F2"]
+			id: "057A182F4DC408CE"
+			optional: true
+			rewards: [{
+				id: "004A7C1C8D0D5891"
+				item: {
+					count: 1
+					id: "minecraft:grass_block"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "67596651EAF261E1"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:dirt"
+				type: "observation"
+			}]
+			x: 13.5d
+			y: -1.0d
 		}
 	]
 }

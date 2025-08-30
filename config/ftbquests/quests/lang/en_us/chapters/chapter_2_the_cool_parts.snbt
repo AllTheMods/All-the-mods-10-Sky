@@ -175,4 +175,13 @@
 		"{image:atm:textures/questpics/chap2/chap2_foundry.png width:100 height:100 align:center}"
 	]
 	quest.7E8E9F1F6BE23268.title: "&c&lFoundry"
+	task.18574AAEB6B01E23.title: "Hammers"
+	task.1EB84CB8EE502009.title: "Foundry Controllers"
+	task.2A6B52161759B041.title: "Spikes"
+	task.2D99E799D705C751.title: "Inscriber Presses"
+	task.3ECD980426D48A3D.title: "8x Generators"
+	task.40EA7B0CB21276E4.title: "64x Generators"
+	task.48FBBB59246F4831.title: "Foundry Walls"
+	task.5CD77BCA43DF7796.title: "Foundry Tanks"
+	task.5FA76A208C54EBBC.title: "Foundry Drains"
 }

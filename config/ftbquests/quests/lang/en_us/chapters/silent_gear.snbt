@@ -70,6 +70,11 @@
 	quest.7D690A7D0FF6E328.title: "Tier 3 Grader Catalyst"
 	quest.7E13007340A818C5.quest_desc: ["This is a Tier 1 Pillar Cap for the Starlight Charger."]
 	quest.7E13007340A818C5.title: "Tier 1 Starlight Charger Pillar Cap"
+	task.0EF203AF0BA514F7.title: "Repair Kits"
+	task.155D4ED18738E127.title: "Foundry Tanks"
+	task.2AE89914A34BF3AD.title: "Foundry Walls"
+	task.54EF988F476C9208.title: "Foundry Drains"
 	task.55E0635973A828B0.title: "AllRightsReserved"
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
+	task.7D9F2C8E7C65B654.title: "Foundry Controllers"
 }

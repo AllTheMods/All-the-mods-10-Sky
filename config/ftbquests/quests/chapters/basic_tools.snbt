@@ -94,7 +94,7 @@
 			image: "minecraft:item/netherite_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.0d
+			x: 4.5d
 			y: -3.5d
 		}
 		{
@@ -319,8 +319,8 @@
 				item: { count: 1, id: "minecraft:wooden_pickaxe" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -2.5d
+			x: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -336,8 +336,8 @@
 				item: { count: 1, id: "minecraft:stone_pickaxe" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -3.0d
+			x: 0.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -438,8 +438,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:inferium_pickaxe)item(mysticalagriculture:prudentium_pickaxe)item(mysticalagriculture:tertium_pickaxe)item(mysticalagriculture:imperium_pickaxe)item(mysticalagriculture:supremium_pickaxe)item(mysticalagriculture:awakened_supremium_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -3.5d
+			x: -1.5d
+			y: -4.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -570,8 +570,8 @@
 				item: { count: 1, id: "minecraft:golden_pickaxe" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -2.5d
+			x: -0.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -791,8 +791,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:allthemodium_pickaxe)item(allthemodium:vibranium_pickaxe)item(allthemodium:unobtainium_pickaxe)item(allthemodium:alloy_pick))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -3.5d
+			x: -0.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -842,8 +842,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:infused_pickaxe)item(occultism:iesnium_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -3.0d
+			x: -1.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -859,8 +859,8 @@
 				item: { count: 1, id: "mekanismtools:lapis_lazuli_pickaxe" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -2.5d
+			x: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -893,7 +893,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:blazegold_pickaxe)item(justdirethings:celestigem_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: -3.0d
 		}
 		{
@@ -1093,8 +1093,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.0d
-			y: -1.5d
+			x: 4.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -1129,6 +1129,125 @@
 			}]
 			x: -1.0d
 			y: 7.5d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "2D4E406DD9EFA8C8"
+			optional: true
+			rewards: [{
+				id: "3B1BF702C1D2CB52"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1645AE8CC2277888"
+				item: { count: 1, id: "justdirethings:ferricore_pickaxe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "053E6882650CEFC6"
+			optional: true
+			rewards: [{
+				id: "0038C89E0AB78BCE"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0C4BD16741E25837"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:draconic_pickaxe)item(draconicevolution:wyvern_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "632E537DA0F45CC7"
+			optional: true
+			rewards: [{
+				id: "7022E47C38AE324D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "27D9C16A4E2CD5B5"
+				item: { components: { "draconicevolution:config_properties": [[ { : "DECIMAL" }, { formatter: "percent_1", max: 1.0d, min: 0.0d, name: "mining_speed", show_on_hud: 1b, value: 1.0d } ]], "draconicevolution:module_entities": [ ], "draconicevolution:provider_identity": [I; -1431768927, 1566720680, -1405879401, 443085220 ] }, count: 1, id: "draconicevolution:chaotic_pickaxe" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "3EDD2310E7290A54"
+			optional: true
+			rewards: [{
+				id: "71A5FD0408E6FC9D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5DCCCB08C4E055BE"
+				item: { count: 1, id: "pickletweaks:flint_pickaxe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "175A03C28F72244D"
+			optional: true
+			rewards: [{
+				id: "0561C76D5719F399"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "56D5BF341B3615A1"
+				item: { count: 1, id: "pickletweaks:emerald_pickaxe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "01F59AF41A6DA0F7"
+			optional: true
+			rewards: [{
+				id: "2262E94BF46880A3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "216A9CCCF868AF25"
+				item: { count: 1, id: "forbidden_arcanus:draco_arcanus_pickaxe" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "31B58988AAB27E91"
+			optional: true
+			rewards: [{
+				id: "217BA6B3737429E8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "481A55B18FC05CFA"
+				item: { count: 1, id: "oritech:promethium_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
 		}
 	]
 }

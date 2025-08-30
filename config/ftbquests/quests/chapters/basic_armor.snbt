@@ -14,7 +14,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_title.png"
 			rotation: 0.0d
 			width: 13.30952380952381d
-			x: 4.0d
+			x: 4.5d
 			y: -1.5d
 		}
 		{
@@ -22,7 +22,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_trims.png"
 			rotation: 0.0d
 			width: 9.982142857142858d
-			x: -5.0d
+			x: -5.5d
 			y: 5.5d
 		}
 		{
@@ -54,15 +54,15 @@
 			image: "atm:textures/questpics/basicarmor/armor_20.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 4.5d
-			y: -9.5d
+			x: 5.0d
+			y: -8.5d
 		}
 		{
 			height: 1.0d
 			image: "atm:textures/questpics/basicarmor/armor_24.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 10.0d
+			x: 10.75d
 			y: -8.5d
 		}
 		{
@@ -78,7 +78,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_40.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: 18.0d
+			x: 19.5d
 			y: -8.5d
 		}
 		{
@@ -102,15 +102,15 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 3.5d
-			y: -9.5d
+			x: 4.0d
+			y: -8.5d
 		}
 		{
 			height: 1.0d
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
+			x: 9.75d
 			y: -8.5d
 		}
 		{
@@ -126,7 +126,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 16.75d
+			x: 18.0d
 			y: -8.5d
 		}
 		{
@@ -134,16 +134,16 @@
 			image: "atm:textures/questpics/basicarmor/armor_11.png"
 			rotation: 0.0d
 			width: 1.3880597014925373d
-			x: -4.0d
-			y: -7.5d
+			x: -4.7d
+			y: -8.5d
 		}
 		{
 			height: 1.0d
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.0d
-			y: -7.5d
+			x: -5.7d
+			y: -8.5d
 		}
 		{
 			height: 3.0d
@@ -278,7 +278,7 @@
 					type: "item"
 				}
 			]
-			x: -3.25d
+			x: -3.125d
 			y: -6.0d
 		}
 		{
@@ -312,7 +312,7 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
+			x: -5.25d
 			y: -6.0d
 		}
 		{
@@ -378,7 +378,7 @@
 					type: "item"
 				}
 			]
-			x: 2.7d
+			x: 3.0d
 			y: -6.0d
 		}
 		{
@@ -411,7 +411,7 @@
 					type: "item"
 				}
 			]
-			x: 5.35d
+			x: 6.0d
 			y: -6.0d
 		}
 		{
@@ -444,7 +444,7 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
+			x: 10.25d
 			y: -6.0d
 		}
 		{
@@ -543,7 +543,7 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
+			x: 10.25d
 			y: -7.5d
 		}
 		{
@@ -774,7 +774,7 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
+			x: -5.75d
 			y: -4.5d
 		}
 		{
@@ -840,8 +840,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -7.0d
+			x: 4.5d
+			y: -7.5d
 		}
 		{
 			id: "10AA2B20D86747F7"
@@ -939,7 +939,7 @@
 					type: "item"
 				}
 			]
-			x: 0.5d
+			x: 1.5d
 			y: -6.0d
 		}
 		{
@@ -972,7 +972,7 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
+			x: -6.85d
 			y: -6.0d
 		}
 		{
@@ -1005,7 +1005,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 7.5d
 			y: -5.5d
 		}
 		{
@@ -1038,8 +1038,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -6.0d
+			x: 4.5d
+			y: -6.5d
 		}
 		{
 			id: "7FABB77A60E7962C"
@@ -1071,8 +1071,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -6.5d
+			x: 13.0d
+			y: -7.0d
 		}
 		{
 			id: "3ABE7074E500494D"
@@ -1104,8 +1104,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -5.0d
+			x: 4.5d
+			y: -5.5d
 		}
 		{
 			id: "3403D7502F7BC897"
@@ -1171,7 +1171,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 7.5d
 			y: -6.5d
 		}
 		{
@@ -1204,7 +1204,7 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
+			x: 8.5d
 			y: -6.0d
 		}
 		{
@@ -1237,8 +1237,8 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
-			y: -6.5d
+			x: 12.0d
+			y: -7.0d
 		}
 		{
 			id: "1D27EE427ECFD6CE"
@@ -1270,8 +1270,8 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
-			y: -5.5d
+			x: 12.0d
+			y: -6.0d
 		}
 		{
 			id: "5064D5F99E2C69C8"
@@ -1303,8 +1303,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -5.5d
+			x: 13.0d
+			y: -6.0d
 		}
 		{
 			id: "4A9CB8778D37049F"
@@ -1337,7 +1337,7 @@
 				}
 			]
 			x: 16.0d
-			y: -6.0d
+			y: -5.5d
 		}
 		{
 			id: "338BD467EBE6EE1F"
@@ -1977,7 +1977,7 @@
 				item: { count: 1, id: "minecraft:smithing_table" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 4.15d
 			y: 3.0d
 		}
 		{
@@ -1995,7 +1995,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 3.5d
+			x: 4.15d
 			y: 6.0d
 		}
 		{
@@ -2031,6 +2031,486 @@
 			]
 			x: 19.199999999999996d
 			y: -5.25d
+		}
+		{
+			id: "2AC0FE608759AD53"
+			optional: true
+			rewards: [{
+				id: "1A6A5883DFE239B8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "27B97C63DC58278E"
+					item: { components: { "ftbfiltersystem:filter": "or(item(create:copper_diving_helmet)item(create:netherite_diving_helmet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "597120AD20EEBF1D"
+					item: { components: { "ftbfiltersystem:filter": "or(item(create:copper_diving_boots)item(create:netherite_diving_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "337C841AD2B16764"
+					item: { components: { "ftbfiltersystem:filter": "or(item(create:copper_backtank)item(create:netherite_backtank))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -5.25d
+			y: -7.5d
+		}
+		{
+			id: "5A21B16F7600561A"
+			optional: true
+			rewards: [{
+				id: "5264917868BD9314"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "11B75A7ADF9C9B76"
+					item: { count: 1, id: "create:cardboard_helmet" }
+					type: "item"
+				}
+				{
+					id: "1F01006172EB5182"
+					item: { count: 1, id: "create:cardboard_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5D486165ADE4145E"
+					item: { count: 1, id: "create:cardboard_leggings" }
+					type: "item"
+				}
+				{
+					id: "175EDD37E1419FA6"
+					item: { count: 1, id: "create:cardboard_boots" }
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: -6.0d
+		}
+		{
+			id: "44CC11E67ADD0556"
+			optional: true
+			rewards: [{
+				id: "641EFE8EEF7EB863"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "1274210EFFFCEBDC"
+					item: { count: 1, id: "forbidden_arcanus:draco_arcanus_helmet" }
+					type: "item"
+				}
+				{
+					id: "53A8B6FF1E676E6C"
+					item: { count: 1, id: "forbidden_arcanus:draco_arcanus_chestplate" }
+					type: "item"
+				}
+				{
+					id: "49412A769E459718"
+					item: { count: 1, id: "forbidden_arcanus:draco_arcanus_leggings" }
+					type: "item"
+				}
+				{
+					id: "38296D3781045A8A"
+					item: { count: 1, id: "forbidden_arcanus:draco_arcanus_boots" }
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -5.0d
+		}
+		{
+			id: "1FAE4A884E083283"
+			optional: true
+			rewards: [{
+				id: "2B51B7700593DE74"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					id: "5C57669A47A0ECA1"
+					item: { count: 1, id: "forbidden_arcanus:tyr_helmet" }
+					type: "item"
+				}
+				{
+					id: "31A0D6BFD3819172"
+					item: { count: 1, id: "forbidden_arcanus:tyr_chestplate" }
+					type: "item"
+				}
+				{
+					id: "4446B84744783469"
+					item: { count: 1, id: "forbidden_arcanus:tyr_leggings" }
+					type: "item"
+				}
+				{
+					id: "6F87F7C3E183689D"
+					item: { count: 1, id: "forbidden_arcanus:tyr_boots" }
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -6.5d
+		}
+		{
+			id: "0CE23DBBBFBCC372"
+			optional: true
+			rewards: [{
+				id: "04DE9ED5CD870524"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "2E893A5C981EF4F0"
+					item: { count: 1, id: "forbidden_arcanus:mortem_helmet" }
+					type: "item"
+				}
+				{
+					id: "1BB5AE2AA021411B"
+					item: { count: 1, id: "forbidden_arcanus:mortem_chestplate" }
+					type: "item"
+				}
+				{
+					id: "42ACEAD390426A2D"
+					item: { count: 1, id: "forbidden_arcanus:mortem_leggings" }
+					type: "item"
+				}
+				{
+					id: "5A9B62676835DA0B"
+					item: { count: 1, id: "forbidden_arcanus:mortem_boots" }
+					type: "item"
+				}
+			]
+			x: -4.75d
+			y: -4.5d
+		}
+		{
+			id: "6D45C78AD098AF87"
+			optional: true
+			rewards: [{
+				id: "7B79E27E61ED9B9E"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "78516B2CE6794546"
+					item: { count: 1, id: "immersiveengineering:armor_faraday_helmet" }
+					type: "item"
+				}
+				{
+					id: "1A8CD7DA47C2E2BF"
+					item: { count: 1, id: "immersiveengineering:armor_faraday_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6FEBD76C284597FB"
+					item: { count: 1, id: "immersiveengineering:armor_faraday_leggings" }
+					type: "item"
+				}
+				{
+					id: "0926851FCA99179F"
+					item: { count: 1, id: "immersiveengineering:armor_faraday_boots" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			id: "4C2BB25A757CE834"
+			optional: true
+			rewards: [{
+				id: "69C2AF3542C00408"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "7B367E4AB19702E2"
+					item: { count: 1, id: "modern_industrialization:rubber_helmet" }
+					type: "item"
+				}
+				{
+					id: "22E6AEC2B82E0D93"
+					item: { count: 1, id: "modern_industrialization:rubber_boots" }
+					type: "item"
+				}
+			]
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			id: "3C662D3A3537F514"
+			optional: true
+			rewards: [{
+				id: "594343B8AF9EDBE3"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					id: "247818F12524F9F9"
+					item: { count: 1, id: "oritech:exo_helmet" }
+					type: "item"
+				}
+				{
+					id: "73142F195D9B100C"
+					item: { components: { "ftbfiltersystem:filter": "or(item(oritech:exo_chestplate)item(oritech:exo_jetpack)item(oritech:jetpack_exo_elytra))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "7C1F25CDA64A2BE7"
+					item: { count: 1, id: "oritech:exo_leggings" }
+					type: "item"
+				}
+				{
+					id: "0C4821D79B4A2FBF"
+					item: { count: 1, id: "oritech:exo_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			id: "59771D9B8CAD80C5"
+			optional: true
+			rewards: [{
+				id: "7C14B6C70CED7A04"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "0FC15CCFDAED67F6"
+					item: { count: 1, id: "pickletweaks:flint_helmet" }
+					type: "item"
+				}
+				{
+					id: "107FB5A25504BF3D"
+					item: { count: 1, id: "pickletweaks:flint_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2E6CC37C6AD82B1E"
+					item: { count: 1, id: "pickletweaks:flint_leggings" }
+					type: "item"
+				}
+				{
+					id: "1600A8B12F080CCB"
+					item: { count: 1, id: "pickletweaks:flint_boots" }
+					type: "item"
+				}
+			]
+			x: -3.12d
+			y: -4.5d
+		}
+		{
+			id: "03C059DFF8F1BF41"
+			optional: true
+			rewards: [{
+				id: "67100B6A00912B40"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					id: "47B22B7BE65459BE"
+					item: { count: 1, id: "pickletweaks:emerald_helmet" }
+					type: "item"
+				}
+				{
+					id: "54B411F995A77221"
+					item: { count: 1, id: "pickletweaks:emerald_chestplate" }
+					type: "item"
+				}
+				{
+					id: "32C1D2FC45CF7CF5"
+					item: { count: 1, id: "pickletweaks:emerald_leggings" }
+					type: "item"
+				}
+				{
+					id: "53AA14C5413A5654"
+					item: { count: 1, id: "pickletweaks:emerald_boots" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			id: "001B195541AE0FA1"
+			optional: true
+			rewards: [{
+				id: "4F469262C5479DCC"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [
+				{
+					id: "0B6FCC034B344A9B"
+					item: { count: 1, id: "usefulslime:slime_helmet" }
+					type: "item"
+				}
+				{
+					id: "71261812C1F11E53"
+					item: { count: 1, id: "usefulslime:slime_chestplate" }
+					type: "item"
+				}
+				{
+					id: "661D023C8E5BB4EE"
+					item: { count: 1, id: "usefulslime:slime_leggings" }
+					type: "item"
+				}
+				{
+					id: "42F035DBFD88830F"
+					item: { count: 1, id: "usefulslime:slime_boots" }
+					type: "item"
+				}
+			]
+			x: -3.12d
+			y: -7.5d
+		}
+		{
+			id: "4915960FBC94AD0E"
+			optional: true
+			rewards: [{
+				id: "07CD0424FBEADF66"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "5E058D6BCF7BB087"
+					item: { count: 1, id: "pneumaticcraft:compressed_iron_helmet" }
+					type: "item"
+				}
+				{
+					id: "1F058F5A28A9C3FF"
+					item: { count: 1, id: "pneumaticcraft:compressed_iron_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5A03F1CA789DAA7F"
+					item: { count: 1, id: "pneumaticcraft:compressed_iron_leggings" }
+					type: "item"
+				}
+				{
+					id: "13F9F3BBA229CA3E"
+					item: { count: 1, id: "pneumaticcraft:compressed_iron_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "3A840658A11D16A5"
+			optional: true
+			rewards: [{
+				id: "7F1104CB0A8EEF24"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "0DFB10E5228C62F0"
+					item: { count: 1, id: "pneumaticcraft:pneumatic_helmet" }
+					type: "item"
+				}
+				{
+					id: "2D05745764A0865A"
+					item: { count: 1, id: "pneumaticcraft:pneumatic_chestplate" }
+					type: "item"
+				}
+				{
+					id: "207A6491D6D7989E"
+					item: { count: 1, id: "pneumaticcraft:pneumatic_leggings" }
+					type: "item"
+				}
+				{
+					id: "3F72EAF87DAF701F"
+					item: { count: 1, id: "pneumaticcraft:pneumatic_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "06B8539B731FE4BA"
+			optional: true
+			rewards: [{
+				id: "59EC508217464D35"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					id: "1BFDD4398EE29D71"
+					item: { count: 1, id: "justdirethings:eclipsealloy_helmet" }
+					type: "item"
+				}
+				{
+					id: "506AFE0A57D0E08C"
+					item: { count: 1, id: "justdirethings:eclipsealloy_chestplate" }
+					type: "item"
+				}
+				{
+					id: "71BBDE85D36EE9CB"
+					item: { count: 1, id: "justdirethings:eclipsealloy_leggings" }
+					type: "item"
+				}
+				{
+					id: "5B91BA2169EFC466"
+					item: { count: 1, id: "justdirethings:eclipsealloy_boots" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			id: "57F3F5875F7CF80C"
+			optional: true
+			rewards: [{
+				id: "6ABB3D6A2DFE6C47"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					id: "12288DADDC4B732F"
+					item: { count: 1, id: "justdirethings:celestigem_helmet" }
+					type: "item"
+				}
+				{
+					id: "6FA9DF7605F3A784"
+					item: { count: 1, id: "justdirethings:celestigem_chestplate" }
+					type: "item"
+				}
+				{
+					id: "03AA091C71DBEAC3"
+					item: { count: 1, id: "justdirethings:celestigem_leggings" }
+					type: "item"
+				}
+				{
+					id: "53A4E049901059A7"
+					item: { count: 1, id: "justdirethings:celestigem_boots" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -7.5d
 		}
 	]
 }
