@@ -73,8 +73,8 @@
 	quest.4ED29ACF4A699E1B.quest_subtitle: "É melhor ainda"
 	quest.4F89C04CEBF812F9.quest_subtitle: "Fundir gemas em barras"
 	quest.4F89C04CEBF812F9.title: "Barras"
-	quest.50243E5CF1B156ED.quest_desc: ["Para obter &5pó de Plutônio&r, você deve carregar &aCristais de Uranita&r encontrados pelo mundo."]
-	quest.50243E5CF1B156ED.quest_subtitle: "Carregando cristal de Uranita"
+	quest.50243E5CF1B156ED.quest_desc: ["Para obter &5Pó de Plutônio&r, você deve fragmentar &aMinério de Uranita&r na Forja de Fragmentação para adquirir &5Pequeno Pó de Plutônio&r."]
+	quest.50243E5CF1B156ED.quest_subtitle: "De Uranita para Plutônio"
 	quest.5189D72ED3808DC6.quest_desc: [
 		"&aAperte shift + clique direito&r com seu designador de alvo no aglomerado de ametista e então &aaperte shift + clique direito&r no laser para definir o alvo."
 		""
