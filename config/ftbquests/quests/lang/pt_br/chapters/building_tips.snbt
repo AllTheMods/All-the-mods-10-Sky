@@ -94,6 +94,19 @@
 	quest.59B6C6BF0550D13D.title: "Vidro do &7&lRailcraft&r"
 	quest.5AD09CCEEDC0B50F.quest_desc: ["Estes são super úteis, você definitivamente deveria conferir! \\n\\nA verdadeira Fonte de Luz é a Lanterna de Fogo Feral. Ela colocará Fontes de Luz invisíveis em um raio de 20 Blocos ou mais ao seu redor. \\n\\nA Mega Tocha é diferente: ela não emite Luz, mas Bloqueia todos os surgimentos de Mobs Hostis em um raio de 64 Blocos! Útil para quem usa Visão Noturna. \\n\\nA Lâmpada do Pavor faz o oposto, ela bloqueia os surgimentos de Mobs Passivos na mesma área."]
 	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
+	quest.5C0588F5B9B65AFD.quest_desc: [
+		"&d&lCamol&r é a resposta para camuflar &lTUDO.&r De Pipez a Cabos do Mekanism até Estrelas do ATM, e tudo, exceto a- não, espere, até a Pia da Cozinha também."
+		""
+		"Faça o &d&lBloco de Camo&r junto com o bloco que você quer usar como camuflagem, depois clique com o botão direito nele sobre o bloco que você deseja camuflar, como algum cabo ou algo assim."
+		""
+		"Por padrão, o &d&lBloco de Camo&r assumirá a forma de colisão do bloco camuflado. Você pode mudar isso para a versão Retentora de Forma colocando-o sozinho na grade de criação. Isso fará com que ele assuma a forma do bloco de camuflagem."
+		""
+		"Se você quiser remover um &d&lBloco de Camo&r, clique com o botão direito no bloco camuflado usando outro Bloco de Camo."
+		""
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.5C0588F5B9B65AFD.title: "&d&lCamol"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r é tudo sobre Cultivar e Cozinhar Alimentos! Também podemos usar esses mesmos Itens para Decoração e uso! \\n\\nO Fogão, Panelas e Frigideiras são perfeitos para uma Cozinha. \\n\\nOs Barris de Comida são ótimos para uma Despensa. \\n\\nAs coisas da Fazenda são ótimas para decoração externa e os Armários são perfeitos para qualquer lugar!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
 	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adiciona muitos Vidros com seu &lNúcleo do Mundo&r! \\n\\nDesde aqueles que você pode atravessar, até os brilhantes, e os mais fortes!"]
