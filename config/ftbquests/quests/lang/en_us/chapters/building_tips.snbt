@@ -94,6 +94,19 @@
 	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r Glass"
 	quest.5AD09CCEEDC0B50F.quest_desc: ["Now these are super helpful, you should definitely check them out! \\n\\nThe actual Light Source is the Feral Flare Lantern. It will place invisible Light Sources around 20 Blocks or more around it. \\n\\nThe Mega Torch is different: it doesn't emit Light but it does Block all Hostile Mob spawns with 64 Blocks of it! Useful for those using Night Vision. \\n\\nThe Dread Lamp does the opposite, it blocks Passive Mob spawns in the same area."]
 	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
+	quest.5C0588F5B9B65AFD.quest_desc: [
+		"&d&lCamol&r is the answer to camouflaging &lEVERYTHING.&r From Pipez to Mekanism Cables to ATM Stars, and everything but the- no, wait, the Kitchen Sink, too."
+		""
+		"Craft the &d&lCamo Block&r together with the block you want to use for the camo, then right click it on the block you want to camouflage, like some kind of cable or something."
+		""
+		"By default the &d&lCamo Block&r will take on the collision shape of the camoed block. You can change this to the Shape Retaining version by putting it into a crafting grid by itself. This will make it take on the shape of the camoing block."
+		""
+		"If you want to remove a &d&lCamo Block&r, right click the camoed block with another Camo Block."
+		""
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.5C0588F5B9B65AFD.title: "&d&lCamol"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r is all about Farming and Cooking Food Items! We can also use those same Items for Decoration and usage! \\n\\nThe Stove, Pots, and Pans are perfect for a Kitchen. \\n\\nThe Food Barrels are great for a Pantry. \\n\\nThe Farm stuff is great for outdoor decor and the Cabinets are perfect for anywhere!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
 	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adds plenty of Glasses with it's &lWorld Core&r! \\n\\nFrom ones you can walk through, to glowing ones, to stronger ones!"]
