@@ -24,4 +24,11 @@
 		""
 		"Agora você pode usar um alto-forno elétrico de cuproníquel para fundir isso em barras quentes de aço inoxidável."
 	]
+	quest.1130C09090FD0ED7.quest_desc: ["Para obter petróleo, você precisa colocar uma &9Plataforma de Perfuração de Petróleo&r com uma Broca de Platina. Isso irá gerar Petróleo do nada"]
+	quest.1130C09090FD0ED7.quest_subtitle: "Petróleo do nada"
+	quest.20CAEF615D7A6506.quest_desc: ["Para obter alguns dos recursos necessários, coloque uma &9Pedreira&r com uma Broca. Isso irá gerar Recursos com base na Broca que você estiver usando"]
+	quest.20CAEF615D7A6506.quest_subtitle: "Minérios do nada"
+	quest.2DCDD37933172A55.quest_desc: ["Agora que você adquiriu Petróleo, você precisa processá-lo"]
+	quest.2DCDD37933172A55.quest_subtitle: "Destilando Petróleo"
 }
+
