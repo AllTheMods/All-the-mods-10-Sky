@@ -41,6 +41,34 @@ ServerEvents.recipes(allthemods => {
     for (let i = 0; i < crushingIngredients.length; i++) {
         crushing([crushingIngredients[i]], [crushingResults[i]])
     }
+    //Create milling recipes
+    let millingIngredients = [
+        "exdeorum:crushed_netherrack"
+    ].map(ing => Ingredient.of(ing))
+
+    let millingResults = [
+        "minecraft:red_sand"
+    ].map(stack => Item.of(stack))
+
+    /**
+     * @param {Internal.Ingredient[]} ingredients
+     * @param {Internal.ItemStack[]} results
+     */
+    function milling(ingredients, results) {
+        const recipe = {
+            type: "create:milling",
+            ingredients: ingredients,
+            results: results
+        }
+        
+        let idType = ingredients[0].toJson().asMap().item || ingredients[0].toJson().asMap().tag
+        const defaultId = `allthemods:create/milling/${idType.getAsString().split(":")[1]}`
+        allthemods.custom(recipe).id(defaultId)
+    }
+
+    for (let i = 0; i < millingIngredients.length; i++) {
+        milling([millingIngredients[i]], [millingResults[i]])
+    }
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
