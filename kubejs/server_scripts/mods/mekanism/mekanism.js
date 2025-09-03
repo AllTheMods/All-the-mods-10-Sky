@@ -12,7 +12,8 @@ ServerEvents.recipes(allthemods => {
     'minecraft:end_stone',
     'minecraft:blackstone',
     'minecraft:sand',
-    'minecraft:netherrack'
+    'minecraft:netherrack',
+    "exdeorum:crushed_netherrack"
   ]
 
   const outputs = [
@@ -20,7 +21,8 @@ ServerEvents.recipes(allthemods => {
     'exdeorum:crushed_end_stone',
     'exdeorum:crushed_blackstone',
     'exdeorum:dust',
-    'exdeorum:crushed_netherrack'
+    'exdeorum:crushed_netherrack',
+    "minecraft:red_sand"
   ]
 
     inputs.forEach((input, index) => {
@@ -33,15 +35,4 @@ ServerEvents.recipes(allthemods => {
         }
       }).id(`kubejs:mekanism/crushing/${outputs[index].split(':')[1]}`)
     })
-
-    allthemods.custom({
-      type: 'mekanism:crushing',
-      input: {
-        item: 'geore:coal_shard'
-      },
-      output: {
-        id: 'mekanism:dust_coal',
-        count: 1
-      }
-    }).id('allthemods:mekanism/crushing/coal_dust_from_shard')
 })
