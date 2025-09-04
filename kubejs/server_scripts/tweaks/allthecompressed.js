@@ -63,7 +63,7 @@ ServerEvents.recipes(allthemods => {
                     stack
                 ]
             }
-        ).id(`allthemods:create_ending/${id}`)
+        ).id(`allthemods:create/ending/${id}`)
     }
 
     for (let i = 1; i < 10; i++) {
