@@ -290,6 +290,21 @@ ServerEvents.recipes(allthemods => {
         "count": 1
       }
     }).id('allthemods:industrialforegoing/crusher/coal_dust_from_shard')
+
+    allthemods.replaceInput({ input: 'minecraft:coal' }, 'minecraft:coal', '#c:coal')
+
+    allthemods.remove({ id: 'extendedae:cobblestone_cell' })
+    allthemods.shaped('extendedae:infinity_cobblestone_cell', [
+        'GLG',
+        'WCW',
+        'DDD'
+    ], {
+        G: 'ae2:quartz_glass',
+        L: 'minecraft:lava_bucket',
+        W: 'minecraft:water_bucket',
+        C: 'megacells:cell_component_256m',
+        D: 'minecraft:diamond'
+    })
 })
 
 
