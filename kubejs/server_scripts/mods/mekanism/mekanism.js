@@ -13,7 +13,8 @@ ServerEvents.recipes(allthemods => {
     'minecraft:blackstone',
     'minecraft:sand',
     'minecraft:netherrack',
-    "exdeorum:crushed_netherrack"
+    "exdeorum:crushed_netherrack",
+    'geore:coal_shard'
   ]
 
   const outputs = [
@@ -22,7 +23,8 @@ ServerEvents.recipes(allthemods => {
     'exdeorum:crushed_blackstone',
     'exdeorum:dust',
     'exdeorum:crushed_netherrack',
-    "minecraft:red_sand"
+    "minecraft:red_sand",
+    'mekanism:dust_coal'
   ]
 
     inputs.forEach((input, index) => {
