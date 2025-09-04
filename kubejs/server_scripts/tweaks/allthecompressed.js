@@ -30,10 +30,6 @@ ServerEvents.recipes(allthemods => {
         ).id(`allthemods:mekanism/crushing/${id}`)
     }
     
-    function smelting(input, output) {
-        
-    }
-    
     function haunting(input, output) {
         let id = `${input.split(':')[1]}_to_${output.split(':')[1]}`
         let ing  = Ingredient.of(input).toJson()
@@ -52,6 +48,24 @@ ServerEvents.recipes(allthemods => {
         ).id(`allthemods:create/haunting/${id}`)
     }
 
+    function ending(input, output) {
+        let id = `${input.split(':')[1]}_to_${output.split(':')[1]}`
+        let ing  = Ingredient.of(input).toJson()
+        let stack = Item.of(output, 1)
+        
+        allthemods.custom(
+            {
+                "type": "create_dragons_plus:ending",
+                "ingredients": [
+                    ing
+                ],
+                "results": [
+                    stack
+                ]
+            }
+        ).id(`allthemods:create_ending/${id}`)
+    }
+
     for (let i = 1; i < 10; i++) {
         [
             `allthecompressed:cobblestone_${i}x`,
@@ -65,11 +79,15 @@ ServerEvents.recipes(allthemods => {
         
         haunting(`allthecompressed:cobblestone_${i}x`, `allthecompressed:blackstone_${i}x`)
         haunting(`allthecompressed:sand_${i}x`, `allthecompressed:soul_sand_${i}x`)
+
+        ending(`allthecompressed:cobblestone_${i}x`, `allthecompressed:end_stone_${i}x`)
         
         allthemods.smelting(`allthecompressed:stone_${i}x`, `allthecompressed:cobblestone_${i}x`)
         allthemods.smelting(`allthecompressed:glass_${i}x`, `allthecompressed:sand_${i}x`)
 
-        allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:clay_${i}x`, `allthecompressed:sand_${i}x`, '1000x minecraft:water')
+        allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:clay_${i}x`, `allthecompressed:dust_${i}x`, '1000x minecraft:water')
+        allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:soul_soil_${i}x`, `allthecompressed:soul_sand_${i}x`, '1000x minecraft:lava')
+        allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:soul_sand_${i}x`, `allthecompressed:sand_${i}x`, '1000x exdeorum:witch_water')
     } 
 })
 
