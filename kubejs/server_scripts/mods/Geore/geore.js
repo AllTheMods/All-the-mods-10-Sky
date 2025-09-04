@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
                 },
                 "consume_cast": consumeCast || true,
                 "fluid": {
-                    "amount": fluid.amount || 900,
+                    "amount": fluid.amount || 810,
                     "tag": fluid.tag
                 },
                 "result": {
