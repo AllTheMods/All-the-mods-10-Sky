@@ -16,6 +16,9 @@
 	quest.3E3CBDCEAB0FF28F.quest_desc: ["O &9Aprendiz Profundo&r é um dos componentes centrais do HNN.\\n\\nCom este item, você pode clicar com o botão direito para abrir um HUD e armazenar &6Modelos de Dados&r para coletar dados enquanto mata mobs.\\n\\nCada Aprendiz pode conter 4 Modelos de Dados, e contanto que você tenha o Aprendiz em qualquer lugar do seu inventário, ele coletará dados para os modelos colocados dentro!\\n\\nNota: Você pode ter vários Aprendizes Profundos em seu inventário, e ele contará as mortes para todos os Modelos de Dados dentro de todos os Aprendizes."]
 	quest.3E3CBDCEAB0FF28F.quest_subtitle: "O HUD de Aprendizagem"
 	quest.3E3CBDCEAB0FF28F.title: "&aAprendendo sobre Mobs"
+	quest.54E7ABFDFAA024E5.quest_desc: [ ]
+	quest.54E7ABFDFAA024E5.quest_subtitle: ""
+	quest.54E7ABFDFAA024E5.title: ""
 	quest.58C2ABED43B2EA61.quest_desc: ["&9Estruturas de Modelo&r são o ponto de partida para a criação de Modelos de Dados.\\n\\nPara começar a coletar dados sobre um mob específico, você vai querer fazer uma dessas e depois clicar com o &9botão direito&r no mob sobre o qual gostaria de coletar dados. Quando feito corretamente, a Estrutura de Modelo se transformará no Modelo de Dados do mob em que você clicou.\\n\\nPara coletar dados para esse mob, coloque o Modelo de Dados recém-criado dentro de um &aDeep Learner&r e comece a matar esse mob específico com o Deep Learner em seu inventário."]
 	quest.58C2ABED43B2EA61.quest_subtitle: "\"Coletando Dados\""
 	quest.58C2ABED43B2EA61.title: "&9Modelando Mobs"

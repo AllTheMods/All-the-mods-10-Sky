@@ -175,4 +175,13 @@
 		"{image:atm:textures/questpics/chap2/chap2_foundry.png width:100 height:100 align:center}"
 	]
 	quest.7E8E9F1F6BE23268.title: "&c&lFundição"
+	task.18574AAEB6B01E23.title: "Martelos"
+	task.1EB84CB8EE502009.title: "Controladores de Fundição"
+	task.2A6B52161759B041.title: "Estacas"
+	task.2D99E799D705C751.title: "Prensas de Inscritor"
+	task.3ECD980426D48A3D.title: "Geradores 8x"
+	task.40EA7B0CB21276E4.title: "Geradores 64x"
+	task.48FBBB59246F4831.title: "Paredes de Fundição"
+	task.5CD77BCA43DF7796.title: "Tanques de Fundição"
+	task.5FA76A208C54EBBC.title: "Drenos de Fundição"
 }

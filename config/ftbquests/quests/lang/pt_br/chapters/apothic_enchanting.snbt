@@ -29,7 +29,7 @@
 	quest.224716A537F2FFA0.quest_desc: ["Os &8Tomos de Armadura&r são usados para obter &5Encantamentos&r que são usados apenas em Armaduras. Todos os &8Tomos&r podem obter &5Proteção&f, &5Proteção contra Explosões&f e &5Proteção contra Fogo&r. \\n\\nCada um também dá um reservado para uma certa parte da Armadura. Botas darão &5Passos Profundos&r e Elmos darão &5Afinidade Aquática&r. \\n\\nSe você quer a melhor chance de obter apenas &5Proteção&r, tente o &8Tomo de Peitoral&r!"]
 	quest.224716A537F2FFA0.title: "&8Tomos de Armadura"
 	quest.235E3C386E8D36A3.quest_desc: [
-		"É aqui que a separação entre &4Estante de Livros Infernais&r e &bEstante de Livros da Maré&r termina! \\n\\nPrimeiro, precisaremos criar uma &9Estante de Livros Profunda Adormecida&r. Estas são apenas 6 &8Tijolos de Ardósia Profunda Rachados&r e 3 &7Livros&r. \\n\\nEntão, precisaremos de &a60 Eterna&r, &c40% Quanta&r e &540% Arcana&r. Podemos obter isso com 12 &bEstantes Marinhas Cristalinas&r ou 12 &4Estantes Infernais Luminosos&r! \\n\\nFinalmente, podemos &d&lInfundir&r nossas &9Estante de Livros Profunda Adormecida&r em &9Estante de Livros Profunda&r regulares!"
+		"É aqui que a separação entre &4Estante de Livros Infernais&r e &bEstante de Livros da Maré&r termina! \\n\\nPrimeiro, precisaremos criar uma &9Estante de Livros Profunda Adormecida&r. Estas são apenas 6 &8Ladrilhos de Ardosiabissal Rachados&r e 3 &7Livros&r. \\n\\nEntão, precisaremos de &a60 Eterna&r, &c40% Quanta&r e &540% Arcana&r. Podemos obter isso com 12 &bEstantes Marinhas Cristalinas&r ou 12 &4Estantes Infernais Luminosos&r! \\n\\nFinalmente, podemos &d&lInfundir&r nossas &9Estante de Livros Profunda Adormecida&r em &9Estante de Livros Profunda&r regulares!"
 		"{image:atm:textures/questpics/apothic/enchant_deepshelf.png width:100 height:100 align:center}"
 	]
 	quest.235E3C386E8D36A3.title: "&9Estante de Livros Profunda"
@@ -106,5 +106,10 @@
 	quest.7C758209D06ED0E3.title: "&4Estante Infernal Luminoso"
 	quest.7C9D9D1C054874A7.quest_desc: ["Sempre quis os &5Encantamentos&r mais perfeitos? Tipo, todos os status no máximo, todos os bons &5Encantamentos&r disponíveis? Então, você precisará destes! \\n\\nPrimeiro, são as 5 &9Estante de Livros Sculk Tocadas pela Alma&r e 5 &9Estante de Livros Sculk Ecoantes&r. Elas nos darão toda a &cQuanta&r e &5Arcana&r de que precisamos! \\n\\nEm seguida, é a &dEstante Profunda Dracônica&r que nos dará &a100 de Eterna&r, tanto em quantidade de &aEterna&r quanto no nível máximo. \\n\\nTerceiro, é a &6Estante de Livros de Estabilidade Encapsulada em Geodo&r, isso fará com que a &cQuanta&r não nos apunhale pelas costas com &5Encantamentos&r terríveis! \\n\\nPor último, é opcional, mas você deve adicioná-la, a &6Estante Profundade Tesouros Arcanos&r. Essa &7Estante de Livros&r nos permitirá obter &5Encantamentos&r que normalmente não conseguiríamos, como &5Reparo&r!"]
 	quest.7C9D9D1C054874A7.title: "&6&lMelhor configuração de Encantamento"
-	task.3D62C020980A2DEC.title: "Bookshelves"
+	task.3D62C020980A2DEC.title: "Estante de Livros"
+	task.432FCFECDAA542F1.title: "Estantes de Livros"
+	task.4644C76CEC129AA4.title: "Amuletos Permanentes"
+	task.52C6DC68BF096122.title: "Tomos de Armas"
+	task.598F1FCB5B5ED8FC.title: "Tomos de Ferramentas"
+	task.5AB4C41B6800D7FA.title: "Tomos de Armaduras"
 }

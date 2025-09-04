@@ -6,6 +6,9 @@
 	quest.043AB8772206FF71.title: "&8Sílex"
 	quest.04ACC7E762537FB4.quest_desc: ["Não precisaremos de um bilhão de Máquinas chiques para Duplicar Minérios aqui... precisaremos apenas de algumas! \\n\\nO &3&lEspremedor&r do &3&lID&r pode transformar &7Blocos de Minério Bruto&r em &7Minério Bruto&r. \\n\\nPara usá-lo, basta colocar o &7Bloco de Minério Bruto&r no &3&lEspremedor&r e Pular sobre ele para empurrá-lo para baixo. Uma vez que seja Esmagado, o &7Minério Bruto&r será expelido. Raramente, pode até dar mais! \\n\\nMas espere! Isso não é tudo! \\n\\nTambém temos os Martelos de Minério, que podem quebrar &7Minérios Brutos&r em 2 &7Pós&r, que podem ser Fundidos em &7Barras&r."]
 	quest.04ACC7E762537FB4.title: "Duplicação Fácil de Minérios"
+	quest.057A182F4DC408CE.quest_desc: ["Se você escolheu o mapa Skyfactory, também conhecido como aquele com apenas um bloco de terra e uma árvore, você não tem grama! Olhe para o bloco de terra para ganhar seu pedaço de grama."]
+	quest.057A182F4DC408CE.quest_subtitle: "Guru do mapa Skyfactory"
+	quest.057A182F4DC408CE.title: "Se Você É Extremo..."
 	quest.091F1D752FA3BAAC.quest_desc: ["Com apenas 2 &0Sílex&r podemos fazer &0Tesouras de Sílex&r. Elas funcionam como tesouras normais, só que mais baratas. \\n\\nNós precisaremos delas para obter &2Folhas&r! \\n\\nE Lã... se você precisar de Lã."]
 	quest.091F1D752FA3BAAC.title: "Coletando &2Folhas"
 	quest.0BD70DFE33D84323.quest_desc: [
@@ -25,13 +28,14 @@
 	quest.128A1EEAF8F45042.quest_desc: ["&5Esporos de Micélio&r vêm raramente ao &bPeneirar&r Terra. \\n\\nEles funcionam como &2Sementes de Grama&r, coloque-os na Terra ou &2Grama&r para obter &5Micélio&r!"]
 	quest.128A1EEAF8F45042.title: "Traga o Mofo!"
 	quest.145917B219D0D28D.quest_desc: ["Todos os mundos de &bSkyblock&r surgem com o essencial. &2Grama &fe uma &2Árvore&r. \\n\\nPrecisaremos da &2Árvore&r para obter &6Madeira&r e tudo que vem da &6Madeira&r. E quanto à &2Grama&r? \\n\\nBem, primeiro: &aCriaturas Passivas&r precisam de &2Grama&r para nascer. Segundo: a &2Grama&r se espalha para outros blocos de Terra. Terceiro: podemos usar Shift + Clique com o Botão Direito na &2Grama&r para obter &7Seixos&r!"]
+	quest.145917B219D0D28D.quest_subtitle: ""
 	quest.145917B219D0D28D.title: "&2Grama"
 	quest.162AB6F9257EB71E.quest_desc: [
 		"Existem várias maneiras de gerar seus primeiros bits de energia."
 		""
 		"Neste pacote, o Generators Galore foi totalmente reformulado! Com melhorias mais baratas para 8x e 64x, e aumento na produção de energia em geral, pegue um gerador a lava potente e comece! Se quisermos começar com automação no ATM10:TTS, precisaremos nos aprofundar mais em energia e em alguns mods novos!"
 		""
-		"Embora o Capítulo 2 ainda não tenha sido lançado, você pode começar com os mods que ele incluirá!"
+		"Aqui estão alguns dos mods que ele inclui!"
 		""
 		"&bGenerators Galore&r (níveis e mudanças)"
 		""

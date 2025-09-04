@@ -1,0 +1,20 @@
+{
+	quest.102D82A38637FA84.quest_desc: ["&c&lBaubley Heart Canisters&r é um mod centrado em equipamentos fortes e aumento da vida máxima. O recurso principal são &c corações&r, que você pode obter matando monstros. Corações diferentes vêm de monstros diferentes, e corações de nível inferior podem ser transformados em melhores."]
+	quest.102D82A38637FA84.quest_subtitle: "Roubando o coração deles"
+	quest.102D82A38637FA84.title: "&c&lBaubley Heart Canisters"
+	quest.11AA616D7622370C.quest_desc: ["Uma versão aprimorada que pode ser usada para mais bônus."]
+	quest.15AEC638E00516AB.quest_subtitle: "Um coração \"frio\""
+	quest.29555A5CFB098858.quest_subtitle: "Agora estamos chegando a algum lugar"
+	quest.297289FD3DA90DB4.quest_desc: ["Quase todo monstro hostil deixa cair um &cCoração Vermelho&r. Eles são usados para um aumento de vida no início do jogo."]
+	quest.297289FD3DA90DB4.quest_subtitle: "Não coma!"
+	quest.2B0E41A8E9A34238.quest_subtitle: "Curativo chique"
+	quest.30880CC59EEF97A8.quest_desc: ["Você pode derreter corações vermelhos e combiná-los com qualquer \"molde\" de coração para fazer um amarelo."]
+	quest.30880CC59EEF97A8.quest_subtitle: "Tudo isso por um?"
+	quest.30880CC59EEF97A8.title: "Corações Vermelhos Derretidos"
+	quest.31DE7556AC49EE48.quest_subtitle: "Feito de dragões (ou não)"
+	quest.49F4B5361AA39709.quest_desc: ["Uma versão aprimorada que pode ser usada para mais vida."]
+	quest.49F4B5361AA39709.quest_subtitle: "Dragões do Ender"
+	quest.5902FDE5D2D74534.quest_subtitle: "A base para o aumento"
+	quest.75ADA254B6B548D1.quest_desc: ["Isso é o suficiente para curar completamente uma barra de vida inteira por uso. Muito bom!"]
+	quest.75ADA254B6B548D1.quest_subtitle: "20*50 = 1000 de vida"
+}

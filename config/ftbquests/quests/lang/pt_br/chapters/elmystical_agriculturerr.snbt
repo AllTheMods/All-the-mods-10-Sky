@@ -84,6 +84,7 @@
 	quest.3E555B364FD88B43.quest_subtitle: "Alcance: &c45&r Blocos"
 	quest.3E555B364FD88B43.title: "&4Growth Accelerators de Supremium"
 	quest.3EA2578C3A56FAE8.quest_desc: ["O Extrator de Almas permite que você encha Jarras de Almas inserindo uma jarra e usando itens de mobs para enchê-las. Por exemplo, adicionar Carne Podre dará uma porção de uma Alma de Zumbi."]
+	quest.3EBCBED3FD033117.quest_subtitle: "Tier: &a2"
 	quest.408D8B1CFBA22BAF.quest_desc: ["Blocos à Prova de Wither, Tijolos à Prova de Wither e Vidro à Prova de Wither têm uma resistência a explosões muito alta e não podem ser destruídos pelo Wither ou pelo Dragão do End."]
 	quest.408D8B1CFBA22BAF.title: "&0Blocos à Prova de Wither"
 	quest.409A92D40F539485.quest_subtitle: "Nível: &e1"
@@ -110,15 +111,9 @@
 	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r é um mod de geração de recursos que permite cultivar uma grande variedade de recursos vanilla e de mods usando &aSementes&r."]
 	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
 	quest.54D72C234EA76054.quest_subtitle: "Nível: &e1"
-	quest.552335ED867D6EFA.quest_desc: [
-		"Ótimo para fundir uma tonelada de itens!"
-		""
-		"Um Bloco de Carvão de Insanium é necessário para criar a &6Estrela ATM&r."
-	]
 	quest.56201F98819478AB.quest_subtitle: "Nível: &a2"
 	quest.576ABF43FCF886B7.title: "&2Terra Arável de Prudentium"
 	quest.5782E9F866453D1D.quest_subtitle: "Nível: &b4"
-	quest.5A417BE804E46E8C.quest_subtitle: "Nível: &a2"
 	quest.5B1E0E3E876339E7.title: "&4Armadura de Supremium"
 	quest.5BC4250E4C9F803C.title: "&9Terra Arável de Imperium"
 	quest.5C590DB2F3D935E5.quest_desc: ["O Reprocessador de Sementes pode converter sementes de essência de volta em essências."]
@@ -140,9 +135,6 @@
 	quest.67DDFA6FB1F9EECA.title: "Ferramentas de &9Imperium"
 	quest.685C4A646E092A82.title: "Armadura de Supremium &6Desperta"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Nível: &63"
-	quest.6D0A876D4E4D35AB.quest_desc: ["Essência Criativa é necessária para criar a &6Estrela ATM&r."]
-	quest.6D0A876D4E4D35AB.quest_subtitle: "Nível: &5Criativo"
-	quest.6D0A876D4E4D35AB.title: "&5Essência Criativa"
 	quest.712EB19B26D405DD.quest_subtitle: "Nível: &e1"
 	quest.73350AD668200E99.quest_desc: ["Esta é a Essência de Nível 2, feita combinando 4 Inferium com um Cristal de Infusão."]
 	quest.73350AD668200E99.quest_subtitle: "Nível: &a2"
