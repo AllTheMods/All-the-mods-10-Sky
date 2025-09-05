@@ -214,6 +214,7 @@ ServerEvents.recipes((allthemods) => {
   allthemods.remove({ id: `create:crushing/deepslate_zinc_ore` });
   allthemods.remove({ id: `create:crushing/deepslate_iron_ore` });
   allthemods.remove({ id: `create:crushing/tuff_recycling` });
+  allthemods.remove({ id: /oritech:compat\/productivemetalworks\/casting\/block\/.*/ });
 });
 
 ServerEvents.generateData("after_mods", (allthemods) => {
