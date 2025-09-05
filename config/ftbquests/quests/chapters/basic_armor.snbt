@@ -1341,6 +1341,7 @@
 			y: -5.5d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "338BD467EBE6EE1F"
 			optional: true
 			rewards: [{
@@ -1362,6 +1363,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "1245126B4338C019"
 			optional: true
 			rewards: [{
@@ -1383,6 +1385,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "243008D4DCD789D0"
 			optional: true
 			rewards: [{
@@ -1404,6 +1407,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "3AE0198177A8E91B"
 			optional: true
 			rewards: [{
@@ -1425,6 +1429,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "39796D8EE440F318"
 			optional: true
 			rewards: [{
@@ -1446,6 +1451,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "62161BDE9AAAA4BF"
 			optional: true
 			rewards: [{
@@ -1467,6 +1473,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "1E3E688B3B52C4D2"
 			optional: true
 			rewards: [{
@@ -1488,6 +1495,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "1CC627D3FB348C89"
 			optional: true
 			rewards: [{
@@ -1509,6 +1517,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "4B9C54DA5CB6D5C9"
 			optional: true
 			rewards: [{
@@ -1530,6 +1539,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "65E733AACBE62EDB"
 			optional: true
 			rewards: [{
@@ -1551,6 +1561,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "76CDF08465700AA2"
 			optional: true
 			rewards: [{
@@ -1572,6 +1583,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "66C21934DAFFAC7F"
 			optional: true
 			rewards: [{
@@ -1593,6 +1605,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "5C83D5CDD980FD9A"
 			optional: true
 			rewards: [{
@@ -1614,6 +1627,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "0F1D6F4729CC38F3"
 			optional: true
 			rewards: [{
@@ -1635,6 +1649,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "68DABFFB6B3E1A57"
 			optional: true
 			rewards: [{
@@ -1656,6 +1671,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "351159C55159C316"
 			optional: true
 			rewards: [{
@@ -1677,6 +1693,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "3EA3A6414AB8A39C"
 			optional: true
 			rewards: [{
@@ -1698,6 +1715,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["5270883BF008AACE"]
 			id: "729DCB919A92B735"
 			optional: true
 			rewards: [{
@@ -2512,6 +2530,59 @@
 			]
 			x: 3.0d
 			y: -7.5d
+		}
+		{
+			id: "537CDA57EBECD176"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "295035888C3280C3"
+				item: {
+					count: 1
+					id: "exdeorum:random_armor_trim"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2712EF11639AADE4"
+				item: { count: 1, id: "exdeorum:random_armor_trim" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "occultism:ritual_dummy/custom_ritual_possess"
+			}
+			id: "56975E521D14BDC9"
+			optional: true
+			shape: "hexagon"
+			tasks: [{
+				id: "202EAA1AAE640922"
+				item: { count: 1, id: "occultism:dictionary_of_spirits" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"537CDA57EBECD176"
+				"56975E521D14BDC9"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependent_lines: true
+			id: "5270883BF008AACE"
+			optional: true
+			tasks: [{
+				id: "111996AB3AEBFE42"
+				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:dictionary_of_spirits)item(exdeorum:random_armor_trim))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.5d
 		}
 	]
 }

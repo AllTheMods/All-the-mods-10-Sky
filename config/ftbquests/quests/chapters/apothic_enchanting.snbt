@@ -81,7 +81,7 @@
 			y: 0.0d
 		}
 	]
-	order_index: 0
+	order_index: 1
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1418,6 +1418,89 @@
 			}]
 			x: -1.0d
 			y: 6.0d
+		}
+		{
+			id: "784466C3813AA506"
+			rewards: [
+				{
+					id: "4FBFC58F080233B7"
+					item: {
+						count: 1
+						id: "apothic_enchanting:flimsy_ender_lead"
+					}
+					type: "item"
+				}
+				{
+					id: "4D996EFF17A3491A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "24949068EC6DAD83"
+				item: { count: 1, id: "apothic_enchanting:flimsy_ender_lead" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"31E7F7464D79F881"
+				"784466C3813AA506"
+			]
+			id: "78BFDD3A9B996655"
+			rewards: [
+				{
+					id: "0A2D6DFB0AB8D6F4"
+					item: {
+						count: 1
+						id: "apothic_enchanting:ender_lead"
+					}
+					type: "item"
+				}
+				{
+					id: "2CA66D05CAFD351E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [{
+				id: "75251BD315DE1E50"
+				item: { count: 1, id: "apothic_enchanting:ender_lead" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"31E7F7464D79F881"
+				"78BFDD3A9B996655"
+			]
+			id: "61217D80BFF8A858"
+			rewards: [
+				{
+					id: "241B02242A3D5D04"
+					item: {
+						count: 1
+						id: "minecraft:spawner"
+					}
+					type: "item"
+				}
+				{
+					id: "435FDF9CB893D6EA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "565FEFC8EDC85C13"
+				item: { count: 1, id: "apothic_enchanting:occult_ender_lead" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
 		}
 	]
 }

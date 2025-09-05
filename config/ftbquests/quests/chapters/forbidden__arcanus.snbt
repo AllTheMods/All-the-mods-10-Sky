@@ -101,7 +101,7 @@
 			image: "atm:textures/questpics/forbidden/forbidden_tier4.png"
 			rotation: 0.0d
 			width: 4.0771084337349395d
-			x: 22.0d
+			x: 25.0d
 			y: -0.5d
 		}
 		{
@@ -109,7 +109,7 @@
 			image: "atm:textures/questpics/forbidden/forbidden_tier5.png"
 			rotation: 0.0d
 			width: 4.12621359223301d
-			x: 25.0d
+			x: 22.0d
 			y: -0.5d
 		}
 		{
@@ -137,7 +137,7 @@
 			y: 3.0d
 		}
 	]
-	order_index: 4
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -526,7 +526,7 @@
 					id: "028B4921077EBC5A"
 					item: {
 						count: 1
-						id: "forbidden_arcanus:xpetrified_orb"
+						id: "minecraft:experience_bottle"
 					}
 					type: "item"
 				}
@@ -593,7 +593,7 @@
 					id: "460FECA4973A1F25"
 					item: {
 						count: 1
-						id: "forbidden_arcanus:xpetrified_orb"
+						id: "minecraft:experience_bottle"
 					}
 					type: "item"
 				}
@@ -750,7 +750,7 @@
 					id: "2E8E7B0E6243FD22"
 					item: {
 						count: 1
-						id: "forbidden_arcanus:xpetrified_orb"
+						id: "minecraft:experience_bottle"
 					}
 					type: "item"
 				}
@@ -903,7 +903,7 @@
 					id: "4850F9B9A12B1EF5"
 					item: {
 						count: 1
-						id: "forbidden_arcanus:xpetrified_orb"
+						id: "minecraft:experience_bottle"
 					}
 					type: "item"
 				}
@@ -1012,7 +1012,7 @@
 					id: "6BF3392D003B3882"
 					item: {
 						count: 1
-						id: "forbidden_arcanus:xpetrified_orb"
+						id: "minecraft:experience_bottle"
 					}
 					type: "item"
 				}
