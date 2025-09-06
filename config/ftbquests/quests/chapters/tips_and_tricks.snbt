@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "diamond"
 	filename: "tips_and_tricks"
-	group: "029264819125415F"
+	group: "428CE9AF17D90D68"
 	icon: {
 		id: "minecraft:recovery_compass"
 	}
@@ -15,7 +15,7 @@
 		x: 0.0d
 		y: -2.0d
 	}]
-	order_index: 2
+	order_index: 7
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
