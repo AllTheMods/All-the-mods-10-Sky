@@ -3,6 +3,9 @@
 
 ServerEvents.recipes(allthemods => {
     allthemods.remove({ id: 'modern_industrialization:electric_age/machine/assembler/replicator' })
+
+    // Anvil dupe recipe
+    allthemods.remove({id: 'modern_industrialization:vanilla_recipes/steel_anvil_asbl'})
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.
