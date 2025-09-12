@@ -192,7 +192,8 @@ ServerEvents.recipes((allthemods) => {
   });
 
   seedRemovals.forEach((entry) => {
-    allthemods.remove({ input: entry });
+    // allthemods.remove({ input: entry }); Removes indy facades, the next line does the same but ignores indy recipes
+    allthemods.remove({ input: entry, not: {mod: 'integrateddynamics'} });
     allthemods.remove({ output: entry });
   });
 
