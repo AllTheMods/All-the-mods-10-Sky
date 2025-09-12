@@ -66,6 +66,23 @@ ServerEvents.recipes(allthemods => {
         ).id(`allthemods:create_dragons_plus/ending/${id}`)
     }
 
+    function reconstructing(input, output) {
+        let ing  = `${input}`
+        let stack = `${output}`
+        
+        allthemods.custom(
+                {
+            "type": "actuallyadditions:laser",
+            "energy": 20000,
+            "ingredient": {
+                "item": ing
+            },
+            "result": {
+                "id": stack
+            }
+        })
+    }
+
     for (let i = 1; i < 10; i++) {
         [
             `allthecompressed:cobblestone_${i}x`,
@@ -88,6 +105,8 @@ ServerEvents.recipes(allthemods => {
         allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:clay_${i}x`, `allthecompressed:dust_${i}x`, '1000x minecraft:water')
         allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:soul_soil_${i}x`, `allthecompressed:soul_sand_${i}x`, '1000x minecraft:lava')
         allthemods.recipes.exdeorum.barrel_mixing(`allthecompressed:soul_sand_${i}x`, `allthecompressed:sand_${i}x`, '1000x exdeorum:witch_water')
+
+        reconstructing(`allthecompressed:sand_${i}x`, `allthecompressed:soul_sand_${i}x`)
     } 
 })
 
