@@ -275,6 +275,8 @@ ServerEvents.tags('item', allthemods => {
         'minecraft:deepslate',
         'minecraft:cobbled_deepslate'
     ])
+    // For VAT recipes
+    allthemods.add('allthemods:tendrils/warden', 'apothic_enchanting:warden_tendril')
 })
 
 ServerEvents.tags('fluid', allthemods => {
