@@ -1,4 +1,4 @@
-﻿// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 const $DyeColor = Java.tryLoadClass('net.minecraft.world.item.DyeColor')
@@ -36,6 +36,30 @@ ServerEvents.recipes(allthemods => {
 
     allthemods.shapeless(`4x ae2:fluix_covered_cable`, [`ae2:fluix_covered_dense_cable`]).id(`allthemods:ae2/dense_to_normal`);
     allthemods.shapeless(`4x ae2:fluix_smart_cable`,   [`ae2:fluix_smart_dense_cable`])  .id(`allthemods:ae2/smart_dense_to_smart_normal`);
+
+    allthemods.custom({
+            "type": "advanced_ae:reaction",
+            "input_energy": 1300000,
+            "input_fluid": {
+                "amount": 1000,
+                "ingredient": {
+                    "fluid": "minecraft:water"
+                }
+            },
+            "input_items": [
+                {
+                    "amount": 32,
+                    "ingredient": {
+                        "item": "minecraft:amethyst_shard"
+                    }
+                }
+            ],
+            "output": {
+                "#": 32,
+                "#t": "ae2:i",
+                "id": "oritech:fluxite"
+            }
+        })
 
 })
 
