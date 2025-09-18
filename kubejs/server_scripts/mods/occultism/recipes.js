@@ -24,7 +24,6 @@ ServerEvents.recipes((allthemods) => {
   materials.forEach((material) => {
     allthemods.remove({ id: `occultism:crushing/${material}_dirty_dust_from_clump` })
   })
-    })
 
     allthemods.custom({
         type: 'occultism:crushing',
