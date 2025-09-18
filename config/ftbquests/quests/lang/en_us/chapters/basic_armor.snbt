@@ -31,7 +31,6 @@
 		"Can also be obtained from Wild Hunt Wither Skeletons"
 		"{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"
 	]
-	quest.0F1D6F4729CC38F3.quest_subtitle: ""
 	quest.0F1D6F4729CC38F3.title: "Rib Armor Trim"
 	quest.10AA2B20D86747F7.quest_desc: ["&bFerricore&r has same stats as Iron but has other abilities Iron wishes it had! \\n\\nCheck out the Item descriptions to learn more of what they can do!"]
 	quest.10AA2B20D86747F7.quest_subtitle: "15"
@@ -40,7 +39,6 @@
 		"Can also be obtained from Wild Evokers"
 		"{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"
 	]
-	quest.1245126B4338C019.quest_subtitle: ""
 	quest.1245126B4338C019.title: "Vex Armor Trim"
 	quest.13517D17E6BF015F.quest_desc: ["With &bDiamond Armor&r and a few &aInferium Items&r we can craft &aInferium Armor&r! \\n\\nThey can also be upgraded with Tinkering!"]
 	quest.13517D17E6BF015F.quest_subtitle: "21"
@@ -65,7 +63,6 @@
 		"Can also be obtained from Wild Horde Silverfish"
 		"{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"
 	]
-	quest.1CC627D3FB348C89.quest_subtitle: ""
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
 	quest.1D27EE427ECFD6CE.quest_desc: ["Upgraded version of &cTertium&r."]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
@@ -76,7 +73,6 @@
 		"Can also be obtained from Wild Horde Silverfish"
 		"{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"
 	]
-	quest.1E3E688B3B52C4D2.quest_subtitle: ""
 	quest.1E3E688B3B52C4D2.title: "Raiser Armor Trim"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8Netherite&r"
@@ -94,7 +90,6 @@
 		"Can also be forged by Wild Spirits"
 		"{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"
 	]
-	quest.243008D4DCD789D0.quest_subtitle: ""
 	quest.243008D4DCD789D0.title: "Wild Armor Trim"
 	quest.28408BFAA54E4FC6.quest_desc: ["&7Leather Armor&r is the worst vanilla Armor set you can get. \\n\\nThat is mostly because &c&lMojang&r expected you to get it before any other. \\n\\nI almost never get it though because I struggle to find that many &8C&fo&8w&fs&r, sorry &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
@@ -121,7 +116,6 @@
 		"Can also be obtained from Wild Evokers"
 		"{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"
 	]
-	quest.338BD467EBE6EE1F.quest_subtitle: ""
 	quest.338BD467EBE6EE1F.title: "Sentry Armor Trim"
 	quest.3403D7502F7BC897.quest_desc: ["Quite literally invincible, nothing can hit you and do damage. \\n\\nCurrently you need to upgrade &cNetherite Armor&r with a &eQuantum &bUpgrade&r but your friends in the &6&lATM Team&r are working at making that recipe harder! \\n\\nAnd you can't do anything to stop it! &lBWAHAHAHAHA"]
 	quest.3403D7502F7BC897.quest_subtitle: "Invincible"
@@ -133,7 +127,6 @@
 		"Can also be obtained from Possessed Shulkers"
 		"{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"
 	]
-	quest.351159C55159C316.quest_subtitle: "End City Chests"
 	quest.351159C55159C316.title: "Spire Armor Trim"
 	quest.3512F47DADC07EAE.quest_desc: ["&5Unobtainium Armor&r but with buffs to &d&lArs Nouveau&r Spells!"]
 	quest.3512F47DADC07EAE.quest_subtitle: "40"
@@ -144,7 +137,6 @@
 		"Can also be obtained from Wild Horde Husks"
 		"{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"
 	]
-	quest.39796D8EE440F318.quest_subtitle: ""
 	quest.39796D8EE440F318.title: "Dune Armor Trim"
 	quest.3A840658A11D16A5.quest_desc: ["The &7Pneumatic&r armor from &7PneumaticCraft&r is a powerful, endgame modular suit that runs on compressed air from your pressure network. The best part of this set is its upgrades. You can fly faster than quantum, jump incredibly high, and be safe from all sorts of things."]
 	quest.3A840658A11D16A5.quest_subtitle: "15+"
@@ -158,7 +150,6 @@
 		"Can also be obtained from Possessed Elder Guardians"
 		"{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"
 	]
-	quest.3AE0198177A8E91B.quest_subtitle: ""
 	quest.3AE0198177A8E91B.title: "Coast Armor Trim"
 	quest.3C662D3A3537F514.quest_desc: ["The Exo Armor from the &6&lOritech&r mod is a set designed for utility and exploration, rather than combat. It offers cool benefits with each piece but provides very little base protection."]
 	quest.3C662D3A3537F514.quest_subtitle: "17"
@@ -167,7 +158,6 @@
 		"Can also be obtained from Wild Strong Breezes"
 		"{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"
 	]
-	quest.3EA3A6414AB8A39C.quest_subtitle: ""
 	quest.3EA3A6414AB8A39C.title: "Flow Armor Trim"
 	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
 	quest.44CC11E67ADD0556.quest_desc: ["The &5Draco Arcanus&r armor from the &d&lForbidden and Arcanus&r mod is a high-tier set that gives healthy protective stats. It is an upgrade of the mod's &5Obsidian&r armor; you need to go into the mod's &6Hephaestus Forge&r to acquire the necessary materials."]
@@ -187,7 +177,6 @@
 		"Can also be obtained from Wild Horde Silverfish"
 		"{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"
 	]
-	quest.4B9C54DA5CB6D5C9.quest_subtitle: ""
 	quest.4B9C54DA5CB6D5C9.title: "Host Armor Trim"
 	quest.4C2BB25A757CE834.quest_desc: ["&7Rubber&r armor is a very early-game set of protection. It is primarily a crafting component for mid-game tech rather than a serious piece of equipment. The &7rubber&r armor provides very little protection and is not meant for &4combat&r or &2exploration&r."]
 	quest.4C2BB25A757CE834.quest_subtitle: "+2"
@@ -207,7 +196,6 @@
 	quest.52B61FB01D7C12A4.title: "&2Prudentium Armor"
 	quest.537CDA57EBECD176.quest_desc: ["We've lost all the armor trims to being in the sky...getting rid of the various structures you normally find them in. But, we have a solution. Good Ol' Sieves. Sieving Sand with a Golden Mesh has a chance to give you a Random Armor Trim."]
 	quest.56975E521D14BDC9.quest_desc: ["Occultism also offers a way to get Armor Trims from various Possessed and Wild Mobs. Check the Occultism Quest Page and the Dictionary of Spirits for more information."]
-	quest.56975E521D14BDC9.quest_subtitle: ""
 	quest.56975E521D14BDC9.title: "Occult Rituals"
 	quest.57F3F5875F7CF80C.quest_desc: ["The &3Celestigem&r armor from the &b&lJust Dire Things&r mod is a tier-three, energy-powered armor set that offers diamond-level protection. The cool functions come from upgrades that you can install and power with energy."]
 	quest.57F3F5875F7CF80C.quest_subtitle: "20"
@@ -230,7 +218,6 @@
 		"Can also be obtained from Possessed Hoglins"
 		"{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"
 	]
-	quest.5C83D5CDD980FD9A.quest_subtitle: ""
 	quest.5C83D5CDD980FD9A.title: "Snout Armor Trim"
 	quest.5DDC15AAFD2CAF47.quest_desc: ["&bDiamond Armor&r is the next on the &l&2Vanilla&r chain, this is also usually where we start Enchanting it as well! \\n\\nI recommend Protection and its various forms, we don't have to be picky with modded!"]
 	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
@@ -241,7 +228,6 @@
 		"Can also be obtained from Wild Horde Silverfish"
 		"{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"
 	]
-	quest.62161BDE9AAAA4BF.quest_subtitle: ""
 	quest.62161BDE9AAAA4BF.title: "Wayfinder Armor Trim"
 	quest.65A529C8238E89F1.quest_desc: ["Thanks to &5&lMekanism&r we can now make Armor out of &9Lapis Lazuli&r! \\n\\nIt kinda blows though..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
@@ -250,19 +236,17 @@
 		"Can also be obtained from Possessed Wardens"
 		"{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"
 	]
-	quest.65E733AACBE62EDB.quest_subtitle: ""
 	quest.65E733AACBE62EDB.title: "Ward Armor Trim"
 	quest.66C21934DAFFAC7F.quest_desc: [
 		"Can also be obtained from Possessed Elder Guardians"
 		"{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"
 	]
-	quest.66C21934DAFFAC7F.quest_subtitle: ""
+	quest.66C21934DAFFAC7F.quest_subtitle: "Dropped from Elder Guardians"
 	quest.66C21934DAFFAC7F.title: "Tide Armor Trim"
 	quest.68DABFFB6B3E1A57.quest_desc: [
 		"Can also be obtained from Possessed Endermen"
 		"{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"
 	]
-	quest.68DABFFB6B3E1A57.quest_subtitle: ""
 	quest.68DABFFB6B3E1A57.title: "Eye Armor Trim"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
 	quest.6B671CB07D046BEC.title: "&bDiamond&r"
@@ -284,7 +268,6 @@
 		"Can also be obtained from Wild Breezes"
 		"{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"
 	]
-	quest.729DCB919A92B735.quest_subtitle: ""
 	quest.729DCB919A92B735.title: "Bolt Armor Trim"
 	quest.72DDA413D73E3235.quest_desc: ["Much higher stats in everything with the next in line for &6&lAllthemodium&r Armors, &3Vibranium&r! \\n\\nYou will need &6Allthemodium Armor&r to create it."]
 	quest.72DDA413D73E3235.quest_subtitle: "32"
@@ -293,7 +276,6 @@
 		"Can also be obtained from Possessed Wardens"
 		"{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"
 	]
-	quest.76CDF08465700AA2.quest_subtitle: ""
 	quest.76CDF08465700AA2.title: "Silence Armor Trim"
 	quest.79D3055DE0EEA6B0.quest_desc: [
 		"&d&lArs Elemental&r &cFire Armor&r!\\n"
