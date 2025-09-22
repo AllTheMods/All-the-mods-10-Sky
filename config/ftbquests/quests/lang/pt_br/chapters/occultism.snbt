@@ -132,7 +132,7 @@
 		""
 		"Normalmente, você teria que explorar cavernas no Nether, mas este é um modpack Skyblock!"
 		""
-		"Em vez disso, tente usar um Reconstrutor Atômico em Detritos Ancestrais."
+		"Em vez disso, tente peneirar um pouco de &ePedra Negra Triturada&c."
 	]
 	quest.33106E24A3B5DDD8.title: "&cIesnium: Minério do Outro Mundo"
 	quest.3543563DF036D461.quest_desc: ["Para criar o Pó de Dragonyst, você precisará realizar a &9Torre Invertida de Uphyxes&r. No entanto, para criar o Giz Magenta, você também precisará de alguns materiais que só pode obter através do &9Marid Crusher&r."]
@@ -394,5 +394,4 @@
 	task.53DE943DF951696B.title: "Demon Miner"
 	task.57108C994437F25B.title: "Qualquer #ae2:all_nether_quartz"
 	task.6C3887D42B6B2122.title: "Familiares"
-
 }

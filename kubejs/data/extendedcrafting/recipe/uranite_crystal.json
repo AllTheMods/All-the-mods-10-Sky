@@ -1,6 +1,10 @@
 {
   "type": "extendedcrafting:shaped_ender_crafter",
-  "pattern": ["   ", " P ", "ABA"],
+  "pattern": [
+    "   ",
+    " P ",
+    "ABA"
+  ],
   "key": {
     "P": {
       "item": "geore:uraninite_shard"

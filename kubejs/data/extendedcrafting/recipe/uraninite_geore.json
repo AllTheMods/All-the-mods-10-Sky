@@ -1,6 +1,10 @@
 {
   "type": "extendedcrafting:shaped_ender_crafter",
-  "pattern": [" E ", "ESE", " E "],
+  "pattern": [
+    " E ",
+    "ESE",
+    " E "
+  ],
   "key": {
     "S": {
       "item": "geore:budding_uranium"

@@ -1,19 +1,19 @@
 {
-  "type": "productivebees:bee_conversion",
-  "source": "productivebees:blazing",
-  "result": "productivebees:benitoite_crystal",
-  "item": {
-    "item": "bigreactors:benitoite_crystal"
-  },
-  "chance": 1,
-  "conditions": [
-    {
-      "type": "productivebees:bee_exists",
-      "bee": "productivebees:blazing"
+    "type": "productivebees:bee_conversion",
+    "source": "productivebees:blazing",
+    "result": "productivebees:benitoite_crystal",
+    "item": {
+        "item": "bigreactors:benitoite_crystal"
     },
-    {
-      "type": "productivebees:bee_exists",
-      "bee": "productivebees:benitoite_crystal"
-    }
-  ]
+    "chance": 1,
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:blazing"
+        },
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:benitoite_crystal"
+        }
+    ]
 }

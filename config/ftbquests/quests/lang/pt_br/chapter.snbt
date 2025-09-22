@@ -1,8 +1,6 @@
 {
 	chapter.05E614FDA677D85E.title: "&fComida e Agricultura"
 	chapter.07210DDF872160BA.title: "&fApplied Energistics 2"
-	chapter.0731FA8830F28280.chapter_subtitle: [ ]
-	chapter.0731FA8830F28280.title: "&fApotheosis Gear"
 	chapter.0A093D8C4429B627.title: "&fMekanism: Reatores"
 	chapter.0A52D0932DA3F809.title: "&fHostile Neural Networks"
 	chapter.0AB4F9AED808DE48.title: "&fModular Routers"
@@ -41,8 +39,6 @@
 	chapter.4B9D26E0087CD163.title: "&fFerramentas Básicas"
 	chapter.4C507C004144BFEE.title: "&fOccultism"
 	chapter.4EAAE0CEB26378A6.title: "&fJust Dire Things"
-	chapter.4EBB2171D5A3AAAC.chapter_subtitle: [ ]
-	chapter.4EBB2171D5A3AAAC.title: "&fForbidden and Arcanus"
 	chapter.4EEDECACDE8F5A67.title: "&fOritech"
 	chapter.56B11606F5F4DAB2.title: "&fA Era Digital"
 	chapter.5712300EF4E5E846.title: "&fPylons"
@@ -55,10 +51,7 @@
 	chapter.6AEDA2F9BEB57759.chapter_subtitle: [ ]
 	chapter.6AEDA2F9BEB57759.title: "&fArs Nouveau"
 	chapter.6B13AF321AC831D1.title: "&fEra do Óleo e Chapas à Prova de Explosão"
-	chapter.6F08373A5277EF1C.title: "&fBaubley Heart Canisters"
 	chapter.73180B829B960E63.title: "&fIron Furnaces"
 	chapter.76DF5FAA7961E5E7.title: "&fIron's Spells 'n Spellbooks"
 	chapter.7A5C327771634A7D.title: "&fDicas de Construção"
-
 }
-

@@ -1,25 +1,25 @@
 {
-  "type": "extendedcrafting:shaped_table",
-  "pattern": [
-    "    s    ",
-    "   sss   ",
-    " sssssss ",
-    "ssssPssss",
-    " sssssss ",
-    "  sssss  ",
-    " sssssss ",
-    "sss   sss",
-    "ss     ss"
-  ],
-  "key": {
-    "s": {
-      "item": "allthetweaks:atm_star_shard"
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "    s    ",
+        "   sss   ",
+        " sssssss ",
+        "ssssPssss",
+        " sssssss ",
+        "  sssss  ",
+        " sssssss ",
+        "sss   sss",
+        "ss     ss"
+    ],
+    "key": {
+        "s": {
+            "item": "allthetweaks:atm_star_shard"
+        },
+        "P": {
+            "item": "allthetweaks:patrick_star"
+        }
     },
-    "P": {
-      "item": "allthetweaks:patrick_star"
+    "result": {
+        "id": "allthetweaks:atm_star"
     }
-  },
-  "result": {
-    "id": "allthetweaks:atm_star"
-  }
 }

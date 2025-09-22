@@ -62,7 +62,7 @@
 	quest.1D3E2363CFD4C5E0.title: "Nível Básico"
 	quest.1E41A5071854DEC8.title: "Módulo de Dano Wyvern"
 	quest.1F7D147C9AF6A4FC.quest_desc: [
-		"O Nível 4 é diferente. Primeiro, ele precisa de 26 Blocos de Redstone envolvendo o Núcleo. Então, acima da Redstone, ele precisa de 54 Blocos de Barra de Draconium."
+		"O Nível 4 é diferente. Primeiro, ele precisa de 26 Blocos de Redstone envolvendo o Núcleo. Então, acima da Redstone, ele precisa de 56 Blocos de Barra de Draconium."
 		"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
 	]
@@ -310,5 +310,4 @@
 	task.61CCAD2018478894.title: "Ativação"
 	task.664130FB28E419EF.title: "Cristais E/S"
 	task.6EAC5BBFAA0184BC.title: "Preparação"
-
 }

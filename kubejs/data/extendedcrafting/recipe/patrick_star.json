@@ -1,40 +1,40 @@
 {
-  "type": "extendedcrafting:shaped_table",
-  "pattern": [
-    "    B    ",
-    "   BCA   ",
-    "BBBGCABBB",
-    "ACGCGGGCA",
-    " AAGGGBA ",
-    "  EDDDE  ",
-    " EFEDEFE ",
-    "BEDD DDEB",
-    "AAA   AAA"
-  ],
-  "key": {
-    "A": {
-      "item": "minecraft:magenta_concrete"
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "    B    ",
+      "   BCA   ",
+      "BBBGCABBB",
+      "ACGCGGGCA",
+      " AAGGGBA ",
+      "  EDDDE  ",
+      " EFEDEFE ",
+      "BEDD DDEB",
+      "AAA   AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:magenta_concrete"
+      },
+      "B": {
+        "item": "minecraft:pink_concrete"
+      },
+      "C": {
+        "item": "minecraft:pink_concrete_powder"
+      },
+      "D": {
+        "item": "minecraft:green_concrete"
+      },
+      "E": {
+        "item": "minecraft:green_concrete_powder"
+      },
+      "F": {
+        "item": "minecraft:lime_concrete"
+      },
+      "G": {
+        "item": "minecraft:magenta_concrete_powder"
+      }
     },
-    "B": {
-      "item": "minecraft:pink_concrete"
-    },
-    "C": {
-      "item": "minecraft:pink_concrete_powder"
-    },
-    "D": {
-      "item": "minecraft:green_concrete"
-    },
-    "E": {
-      "item": "minecraft:green_concrete_powder"
-    },
-    "F": {
-      "item": "minecraft:lime_concrete"
-    },
-    "G": {
-      "item": "minecraft:magenta_concrete_powder"
+    "result": {
+        "id": "allthetweaks:patrick_star"
     }
-  },
-  "result": {
-    "id": "allthetweaks:patrick_star"
-  }
 }

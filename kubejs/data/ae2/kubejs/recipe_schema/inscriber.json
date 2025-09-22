@@ -1,19 +1,19 @@
 {
-  "keys": [
-    {
-      "name": "ingredients",
-      "role": "input",
-      "type": "ae2:ingredients"
-    },
-    {
-      "name": "result",
-      "type": "item_stack",
-      "role": "output"
-    },
-    {
-      "name": "mode",
-      "role": "other",
-      "type": "enum<appeng.recipes.handlers.InscriberProcessType>"
-    }
-  ]
+    "keys": [
+        {
+            "name": "ingredients",
+            "role": "input",
+            "type": "ae2:ingredients"
+        },
+        {
+            "name": "result",
+            "type": "item_stack",
+            "role": "output"
+        },
+        {
+            "name": "mode",
+            "role": "other",
+            "type": "enum<appeng.recipes.handlers.InscriberProcessType>"
+        }
+    ]
 }

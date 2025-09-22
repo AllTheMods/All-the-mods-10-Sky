@@ -1,25 +1,25 @@
 {
-  "keys": [
-    {
-      "name": "result",
-      "role": "output",
-      "type": "strict_item_stack"
-    },
-    {
-      "name": "input",
-      "role": "input",
-      "type": "non_empty_ingredient"
-    },
-    {
-      "name": "ingredients",
-      "role": "input",
-      "type": "non_empty_ingredient[]"
-    },
-    {
-      "name": "transfer_components",
-      "role": "other",
-      "type": "boolean",
-      "optional": false
-    }
-  ]
+    "keys": [
+        {
+            "name": "result",
+            "role": "output",
+            "type": "strict_item_stack"
+        },
+        {
+            "name": "input",
+            "role": "input",
+            "type": "non_empty_ingredient"
+        },
+        {
+            "name": "ingredients",
+            "role": "input",
+            "type": "non_empty_ingredient[]"
+        },
+        {
+            "name": "transfer_components",
+            "role": "other",
+            "type": "boolean",
+			"optional": false
+        }
+    ]
 }

@@ -15,7 +15,11 @@
       "item": "compactmachines:wall"
     }
   },
-  "pattern": ["WWW", "EPS", "WWW"],
+  "pattern": [
+    "WWW",
+    "EPS",
+    "WWW"
+  ],
   "result": {
     "components": {
       "compactmachines:machine_color": "#7B2FBE",

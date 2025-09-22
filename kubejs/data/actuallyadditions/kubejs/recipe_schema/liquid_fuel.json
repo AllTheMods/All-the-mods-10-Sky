@@ -1,19 +1,19 @@
 {
-  "keys": [
-    {
-      "name": "fuel",
-      "role": "input",
-      "type": "fluid_stack"
-    },
-    {
-      "name": "total_energy",
-      "role": "other",
-      "type": "int"
-    },
-    {
-      "name": "burn_time",
-      "role": "other",
-      "type": "int"
-    }
-  ]
+    "keys": [
+        {
+            "name": "fuel",
+            "role": "input",
+            "type": "fluid_stack"
+        },
+        {
+            "name": "total_energy",
+            "role": "other",
+            "type": "int"
+        },
+        {
+            "name": "burn_time",
+            "role": "other",
+            "type": "int"
+        }
+    ]
 }

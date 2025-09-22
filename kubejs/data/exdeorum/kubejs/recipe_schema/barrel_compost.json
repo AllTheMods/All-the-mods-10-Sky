@@ -1,14 +1,12 @@
-{
-  "keys": [
+{ "keys": [
     {
-      "name": "ingredient",
-      "type": "non_empty_ingredient",
-      "role": "input"
+        "name": "ingredient",
+        "type":"non_empty_ingredient",
+        "role": "input"
     },
     {
-      "name": "volume",
-      "role": "output",
-      "type": "int"
+        "name": "volume",
+        "role": "output",
+        "type": "int"
     }
-  ]
-}
+]}

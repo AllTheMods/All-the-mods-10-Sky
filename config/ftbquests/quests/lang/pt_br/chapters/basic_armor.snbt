@@ -9,6 +9,8 @@
 	quest.03C059DFF8F1BF41.quest_subtitle: "20"
 	quest.03C059DFF8F1BF41.title: "&aArmadura de Esmeralda"
 	quest.04B31A600004F7CB.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os packs &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pack público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, você está no modo de edição."]
+	quest.04B31A600004F7CB.quest_subtitle: ""
+	quest.04B31A600004F7CB.title: ""
 	quest.06B8539B731FE4BA.quest_desc: ["A armadura de &4Liga Eclipse&r do mod &b&lJust Dire Things&r é o nível final e mais poderoso de armadura do &b&lJDT&r. Embora forneça a proteção da armadura de diamante, suas funções reais vêm de sua capacidade de energia e muitas, muitas, muitas melhorias que podem ser aplicadas a ela."]
 	quest.06B8539B731FE4BA.quest_subtitle: "20"
 	quest.06B8539B731FE4BA.title: "&4Armadura de Liga Eclipse"
@@ -27,20 +29,14 @@
 	quest.0E2515424291BB59.quest_desc: ["Versão de &bDiamante&r das Armaduras &d&lArs&r!"]
 	quest.0E2515424291BB59.quest_subtitle: "20"
 	quest.0E2515424291BB59.title: "&5Traje de Mago de Batalha"
-	quest.0F1D6F4729CC38F3.quest_desc: [
-		"Também pode ser obtido de Esqueletos Wither da Wild Hunt."
-		"{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"
-	]
-	quest.0F1D6F4729CC38F3.quest_subtitle: ""
+	quest.0F1D6F4729CC38F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"]
+	quest.0F1D6F4729CC38F3.quest_subtitle: "Fortaleza do Nether"
 	quest.0F1D6F4729CC38F3.title: "Ornamento de Armadura: Costela"
 	quest.10AA2B20D86747F7.quest_desc: ["&bFerricore&r tem os mesmos status do Ferro, mas tem outras habilidades que o Ferro gostaria de ter! \\n\\nConfira as descrições dos Itens para saber mais sobre o que eles podem fazer!"]
 	quest.10AA2B20D86747F7.quest_subtitle: "15"
 	quest.10AA2B20D86747F7.title: "&bArmadura de Ferricore"
-	quest.1245126B4338C019.quest_desc: [
-		"Também pode ser obtido de Evocadores Selvagens."
-		"{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"
-	]
-	quest.1245126B4338C019.quest_subtitle: ""
+	quest.1245126B4338C019.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"]
+	quest.1245126B4338C019.quest_subtitle: "Mansão da Floresta"
 	quest.1245126B4338C019.title: "Ornamento de Armadura: Vex"
 	quest.13517D17E6BF015F.quest_desc: ["Com &bArmadura de Diamante&r e alguns &aItens de Inferium&r podemos criar a &aArmadura de Inferium&r! \\n\\nEles também podem ser aprimorados com Ajustes!"]
 	quest.13517D17E6BF015F.quest_subtitle: "21"
@@ -61,22 +57,16 @@
 	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r você pode aprimorar a &5Armadura de Unobtainium&r para o &aMekaSuit&r! \\n\\nAgora ele pode armazenar Energia e em vez de receber dano nos corações, ele consumirá Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
 	quest.1C27C74722A19FC1.quest_subtitle: "Quanta Energia você puder fornecer"
 	quest.1C27C74722A19FC1.title: "&aMekaSuit"
-	quest.1CC627D3FB348C89.quest_desc: [
-		"Também pode ser obtido de Silverfish da Horda Selvagem."
-		"{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"
-	]
-	quest.1CC627D3FB348C89.quest_subtitle: ""
+	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
+	quest.1CC627D3FB348C89.quest_subtitle: "Ruínas da Trilha"
 	quest.1CC627D3FB348C89.title: "Ornamento de Armadura: Modelador"
 	quest.1D27EE427ECFD6CE.quest_desc: ["Versão aprimorada do &cTertium&r."]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
 	quest.1D27EE427ECFD6CE.title: "&9Armadura de Imperium"
 	quest.1D91E37BFD8CC911.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_emerald.png width:100 height:150 align:center}"]
 	quest.1D91E37BFD8CC911.title: "&2Esmeralda&r"
-	quest.1E3E688B3B52C4D2.quest_desc: [
-		"Também pode ser obtido de Silverfish da Horda Selvagem."
-		"{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"
-	]
-	quest.1E3E688B3B52C4D2.quest_subtitle: ""
+	quest.1E3E688B3B52C4D2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"]
+	quest.1E3E688B3B52C4D2.quest_subtitle: "Ruínas da Trilha"
 	quest.1E3E688B3B52C4D2.title: "Ornamento de Armadura: Criador"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8Netherita&r"
@@ -90,11 +80,8 @@
 	quest.2296CE4418AE62D4.quest_desc: ["&6Armadura de Allthemodium&r mas com bônus para Feitiços do &d&lArs Nouveau&r!"]
 	quest.2296CE4418AE62D4.quest_subtitle: "24"
 	quest.2296CE4418AE62D4.title: "&6Equipamento Arcanista de Allthemodium"
-	quest.243008D4DCD789D0.quest_desc: [
-		"Também pode ser forjado pelos Espíritos Selvagens."
-		"{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"
-	]
-	quest.243008D4DCD789D0.quest_subtitle: ""
+	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
+	quest.243008D4DCD789D0.quest_subtitle: "Templos da Selva"
 	quest.243008D4DCD789D0.title: "Ornamento de Armadura: Selvagem"
 	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de armadura vanilla que você pode obter. \\n\\nIsso é principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque tenho dificuldade em encontrar tantas &8v&fa&8c&fa&fs&r, desculpe &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
@@ -117,11 +104,8 @@
 	]
 	quest.2EAA6BE598C83F24.quest_subtitle: "15"
 	quest.2EAA6BE598C83F24.title: "&3Traje de Aquamante"
-	quest.338BD467EBE6EE1F.quest_desc: [
-		"Também pode ser obtido de Evocadores Selvagens."
-		"{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"
-	]
-	quest.338BD467EBE6EE1F.quest_subtitle: ""
+	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
+	quest.338BD467EBE6EE1F.quest_subtitle: "Posto Avançado dos Pillagers"
 	quest.338BD467EBE6EE1F.title: "Ornamento de Armadura: Sentinela"
 	quest.3403D7502F7BC897.quest_desc: ["Literalmente invencível, nada pode te atingir e causar dano. \\n\\nAtualmente você precisa aprimorar a &cArmadura de Netherita&r com um &eAprimoramento &bQuântico&r, mas seus amigos da &6&lEquipe ATM&r estão trabalhando para tornar essa receita mais difícil! \\n\\nE você não pode fazer nada para impedir! &lBWAHAHAHAHA"]
 	quest.3403D7502F7BC897.quest_subtitle: "Invencível"
@@ -129,22 +113,16 @@
 	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r e o &l&7Modern Industrialization&r podem ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aMekaSuit&r, pode usar Energia como um escudo. \\nEla também tem melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar Energia automaticamente dele e pegar qualquer Item de lá, não importa onde você esteja."]
 	quest.34D14B807A2DAC0F.quest_subtitle: "Quanta Energia você puder fornecer"
 	quest.34D14B807A2DAC0F.title: "&5Armadura Quântica&r (&l&bAE2&r)"
-	quest.351159C55159C316.quest_desc: [
-		"Também pode ser obtido de Shulkers Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"
-	]
-	quest.351159C55159C316.quest_subtitle: ""
+	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
+	quest.351159C55159C316.quest_subtitle: "Cidade do End e Navios do End"
 	quest.351159C55159C316.title: "Ornamento de Armadura: Pináculo"
 	quest.3512F47DADC07EAE.quest_desc: ["&5Armadura de Unobtainium&r mas com bônus para Feitiços do &d&lArs Nouveau&r!"]
 	quest.3512F47DADC07EAE.quest_subtitle: "40"
 	quest.3512F47DADC07EAE.title: "&5Equipamento Arcanista de Unobtainium"
 	quest.3685B52446DEC809.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_gold.png width:100 height:150 align:center}"]
 	quest.3685B52446DEC809.title: "&eOuro&r"
-	quest.39796D8EE440F318.quest_desc: [
-		"Também pode ser obtido de Husk da Horda Selvagem."
-		"{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"
-	]
-	quest.39796D8EE440F318.quest_subtitle: ""
+	quest.39796D8EE440F318.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"]
+	quest.39796D8EE440F318.quest_subtitle: "Pirâmides do Deserto"
 	quest.39796D8EE440F318.title: "Ornamento de Armadura: Duna"
 	quest.3A840658A11D16A5.quest_desc: ["A armadura &7Pneumática&r do &7PneumaticCraft&r é um traje modular poderoso de fim de jogo que funciona com ar comprimido da sua rede de pressão. A melhor parte deste conjunto são suas melhorias. Você pode voar mais rápido que o quântico, pular incrivelmente alto e estar seguro de todos os tipos de coisas."]
 	quest.3A840658A11D16A5.quest_subtitle: "15+"
@@ -154,20 +132,14 @@
 	quest.3ABE7074E500494D.quest_desc: ["&7Aço&r é usado para a maioria das Máquinas no &5&lMekanism&r... mais a Armadura, o que é legal!"]
 	quest.3ABE7074E500494D.quest_subtitle: "20"
 	quest.3ABE7074E500494D.title: "&5&lMekanism&r &7Armadura de Aço"
-	quest.3AE0198177A8E91B.quest_desc: [
-		"Também pode ser obtido de Guardiões Ancestrais Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"
-	]
-	quest.3AE0198177A8E91B.quest_subtitle: ""
+	quest.3AE0198177A8E91B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"]
+	quest.3AE0198177A8E91B.quest_subtitle: "Naufrágios e Tesouro Enterrado"
 	quest.3AE0198177A8E91B.title: "Ornamento de Armadura: Costa"
 	quest.3C662D3A3537F514.quest_desc: ["A Armadura Exo do mod &6&lOritech&r é um conjunto projetado para utilidade e exploração, em vez de combate. Oferece benefícios legais com cada peça, mas fornece muito pouca proteção base."]
 	quest.3C662D3A3537F514.quest_subtitle: "17"
 	quest.3C662D3A3537F514.title: "&7Capacete Exo"
-	quest.3EA3A6414AB8A39C.quest_desc: [
-		"Também pode ser obtido de Breezes Fortes Selvagens."
-		"{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"
-	]
-	quest.3EA3A6414AB8A39C.quest_subtitle: ""
+	quest.3EA3A6414AB8A39C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"]
+	quest.3EA3A6414AB8A39C.quest_subtitle: "Câmaras de Desafio"
 	quest.3EA3A6414AB8A39C.title: "Ornamento de Armadura: Fluxo"
 	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
 	quest.44CC11E67ADD0556.quest_desc: ["A armadura &5Draco Arcanus&r do mod &d&lForbidden and Arcanus&r é um conjunto de alto nível que oferece status de proteção saudáveis. É uma melhoria da armadura de &5Obsidiana&r do mod; você precisa ir para a &6Forja de Hefesto&r do mod para adquirir os materiais necessários."]
@@ -183,11 +155,8 @@
 	quest.4A9CB8778D37049F.quest_desc: ["Você precisará usar um Ritual do Despertar para obter os Itens para fazer outro Ritual do Despertar na &4Armadura de Supremium&r. \\n\\nAcho que vale a pena; é a melhor Armadura que você pode obter do &2&lMystical&r!"]
 	quest.4A9CB8778D37049F.quest_subtitle: "36"
 	quest.4A9CB8778D37049F.title: "&6Armadura de Supremium Despertada"
-	quest.4B9C54DA5CB6D5C9.quest_desc: [
-		"Também pode ser obtido de Silverfish da Horda Selvagem."
-		"{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"
-	]
-	quest.4B9C54DA5CB6D5C9.quest_subtitle: ""
+	quest.4B9C54DA5CB6D5C9.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"]
+	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Ruínas da Trilha"
 	quest.4B9C54DA5CB6D5C9.title: "Ornamento de Armadura: Anfitrião"
 	quest.4C2BB25A757CE834.quest_desc: ["A armadura de &7Borracha&r é um conjunto de proteção de início de jogo. É principalmente um componente de fabricação para tecnologia de meio de jogo, em vez de uma peça séria de equipamento. A armadura de &7borracha&r oferece muito pouca proteção e não é destinada a &4combate&r ou &2exploração&r."]
 	quest.4C2BB25A757CE834.quest_subtitle: "+2"
@@ -197,18 +166,12 @@
 	quest.5064D5F99E2C69C8.quest_desc: ["Versão aprimorada do &9Imperium&r."]
 	quest.5064D5F99E2C69C8.quest_subtitle: "29"
 	quest.5064D5F99E2C69C8.title: "&4Armadura de Supremium"
-	quest.5270883BF008AACE.quest_desc: ["Isso é apenas um portão para que eu não precise rotular tantas missões como Uma Completa com dependências."]
-	quest.5270883BF008AACE.title: "Ocultismo OU Aparência Aleatória de Armadura"
 	quest.52AFABA08674B6A8.quest_desc: ["&3Armadura de Vibranium&r mas com bônus para Feitiços do &d&lArs Nouveau&r!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
 	quest.52AFABA08674B6A8.title: "&3Equipamento Arcanista de Vibranium"
 	quest.52B61FB01D7C12A4.quest_desc: ["Versão aprimorada do &aInferium&r."]
 	quest.52B61FB01D7C12A4.quest_subtitle: "23"
 	quest.52B61FB01D7C12A4.title: "&2Armadura de Prudentium"
-	quest.537CDA57EBECD176.quest_desc: ["Perdemos todos os cortes de armaduras por estarem no céu... eliminando as várias estruturas onde normalmente os encontramos. Mas temos uma solução. Bons e velhos Peneiradores. Peneirar Areia com uma Malha Dourada tem uma chance de te dar um Corte de Armadura Aleatório."]
-	quest.56975E521D14BDC9.quest_desc: ["Occultism também oferece uma maneira de obter Cortes de Armaduras de vários Mobs Possuídos e Selvagens. Confira a Página de Missões de Ocultismo e o Dicionário dos Espíritos para mais informações."]
-	quest.56975E521D14BDC9.quest_subtitle: ""
-	quest.56975E521D14BDC9.title: "Rituais do Occultism"
 	quest.57F3F5875F7CF80C.quest_desc: ["A armadura &3Celestigem&r do mod &b&lJust Dire Things&r é um conjunto de armadura de nível três, alimentado por energia, que oferece proteção de nível de diamante. As funções legais vêm de melhorias que você pode instalar e alimentar com energia."]
 	quest.57F3F5875F7CF80C.quest_subtitle: "20"
 	quest.57F3F5875F7CF80C.title: "&3Armadura de Celestigem"
@@ -226,43 +189,28 @@
 	quest.5A21B16F7600561A.title: "&6Armadura de Papelão"
 	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
 	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
-	quest.5C83D5CDD980FD9A.quest_desc: [
-		"Também pode ser obtido de Hoglins Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"
-	]
-	quest.5C83D5CDD980FD9A.quest_subtitle: ""
+	quest.5C83D5CDD980FD9A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"]
+	quest.5C83D5CDD980FD9A.quest_subtitle: "Ruínas de Bastião"
 	quest.5C83D5CDD980FD9A.title: "Ornamento de Armadura: Focinho"
 	quest.5DDC15AAFD2CAF47.quest_desc: ["A &bArmadura de Diamante&r é a próxima na cadeia do &l&2Vanilla&r, geralmente é aqui que começamos a encantá-la também! \\n\\nEu recomendo Proteção e suas várias formas, não precisamos ser exigentes com mods!"]
 	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
 	quest.5DDC15AAFD2CAF47.title: "&bArmadura de Diamante"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
-	quest.62161BDE9AAAA4BF.quest_desc: [
-		"Também pode ser obtido de Silverfish da Horda Selvagem."
-		"{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"
-	]
-	quest.62161BDE9AAAA4BF.quest_subtitle: ""
+	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
+	quest.62161BDE9AAAA4BF.quest_subtitle: "Ruínas da Trilha"
 	quest.62161BDE9AAAA4BF.title: "Ornamento de Armadura: Explorador"
 	quest.65A529C8238E89F1.quest_desc: ["Graças ao &5&lMekanism&r agora podemos fazer Armadura de &9Lápis-lazúli&r! \\n\\nMas é meio ruim..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
 	quest.65A529C8238E89F1.title: "&9Armadura de Lápis-lazúli"
-	quest.65E733AACBE62EDB.quest_desc: [
-		"Também pode ser obtido de Wardens Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"
-	]
-	quest.65E733AACBE62EDB.quest_subtitle: ""
+	quest.65E733AACBE62EDB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"]
+	quest.65E733AACBE62EDB.quest_subtitle: "Cidades Antigas"
 	quest.65E733AACBE62EDB.title: "Ornamento de Armadura: Protetor"
-	quest.66C21934DAFFAC7F.quest_desc: [
-		"Também pode ser obtido de Guardiões Anciãos Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"
-	]
-	quest.66C21934DAFFAC7F.quest_subtitle: ""
+	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
+	quest.66C21934DAFFAC7F.quest_subtitle: "Dropado por Guardiões Anciões"
 	quest.66C21934DAFFAC7F.title: "Ornamento de Armadura: Maré"
-	quest.68DABFFB6B3E1A57.quest_desc: [
-		"Também pode ser obtido de Enderman Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"
-	]
-	quest.68DABFFB6B3E1A57.quest_subtitle: ""
+	quest.68DABFFB6B3E1A57.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"]
+	quest.68DABFFB6B3E1A57.quest_subtitle: "Fortaleza"
 	quest.68DABFFB6B3E1A57.title: "Ornamento de Armadura: Olho"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
 	quest.6B671CB07D046BEC.title: "&bDiamante&r"
@@ -280,20 +228,14 @@
 	quest.71C552678A0F649F.title: "&7Armadura de Ósmio"
 	quest.7279700A93E8630B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_unobtainium.png width:100 height:150 align:center}"]
 	quest.7279700A93E8630B.title: "&5Unobtainium&r"
-	quest.729DCB919A92B735.quest_desc: [
-		"Também pode ser obtido de Breezes Selvagens."
-		"{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"
-	]
-	quest.729DCB919A92B735.quest_subtitle: ""
+	quest.729DCB919A92B735.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"]
+	quest.729DCB919A92B735.quest_subtitle: "Câmaras de Desafio"
 	quest.729DCB919A92B735.title: "Ornamento de Armadura: Parafuso"
 	quest.72DDA413D73E3235.quest_desc: ["Status muito mais altos em tudo com a próxima na linha das Armaduras do &6&lAllthemodium&r, &3Vibranium&r! \\n\\nVocê precisará da &6Armadura de Allthemodium&r para criá-la."]
 	quest.72DDA413D73E3235.quest_subtitle: "32"
 	quest.72DDA413D73E3235.title: "&3Armadura de Vibranium"
-	quest.76CDF08465700AA2.quest_desc: [
-		"Também pode ser obtido de Wardens Possuídos."
-		"{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"
-	]
-	quest.76CDF08465700AA2.quest_subtitle: ""
+	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
+	quest.76CDF08465700AA2.quest_subtitle: "Cidades Antigas"
 	quest.76CDF08465700AA2.title: "Ornamento de Armadura: Silêncio"
 	quest.79D3055DE0EEA6B0.quest_desc: [
 		"&d&lArs Elemental&r &cArmadura do Fogo&r!\\n"
@@ -311,6 +253,7 @@
 	quest.7C1D407CF67786F6.quest_subtitle: "15"
 	quest.7C1D407CF67786F6.title: "&fTraje de Etermante"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["Armadura é uma parte muito importante do &l&2Minecraft&r, é o que te protege do perigo. \\n\\nDiferentes peças de Armadura dão diferentes Pontos de Armadura. Estes determinam a eficácia da sua Armadura, quanto mais, melhor!\\n\\nA maioria das armaduras pode ser alterada para mais decoração com Ornamentos de Armadura, use uma peça de Armadura com um Ornamento de Armadura e um Item para colorir para mudar a aparência!"]
+	quest.7F11ABFB2E21B7E4.quest_subtitle: ""
 	quest.7F11ABFB2E21B7E4.title: "&l&bArmadura Básica&r"
 	quest.7FABB77A60E7962C.quest_desc: ["Ao infundir Obsidiana com &bDiamantes&r podemos obter Pó de Obsidiana Refinada! \\n\\nEntão, podemos comprimir &7Ósmio&r nele para obtê-lo em forma de Barra. \\n\\nDepois disso, podemos transformar essas Barras em Armadura com status melhores que até mesmo a &6Armadura de Allthemodium&r!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
@@ -321,5 +264,4 @@
 	task.57895147416291FE.title: "TodosOsDireitosReservados"
 	task.597120AD20EEBF1D.title: "Botas de Mergulho"
 	task.73142F195D9B100C.title: "Peitorais Exo"
-
 }

@@ -1,5 +1,5 @@
 {
-  "keys": [
+  "keys" : [
     {
       "name": "result",
       "type": "strict_item_stack",

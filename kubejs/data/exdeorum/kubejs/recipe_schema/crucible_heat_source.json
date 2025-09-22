@@ -1,14 +1,14 @@
 {
-  "keys": [
-    {
-      "name": "block_predicate",
-      "type": "exdeorum:block_predicate",
-      "role": "other"
-    },
-    {
-      "name": "heat_value",
-      "role": "other",
-      "type": "int"
-    }
-  ]
+    "keys": [
+        {
+            "name": "block_predicate",
+            "type": "exdeorum:block_predicate",
+            "role": "other"
+        },
+        {
+            "name": "heat_value",
+            "role": "other",
+            "type": "int"
+        }
+    ]
 }

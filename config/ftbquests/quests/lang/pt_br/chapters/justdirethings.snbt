@@ -39,13 +39,6 @@
 		"- Velocidade de Corrida"
 		"- Velocidade de Caminhada"
 	]
-	quest.05056CAA64E3971B.quest_desc: [
-		"&lTipo de Habilidade:&r Passiva"
-		""
-		"&lFunção da Habilidade:&r"
-		""
-		"Faz com que flechas disparadas pelo Arco apliquem um efeito de poção com base no seu Recipiente de Poção."
-	]
 	quest.05D8C6EF8FCD6250.quest_desc: [
 		"Geleia de Primogel é o primeiro nível de geleia adicionado pelo JDT e requer materiais básicos do Mundo Superior para fabricar."
 		""
@@ -128,13 +121,6 @@
 		"&lFunção da Habilidade:&r"
 		""
 		"Concede Visão Noturna ao jogador."
-	]
-	quest.1256F280F3669DDA.quest_desc: [
-		"&lTipo de Habilidade:&r Ativa"
-		""
-		"&lFunção da Habilidade:&r"
-		""
-		"Faz com que as Flechas se encadeiem para inimigos próximos."
 	]
 	quest.132F4671E121C7B8.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -330,13 +316,6 @@
 		"Melhoria Válida:"
 		"- Teletransportador de Drops"
 	]
-	quest.35A78E04092767AD.quest_desc: [
-		"Melhorias Válidas:"
-		"- Flecha de Poção"
-		"- Explosão"
-		"- Duradouro"
-		"- Flecha Guiada"
-	]
 	quest.37B903620493A354.quest_desc: [
 		"Melhorias Válidas:"
 		"- Defumador Automático"
@@ -381,23 +360,8 @@
 		""
 		"Reduz o alcance de detecção de mobs hostis."
 	]
-	quest.3CFD798362605880.quest_desc: [
-		"&lTipo de Habilidade:&r Passiva"
-		""
-		"&lFunção da Habilidade:&r"
-		""
-		"Faz com que as Flechas de Poção disparadas pelo Arco tenham um efeito de Explosão, atingindo múltiplos alvos em uma área."
-	]
 	quest.3D9964CB0440DD5A.quest_desc: ["Jogar Brasa de Blaze em Fluido Polimórfico criará Combustível de Brasa de Blaze Não Refinado. Realizar a Disseminação de Gosma com gosma de Nível Dois ou superior converterá o Combustível de Brasa de Blaze Não Refinado em Combustível de Brasa de Blaze."]
-	quest.3F3559EF5D08B706.quest_desc: [
-		"&lTipo de Habilidade:&r Passiva"
-		""
-		"&lFunção da Habilidade:&r"
-		""
-		"Faz com que as Flechas busquem ativamente seus alvos."
-	]
 	quest.40C5C355B6DA1893.quest_desc: ["O Gerador de Bolso é um gerador portátil que usa itens combustíveis para carregar itens e ferramentas no inventário do jogador, o Gerador de Bolso é compatível com o Recipiente de Combustível."]
-	quest.41E8C93A44559E48.quest_desc: ["A &7Máquina do Paradoxo&r pode, por um preço alto de Poder e &aFluido do Tempo&r, tirar uma Captura de Blocos e Entidades na área designada; depois, ela pode duplicá-los. \\n\\nMuitos Blocos e Entidades estão na lista negra por configurações, então nada de duplicar Abelhas!"]
 	quest.433117EEA55B6A54.quest_desc: ["Apenas um simples colocador de fluidos."]
 	quest.441F37A95AB66E6B.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
 	quest.4458F8829800A950.quest_desc: ["O Fluido Polimórfico é a base de todos os Fluidos / Combustíveis no JDT. O Fluido Polimórfico é criado ao jogar Catalisador Polimórfico na água."]
@@ -407,10 +371,8 @@
 		""
 		"&lFunção da Habilidade:&r"
 		""
-		"Permite que o jogador passe através de blocos quando aplicado às calças. Existe uma tag de bloco para adicionar blocos à lista negra, impedindo que sejam atravessados."
-		"Quando aplicado a um arco, permite que as flechas atravessem paredes."
+		"Permite ao jogador atravessar blocos. Existe uma tag de bloco para impedir que blocos possam ser atravessados."
 	]
-	quest.454662617304E299.quest_subtitle: ""
 	quest.454CA1F8CC198D9D.quest_desc: [
 		"Melhorias Válidas:"
 		"- Assistência de Passo"
@@ -445,15 +407,7 @@
 		"- Não Pisotear"
 		"- Crescimento Acelerado de Plantações I"
 	]
-	quest.48E4D75FD3145AD6.quest_desc: ["O Fluido do Tempo é usado pela Máquina do Paradoxo e pela Varinha do Tempo. Ele é obtido ao jogar Fluido do Tempo no Fluido Polimórfico.\\n\\nPara um cristal tão difícil de obter, fico feliz que tenham nos dado um fluido fácil dessa vez."]
 	quest.49636B3C6E6D0C2A.quest_desc: ["Não tem utilidade, mas é legal."]
-	quest.4987759CF379C1EB.quest_desc: [
-		"&lTipo de Habilidade:&r Passiva"
-		""
-		"&lFunção da Habilidade:&r"
-		""
-		"Previne os efeitos de lentidão e velocidade de serem aplicados enquanto você tiver Cristais do Tempo no seu inventário."
-	]
 	quest.49EF8A4346AEF582.quest_desc: ["Jogar Brasa do Eclipse em Combustível de Voidflame criará Combustível de Brasa do Eclipse Não Refinado. Realizar a Dispersão de Gosma com gosma de nível quatro converterá o Combustível de Brasa do Eclipse Não Refinado em Combustível de Brasa do Eclipse."]
 	quest.4A5937F6E5D06BE1.quest_desc: ["Um gerador de combustível líquido simples que funciona com os combustíveis líquidos adicionados pelo JDT."]
 	quest.4ACB72F3A23A5A19.quest_desc: [
@@ -514,14 +468,6 @@
 		"- Crescimento Acelerado de Culturas II"
 	]
 	quest.53F9E5CE7EE6F852.quest_desc: ["O Capturador de Criaturas permite o transporte de mobs. Mobs podem ser colocados na lista negra através de uma tag de entidade."]
-	quest.567005978482235F.quest_desc: [
-		"Melhorias Válidas:"
-		"- Flecha de Poção"
-		"- Explosão"
-		""
-		"Habilidade Intrínseca:"
-		"- Reparação de Lava"
-	]
 	quest.5961C1ED32522BEF.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
 		""
@@ -537,7 +483,6 @@
 		"- Proteção contra a Morte"
 		"- Voo"
 		"- Imunidade à Lava"
-		"- Proteção do Tempo"
 	]
 	quest.5A38E9F68570F7F3.quest_desc: [
 		"Melhorias Válidas:"
@@ -547,10 +492,6 @@
 		""
 		"Habilidade Intrínseca:"
 		"- Habilidade de Lava"
-	]
-	quest.5A9436B100FC1E67.quest_desc: [
-		"Melhorias Válidas:"
-		"- Flecha de Poção"
 	]
 	quest.5B02719C13B1FFE2.quest_desc: [
 		"Habilidades:"
@@ -605,13 +546,6 @@
 		""
 		"Aumenta a área minerada de uma vez. Quando instalada em ferramentas de nível superior, a área máxima minerada é aumentada. A área minerada pode ser configurada no menu."
 	]
-	quest.6720F863B907A5F1.quest_desc: [
-		"&lTipo de Habilidade:&r Passiva"
-		""
-		"&lFunção da Habilidade:&r"
-		""
-		"Faz com que as Flechas de Poção disparadas pelo arco tenham um efeito Duradouro, aplicando efeitos em uma área ao longo do tempo."
-	]
 	quest.6737CB17D562B134.quest_desc: ["Apenas um clicador simples que clica com o item que lhe é dado."]
 	quest.67B87570C340C243.title: "Melhorias de Armadura"
 	quest.6889EFC6CC291463.quest_desc: [
@@ -634,12 +568,6 @@
 		"- Raio-X"
 		"- Quebra Instantânea"
 	]
-	quest.6ADE6F9E004055F7.quest_desc: [
-		"Os Cristais do Tempo são um novo material adicionado por JDT. Eles crescem nos Blocos de Cristal do Tempo em Botão, que são criados ao realizar a espalhabilidade de goo sobre o Bloco de Cristal do Tempo em Botão ou um Bloco de Cristal do Tempo.\\n\\nNO ENTANTO, o Bloco de Cristal do Tempo em Botão deve coletar tempo do Mundo Superior, Nether e O End para poder crescer Aglomerados de Cristais do Tempo. Você NÃO PODE quebrar ou usar toque suave no Bloco de Cristal do Tempo em Botão. Você deve usar um Troca, Caixa de Papelão ou Gadget de Cortar e Colar para movê-los.\\n\\nApós um tempo, o Bloco de Cristal do Tempo em Botão ficará sem energia e precisará fazer outra viagem ao Mundo Superior, Nether e O End."
-		"{@pagebreak}"
-		"Para automatizar esse processo, veja o vídeo linkado na imagem acima desta missão."
-	]
-	quest.6ADE6F9E004055F7.quest_subtitle: "Tempo Louco"
 	quest.6D9CFCD81A23BB3B.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
 		""
@@ -668,15 +596,6 @@
 	quest.70AD088336748892.quest_desc: ["Apenas um simples gerador a carvão."]
 	quest.70BF85E2D235BAD5.quest_desc: ["Jogar Carvão de Chama do Vazio em Combustível de Brasa de Blaze criará Combustível de Chama do Vazio Não Refinado. Realizar a Dispersão de Gosma com gosma de Nível Três ou superior converterá Combustível de Chama do Vazio Não Refinado em Combustível de Chama do Vazio."]
 	quest.70C404E5685E4E91.quest_desc: ["Apenas um simples colocador de blocos."]
-	quest.71128E508D810DDF.quest_desc: [
-		"Melhorias Válidas:"
-		"- Flecha de Poção"
-		"- Explosão"
-		"- Duradouro"
-		"- Flecha Guiada"
-		"- Fase"
-		"- Flecha Yondu"
-	]
 	quest.71441DFA05FD73E5.quest_desc: [
 		"Melhorias Válidas:"
 		"- Névoa Mental"
@@ -684,15 +603,10 @@
 		"- Visão Noturna"
 	]
 	quest.7305EE0F7D73C231.quest_desc: ["Melhorias em Branco são a base de todas as habilidades. As habilidades são separadas em dois tipos, passivas e ativas.\\n\\nHabilidades passivas não requerem nenhuma entrada ativa do jogador para funcionar, no entanto, habilidades ativas só funcionam quando acionadas por uma tecla de atalho que os jogadores definem no menu de configuração, e também consomem durabilidade/poder quando usadas. Quando instaladas em armaduras de nível superior, as habilidades ativas têm tempos de recarga reduzidos e as habilidades passivas têm efeitos maiores.\\n\\nA mesa de ferraria é usada para aplicar melhorias às ferramentas e armaduras JDT. Segurar shift ao passar o mouse sobre ferramentas ou armaduras JDT mostra quais melhorias são válidas."]
-	quest.73552A4BA0687962.quest_desc: ["Essas melhorias podem ser aplicados em ferramentas ou armaduras."]
-	quest.73552A4BA0687962.quest_subtitle: ""
-	quest.73552A4BA0687962.title: ""
 	quest.7464CA1290B3474B.quest_desc: [
 		"Melhorias Válidas:"
 		"- Invulnerabilidade"
 	]
-	quest.76B1C5AFC5D6B7CF.quest_desc: ["A Varinha do Tempo pode ser usada para acelerar blocos, de forma semelhante ao Tempo na Garrafa, até uma velocidade de x256. Ao contrário do TIAB, ela usa FE e Fluido do Tempo em vez de tempo armazenado como combustível, tornando muito mais fácil de reabastecer.\\n\\nEla está na lista negra para jogadores falsos, no entanto. Não queremos que você automatize ISSO."]
-	quest.76B1C5AFC5D6B7CF.quest_subtitle: "&fPrima do Tempo na Garrafa"
 	quest.78840993C7832E89.quest_desc: [
 		"Melhorias Válidas:"
 		"- Derrubador de Árvores"
@@ -719,20 +633,16 @@
 	quest.7D1D2A4E07E98709.quest_desc: ["Um simples quebrador de blocos que requer uma ferramenta para quebrar blocos."]
 	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things é um mod pau para toda obra. Just Dire Things adiciona uma nova mecânica de criação chamada Propagação de Gosma, junto com máquinas que auxiliam na automação da Propagação de Gosma e outras utilidades."]
 	quest.7F0B2D58361FB00E.title: "Just Dire Things"
-	task.00B0A3B14DEB34B9.title: "Melhorias Híbridas"
 	task.03982D782B426ABB.title: "TodosOsDireitosReservados"
 	task.19931057AAC1A03A.title: "TodosOsDireitosReservados"
 	task.32309011F80C0A9E.title: "NOTA"
 	task.366CA7D53571A552.title: "Utilitários"
 	task.3AC95E8DC4229D17.title: "Just Dire Things"
 	task.3CAD6AD06BE4C3D3.title: "Ferramentas"
-	task.3FF2BD8CB76476EE.title: ""
 	task.40B39896B6CD41C6.title: "Armadura"
-	task.49BFB8275541DCD0.title: ""
 	task.5AB4103FF540ABB4.title: "Fluidos"
 	task.5DD919AF75C92C8A.title: "Ferramentas"
 	task.665A5DFA6270ADA6.title: "Máquinas Simples"
 	task.67B21CF59C3D02E5.title: "Máquinas Avançadas"
 	task.7197FBBA21C0F94A.title: "Armadura"
-	task.738768C6FC0DC099.title: ""
 }

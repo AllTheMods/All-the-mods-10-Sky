@@ -1,19 +1,19 @@
 {
-  "keys": [
-    {
-      "name": "ingredients",
-      "role": "input",
-      "type": "codec<appeng.recipes.handlers.InscriberRecipe$Ingredients#CODEC>"
-    },
-    {
-      "name": "result",
-      "type": "item_stack",
-      "role": "output"
-    },
-    {
-      "name": "mode",
-      "role": "other",
-      "type": "codec<appeng.recipes.handlers.InscriberRecipe#MODE_CODEC>"
-    }
-  ]
+    "keys": [
+        {
+            "name": "ingredients",
+            "role": "input",
+            "type": "codec<appeng.recipes.handlers.InscriberRecipe$Ingredients#CODEC>"
+        },
+        {
+            "name": "result",
+            "type": "item_stack",
+            "role": "output"
+        },
+        {
+            "name": "mode",
+            "role": "other",
+            "type": "codec<appeng.recipes.handlers.InscriberRecipe#MODE_CODEC>"
+        }
+    ]
 }

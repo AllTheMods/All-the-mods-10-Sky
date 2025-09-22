@@ -1,40 +1,40 @@
 {
-  "entity": "minecraft:drowned",
-  "variants": [],
-  "name": {
-    "translate": "entity.minecraft.drowned",
-    "color": "#3B6269"
-  },
-  "display": {
-    "nbt": {
-      "HandItems": [
+    "entity": "minecraft:drowned",
+    "variants": [],
+    "name": {
+        "translate": "entity.minecraft.drowned",
+        "color": "#3B6269"
+    },
+    "display": {
+        "nbt": {
+            "HandItems": [
+                {
+                    "id": "minecraft:trident"
+                },
+                {}
+            ]
+        }
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.drowned",
+    "fabricator_drops": [
         {
-          "id": "minecraft:trident"
+            "id": "minecraft:rotten_flesh",
+            "count": 64
         },
-        {}
-      ]
-    }
-  },
-  "sim_cost": 128,
-  "input": {
-    "item": "hostilenetworks:prediction_matrix"
-  },
-  "base_drop": {
-    "id": "hostilenetworks:overworld_prediction"
-  },
-  "trivia": "hostilenetworks.trivia.drowned",
-  "fabricator_drops": [
-    {
-      "id": "minecraft:rotten_flesh",
-      "count": 64
-    },
-    {
-      "id": "minecraft:copper_ingot",
-      "count": 8
-    },
-    {
-      "id": "minecraft:nautilus_shell",
-      "count": 1
-    }
-  ]
+        {
+            "id": "minecraft:copper_ingot",
+            "count": 8
+        },
+        {
+            "id": "minecraft:nautilus_shell",
+            "count": 1
+        }
+    ]
 }

@@ -6,7 +6,9 @@
   "effects": [
     {
       "type": "silentgear:cancel_effects",
-      "cleared_effects": ["minecraft:nausea"]
+      "cleared_effects": [
+        "minecraft:nausea"
+      ]
     }
   ],
   "max_level": 1,

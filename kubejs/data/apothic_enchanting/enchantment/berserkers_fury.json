@@ -1,108 +1,110 @@
 {
-  "neoforge:conditions": [{ "type": "neoforge:false" }],
-  "anvil_cost": 10,
-  "description": {
-    "color": "dark_red",
-    "translate": "enchantment.apothic_enchanting.berserkers_fury"
-  },
-  "effects": {
-    "apothic_enchanting:berserking": {
-      "cooldown": [
-        {
-          "effect": {
-            "type": "minecraft:add",
-            "value": 900.0
-          }
-        }
-      ],
-      "hp_cost": [
-        {
-          "effect": {
-            "type": "minecraft:add",
-            "value": {
-              "type": "apothic_enchanting:exponential",
-              "base": 2.5
-            }
-          }
-        }
-      ],
-      "mob_effects": [
-        {
-          "effect": {
-            "amplifier": [
-              {
-                "type": "minecraft:add",
-                "value": {
-                  "type": "minecraft:linear",
-                  "base": 0.0,
-                  "per_level_above_first": 1.0
+    "neoforge:conditions":[{"type":"neoforge:false"}],
+    "anvil_cost": 10,
+    "description": {
+        "color": "dark_red",
+        "translate": "enchantment.apothic_enchanting.berserkers_fury"
+    },
+    "effects": {
+        "apothic_enchanting:berserking": {
+            "cooldown": [
+                {
+                    "effect": {
+                        "type": "minecraft:add",
+                        "value": 900.0
+                    }
                 }
-              }
             ],
-            "duration": [
-              {
-                "type": "minecraft:add",
-                "value": 500.0
-              }
-            ],
-            "mob_effect": "minecraft:resistance"
-          }
-        },
-        {
-          "effect": {
-            "amplifier": [
-              {
-                "type": "minecraft:add",
-                "value": {
-                  "type": "minecraft:linear",
-                  "base": 0.0,
-                  "per_level_above_first": 1.0
+            "hp_cost": [
+                {
+                    "effect": {
+                        "type": "minecraft:add",
+                        "value": {
+                            "type": "apothic_enchanting:exponential",
+                            "base": 2.5
+                        }
+                    }
                 }
-              }
             ],
-            "duration": [
-              {
-                "type": "minecraft:add",
-                "value": 500.0
-              }
-            ],
-            "mob_effect": "minecraft:strength"
-          }
-        },
-        {
-          "effect": {
-            "amplifier": [
-              {
-                "type": "minecraft:add",
-                "value": {
-                  "type": "minecraft:linear",
-                  "base": 0.0,
-                  "per_level_above_first": 1.0
+            "mob_effects": [
+                {
+                    "effect": {
+                        "amplifier": [
+                            {
+                                "type": "minecraft:add",
+                                "value": {
+                                    "type": "minecraft:linear",
+                                    "base": 0.0,
+                                    "per_level_above_first": 1.0
+                                }
+                            }
+                        ],
+                        "duration": [
+                            {
+                                "type": "minecraft:add",
+                                "value": 500.0
+                            }
+                        ],
+                        "mob_effect": "minecraft:resistance"
+                    }
+                },
+                {
+                    "effect": {
+                        "amplifier": [
+                            {
+                                "type": "minecraft:add",
+                                "value": {
+                                    "type": "minecraft:linear",
+                                    "base": 0.0,
+                                    "per_level_above_first": 1.0
+                                }
+                            }
+                        ],
+                        "duration": [
+                            {
+                                "type": "minecraft:add",
+                                "value": 500.0
+                            }
+                        ],
+                        "mob_effect": "minecraft:strength"
+                    }
+                },
+                {
+                    "effect": {
+                        "amplifier": [
+                            {
+                                "type": "minecraft:add",
+                                "value": {
+                                    "type": "minecraft:linear",
+                                    "base": 0.0,
+                                    "per_level_above_first": 1.0
+                                }
+                            }
+                        ],
+                        "duration": [
+                            {
+                                "type": "minecraft:add",
+                                "value": 500.0
+                            }
+                        ],
+                        "mob_effect": "minecraft:speed"
+                    }
                 }
-              }
-            ],
-            "duration": [
-              {
-                "type": "minecraft:add",
-                "value": 500.0
-              }
-            ],
-            "mob_effect": "minecraft:speed"
-          }
+            ]
         }
-      ]
-    }
-  },
-  "max_cost": {
-    "base": 200,
-    "per_level_above_first": 0
-  },
-  "max_level": 3,
-  "min_cost": {
-    "base": 50,
-    "per_level_above_first": 40
-  },
-  "slots": ["chest"],
-  "supported_items": "#minecraft:enchantable/chest_armor",
-  "weight": 1
+    },
+    "max_cost": {
+        "base": 200,
+        "per_level_above_first": 0
+    },
+    "max_level": 3,
+    "min_cost": {
+        "base": 50,
+        "per_level_above_first": 40
+    },
+    "slots": [
+        "chest"
+    ],
+    "supported_items": "#minecraft:enchantable/chest_armor",
+    "weight": 1
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "productivebees:slimy_nest"
   },
-  "results": ["productivebees:slimy"],
+  "results": [
+    "productivebees:slimy"
+  ],
   "neoforge:conditions": [
     {
       "type": "productivebees:bee_exists",

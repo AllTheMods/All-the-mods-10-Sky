@@ -1,19 +1,19 @@
 {
-  "keys": [
-    {
-      "name": "result",
-      "type": "item_stack",
-      "role": "output"
-    },
-    {
-      "name": "energy",
-      "type": "long",
-      "role": "other"
-    },
-    {
-      "name": "ingredients",
-      "type": "ingredient[]",
-      "role": "input"
-    }
-  ]
+    "keys": [
+        {
+            "name": "result",
+            "type": "item_stack",
+            "role": "output"
+        },
+        {
+            "name": "energy",
+            "type": "long",
+            "role": "other"
+        },
+        {
+            "name": "ingredients",
+            "type": "ingredient[]",
+            "role": "input"
+        }
+    ]
 }

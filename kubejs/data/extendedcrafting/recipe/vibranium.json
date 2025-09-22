@@ -1,6 +1,10 @@
 {
   "type": "extendedcrafting:shaped_ender_crafter",
-  "pattern": ["ABC", "DEF", "GBH"],
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GBH"
+  ],
   "key": {
     "A": {
       "item": "geore:quartz_shard"

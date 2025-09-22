@@ -1,19 +1,19 @@
 {
-  "keys": [
-    {
-      "name": "result",
-      "type": "item_stack",
-      "role": "output"
-    },
-    {
-      "name": "ingredient",
-      "type": "non_empty_ingredient",
-      "role": "input"
-    },
-    {
-      "name": "fluid",
-      "role": "input",
-      "type": "flat_sized_fluid_ingredient"
-    }
-  ]
+    "keys": [
+        {
+            "name": "result",
+            "type": "item_stack",
+            "role": "output"
+        },
+        {
+            "name": "ingredient",
+            "type":"non_empty_ingredient",
+            "role": "input"
+        },
+        {
+            "name": "fluid",
+            "role": "input",
+            "type": "flat_sized_fluid_ingredient"
+        }
+    ]
 }

@@ -3,5 +3,7 @@
   "ingredient": {
     "item": "productivebees:bumble_bee_nest"
   },
-  "results": ["productivebees:bumble_bee"]
+  "results": [
+    "productivebees:bumble_bee"
+  ]
 }

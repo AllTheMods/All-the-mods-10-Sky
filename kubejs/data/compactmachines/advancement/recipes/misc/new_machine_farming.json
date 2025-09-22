@@ -18,8 +18,15 @@
       "trigger": "minecraft:recipe_unlocked"
     }
   },
-  "requirements": [["has_the_recipe", "has_recipe"]],
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_recipe"
+    ]
+  ],
   "rewards": {
-    "recipes": ["compactmachines:new_machine_farming"]
+    "recipes": [
+      "compactmachines:new_machine_farming"
+    ]
   }
 }

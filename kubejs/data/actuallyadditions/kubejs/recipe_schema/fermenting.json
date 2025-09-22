@@ -1,19 +1,19 @@
 {
-  "keys": [
-    {
-      "name": "result",
-      "role": "output",
-      "type": "fluid_stack"
-    },
-    {
-      "name": "ingredient",
-      "role": "input",
-      "type": "fluid_stack"
-    },
-    {
-      "name": "time",
-      "role": "other",
-      "type": "int"
-    }
-  ]
+    "keys": [
+        {
+            "name": "result",
+            "role": "output",
+            "type": "fluid_stack"
+        },
+        {
+            "name": "ingredient",
+            "role": "input",
+            "type": "fluid_stack"
+        },
+        {
+            "name": "time",
+            "role": "other",
+            "type": "int"
+        }
+    ]
 }

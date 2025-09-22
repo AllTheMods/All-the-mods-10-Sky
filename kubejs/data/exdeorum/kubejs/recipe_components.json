@@ -1,4 +1,4 @@
 {
-  "exdeorum:weighted_list_blockstate": "{value: block_state_string, weight: int }",
-  "exdeorum:block_predicate": "either<{block_tag: block_tag},either<{block: block, state: codec<net.minecraft.advancements.critereon.StatePropertiesPredicate>},{block: block}>>"
+    "exdeorum:weighted_list_blockstate": "{value: block_state_string, weight: int }",
+    "exdeorum:block_predicate": "either<{block_tag: block_tag},either<{block: block, state: codec<net.minecraft.advancements.critereon.StatePropertiesPredicate>},{block: block}>>"
 }
