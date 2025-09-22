@@ -1,0 +1,10 @@
+{
+  "item.occultism.ritual_dummy.sm/ritual/honeycomb": "Ritual: Craft Honeycomb",
+  "ritual.allthemods.ritual/honeycomb.started": "Starting the ritual: Craft Honeycomb",
+  "ritual.allthemods.ritual/honeycomb.finished": "Ritual completed successfully: Craft Honeycomb",
+  "ritual.allthemods.ritual/honeycomb.interrupted": "Interruption in the ritual: Craft Honeycomb",
+  "item.occultism.ritual_dummy.sm/ritual/upgrade_ritual_satchel_t1_to_t2": "Ritual: Upgrade Apprentice Ritual Satchel to Artisanal",
+  "ritual.allthemods.ritual/upgrade_ritual_satchel_t1_to_t2.started": "Starting the ritual: Upgrade Apprentice Ritual Satchel to Artisanal",
+  "ritual.allthemods.ritual/upgrade_ritual_satchel_t1_to_t2.finished": "Ritual completed successfully: Upgrade Apprentice Ritual Satchel to Artisanal",
+  "ritual.allthemods.ritual/upgrade_ritual_satchel_t1_to_t2.interrupted": "Interruption in the ritual: Upgrade Apprentice Ritual Satchel to Artisanal"
+}

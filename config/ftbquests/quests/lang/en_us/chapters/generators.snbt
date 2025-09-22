@@ -1,5 +1,5 @@
 {
-	quest.062AA943A1629A86.quest_desc: ["You blew up the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&3a&5l&r? Coal that lasts forever? Actually that's pretty worth it."]
+	quest.062AA943A1629A86.quest_desc: ["You blew up the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5o&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&3a&5l&r? Coal that lasts forever? Actually that's pretty worth it."]
 	quest.062AA943A1629A86.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.07753C5D94312A50.quest_desc: [
 		"&3Augment&r: Generator is the opposite of the &3Augment&r: Factory, instead of using Energy to Smelt, it Smelts for Energy. You will no longer smelt items in it, every Fuel used will be made into Energy!"
@@ -9,7 +9,7 @@
 	quest.07753C5D94312A50.title: "&3Augment&r: Generator"
 	quest.0AD2B11565B484E7.quest_desc: ["You'll need every Furnace before &5Netherite&r for these. Yes all, even the &6Copper&r! Even the &7Silver&r! Even the &3Crystal&r!"]
 	quest.0AD2B11565B484E7.title: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
-	quest.0ADBE90B33ACC9FB.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
+	quest.0ADBE90B33ACC9FB.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&co&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5o&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
 	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&co&6r"
 	quest.20EC8001A05CE2C8.quest_desc: ["Wireless Heat is a fun and easy way of powering Furnaces. First place the Wireless Heat Transmitter and put Energy into it. Then put the Receiver into the Transmitter to bind it. Finally put the Receiver into the Furnace Fuel section to start powering it!"]
 	quest.21EA29A8C7F950CE.quest_desc: ["&bDiamonds&r the staple of &2Minecraft&r, and of upgraded Furnaces apparently...\\n \\nThese work even faster only taking 80 Ticks or 4 Seconds to smelt items. That's even faster than a Blast Furnace! \\n \\nThese are only crafted by &eGold Furnaces&r and can be crafted into &3Crystal&r or &aEmerald Furnaces&r."]
@@ -83,3 +83,4 @@
 	task.38B6F45109CB033A.title: "AllRightsReserved"
 	task.5DB7A437BEC3E2D4.title: "AllRightsReserved"
 }
+

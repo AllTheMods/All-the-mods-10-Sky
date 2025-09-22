@@ -7,6 +7,13 @@ ItemEvents.modifyTooltips(allthemods => {
     allthemods.add('allthemodium:teleport_pad',[
         Text.of('Mining Dimension Disabled'),
     ])
+	//Ars Controle
+	allthemods.add('ars_controle:scryers_linkage',[
+        Text.of(''),
+		Text.of('§7Fake Search Aliases:'),
+		Text.of('§7- Entangled'),
+		Text.of('§7- Entangled Block'),
+    ])
 
     //Forbidden Arcanus
     allthemods.add('forbidden_arcanus:hephaestus_forge_tier_1',[
@@ -75,7 +82,15 @@ ItemEvents.modifyTooltips(allthemods => {
         Text.of("§cDisabled for Fake Player"),
         Text.of("§c(Blocks like Modular Routers, Clickers, etc)")
     ])
-
+	//Occultism
+	allthemods.add('kubejs:ritual_dummy/honeycomb',[
+		Text.of("§7Tier: Foliot"),
+	])
+	allthemods.add('kubejs:ritual_dummy/upgrade_ritual_satchel_t1_to_t2',[
+		Text.of("§cWARNING: Will delete all items in the Apprentice Satchel. Consider taking out all items from the Apprentice Satchel."),
+		Text.of("§7Tier: Afrit"),
+	])
+	//Create
     allthemods.add('create:limestone', [
         Text.of('Make a Lava Source Block flow on top of Create Honey').gray()
     ])

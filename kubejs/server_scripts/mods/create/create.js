@@ -10,7 +10,9 @@ ServerEvents.recipes(allthemods => {
         "minecraft:blackstone",
         "minecraft:sand",
         "minecraft:netherrack",
-        "exdeorum:crushed_netherrack"
+        "exdeorum:crushed_netherrack",
+        "extendedae:entro_crystal",
+        "advanced_ae:shattered_singularity"
     ].map(ing => Ingredient.of(ing))
 
     let crushingResults = [
@@ -19,7 +21,9 @@ ServerEvents.recipes(allthemods => {
         "exdeorum:crushed_blackstone",
         "exdeorum:dust",
         "exdeorum:crushed_netherrack",
-        'create:cinder_flour'
+        'create:cinder_flour',
+        "extendedae:entro_dust",
+        "advanced_ae:quantum_infused_dust"
     ].map(stack => Item.of(stack))
 
     /**

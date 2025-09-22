@@ -70,7 +70,7 @@ ServerEvents.recipes(allthemods => {
 
   // Oblivion Shard
   allthemods.shaped('allthetweaks:oblivion_shard', [' AB', 'ACA', 'BA '], {
-    A: 'ae2:quantum_entangled_singularity',
+    A: Ingredient.of(['ae2:quantum_entangled_singularity','advanced_ae:shattered_singularity']),
     C: 'oritech:nuke',
     B: 'justdirethings:paradoxmachine'
   })

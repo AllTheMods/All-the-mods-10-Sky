@@ -25,4 +25,40 @@ ServerEvents.recipes(event => {
         W: '#c:wools',
         s: 'minecraft:string'
     });
+	event.shaped(Item.of('silentgear:bort', 8), [
+        'CCC',
+        'CDC',
+		'CCC'
+    ], {
+        D: '#c:gems/diamond',
+		C: 'minecraft:clay_ball'
+    });
+	event.remove({id:'create:crushing/crimsite_recycling'})
+	event.custom({
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:crimsite"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "chance": 0.4,
+      "id": "silentgear:raw_crimson_iron"
+    },
+    {
+      "chance": 0.4,
+      "id": "silentgear:crimson_iron_nugget"
+    },
+	{
+      "chance": 0.4,
+      "id": "alltheores:iron_clump"
+    },
+    {
+      "chance": 0.4,
+      "id": "minecraft:iron_nugget"
+    }
+  ]
+}).id("create:crushing/crimsite")
 })
