@@ -3,20 +3,6 @@
 
 ServerEvents.recipes(allthemods => {
 
-    allthemods.shaped('enderio:vat', [
-
-        'ABA',
-        'CDC',
-        'EFE'], {
-        A: 'enderio:dark_steel_ingot',
-        B: 'enderio:energized_gear',
-        C: 'enderio:pressurized_fluid_tank',
-        D: 'enderio:ensouled_chassis',
-        E: 'enderio:zombie_electrode',
-        F: 'enderio:vacuum_chest'    
-        }
-    )
-    
     allthemods.custom({
     "type": "enderio:vat_fermenting",
     "input": {
