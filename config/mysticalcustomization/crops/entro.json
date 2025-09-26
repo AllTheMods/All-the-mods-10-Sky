@@ -1,0 +1,14 @@
+{
+  "name": "Entro",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "allthecompressed:entro_block_1x"
+  },
+  
+  "textures": {
+    "flower": "mysticalagriculture:block/entro_flower",
+    "essence": "mysticalagriculture:item/entro_essence",
+    "seeds": "mysticalagriculture:item/entro_seeds"
+  }
+}

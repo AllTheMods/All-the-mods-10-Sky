@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:celestigem_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:celestigem_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalcustomization:celestigem"}

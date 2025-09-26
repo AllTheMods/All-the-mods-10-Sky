@@ -1,0 +1,13 @@
+{
+    "name": "Andesite Alloy",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "create:andesite_alloy_block"
+    },
+    "color": "90908d",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+    }
+  }

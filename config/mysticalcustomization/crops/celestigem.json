@@ -1,0 +1,13 @@
+{
+  "name": "Gema Selestial",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagradditions:6",
+  "ingredient": {
+    "item": "justdirethings:celestigem_block"
+  },
+  "color": "00ffff",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_quartz"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Crystal Matrix",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:5",
+    "enabled": true,
+    "ingredient": {
+      "item": "avaritia:crystal_matrix"
+    },
+    "color": "7ec7ec",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+     }
+  }

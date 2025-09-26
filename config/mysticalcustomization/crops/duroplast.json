@@ -1,0 +1,14 @@
+{
+    "name": "Duroplast",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagradditions:6",
+    "enabled": true,
+    "ingredient": {
+      "item": "immersiveengineering:duroplast"
+    },
+    "color": "a79778",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+     }
+  }

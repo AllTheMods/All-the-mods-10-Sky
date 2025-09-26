@@ -1,0 +1,13 @@
+{
+  "name": "Redstone Ingot",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "extendedcrafting:redstone_ingot_block"
+  },
+  "color": "990000",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  }
+}

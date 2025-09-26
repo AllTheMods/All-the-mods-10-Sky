@@ -1,0 +1,13 @@
+{
+  "name": "Ender Ingot",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "extendedcrafting:ender_ingot_block"
+  },
+  "color": "00913f",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_quartz"
+  }
+}

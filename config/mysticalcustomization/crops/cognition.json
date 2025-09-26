@@ -1,0 +1,14 @@
+{
+    "name": "Congnition Alloy Ingot",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:5",
+    "enabled": true,
+    "ingredient": {
+      "item": "experienceobelisk:cognitive_alloy_block"
+    },
+    "color": "77c986",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+     }
+  }

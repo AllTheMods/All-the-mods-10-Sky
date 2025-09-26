@@ -1,0 +1,13 @@
+{
+  "name": "Source Gem",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "ars_nouveau:source_gem_block"
+  },
+  "color": "f09bf6",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_quartz"
+  }
+}

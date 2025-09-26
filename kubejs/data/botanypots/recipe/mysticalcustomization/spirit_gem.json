@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:spirit_gem_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:spirit_gem_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalcustomization:spirit_gem"}

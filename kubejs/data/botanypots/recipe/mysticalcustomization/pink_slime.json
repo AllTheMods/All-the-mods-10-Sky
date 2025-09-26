@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:pink_slime_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:pink_slime_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalcustomization:pink_slime"}

@@ -1,0 +1,14 @@
+{
+    "name": "Naquadah Ingot",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagradditions:6",
+    "enabled": true,
+    "ingredient": {
+      "item": "mekanism_extras:block_naquadah"
+    },
+    "color": "010ec5",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"  
+     }
+  }
