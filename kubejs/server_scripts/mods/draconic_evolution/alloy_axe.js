@@ -12,19 +12,37 @@ ServerEvents.recipes((allthemods) => {
         {
           consume: true,
           ingredient: {
-            tag: "c:ingots/allthemodium"
+            tag: "c:storage_blocks/allthemodium"
           }
         },
         {
           consume: true,
           ingredient: {
-            tag: "c:ingots/vibranium"
+            tag: "c:storage_blocks/vibranium"
           }
         },
         {
           consume: true,
           ingredient: {
-            tag: "c:ingots/unobtainium"
+            tag: "c:storage_blocks/unobtainium"
+          }
+        },
+        {
+          consume: true,
+          ingredient: {
+            item: "allthemodium:allthemodium_upgrade_smithing_template"
+          }
+        },
+        {
+          consume: true,
+          ingredient: {
+            item: "allthemodium:vibranium_upgrade_smithing_template"
+          }
+        },
+        {
+          consume: true,
+          ingredient: {
+            item: "allthemodium:unobtainium_upgrade_smithing_template"
           }
         }
       ],

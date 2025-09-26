@@ -6,7 +6,7 @@ ServerEvents.recipes((allthemods) => {
     .custom({
       type: "draconicevolution:fusion_crafting",
       catalyst: {
-        item: "justdirethings:eclipsealloy_paxel"
+        item: "justdirethings:celestigem_paxel"
       },
       ingredients: [
         {
