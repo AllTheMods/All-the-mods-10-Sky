@@ -1,0 +1,14 @@
+{
+    "name": "Matriz De Cristal",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:3",
+    "enabled": true,
+    "ingredient": {
+      "item": "hostilenetworks:prediction_matrix"
+    },
+    "color": "B7FFB3",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+      }
+  }

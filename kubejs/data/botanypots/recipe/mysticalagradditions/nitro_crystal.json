@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:nitro_crystal_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:nitro_crystal_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalagradditions:nitro_crystal"}

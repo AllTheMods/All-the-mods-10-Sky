@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:neutronium_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:neutronium_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalagradditions:neutronium"}
