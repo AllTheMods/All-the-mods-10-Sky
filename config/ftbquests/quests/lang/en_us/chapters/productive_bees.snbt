@@ -9,8 +9,14 @@
 	quest.00FD36C207845895.title: "Draconic Bee"
 	quest.010A970FC91BD617.quest_subtitle: "Made in Alloy Smelter"
 	quest.010A970FC91BD617.title: "Soularium Bee"
+	quest.012287E678B226D4.quest_desc: [ ]
+	quest.012287E678B226D4.quest_subtitle: "Chaotic Fusion Crafting"
+	quest.012287E678B226D4.title: "Chaos Bee"
 	quest.01F7F3589EBD8872.quest_subtitle: "Feed a Shroombee a Brown Mushroom"
 	quest.01F7F3589EBD8872.title: "Brown Shroombee"
+	quest.02084CEEBADE52E4.quest_desc: ["Not to be confused with the Draconic Bee"]
+	quest.02084CEEBADE52E4.quest_subtitle: "Wyvern Fusion Crafting"
+	quest.02084CEEBADE52E4.title: "Draconium Bee"
 	quest.027FD9135DEC4949.quest_subtitle: "Lures in Ghostly Bees when placed in the Nether and given Ghast Tears"
 	quest.029AA03790F055E8.quest_subtitle: "Crystalline + Mason"
 	quest.029AA03790F055E8.title: "Gold Bee"
@@ -31,7 +37,7 @@
 	quest.05F8458AB4A6950B.quest_subtitle: "Feed Voidshimmer Goo to Diamond Bee"
 	quest.05F8458AB4A6950B.title: "Celestigem Bee"
 	quest.06044B4452A6B720.quest_desc: ["When placed in a Desert biome, the Sand Nest will attract either the Chocolate or Ashy Mining Bee."]
-	quest.06044B4452A6B720.quest_subtitle: "Lures bees in Desert Biomes"
+	quest.06044B4452A6B720.quest_subtitle: "Can be used in any Overworld biome"
 	quest.065196033249A0AA.quest_subtitle: "Alloy Raw Biopolymer with an Iron Bee Egg"
 	quest.065196033249A0AA.title: "Biosteel Bee"
 	quest.0691BDE968724213.quest_subtitle: "Made in Alloy Smelter"
@@ -55,7 +61,7 @@
 		""
 		"It lures in the Ashy Mining Bee, Chocolate Mining Bee, and the Digger Bee."
 	]
-	quest.09FD3D0B9BCAEB5A.quest_subtitle: "Lures in bees in River and Beach Biomes"
+	quest.09FD3D0B9BCAEB5A.quest_subtitle: "Can be used in any Overworld biome"
 	quest.0A11725B41AB45F6.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.0AF2460579C6BD8C.quest_subtitle: "Osmium + Obsidian"
 	quest.0AF2460579C6BD8C.title: "Refined Obsidian Bee"
@@ -89,13 +95,20 @@
 	quest.120BDCB70AD352AC.quest_desc: [
 		"If you want to turn your Bee Farm into a factory for resources, you'll need to start by spawning in Bees with &6Nests&r."
 		""
-		"The nests must be placed in specific biomes, which you can find in the JEI for it (look for the I icon at the top)."
+		"The nests can go into any biome. Some nests, like Quartz Nest still need to go into The Nether."
 		""
 		"To lure in a Bee to the Nest, right click on it with a &9Honey Treat&r. Nests will not work without the treats!!"
 		""
 		"&9Important Note&r: Certain Bees will only live in Nests and will not go into Advanced Hives. If they don't produce Honeycomb, they need to live in a Nest instead."
 	]
 	quest.120BDCB70AD352AC.quest_subtitle: "Honey Treats Required"
+	quest.128A14A3842325FE.quest_desc: [
+		"When installed into an Advanced Beehive, bees no longer physically exit the hive. A trip to their flower block will be simulated."
+		""
+		"Make sure to put its required flower block or a Feeding Slab in front of the hive containing the required flower blocks or items for the bee in the hive. To see how to set it up correctly, check the Feeding Slab quest."
+		""
+		"I highly recommend getting this so your bees don't disappear or wander off into the void."
+	]
 	quest.128A14A3842325FE.quest_subtitle: "Are the Bees still real?"
 	quest.131EC039435B8878.quest_desc: [
 		"In Productive Bees, you don't spend most of your time flying around trying to find certain bees."
@@ -106,7 +119,7 @@
 		""
 		"Make sure to check out which biome you need to be in to lure in the right Bees!"
 	]
-	quest.13AA91D39A2CABF2.quest_desc: ["Welcome to &6Productive Bees&r!\\n\\nTo get started with the mod, you'll first need to find some Honeycombs and Honey Bottles! Find yourself a Beehive, and let the bees do their work for a little. Shearing it when it is full will give you honeycombs, and glass bottles will give you Honey Bottles!\\n\\n&9Important Note&r: With the bee quests requiring combs, the recipes will not be shown. Make sure to look them up in JEI if you need them!"]
+	quest.13AA91D39A2CABF2.quest_desc: ["Welcome to &6Productive Bees&r!\\n\\nTo get started with the mod, you'll first need to find some Honeycombs and Honey Bottles! Grow some trees near flowers for a Bee Nest (or get a Foliot to provide you with honeycombs), and let the bees do their work for a little. Shearing it when it is full will give you honeycombs, and glass bottles will give you Honey Bottles!\\n\\n&9Important Note&r: With the bee quests requiring combs, the recipes will not be shown. Make sure to look them up in JEI if you need them!"]
 	quest.13AA91D39A2CABF2.title: "Productive Bees!"
 	quest.13C5C06278DD9C95.quest_subtitle: "Alloy a Diamond Bee Spawn Egg with a Nickel Bee Spawn Egg"
 	quest.13C5C06278DD9C95.title: "Adamant Bee"
@@ -150,6 +163,7 @@
 		"{image:atm:textures/questpics/bees/feeder.png width:175 height:100 align:center fit:true}"
 	]
 	quest.196E55B64667AE35.quest_subtitle: "Slapping down a Slab"
+	quest.196E55B64667AE35.title: ""
 	quest.198EDBAC1D6E2339.quest_desc: ["You'll need these for Ender Bees."]
 	quest.198EDBAC1D6E2339.quest_subtitle: "Prevents Bees from Teleporting in a Hive"
 	quest.1A0672C7509271B3.quest_subtitle: "Feed Fluorite to a Diamond Bee"
@@ -168,6 +182,7 @@
 	quest.1D995548A159F291.title: "Soulium Bee"
 	quest.1DC407272D9D9CCE.quest_subtitle: "Awakened Crafting"
 	quest.1DC407272D9D9CCE.title: "Awakened Supremium Bee"
+	quest.1DF026030780AE96.quest_desc: ["It's quite slow, though..."]
 	quest.1DF026030780AE96.quest_subtitle: "Extracts Genes from Bees in Hives"
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["To attract Bees to this nest, you'll need Popped Chorus Fruit instead of Honey Treats."]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Lures in Ender Bees when placed in the End"
@@ -177,6 +192,9 @@
 	quest.205DE46ABA1CCC8F.title: "Conductive Alloy Bee"
 	quest.2086C73688C8BA51.quest_subtitle: "Feed a Bucket of Sulfuric Acid to Lava Bee"
 	quest.2086C73688C8BA51.title: "Sulfuric Acid Bee"
+	quest.20D61CC211D0495D.quest_desc: ["Not to be confused with the Awakened Supremium Bee"]
+	quest.20D61CC211D0495D.quest_subtitle: "Draconic Fusion Crafting"
+	quest.20D61CC211D0495D.title: "Awakened Bee"
 	quest.2182492BCC1B33D8.quest_desc: ["When installed in a Hive, it gives a 5% chance for a new baby Bee to be spawned every time honey is delivered.\\n\\nWhen placed in a Catcher, it only allows the catcher to catch baby Bees.\\n\\nYou can stack these for a greater chance."]
 	quest.2182492BCC1B33D8.quest_subtitle: "Making Babies"
 	quest.21FDF07571B5DCA7.quest_subtitle: "Feed Primogel Goo to an Iron Bee"
@@ -194,7 +212,7 @@
 	quest.24B147D251D0CFFF.quest_subtitle: "Feed Blazebloom Goo to Gold Bee"
 	quest.24B147D251D0CFFF.title: "Blazegold Bee"
 	quest.264BFB8C5F79616F.quest_desc: ["Placing a Snow Nest in a snowy biome will lure in a Sweat Bee."]
-	quest.264BFB8C5F79616F.quest_subtitle: "Lures the Sweat Bee in Cold Biomes"
+	quest.264BFB8C5F79616F.quest_subtitle: "Lures the Sweat Bee in any Overworld Biome"
 	quest.26B3AE1E77A84BCB.quest_desc: ["If you throw an &9Osmium Bee Spawn Egg&r, &bCharged Certus Quartz&r and &8Sky Stone&r into Lava, you will create a &eSky Osmium Bee Spawn Egg"]
 	quest.26B3AE1E77A84BCB.title: "Sky Osmium Bee"
 	quest.26FB7A789981BD3C.quest_subtitle: "Feed a Graphite Block to a Coal Bee"
@@ -220,7 +238,7 @@
 	quest.2AEEDCC6826CF4AB.quest_subtitle: "Fishy Business"
 	quest.2AEEDCC6826CF4AB.title: "Oily Bee"
 	quest.2BE538246C672689.quest_desc: ["Using a smeltery, pour &#9332D9Molten Unobtainium&r over an &#F2EB2EVibranium Bee Spawn Egg&r."]
-	quest.2BE538246C672689.quest_subtitle: "Allthemodium + Vibranium"
+	quest.2BE538246C672689.quest_subtitle: "Molten Unobtainium over Vibranium Bee Spawn Egg"
 	quest.2BE538246C672689.title: "Unobtainium Bee"
 	quest.2C29683DA28A8D47.quest_subtitle: "Made in Reprocessor"
 	quest.2C29683DA28A8D47.title: "Insanite Bee"
@@ -266,7 +284,7 @@
 	quest.35EAB77C195E594E.title: "Amethyst Bee"
 	quest.35FE9C3395491433.quest_subtitle: "Pressurize the Iron Bee Spawn Egg"
 	quest.35FE9C3395491433.title: "Compressed Iron Bee"
-	quest.36541A2179A7E76B.quest_subtitle: "Feed Benitoite Ore to BlazBee"
+	quest.36541A2179A7E76B.quest_subtitle: "Feed Benitoite to BlazBee"
 	quest.36541A2179A7E76B.title: "Benitoite Bee"
 	quest.369D3AF332181DA8.quest_desc: ["The Stone Nest can be placed in any overworld biome to lure in a Mason Bee or Digger Bee."]
 	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees in any Overworld Biome"
@@ -322,10 +340,15 @@
 	quest.41FD145B911BD625.title: "Iesnium Bee"
 	quest.437DB2CE10D33A08.quest_desc: ["You'll need to grab yourself a &6Glowstone Nest&r and head to the Nether to capture this bee!"]
 	quest.437DB2CE10D33A08.title: "Glowing Bee"
+	quest.439B5FDAC84271A2.quest_desc: [ ]
 	quest.439B5FDAC84271A2.quest_subtitle: "Diamond + Iron"
 	quest.439B5FDAC84271A2.title: "Titanium Bee"
 	quest.447CAC472A99835B.quest_subtitle: "Spawns from a Snow Nest"
-	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."]
+	quest.47CEFA06392C4211.quest_desc: [
+		"Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."
+		""
+		"Furthermore, they allow the hive to support upgrades."
+	]
 	quest.47CEFA06392C4211.quest_subtitle: "Increasing our bee storage"
 	quest.47CEFA06392C4211.title: "Expansion Box"
 	quest.4897C7BB3139C6C6.quest_subtitle: "Lumber + Rancher"
@@ -340,7 +363,8 @@
 	]
 	quest.4C47EB9D2CE26BC6.quest_subtitle: "Spawns from a Quartz Nest in the Nether"
 	quest.4C47EB9D2CE26BC6.title: "Crystalline Bee"
-	quest.4ED01E04D55999D9.quest_subtitle: "Pour Molten Uru over a BeeBee Spawn Egg"
+	quest.4DDF647FE6494DE1.quest_desc: ["The best Productivity Upgrade this mod has to offer. Comes with built in Simulation and Block upgrades."]
+	quest.4ED01E04D55999D9.quest_subtitle: "Pour Molten Uru over an Unobtainium Bee Spawn Egg"
 	quest.4ED01E04D55999D9.title: "Uru Metal Bee"
 	quest.4FE7F45C72EF5DC1.quest_subtitle: "Iron + Sweat"
 	quest.4FE7F45C72EF5DC1.title: "Nickel Bee"
@@ -411,6 +435,14 @@
 	]
 	quest.6786B08C30D26037.quest_subtitle: "Spawns in a nest that has an Ashy Mining Bee"
 	quest.683B58B699D4D381.quest_subtitle: "Spawns in a nest that has a Blue Banded Bee"
+	quest.6875021F338116AF.quest_desc: [
+		"The Breeding Chamber can be used to breed two bees with each other, automatically. It is capable of self breeding, as well as breeding 2 types of bees to make a third type (Example: Ashy Mining + Crystalline -> Iron). If this would result in a conflict (Continuing off of the earlier example, Ashy Mining + Crystalline -> Aluminium), take out one of the bees, then put it back in."
+		""
+		"Provide flowers in each slot (or, in the case of Draconic Bees, 2 Draconic Dust) and some bee cages."
+		""
+		"Just...don't do...whatever it takes to get the F.Bee.I. to go after you. I will ensure you get added to the Hall of Shame if they DO come after you."
+	]
+	quest.6875021F338116AF.quest_subtitle: "Making Babies 2: Electric Beegaloo"
 	quest.68CE30097BADE20E.quest_desc: ["Right-clicking on a Nest of the type you are looking for will point you in the direction of another!"]
 	quest.68CE30097BADE20E.title: "Searching for Nests"
 	quest.692BC8AADCBF76C3.quest_subtitle: "Made in Alloy Smelter"
@@ -425,6 +457,7 @@
 		"Tip: Brass has the Silk Touch trait when making a Silent Gear tool."
 	]
 	quest.6D484150536536B9.quest_subtitle: "Lures in Crystalline Bees in the Nether"
+	quest.6DBF9CAB37B9BBF3.quest_desc: ["Productivity Upgrades also increase the amount of items a Centrifuge can process in one operation."]
 	quest.6DBF9CAB37B9BBF3.quest_subtitle: "Increases Bee Productivity by 120%"
 	quest.6DC826659699E638.quest_subtitle: "Collide a Redstone Bee Spawn Egg with an Electrum Bee Spawn Egg"
 	quest.6DC826659699E638.title: "Fluxite Bee"
@@ -433,10 +466,10 @@
 	quest.6E4C3B87FABE9EFA.quest_subtitle: "Molten Bronze over Copper/Tin Bee Spawn Egg"
 	quest.6E4C3B87FABE9EFA.title: "Bronze Bee"
 	quest.6E819CCD57B15D54.quest_desc: ["Using a smeltery, pour &#4CE688Molten Vibranium&r over an &#F2EB2EAllthemodium Bee Spawn Egg&r."]
-	quest.6E819CCD57B15D54.quest_subtitle: "Ancient + Draconic"
+	quest.6E819CCD57B15D54.quest_subtitle: "Molten Vibranium over Allthemodium Bee Spawn Egg"
 	quest.6E819CCD57B15D54.title: "Vibranium Bee"
 	quest.6EFFF0DC80C1C8A3.quest_desc: ["Using a smeltery, pour &#F2EB2EMolten Allthemodium&r over an &#944A12Ancient Bee Spawn Egg&r."]
-	quest.6EFFF0DC80C1C8A3.quest_subtitle: ""
+	quest.6EFFF0DC80C1C8A3.quest_subtitle: "Molten Allthemodium over Ancient Bee Spawn Egg"
 	quest.6EFFF0DC80C1C8A3.title: "Allthemodium Bee"
 	quest.6F7AC41B703028CC.quest_subtitle: "Molten Signalum over Copper/Silver Bee Spawn Egg"
 	quest.6F7AC41B703028CC.title: "Signalum Bee"
@@ -470,7 +503,7 @@
 	quest.75CD4EE6A542D687.title: "Copper Bee"
 	quest.761D21C6FBD13EE1.quest_subtitle: "Feed a Diamond Bee Peridot"
 	quest.761D21C6FBD13EE1.title: "Peridot Bee"
-	quest.76E94639E90FEB4E.quest_desc: ["Place some empty &eAdvanced Beehives&r in an unlit area. The bees will move in over time."]
+	quest.76E94639E90FEB4E.quest_desc: ["Place some empty &eAdvanced Beehives&r in an unlit area. The bees will move in over time at night."]
 	quest.76E94639E90FEB4E.quest_subtitle: "Spawned with empty Beehives in the Dark"
 	quest.76E94639E90FEB4E.title: "Skeletal Bee"
 	quest.78CCD8075249E2B7.quest_subtitle: "Magmatic + Water"
@@ -483,7 +516,7 @@
 	quest.79CA2F401982C04F.quest_subtitle: "Feed an Arcanus Bee a Rune Block"
 	quest.79CA2F401982C04F.title: "Rune Bee"
 	quest.79D6A251FE3761B3.quest_desc: ["When placed in a swamp biome, the Slimy Nest will lure in Slimy Bees."]
-	quest.79D6A251FE3761B3.quest_subtitle: "Lures in a Slimy Bee in a Swamp Biome"
+	quest.79D6A251FE3761B3.quest_subtitle: "Lures in a Slimy Bee in any Overworld Biome"
 	quest.7A2B26CF0EDAA724.quest_subtitle: "Made in Alloy Smelter"
 	quest.7A2B26CF0EDAA724.title: "End Steel Bee"
 	quest.7AE1459B0B862737.quest_subtitle: "You just craft it"

@@ -11,7 +11,7 @@
 	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mythic"
 	quest.099C2A9B9CA138F8.title: "&6Godforged Pearl"
 	quest.1403D677CF2815C3.quest_desc: ["The &5&lReforging Table&r does everything the &9&lSimple&r one will do, but better! \\n\\nIt can give us &5Epic&r and &6Mythic &eAffixes&r along with our previous ones!"]
-	quest.1403D677CF2815C3.title: "(Better) &5&lReforing Table&r"
+	quest.1403D677CF2815C3.title: "(Better) &5&lReforging Table&r"
 	quest.166CE4243896A0CD.quest_desc: ["Don't like your &aGems&r? Then, change them! \\n\\nTo change the Rarity of your &aGem&r you'll need to use this &a&lTable&r. \\n\\nBy using 2 of the same &aGem&r and Rarity Materials, you can increase your &aGems&r Rarity and that increases its power."]
 	quest.166CE4243896A0CD.title: "Getting better &aGems"
 	quest.16C74B5F99AD6724.quest_desc: ["&8Common&r is the most basic Rarity. This makes it most common to find early game, but also the weakest. \\n\\n&8Common&r shows up most at the &lWorld Tier: &9Haven&r, and will stop appearing after &lWorld Tier: &6Summit&r. \\n\\n&8Mysterious Scrap Metals&r are made from using &8Common&r &eItems&r in a &c&lSalvaging Table&r."]

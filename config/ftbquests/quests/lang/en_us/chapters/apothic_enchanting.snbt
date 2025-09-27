@@ -62,7 +62,7 @@
 	quest.51E554305FFEBA1D.quest_desc: ["&4Blazing Hellshelves&r give a bit of &cQuanta&r and &aEterna&r but they aren't the cheap option we are looking for, for our &d&lInfusions&r!"]
 	quest.51E554305FFEBA1D.title: "&4Blazing Hellshelf"
 	quest.523DC411241B470A.quest_desc: [
-		"All &5Enchantments&r from the &5Enchantment Table&r is determined by the Levels of &aEterna&r, &cQuanta&r, and &5Arcana&r. \\n\\nWe can see the Pool of &5Enchantments&r available by clicking the ? in the Top Right of the &5Enchantment Table's&r GUI when an Item is being &5Enchanted&r. \\n\\nThe higher the &cQuanta&r is, the better chance we get a worse &5Enchantment&r gets. Ones like &5Curses of Vanishing &for &5Binding&r! \\n\\nWith the &6Geode-Encased Bookshelf of Stability&r it will get rid of the increased chances of worse &5Enchantments&r. \\n\\nYou will still be able to get &cCurses&r with it, just at a much lower rate!"
+		"All &5Enchantments&r from the &5Enchantment Table&r is determined by the Levels of &aEterna&r, &cQuanta&r, and &5Arcana&r. \\n\\nWe can see the Pool of &5Enchantments&r available by clicking the ? in the Top Right of the &5Enchantment Table's&r GUI when an Item is being &5Enchanted&r. \\n\\nThe higher the &cQuanta&r is, the better the chance we get a weaker &5Enchantment&r gets. \\n\\nWith the &6Geode-Encased Bookshelf of Stability&r it will get rid of the increased chances of worse &5Enchantments&r."
 		"{@pagebreak}"
 		"To Craft it we'll need a &7Bookshelf&r, 7 Calcite, and 1 &5Budding Amethyst&r. \\n\\n&5Budding Amethyst&r can not be collected from Mining, even with &5Silk Touch&r. You'll need either a Ritual or Infusion to get one then!"
 	]
@@ -102,7 +102,6 @@
 	quest.784466C3813AA506.quest_desc: ["Ever wanted to pick up mobs? We...have Soul Gems, Mob Imprisonment Tools, and Creature Catchers for that.\\n\\nLet's just ignore those for now and focus on the option &5&lApotheosis&r offers. The &5Flimsy Ender Lead&r is the cheapest variant of &5Ender Lead&r, but also the weakest, and most fragile. It can only hold animals, and breaks after 8 uses."]
 	quest.784466C3813AA506.title: "&5Flimsy Ender Lead"
 	quest.78BFDD3A9B996655.quest_desc: ["A considerable step up from the &5Flimsy Ender Lead&r. Now, it can hold hostile mobs as well, and will break after 64 uses. To get this, we will need at least &a45 Eterna&r, &c25% Quanta&r, and &540% Arcana&r.\\n\\nThis can be achieved with 9 &bCrystalline Seashelves&r, or, if you prefer &4Hellshelves&r, 9 &4Glowing Hellshelves&r and 8 Candles (Tip: You can fit up to 4 candles into one block)"]
-	quest.78BFDD3A9B996655.quest_subtitle: ""
 	quest.78BFDD3A9B996655.title: "&5Ender Lead"
 	quest.78E66F1DE42C747A.quest_desc: ["&9Echo Shards&r can be pretty annoying to farm, plus we'll need a lot of them! So why not have an easier way of Farming them. \\n\\nWith &d&lInfusion&r we can make 1 &9Echo Shard&r into 4! \\n\\nWe'll need &a70 Eterna&r, &c50% Quanta&r, and &550% Arcana&r. \\n\\nTo get that, we can use 12 &4Glowing Hellshelves&r and 2 &9Deepshelves&r, that aren't &9Dormant&r!"]
 	quest.78E66F1DE42C747A.title: "Infinite &9Echo Shards&r?"

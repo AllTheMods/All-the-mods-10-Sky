@@ -272,6 +272,7 @@
 		"Crafts Unlocked:"
 		"- Eclipse Alloy"
 		"- Eclipse Ember"
+		"- Time Crystal"
 	]
 	quest.25E915AE1FC53254.quest_desc: ["Celestigem Templetes are used to upgrade Blazegold armor and tools to Celestigem while retaining enchantments and installed upgrades."]
 	quest.27FD46A8C958D259.quest_desc: ["Totem of Death Recall is a one time use time that allows a player to teleport back to thier location of death."]
@@ -410,7 +411,6 @@
 		"Allows the player to walk though blocks when applied to leggings. There is a block tag to blacklist blocks from being able to be phased through."
 		"When applied to a bow, allows arrows to phase through walls."
 	]
-	quest.454662617304E299.quest_subtitle: ""
 	quest.454CA1F8CC198D9D.quest_desc: [
 		"Valid Upgrades:"
 		"- Step Assist"
@@ -445,7 +445,7 @@
 		"- No Trampling"
 		"- Accelerated Crop Growth I"
 	]
-	quest.48E4D75FD3145AD6.quest_desc: ["Time Fluid is used by the Paradox Machine and Time Wand. It is obtained by dropping Time Fluid into Polymorphic Fluid.\\n\\nFor a crystal so tough to get, I'm glad they gave us an easy fluid for once."]
+	quest.48E4D75FD3145AD6.quest_desc: ["Time Fluid is used by the Paradox Machine and Time Wand. It is obtained by dropping a Time Crystal into Polymorphic Fluid.\\n\\nFor a crystal so tough to get, I'm glad they gave us an easy fluid for once."]
 	quest.49636B3C6E6D0C2A.quest_desc: ["Has no uses, looks cool though."]
 	quest.4987759CF379C1EB.quest_desc: [
 		"&lAbility Type:&r Passive"
@@ -685,8 +685,6 @@
 	]
 	quest.7305EE0F7D73C231.quest_desc: ["Blank Upgrades are the base of all abilities. Abilities are seperated into two types, passive and active.\\n\\nPassive abilities require no active input by the player to work, however Active abilities only work when triggered by a keybind players set in the configuration menu, also active abilities consume durability/power when used. When installed on higher tier armor Active abilities have reduced cooldowns and Passived abilities have greater effects.\\n\\nThe smithing table is used to apply upgrades to JDT tools and armor. Holding shift when hovering over JDT tools or armor shows what upgrades are valid."]
 	quest.73552A4BA0687962.quest_desc: ["These upgrades can go into either tools or armor."]
-	quest.73552A4BA0687962.quest_subtitle: ""
-	quest.73552A4BA0687962.title: ""
 	quest.7464CA1290B3474B.quest_desc: [
 		"Valid Upgrades:"
 		"- Invulnerability"
@@ -726,13 +724,10 @@
 	task.366CA7D53571A552.title: "Utilities"
 	task.3AC95E8DC4229D17.title: "Just Dire Things"
 	task.3CAD6AD06BE4C3D3.title: "Tools"
-	task.3FF2BD8CB76476EE.title: ""
 	task.40B39896B6CD41C6.title: "Armor"
-	task.49BFB8275541DCD0.title: ""
 	task.5AB4103FF540ABB4.title: "Fluids"
 	task.5DD919AF75C92C8A.title: "Tools"
 	task.665A5DFA6270ADA6.title: "Simple Machines"
 	task.67B21CF59C3D02E5.title: "Advanced Machines"
 	task.7197FBBA21C0F94A.title: "Armor"
-	task.738768C6FC0DC099.title: ""
 }

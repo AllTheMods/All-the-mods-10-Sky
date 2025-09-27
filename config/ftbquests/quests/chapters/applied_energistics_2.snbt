@@ -1389,30 +1389,6 @@
 		}
 		{
 			dependencies: ["18DFB25DC48D8BF7"]
-			id: "2897FA291E5A38D8"
-			optional: true
-			rewards: [
-				{
-					id: "1560015D5E8AFFEA"
-					table_id: 5871764666515020368L
-					type: "random"
-				}
-				{
-					id: "0EFC422D024D31D7"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "68A36AB341CC016D"
-				item: { count: 1, id: "ae2:spatial_anchor" }
-				type: "item"
-			}]
-			x: 21.5d
-			y: 5.5d
-		}
-		{
-			dependencies: ["18DFB25DC48D8BF7"]
 			id: "6F3D0A248B5A9CA2"
 			rewards: [
 				{

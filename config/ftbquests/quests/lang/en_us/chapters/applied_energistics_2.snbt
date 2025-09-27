@@ -85,7 +85,6 @@
 	]
 	quest.2893F483C10293E6.quest_subtitle: "Virtual Storage System"
 	quest.2893F483C10293E6.title: "Applied Energistics 2"
-	quest.2897FA291E5A38D8.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
 	quest.2B31E6C1707D8195.quest_desc: ["The next thing to make to allow for wireless network access is the &bME Wireless Access Point&f. The Access Point is used to open the network to wireless access via a &ewireless terminal&f, and has a set (finite) range depending on how many &bWireless Boosters&f are inserted into the access point."]
 	quest.2C04B3BA507D5673.quest_desc: ["&bPatterns&f are what hold an encoded recipe to be fulfilled by a Pattern Provider. To encode a recipe onto a Pattern, the &bME Pattern Encoding Terminal&f must be used.\\n\\nPatterns can be set to hold either a regular &ecrafting&f recipe, which will require the use of a &eMolecular Assembler&f on the face of its Provider, or a more general '&eprocessing&f' recipe, wherein any input items can be sent out by the provider into some other machine block or specialised processing plant."]
 	quest.2C04B3BA507D5673.title: "Patterns"

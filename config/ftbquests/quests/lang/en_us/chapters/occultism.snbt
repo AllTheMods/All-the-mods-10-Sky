@@ -8,6 +8,7 @@
 		""
 		"Yes, the Eldritch Chalice makes it so that all rituals complete instantly!"
 	]
+	quest.08697EB269B011FD.title: "Eldritch Chalice"
 	quest.0A25276925EB0CBA.quest_desc: [
 		"Once you've gathered every single colored Chalk and Foundation Chalk, you can perform the second &dDemon-less&r type ritual, &dRonaza's Contact&r. This is the ultimate ritual, using everything you've learned so far!"
 		""
@@ -94,12 +95,6 @@
 		"There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!"
 	]
 	quest.29C83B00AC4AFC23.title: "What's Next?"
-	quest.2A3683BF7E50EF83.quest_desc: [
-		"Most of the items we've needed from the &3Otherworld&r so far just needed some Spiritfire. However, we will need to use the help of the &3Third Eye&r to find the Ore of the &3Otherworld&r."
-		""
-		"We'll also need a special pickaxe to be able to mine it. For this, we'll need to Infuse a Demon into a &dSpirit Attuned Pickaxe Head&r to create a pickaxe that can break this new kind of ore."
-	]
-	quest.2A3683BF7E50EF83.title: "Tools of the Trade: Infused Pickaxe"
 	quest.2A5004EB99AE4F96.quest_desc: [
 		"There are more Otherworld items you will need to gather, and eating &cDemon's Dream Fruit&r every time you need the &7Third Eye&r effect gets annoying."
 		""
@@ -237,7 +232,7 @@
 	]
 	quest.4F35D04721DFC9FF.quest_subtitle: "Aviar's Circle"
 	quest.4F35D04721DFC9FF.title: "&bOur First &dRitual"
-	quest.5316DF321B45D2CA.quest_desc: ["Welcome to &dOccultism&r!\\n\\nThis mod aims to help the player in many different ways by enlisting the help of &c&mDemons&r &bSpirits&r! Don't worry, most of them are friendly. &oMost&r.\\n\\nTo get started, you'll need to get some &aDemon's Fruit Seeds&r."]
+	quest.5316DF321B45D2CA.quest_desc: ["Welcome to &dOccultism&r!\\n\\nThis mod aims to help the player in many different ways by enlisting the help of &c&mDemons&r &bSpirits&r! Don't worry, most of them are friendly. &oMost&r.\\n\\nTo get started, you'll need to get some &aDemon's Dream Seeds&r. Break some grass to get it."]
 	quest.5316DF321B45D2CA.title: "&dDreaming of &cDemons"
 	quest.53DEA3DFEDC4809E.quest_desc: [
 		"Don't worry, this is the last of the Abras series of rituals. It is used to summon a &9Marid&r demon, but even though it uses Red Chalk, it's not powerful enough to &9bind&r the Demon. This means that, unfortunately, you're going to have to fight it."
@@ -249,7 +244,7 @@
 	quest.54378277B8D28B1D.quest_desc: [
 		"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
 		""
-		"Has the same function as the Rainbow Chalk, except all the runes will show up as white."
+		"Has the same function as the Rainbow Chalk, except all the runes will show up as white, and it now works with Foundation Chalk too."
 	]
 	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r is the maximum tier of &5Possession Rituals&r. It only has two uses: creating Cruelty Essence, the main ingredient in Brown Chalk, and creating an Iesnium Golem, which is basically just an Iron Golem that's immortal and does more damage."]
 	quest.56EC79AF11B0869E.quest_subtitle: "Maximum Possession"
@@ -324,9 +319,9 @@
 	quest.67884BFA27870CCE.quest_subtitle: "For the less trial-chamber-inclined of us"
 	quest.67884BFA27870CCE.title: "&dOsorin's Unbound Calling"
 	quest.690B89D23134B624.quest_desc: [
-		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK!"
+		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK*!"
 		""
-		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them! "
+		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them (except for Foundation Chalk, look for Void Chalk to add those to the mix)! "
 	]
 	quest.690B89D23134B624.title: "&cR&6a&ei&an&9b&5o&dw&r Chalk"
 	quest.6C1BBA559963B3DF.quest_desc: [
@@ -356,6 +351,7 @@
 		"When using this in place of a Golden Ritual Bowl, it greatly reduces how long it takes to perform a ritual, taking it down to one fourth of its original time!"
 	]
 	quest.6FFFAE334DFAAAAB.quest_subtitle: "Super-speed Rituals!"
+	quest.6FFFAE334DFAAAAB.title: "Iesnium Sacrificial Bowl"
 	quest.74130EB1E4B8586D.quest_desc: ["Using &aIhagan's Enthrallment&r, you can sacrifice an Allay, Bat, Bee, or Parrot to summon a &6Possessed Bee&r. Upon defeating one, it will drop Cursed Honey, the main ingredient for making Orange Chalk!"]
 	quest.74130EB1E4B8586D.title: "&6Orange Chalk"
 	quest.78ECC28DD4BA9696.quest_desc: [
@@ -385,15 +381,23 @@
 		"There are also ways to summon cool friends known as &dFamiliars&r that give special buffs and even fight for you! Make sure to check out the &dFamiliar Rituals&r in your guide book!"
 	]
 	quest.7F59941D62E672B0.title: "&dFamiliars"
+	task.03350093F049AD67.title: ""
 	task.036759CF4EEFFC7D.title: "AllRightsReserved"
+	task.05A43D4098C30ED1.title: "Eldritch Chalices"
 	task.0EE813C344409F59.title: "Candles"
+	task.10037D5225C2D20E.title: "Iesnium Sacrificial Bowls"
 	task.1709A45C149125F1.title: "AllRightsReserved"
+	task.28F295B4EC2EB476.title: ""
 	task.2C5C6F411E2F0CAF.title: "Any #c:dusts/netherite"
 	task.348A7E3E3A3D324E.title: "Yes, I've read this and totally won't forget it!"
 	task.3621D48E2CFAF2C2.title: "Any #c:wools"
+	task.4DF03E583D33C20A.title: ""
 	task.51F520BF7DA37873.title: "Storage Stabilizers"
 	task.523951BF097BA61F.title: "Any #c:dusts/emerald"
 	task.53DE943DF951696B.title: "Demon Miner"
-	task.57108C994437F25B.title: "Any #ae2:all_nether_quartz"
+	task.55DE27AB2EDB306E.title: "Sacrificial Bowls"
+	task.57108C994437F25B.title: ""
+	task.656A1E143070FEF4.title: ""
+	task.6A5F16B79D587128.title: "Golden Bowls"
 	task.6C3887D42B6B2122.title: "Familiars"
 }

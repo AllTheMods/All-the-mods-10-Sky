@@ -7,26 +7,16 @@
 		id: "minecraft:oak_sapling"
 	}
 	id: "1FAAEF0B9FD05CB9"
-	images: [
-		{
-			click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
-			height: 1.0d
-			hover: ["Pilpoh's Productive Trees Guide"]
-			image: "minecraft:textures/gui/sprites/toast/tree.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 4.5d
-			y: 12.0d
-		}
-		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: -1.5d
-			y: 0.9000000000000004d
-		}
-	]
+	images: [{
+		click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
+		height: 1.0d
+		hover: ["Pilpoh's Productive Trees Guide"]
+		image: "minecraft:textures/gui/sprites/toast/tree.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 4.5d
+		y: 12.0d
+	}]
 	order_index: 17
 	progression_mode: "flexible"
 	quest_links: [ ]

@@ -2180,6 +2180,7 @@
 		}
 		{
 			id: "0CE23DBBBFBCC372"
+			invisible: true
 			optional: true
 			rewards: [{
 				id: "04DE9ED5CD870524"

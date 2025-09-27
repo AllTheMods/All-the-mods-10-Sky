@@ -1350,7 +1350,8 @@
 			y: 10.5d
 		}
 		{
-			dependencies: ["76E94639E90FEB4E"]
+			dependencies: ["17419401147B5C02"]
+			hide_dependency_lines: true
 			icon: {
 				id: "minecraft:wither_skeleton_skull"
 			}
@@ -1386,14 +1387,11 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 9.5d
+			x: 5.0d
+			y: 16.0d
 		}
 		{
-			dependencies: [
-				"2CA3707BEE2E3C0D"
-				"399882F3C51DD282"
-			]
+			dependencies: ["2CA3707BEE2E3C0D"]
 			icon: {
 				id: "allthemodium:allthemodium_ingot"
 			}
@@ -1423,11 +1421,11 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 10.5d
+			x: 8.0d
+			y: 11.5d
 		}
 		{
-			dependencies: ["7C169A4A39F37FAC"]
+			dependencies: ["17419401147B5C02"]
 			hide_dependency_lines: true
 			icon: {
 				id: "minecraft:skeleton_skull"
@@ -1464,8 +1462,8 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 9.5d
+			x: -5.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["131EC039435B8878"]
@@ -1511,14 +1509,11 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 11.5d
+			x: 2.0d
+			y: 15.5d
 		}
 		{
-			dependencies: [
-				"2CA3707BEE2E3C0D"
-				"00FD36C207845895"
-			]
+			dependencies: ["6EFFF0DC80C1C8A3"]
 			icon: {
 				id: "allthemodium:vibranium_ingot"
 			}
@@ -1548,14 +1543,11 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 9.0d
 			y: 11.5d
 		}
 		{
-			dependencies: [
-				"6EFFF0DC80C1C8A3"
-				"6E819CCD57B15D54"
-			]
+			dependencies: ["6E819CCD57B15D54"]
 			icon: {
 				id: "allthemodium:unobtainium_ingot"
 			}
@@ -1586,7 +1578,7 @@
 				type: "item"
 			}]
 			x: 9.0d
-			y: 11.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -3136,7 +3128,6 @@
 		}
 		{
 			dependencies: ["7C169A4A39F37FAC"]
-			hide_until_deps_complete: true
 			id: "196E55B64667AE35"
 			optional: true
 			tasks: [{
@@ -5386,6 +5377,100 @@
 			}]
 			x: 6.0d
 			y: 15.5d
+		}
+		{
+			dependencies: ["7C169A4A39F37FAC"]
+			hide_dependency_lines: true
+			id: "6875021F338116AF"
+			rewards: [
+				{
+					count: 2
+					id: "1553F47DB3D1C1B2"
+					item: {
+						count: 1
+						id: "minecraft:honeycomb"
+					}
+					type: "item"
+				}
+				{
+					id: "3BB76EDDF6063426"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2DC681D5CAB34883"
+				item: { count: 1, id: "productivebees:breeding_chamber" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17419401147B5C02"]
+			hide_dependency_lines: true
+			icon: {
+				id: "draconicevolution:draconium_ingot"
+			}
+			id: "02084CEEBADE52E4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F227E049F45FC58"
+				table_id: 6438168168113377309L
+				type: "random"
+			}]
+			tasks: [{
+				id: "282AACD83A922F65"
+				item: { components: { "productivebees:bee_type": "productivebees:draconium" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "fuzzy"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["17419401147B5C02"]
+			hide_dependency_lines: true
+			icon: {
+				id: "draconicevolution:awakened_draconium_ingot"
+			}
+			id: "20D61CC211D0495D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7CF867E0224E8B48"
+				table_id: 6438168168113377309L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D8E03057F0BC009"
+				item: { components: { "productivebees:bee_type": "productivebees:awakened" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "fuzzy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 30.5d
+		}
+		{
+			dependencies: ["17419401147B5C02"]
+			hide_dependency_lines: true
+			icon: {
+				id: "draconicevolution:chaos_shard"
+			}
+			id: "012287E678B226D4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1252A5787A617C56"
+				table_id: 6438168168113377309L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4536043E4D5BE695"
+				item: { components: { "productivebees:bee_type": "productivebees:chaos" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "fuzzy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 28.5d
 		}
 	]
 }
