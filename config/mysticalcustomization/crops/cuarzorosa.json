@@ -1,0 +1,14 @@
+{
+    "name": "Cuarzo Rosa",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagradditions:6",
+    "enabled": true,
+    "ingredient": {
+      "item": "create:polished_rose_quartz"
+    },
+    "color": "fa4fdb",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot" 
+     }
+  }

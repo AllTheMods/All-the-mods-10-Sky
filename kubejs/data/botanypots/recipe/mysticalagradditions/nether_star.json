@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:nether_star_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:nether_star_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalagradditions:nether_star"}
