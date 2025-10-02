@@ -204,7 +204,7 @@ ServerEvents.recipes((allthemods) => {
   sieving("minecraft:sculk", Materials.EndStone, [{ mesh: Meshes.NETHERITE, amount: 1, chance: 0.075 }])
 
   // Crucible heating blocks
-  allthemods.recipes.exdeorum.crucible_heat_source({ block_tag: "alltheores:uranium" }, 20)
+  allthemods.recipes.exdeorum.crucible_heat_source({ block: "alltheores:uranium_block" }, 20)
   allthemods.recipes.exdeorum.crucible_heat_source({ block: "mekanism:superheating_element" }, 60)
   allthemods.recipes.exdeorum.crucible_heat_source({ block: "allthemodium:soul_lava" }, 120)
 

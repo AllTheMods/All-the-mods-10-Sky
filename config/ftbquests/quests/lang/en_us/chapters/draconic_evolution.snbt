@@ -58,7 +58,7 @@
 	quest.1A53B6544782442E.title: "Wyvern Shield Control Module"
 	quest.1C8210712349A2E3.quest_desc: ["Pretty simple premise, Axes and Swords can do more Damage. Yes, it stacks!"]
 	quest.1C8210712349A2E3.title: "Basic Damage Module"
-	quest.1D3E2363CFD4C5E0.quest_desc: ["Fusion Crafting has Tiers which is determined by the Injectors. The Tiers go in ascending order: Draconium (I refer to it as Basic to help differentiate), Wyvern, Draconic, and Chaotic. The Injectors need to be placed on the Left and Right of the Fusion Crafting Core, a few blocks away from it. They can be placed in a cross shape at a max of 5 on each side of the Crafting Core. To give them Energy putting Relay IO Crystals connected to them will work, check out Crystak Binding to learn more."]
+	quest.1D3E2363CFD4C5E0.quest_desc: ["Fusion Crafting has Tiers which is determined by the Injectors. The Tiers go in ascending order: Draconium (I refer to it as Basic to help differentiate), Wyvern, Draconic, and Chaotic. The Injectors need to be placed on the Left and Right of the Fusion Crafting Core, a few blocks away from it. They can be placed in a cross shape at a max of 5 on each side of the Crafting Core. To give them Energy putting Relay IO Crystals connected to them will work, check out Crystal Binding to learn more."]
 	quest.1D3E2363CFD4C5E0.title: "Basic Tier"
 	quest.1E41A5071854DEC8.title: "Wyvern Damage Module"
 	quest.1F7D147C9AF6A4FC.quest_desc: [

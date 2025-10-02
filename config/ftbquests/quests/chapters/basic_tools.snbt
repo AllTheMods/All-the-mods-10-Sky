@@ -1175,7 +1175,7 @@
 			}]
 			tasks: [{
 				id: "27D9C16A4E2CD5B5"
-				item: { components: { "draconicevolution:config_properties": [[ { : "DECIMAL" }, { formatter: "percent_1", max: 1.0d, min: 0.0d, name: "mining_speed", show_on_hud: 1b, value: 1.0d } ]], "draconicevolution:module_entities": [ ], "draconicevolution:provider_identity": [I; -1431768927, 1566720680, -1405879401, 443085220 ] }, count: 1, id: "draconicevolution:chaotic_pickaxe" }
+				item: { count: 1, id: "draconicevolution:chaotic_pickaxe" }
 				type: "item"
 			}]
 			x: 0.5d
