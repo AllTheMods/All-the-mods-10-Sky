@@ -39,6 +39,8 @@
 	quest.18A2FBE2D4133FA2.title: "Arcane Pedestals"
 	quest.19D02325579F2AA8.quest_desc: ["The Volcanic Sourcelink generates Source by consuming burnable items. Archwood logs will generate bonus Source. \\n\\nAs it burns items, it will convert nearby stone into lava. \\n\\nThis also generates Lava Lilys."]
 	quest.19D02325579F2AA8.quest_subtitle: "Collateral damage"
+	quest.1A26E6650D007262.quest_desc: ["Source: JEI, apparently. (and yes, I was being sarcastic there, you are NOT getting any GeOre conversions other than coal with this one, JEI was just gaslighting you all there. There are different paths for this.)"]
+	quest.1A26E6650D007262.quest_subtitle: "Will totally, absolutely, 100% convert your Unobtainium Blocks into Budding GeOre"
 	quest.1D86B2E553503E53.quest_desc: ["The &6Dominion Wand&r is used for controlling the creatures you might encounter in the world! Each being responds differently to the wand, so make sure to read up in the Worn Notebook!"]
 	quest.1D86B2E553503E53.quest_subtitle: "Friendly helpers"
 	quest.1D86B2E553503E53.title: "&6Summoning Help!"
