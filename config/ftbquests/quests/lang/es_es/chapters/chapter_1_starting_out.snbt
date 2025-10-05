@@ -1,0 +1,133 @@
+{
+	quest.01B5005BF9056A2E.quest_subtitle: "Hammer Sand"
+	quest.040C336C718DCC7D.quest_desc: ["This is an &6&lATM Modpack&r, you'll need &lLOTS&r of Materials. \\n\\nSo what will we do with our tons of &7Gravel&r? Just use a billion Chests? \\n\\nNo, instead we can combine 9 Blocks into 1 Compressed Block. \\n\\nThis works with a ton of different Blocks and each can be Compressed even further!"]
+	quest.040C336C718DCC7D.title: "Compressed Blocks"
+	quest.043AB8772206FF71.quest_desc: ["&0Flint&r can be gained rarely from Breaking &7Gravel&r like normal, or from &bSieving&r Blocks! \\n\\nUsually &0Flint&r is pretty garbage in &2&lMinecraft&r. Makes Flint and Steel then... nothing else. \\n\\n&b&lSkyblock&r is much different though! So grab and save it for the early game."]
+	quest.043AB8772206FF71.title: "&8Flint"
+	quest.04ACC7E762537FB4.quest_desc: ["We won't need a billion fancy Machines to Dupe Ores here... we'll only need a few! \\n\\nThe &3&lSqueezer&r from &3&lID&r can turn &7Raw Ore Blocks&r into &7Raw Ore&r. \\n\\nIn order to use it, just place the &7Raw Ore Block&r into the &3&lSqueezer&r and Jump on it to push it downward. Once it is Crushed, the &7Raw Ore&r will be spit out. Rarely it might give even more! \\n\\nBut wait! That's not all! \\n\\nWe also have Ore Hammers, these can crack &7Raw Ores&r into 2 &7Dust&r, which can be Smelted into &7Ingots&r."]
+	quest.04ACC7E762537FB4.title: "Easy Ore Duping"
+	quest.091F1D752FA3BAAC.quest_desc: ["With just 2 &0Flint&r we can make &0Flint Shears&r. They work just like Shears, just cheaper. \\n\\nWe'll need them to get &2Leaves&r! \\n\\nAnd Wool... if you need Wool."]
+	quest.091F1D752FA3BAAC.title: "Collecting &2Leaves"
+	quest.0BD70DFE33D84323.quest_desc: [
+		"&b&lSieves&r are how we will get most of our Resources. \\n\\nPlace them down and they won't do much. We'll need to give them a Mesh in order to use them. The String Mesh is the first one but it can be upgraded. \\n\\nJust Right Click the &b&lSieve&r with a Mesh to place it and Shift Right Click it to take it out. \\n\\nWith the Mesh in, we can now Right Click certain Blocks into the &b&lSieve&r to push them through. Keep Right Clicking or Hold it and once they are all the way they will Drop Items. \\n\\nPro Tip: if there is &b&lSieves&r next to each other, they were work at the same time! This goes up to a 5x5 area!"
+		"{image:atm:textures/questpics/chap1/chap1_sieve.png width:100 height:100 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_sieves.png width:100 height:100 align:center}"
+	]
+	quest.0BD70DFE33D84323.title: "&b&lSieves &rand Meshes"
+	quest.0D794D25F04E04A7.quest_desc: ["We can't get &4Netherrack&r in &c&lThe Nether&r. It is kinda empty. Instead we'll need to make some! \\n\\nCombine &5Witch Water&r with &cLava&r in a &6&lBarrel&r to make &4Netherrack&r. \\n\\nWe can also Crush it with a &8Hammer&r to &bSieve&r it for more Items!"]
+	quest.0D794D25F04E04A7.title: "&4Netherrack"
+	quest.0E7F7CF44A982EA3.quest_desc: ["&7Clay Balls&r and Bonemeal can make &3Porcelain Clay&r. \\n\\nThis will be needed for making &3Buckets&r or bigger Buckets called &c&lCrucibles&r!"]
+	quest.0E7F7CF44A982EA3.title: "&3Porcelain Clay"
+	quest.0FEFD055B435B17F.quest_desc: ["Now we can finally get some &cLava&r. Don't worry about screwing up &7Cobble Generators&r anymore! \\n\\nWe can't make Infinite &cLava Sources&r but atleast we can keep making more. \\n\\nIt is very important for Fluid Mixing and other Recipes so you'll probably need a ton of it!"]
+	quest.0FEFD055B435B17F.title: "&cLava"
+	quest.11032183CCCA206D.quest_desc: ["&aPassive Mobs&r need 2 things to Spawn. \\n\\n1. &2Grass&r, which we have. \\n\\n2. Light, which we will need! \\n\\nIf it is Light enough, with &2Grass&r for them to Spawn. They will randomly Spawn. \\n\\nIt can take awhile to work sometimes."]
+	quest.11032183CCCA206D.title: "&aPassive Mobs"
+	quest.128A1EEAF8F45042.quest_desc: ["&5Mycelium Spores&r come rarely from &bSieving&r Dirt. \\n\\nThey work like &2Grass Seeds&r, place them on Dirt or &2Grass&r to get &5Mycelium&r!"]
+	quest.128A1EEAF8F45042.title: "Bring on the Mold!"
+	quest.145917B219D0D28D.quest_desc: ["All &bSkyblock&r Worlds spawn with the necessities. &2Grass &fand a &2Tree&r. \\n\\nWe'll need the &2Tree&r for &6Wood&r and everything from &6Wood&r. What about &2Grass&r? \\n\\nWell for 1. &aPassive Mobs&r need &2Grass&r to Spawn. 2. &2Grass&r spreads to other Dirt. 3. We can Shift Right Click &2Grass&r for &7Pebbles&r!"]
+	quest.145917B219D0D28D.title: "&2Grass"
+	quest.162AB6F9257EB71E.quest_desc: [
+		"There are plenty of ways to generate your first bits of power."
+		""
+		"In this pack, Generators Galore has been given an overhaul! With cheaper upgrades to 8x and 64x, and increased energy production across the board, grab yourself some hefty lava gen, and get going!If we want to get started with automation in ATM10:TTS, we'll need to dip our toes further into power and some new mods!"
+		""
+		"Here are some of the mods it includes!"
+		""
+		"&bGenerators Galore&r (tiers and changes)"
+		""
+		"&bGrowth Accelerator tiers&r (we recommend directional, it's super fast!)"
+		""
+		"&bGeores&r (Grow those materials you are missing!)&r"
+	]
+	quest.162AB6F9257EB71E.title: "The Next Chapter"
+	quest.1B186F14606C07D7.quest_desc: ["Combining &eGlowstone&r with &cLava&r in a &6&lBarrel&r (hopefully a &7&lStone&r one) will make &eEndstone&r. \\n\\nJust like &4Netherrack&r we can use a &8Hammer&r to Crush it and then &bSieved&r the Crush parts! \\n\\nThis will give us &3Ender Pearls&r, &aEyes of Ender&r, and more..."]
+	quest.1B186F14606C07D7.title: "&eEnd Stone"
+	quest.1E9F1FBAA6AAA43B.quest_desc: ["&cHostile Mobs&r are easier to Spawn then &aPassive&r. \\n\\nAs long as it is Dark enough, and they are atleast 24 Blocks away from you, they will Spawn. \\n\\nIf your Island is getting bigger, you might want to Light it up!"]
+	quest.1E9F1FBAA6AAA43B.title: "&cHostile Mobs"
+	quest.1FA3ACD9B8CD02FE.quest_desc: ["Which &9Water&r? &5Witch Water&r! \\n\\nPlace a &6&lBarrel&r above a &5Mycelium Block&r and place &9Water&r in it to get &5Witch Water&r. \\nIt takes a second but that's okay, we have patience! \\n\\n(BTW, any &5Mycelium Blocks&r near the &5Witch Water&r will begin growing &cMushrooms&r!)"]
+	quest.1FA3ACD9B8CD02FE.title: "&5Witch Water"
+	quest.23E71537225B8392.quest_desc: [
+		"With our new found Wood, we can make Sticks. With our Sticks we can make a &6Crook&r! \\n\\nThese can be used to Break &2Leaves&r. When they do, the &2Leaves&r will Drop more &2Saplings&r and a new Item called &eSilkworms&r. \\n\\nThrow those &eSilkworms&r on &2Leaves&r to Infest them. This will spread to other Leaves and grow over time. \\n\\nWhy would any sane person want a &eSilkworm&r Infestation you ask? \\n\\nFor String of course! Just Break those White Leaves now to get it."
+		"{image:atm:textures/questpics/chap1/chap1_tree.png width:100 height:100 align:center}"
+	]
+	quest.23E71537225B8392.title: "Infesting our &2Trees"
+	quest.25B49E9D15BAEF3E.quest_desc: ["&9Water&r can come from a few different ways. \\n\\n&9Rain&r, &6&lBarrel&r Composting, &bIce&r! \\n\\nHowever you do it, instantly make an &9Infinite Water Source&r by placing 2 &9Water Sources&r diagonal from each other in a 2x2 area. \\n\\nNow we won't have to worry about getting &9Water&r anymore!"]
+	quest.25B49E9D15BAEF3E.title: "&9Water"
+	quest.29F82373417B2006.quest_desc: ["Ran out of saplings? You can get some emergency saplings at the top right of the quest menu! It's repeatable too: no need to restart your world if something bad happens!\","]
+	quest.29F82373417B2006.title: "Emergency Saplings"
+	quest.2A3BF8D20EEED292.quest_desc: [
+		"The &6&l(Oak) Barrel&r is a whole lot different from &2&lMinecraft&r Barrels. \\n\\nInfact we'll need it for lots of different Items and Blocks! \\n\\nWe can use it to Mix Items with Liquids by placing a Liquid inside and Dropping an Item into it. \\n\\nOr even Liquid Mixing by placing both of them into the &6&lBarrel&r. \\n\\nBy the way, for Mixing with &cLava&r you should use a &7&lStone Barrel&r. &6Wood&r ones will Burn! \\n\\nIf there is &9Rain&r, it will fill up with &9Water&r."
+		"{image:atm:textures/questpics/chap1/chap1_barrel.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_leaves.png width:100 height:110 align:center}"
+	]
+	quest.2A3BF8D20EEED292.title: "&6&l(Oak) Barrel"
+	quest.2C134DDBF9283407.quest_desc: ["For those who want to fast-track the start, this gives you an 'easy-mode' start. You do not have to complete this quest, and it is optional for progression."]
+	quest.2C134DDBF9283407.quest_subtitle: "For those who want to skip forward"
+	quest.2C134DDBF9283407.title: "A head Start"
+	quest.322F7A333B35F7FD.quest_desc: ["To get Materials we need to process Blocks through &b&lSieves&r... okay but these &7Rocks&r are too hard to pass through the &b&lSieve&r. \\n\\nHow about we &8Hammer&r them down! \\n\\nDid you think I was kidding? Break Blocks with the &8Hammer&r to get a Crushed down version of them!"]
+	quest.322F7A333B35F7FD.title: "&8Hammers"
+	quest.376BAC497511F067.quest_desc: [
+		"If you surround a furnace with Iron in a crafting table, you can upgrade your furnace to an Iron Furnace."
+		""
+		"These smelt faster and can also be configured to be automated with the cogwheel in the top left of the GUI."
+	]
+	quest.376BAC497511F067.quest_subtitle: "Does everything get an upgrade in this pack?"
+	quest.376BAC497511F067.title: "Smelting iron with iron"
+	quest.3948A052907BEC04.quest_subtitle: "Hammer Blackstone"
+	quest.3C5AAFC9672F2CF7.quest_desc: ["We can also throw Dirt into a &b&lSieve&r to get Items! \\n\\nDirt is pretty rare and necessary so make sure you have enough to &bSieve&r. \\n\\nDirt will give us &2Crops&r as an Item as well as &2Grass Seeds&r! &2Grass Seeds&r can be used on Dirt to make &2Grass&r. \\n\\nAny Dirt, anywhere!"]
+	quest.3C5AAFC9672F2CF7.title: "&2Grass Seeds"
+	quest.441200BE0C75C2AD.quest_desc: ["Meshes can be upgraded! And will need to be upgraded in order to get new Items! \\n\\nYou can check JEI for all Items but basically the better the Mesh, the better Item Drops. \\n\\nItem Drops and Drop Rate both change with the Mesh."]
+	quest.441200BE0C75C2AD.title: "Upgraded Meshes"
+	quest.469E414BC7F0C238.quest_desc: ["&3Porcelain Buckets&r work like &7Iron Buckets&r. \\n\\nJust cheaper, easier to get early game, and break after placing &cLava&r! \\n\\nWait what? \\n\\nYeah, they aren't good with the heat and after you place the &cLava&r the &3Bucket&r wil break. \\n\\n&9Water&r is fine though!"]
+	quest.469E414BC7F0C238.title: "&3Porcelain Bucket"
+	quest.488C8BDF45B9CA0F.quest_desc: [
+		"&aGateways&r are easy ways to get &aPassive Mobs&r and Loot Rewards! \\n\\nOkay, maybe not easy. You'll need to Fight off Waves of &cMonsters&r. Plus you'll need an &aEye of Ender&r to make it. \\n\\nBut it is worth it! \\n\\nDifferent &aGates&r give different Rewards and &cMonsters&r. This one will give 6 of each Farm Animal."
+		"{image:atm:textures/questpics/chap1/chap1_gateway.png width:100 height:100 align:center}"
+	]
+	quest.488C8BDF45B9CA0F.title: "Free Mobs!!!"
+	quest.4C502B5A1C1A0C58.quest_desc: ["With &5Witch Water&r we can toss &eSand&r into it like how we get &7Clay&r from &9Water&r, just now we will get &8Soul Sand&r. \\n\\n&8Soul Sand&r can be &bSieved&r to get more &c&lNether&r Items! \\n\\nOh yeah, you might be disappointed by the &c&lNether&r..."]
+	quest.4C502B5A1C1A0C58.title: "&8Soul Sand"
+	quest.4CCA1C828677D518.quest_desc: ["By Holding Shift Right Click while looking at the Top of a &2Grass Block&r it will give &7Pebbles&r! \\n\\n&7Pebbles&r for &7Stone&f, &8Deepslate&f, &7Andesite&f, &dGranite&f, Diorite, &0Blackstone&r, and &8Basalt&r. \\n\\nWe can combine 4 &7Pebbles&r to make the &7Stone&r related to the &7Pebbles&r. Or just Press K while hovering over a bunch of them in your Inventory! \\n\\nThat works for lots of Items with similar Recipes, try it out!"]
+	quest.4CCA1C828677D518.title: "Digging through &2Grass"
+	quest.522B2CE771DDBA0F.quest_desc: ["I lied, &6&lBarrels&r don't just Mix Liquids and Fluids. They also Compost! \\n\\nThrow some &2Crops&f, &2Moss&f, or &2Leaves&r into a &6&l(Oak) Barrel&r and it will turn into Dirt. \\n\\nThis is the only early game way of getting more Dirt!"]
+	quest.522B2CE771DDBA0F.title: "Making Dirt?"
+	quest.52DD11BC71F45E32.quest_desc: [
+		"&9&lCrucibles&r are only here for one reason. Non-free &9Water&r! \\n\\nYou can wait for &9Rain&r to fill &6Barrels&r for free or just throw &2Leaves&r into a &9&lCrucible&r and wait. \\n\\nTrust me the &9&lCrucible&r is much quicker!"
+		"{image:atm:textures/questpics/chap1/chap1_crucible.png width:100 height:100 align:center}"
+	]
+	quest.52DD11BC71F45E32.title: "&9Water &ffrom &2Leaves"
+	quest.60D53C6A50F9245B.quest_subtitle: "Hammer Gravel"
+	quest.6113DCE514DBB5D4.quest_subtitle: "Hammer Cobble"
+	quest.62AF24DD96B7B4AD.quest_desc: ["When we &b&lSieve&r for &7Ores&r we won't get the full &7Raw Ore&r. No, that's too easy! We get &7Chunks&r! \\n\\n4 &7Chunks&r will make 1 &7Raw Ore Block&r. \\n\\nYou can use K while hovering over the &7Chunks&r in your Inventory to combine them instantly!"]
+	quest.62AF24DD96B7B4AD.title: "&7Ore Chunks"
+	quest.62C9E87ECD00CA84.quest_desc: ["&b&lSkyblock&r starts out like any normal &2&lMinecraft&r World! Smack that &2Tree&r! \\n\\nJust... don't look down. \\n\\nAnd careful not to lose the &2Sapling&r! "]
+	quest.62C9E87ECD00CA84.title: "Punching &2Trees"
+	quest.62FCB337688ACDBC.quest_desc: ["Don't even worry about making &6Wooden Tools&r just go straight to &7Stone&r. \\n\\nAnd yes, you can still make &7&lStone Generators&r with &9Water &fand &cLava&r! \\n\\nIf you're taking the harder route, you can't use those just yet. You'll need to follow the Quests more to get there."]
+	quest.62FCB337688ACDBC.title: "&7Cobblestone"
+	quest.647E94E2156CB596.quest_desc: [
+		"If you've played &b&lATM9TTS&r you probably remember &7Stone Generator Blocks&r that would just make &7Cobble&r in an Inventory above it. \\n\\nThese work a bit differently... you'll still need an Inventory above the &7&lGenerator&r to collect the Blocks but the way it works is different. \\n\\nIn order to work we'll need a &cLava Source&r and &9Water Source&r on 2 of the Sides of the &7&lGenerator&r. Then, it will start making &7Cobble&r. \\n\\nIf we want to make other Blocks like &7Andesite&r or even &5Obisidan&r, we'll need to place those Blocks under the &7&lGenerator&r. Check JEI to see more Recipes! \\n\\nWe can upgrade the &l&7Generators&r, these will just Speed them up!"
+		"{image:atm:textures/questpics/chap1/chap1_stone.png width:150 height:100 align:center}"
+	]
+	quest.647E94E2156CB596.title: "&7&lStone Generator"
+	quest.658751C690E2B520.quest_subtitle: "Hammer Deepslate"
+	quest.6C1D268CE2B0D05D.quest_desc: [
+		"Cook up some &3Porcelain&r into a &c&lPorcelain Crucible&r. \\n\\nThese have 1 purpose. Cooking Items into &cLava&r! \\n\\nThrow the &c&lCrucible&r above a &6Heat Source&r. Some &6Heat&r more which Speed up the process. &cFire&r does more than &eLanterns&r, &cLava &fdoes more than &cFire&r. \\n\\nThen, place Blocks into the &c&lCrucible&r. Like &7Stone&r or even &4Netherrack&r. After some time it will make &cLava&r!"
+		"{image:atm:textures/questpics/chap1/chap1_lava.png width:120 height:200 align:center}"
+	]
+	quest.6C1D268CE2B0D05D.title: "&c&lPorcelain Crucible"
+	quest.6CCF2126B2BA72A6.quest_desc: ["Usually we find &2Moss&r in &2Lush Caves&r... ummm where are Caves in the &b&lSky&r? \\n\\nWell we can always just combine 4 &2Grass Seeds&r to make 1 &2Moss&r! \\n\\nThat doesn't sound like a fair trade? Did you forget you can Bonemeal &2Moss&r to spread it to all near Dirt, &2Grass&r, and &7Stone&r. \\n\\n&2Moss&r can be &bSieved&r like Dirt but instead of getting &2Crops&r we'll get &2Saplings&r!"]
+	quest.6CCF2126B2BA72A6.title: "&2Moss"
+	quest.70C2B568FA46337F.quest_desc: ["We will need lots of &7Gravel&f/&eSand&r/Dust. So let's make 9x more at a time! \\n\\nCombine 9 &8Hammers&r into a &8Compressed Hammer&r. These can &8Hammer&r Compressed Blocks as if they were normal Blocks. \\n\\n&7Compressed Cobble&r will give 9 &7Gravel&r with the &8Hammer&r."]
+	quest.70C2B568FA46337F.title: "Crushing Compressed Blocks"
+	quest.79D6F21C1E1D1749.quest_desc: ["The trauma of all failed &b&lSkyblock&r Worlds... the &5Obsidian&r. \\n\\nAs many &b&lSkyblock&r Players have learned, when &9Water &ftouches a &cLava Source&r Block it will make &5Obsidian&r. \\n\\nWe can do this in a more peaceful way by using &6&lBarrels&r!"]
+	quest.79D6F21C1E1D1749.title: "&5Obsidian"
+	quest.7ADFD864139BF2F2.quest_desc: ["Welcome to the &b&lSky&r! \\n\\nYou might notice the lack of... well pretty much everything! \\n\\nIn case you have a problem of too much ground (normal &2World&r, not &bSkyblock&r) then check out the FAQ in the &9Discord&r to get your answer. \\n\\nUse the command \"/skyblock gui\" this will allow you to make a Team to start an Island! Select the type as well as the Name to get started. The rest of the configs are for Multiplayer."]
+	quest.7ADFD864139BF2F2.quest_subtitle: "Welcome to All The Mods 10: To the Sky! Now in double digits."
+	quest.7ADFD864139BF2F2.title: "Starting Out"
+	quest.7B08D4FC6F1B0005.quest_desc: ["Put some &9Water&r into a &6&lBarrel&r then Toss a Dust Block into it to get &7Clay&r! \\n\\nYou'll need to Right Click the &6&lBarrel&r to take out the &7Clay&r. \\n\\nWe will need &7Clay&r for a few things like &cFire Bricks&r and &3Porcelain Clay&r."]
+	quest.7B08D4FC6F1B0005.title: "&7Clay"
+	quest.7CC729E68A89D962.quest_desc: ["We can combine &9Water&r and Milk in a &6&lBarrel&r to get &aSlime Blocks&r! \\n\\nHow does that work? \\n\\nI don't know! \\n\\nAnd I really don't want to know!"]
+	quest.7CC729E68A89D962.quest_subtitle: "Oopy goopy"
+	quest.7CC729E68A89D962.title: "&aSlime"
+	task.2019707AE4DAC703.title: "{atm9.quest.start1.emergency}"
+}

@@ -1,0 +1,20 @@
+{
+	quest.102D82A38637FA84.quest_desc: ["&c&lBaubley Heart Canisters&r is a mod centered around strong gear and boosted max health. The main resource is &c hearts&r, which you can get from killing mobs. Different hearts come from different mobs, and lower tier hearts can be turned into better ones."]
+	quest.102D82A38637FA84.quest_subtitle: "Stealing their heart"
+	quest.102D82A38637FA84.title: "&c&lBaubley Heart Canisters"
+	quest.11AA616D7622370C.quest_desc: ["An upgraded version that can be used for more buffs."]
+	quest.15AEC638E00516AB.quest_subtitle: "A \"cold\" heart"
+	quest.29555A5CFB098858.quest_subtitle: "Now we're getting somewhere"
+	quest.297289FD3DA90DB4.quest_desc: ["Almost every single hostile mob drops a &cRed Heart&r. These are used for an early-game health boost."]
+	quest.297289FD3DA90DB4.quest_subtitle: "Don't eat it!"
+	quest.2B0E41A8E9A34238.quest_subtitle: "Fancy band-aid"
+	quest.30880CC59EEF97A8.quest_desc: ["You can melt down red hearts and combine them with any heart \"cast\" to make a yellow one."]
+	quest.30880CC59EEF97A8.quest_subtitle: "All this for one?"
+	quest.30880CC59EEF97A8.title: "Melted Red Hearts"
+	quest.31DE7556AC49EE48.quest_subtitle: "Made from dragons (or not)"
+	quest.49F4B5361AA39709.quest_desc: ["An upgraded version that can be used for more health."]
+	quest.49F4B5361AA39709.quest_subtitle: "Ender dragons"
+	quest.5902FDE5D2D74534.quest_subtitle: "The base for boosting"
+	quest.75ADA254B6B548D1.quest_desc: ["This is enough to full-heal an entire health bar per use. Pretty good!"]
+	quest.75ADA254B6B548D1.quest_subtitle: "20*50 = 1000 health"
+}
