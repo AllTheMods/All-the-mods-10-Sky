@@ -7,6 +7,7 @@ ServerEvents.tags("block", (allthemods) => {
 
   // Extreme Reactors
   allthemods.add("c:storage_blocks/yellorium", "alltheores:uranium_block")
+  allthemods.add("c:storage_blocks/plutonium", "bigreactors:blutonium_block")
 
   allthemods.add("c:relocation_not_supported", [
     "minecraft:beehive",
@@ -45,6 +46,7 @@ ServerEvents.tags("item", (allthemods) => {
   // Extreme Reactors
   allthemods.add("c:ingots/yellorium", "alltheores:uranium_ingot")
   allthemods.add("c:storage_blocks/yellorium", "alltheores:uranium_block")
+  allthemods.add("c:storage_blocks/plutonium", "bigreactors:blutonium_block")
 
   // water buckets
   allthemods.add("c:buckets/water", "exdeorum:porcelain_water_bucket")
