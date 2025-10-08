@@ -88,6 +88,15 @@ ServerEvents.recipes((allthemods) => {
     80,
     3
   )
+
+  laserDrillFluid(
+    { fluid: "pneumaticcraft:oil", amount: 50 },
+    "minecraft:empty",
+    "industrialforegoing:black_laser_lens",
+    20,
+    60,
+    3
+  )
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.
