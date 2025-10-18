@@ -25,7 +25,7 @@
 	quest.722978AC0C1B2649.quest_desc: ["Item fácil para automatizar &9Água Infinita&r. \\n\\nPrecisa de mais &9Água&r? Faça outro!"]
 	quest.722978AC0C1B2649.quest_subtitle: "Pode ser usado como Refrigerante de Reator"
 	quest.722978AC0C1B2649.title: "&9Água Infinita&r"
-	quest.7A514E27E1A7FE32.quest_desc: ["Diamantes também nos permitem criar alguns gadgets legais para nos ajudar a construir usando o mod &l&cBuilding Gadgets&r.\\n\\nEstas são ótimas ferramentas para ajudá-lo a construir bases maiores, ou para limpar espaço usando o &cDestruction Gadget&r."]
+	quest.7A514E27E1A7FE32.quest_desc: ["Diamantes também nos permitem criar alguns gadgets legais para nos ajudar a construir usando o mod &l&cBuilding Gadgets&r.\\n\\nEstas são ótimas ferramentas para ajudá-lo a construir bases maiores, ou para limpar espaço usando o &cDestruction Gadget&r.\\n\\nAlém disso, você pode conectá-los a uma Rede AE2 da mesma forma que conecta Terminais Sem Fio, com o Ponto de Acesso Sem Fio. Isso permite que ele use blocos armazenados na Rede ME."]
 	quest.7A514E27E1A7FE32.title: "&l&cBuilding Gadgets&r"
 	quest.7EC8814940C4C3D7.quest_desc: ["Use este item para encolher. Útil para trabalhar na automação e também divertido em geral."]
 	quest.7EC8814940C4C3D7.quest_subtitle: "Querida, Eu Me Encolhi"

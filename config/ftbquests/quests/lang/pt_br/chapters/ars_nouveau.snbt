@@ -39,6 +39,8 @@
 	quest.18A2FBE2D4133FA2.title: "Pedestais Arcanos"
 	quest.19D02325579F2AA8.quest_desc: ["O Vínculo de Source Vulcânico gera Source consumindo itens combustíveis. Troncos de Archwood gerarão Source bônus. \\n\\nÀ medida que queima itens, ele converterá pedra próxima em lava. \\n\\nIsso também gera Lírios de Lava."]
 	quest.19D02325579F2AA8.quest_subtitle: "Dano colateral"
+	quest.1A26E6650D007262.quest_desc: ["Fonte: JEI, aparentemente. (e sim, eu estava sendo sarcástico aí, VOCÊ NÃO vai receber nenhuma conversão de GeOre além de carvão com isso, JEI estava apenas enganando todos vocês. Existem caminhos diferentes para isso.)"]
+	quest.1A26E6650D007262.quest_subtitle: "Vai totalmente, absolutamente, 100% converter seus Blocos de Unobtainium em Drusa GeOre"
 	quest.1D86B2E553503E53.quest_desc: ["A &6Varinha de Domínio&r é usada para controlar as criaturas que você pode encontrar no mundo! Cada ser responde de forma diferente à varinha, então certifique-se de ler sobre isso no Caderno Gasto!"]
 	quest.1D86B2E553503E53.quest_subtitle: "Ajudantes amigáveis"
 	quest.1D86B2E553503E53.title: "&6Invocando Ajuda!"
