@@ -18,7 +18,7 @@
 	quest.00E19377BAE5DD6A.title: "&7Shearing Unit"
 	quest.011D8CADA29C9C70.quest_desc: ["&eQIO Drives&r determine the Storage within &e&lQIO Drive Arrays&r. \\n\\nThey are placed within the &5Machines&r Inventory in order to be used. You can place up to 12 of them. \\n\\nThe &eQIO Drives&r hold the &eItems&r and they will automatically fill up the first &eQIO Drive&r in order. \\n\\nEach of them have an &eItem Storage&r limit and &eItem Type&r limit. The better the &eQIO Drive&r, the more &eItems&f and &eItem Types&r you'll get! \\n\\n&aQIO Drive&r: is the most basic, having 16k Items and 128 Types. This is the only one not needing a &2&lFission Reactor&r to Craft. \\n\\n&cHyper-Dense QIO Drive&r: and everything after will need the &2&lFission Reactor&r. This one holds 128k Items and 256 Item Types. \\n\\n&bTime-Dilating QIO Drive&r: can store 1,048k Items and 1,024 Item Types. \\n\\n&dSupermassive QIO Drive&r: will need &dAntimatter&r to Craft but will obviously give the most Storage. Allowing 16b Items and 8,192 Item Types."]
 	quest.011D8CADA29C9C70.title: "&eQIO Drives"
-	quest.0133DA323E24A455.quest_desc: ["Talking about replacing things (&6Hazmat Suit&r with &aRadiation Shielding &7Unit&r) lets replace the &eScube Gear&r! \\n\\nWith this &7Module Unit&r added to our &a&lMekaSuit Helmet&r, we will be able to swim &9Underwater&r and breathe! \\n\\nIf we have a &cJetpack &7Unit&r in our &a&lMekaSuit Bodyarmor&r it will feed it &7Hydrogen&r when in &9Water&r."]
+	quest.0133DA323E24A455.quest_desc: ["Talking about replacing things (&6Hazmat Suit&r with &aRadiation Shielding &7Unit&r) lets replace the &eScuba Gear&r! \\n\\nWith this &7Module Unit&r added to our &a&lMekaSuit Helmet&r, we will be able to swim &9Underwater&r and breathe! \\n\\nIf we have a &cJetpack &7Unit&r in our &a&lMekaSuit Bodyarmor&r it will feed it &7Hydrogen&r when in &9Water&r."]
 	quest.0133DA323E24A455.quest_subtitle: "Helmet"
 	quest.0133DA323E24A455.title: "&9Electrolytic Breathing &7Unit"
 	quest.02C6132919DEAF2A.quest_desc: ["Before we start making &aEnergy&r let's get our Steam all over the place. We can do that by surrounding the &9Rotational Complex&r with &9Pressure Dispersers&r! \\n\\nAbove that layer we'll need a new layer, this one full of &aElectromagnetic Coils&r. These will be moved because of the &9Rotational Complex&r, them moving with each other is what develops &aEnergy&r through their Magnetic Forces. Same thing happens with Hydroelectric Plants! \\n\\nAbove the &aElectromagnetic Coils&r we can use &9Saturating Condensers&r which will recycle our Steam back into some &9Water&r! The &9Water&r will be extracted through the &9Vents&r."]
@@ -98,7 +98,6 @@
 		"{@pagebreak}"
 		"Most of the use is through the &cController&r. First, we get the main menu. This is just for the &eHohlraum&r slot, and telling you if it is built correctly! \\n\\nNext, is the Heat menu. This is for how Hot the &6Temperature&r of the &c&lFusion Reactor&r is. This determines the amount of &aEnergy&r or Steam is created! And is determined by the &4Laser Amplifier&r being shot into it, and if it is cooled. \\n\\nWe can change the Units of &6Temperature&r or even &aEnergy&r with the bottom Buttons! \\n\\nNext menu, is for Fuel! It will show how much &cDeuterium&r, &aTritium&r, and &5D-T Fuel&r is within the &c&lFusion Reactor&r. We can also change the Inject Rate, how much Fuel is used up each Tick. \\n\\nStats menu shows us a lot of fancy numbers! They're only important to nerds so we won't focus on them!"
 		"{@pagebreak}"
-		"(new page placeholder text)"
 		"{image:atm:textures/questpics/mek/mek_fusion1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fusion2.png width:110 height:90 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fusion3.png width:110 height:100 align:center}"
@@ -302,3 +301,5 @@
 	task.496C4FDD2515EB24.title: "&aInduction Providers"
 	task.59F0226D83026397.title: "AllRightsReserved"
 }
+
+
