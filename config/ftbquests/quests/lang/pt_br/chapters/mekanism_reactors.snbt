@@ -103,7 +103,6 @@
 		"{@pagebreak}"
 		"A maior parte do uso é através do &cControlador&r. Primeiro, temos o menu principal. Isto é apenas para o slot do &eHohlraum&r e para dizer se ele está construído corretamente! \\n\\nEm seguida, o menu de Calor. Isto é para quão quente está a &6Temperatura&r do &c&lReator de Fusão&r. Isso determina a quantidade de &aEnergia&r ou Vapor que é criada! E é determinado pelo &4Amplificador Laser&r que dispara nele, e se ele é resfriado. \\n\\nPodemos mudar as Unidades de &6Temperatura&r ou mesmo de &aEnergia&r com os Botões inferiores! \\n\\nO próximo menu é para o Combustível! Ele mostrará quanto &cDeutério&r, &aTrítio&r e &5Combustível D-T&r está dentro do &c&lReator de Fusão&r. Também podemos alterar a Taxa de Injeção, quanto Combustível é usado a cada Tick. \\n\\nO menu de Estatísticas nos mostra um monte de números chiques! Eles são importantes apenas para nerds, então não vamos focar neles!"
 		"{@pagebreak}"
-		"(texto de espaço reservado para nova página)"
 		"{image:atm:textures/questpics/mek/mek_fusion1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fusion2.png width:110 height:90 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fusion3.png width:110 height:100 align:center}"

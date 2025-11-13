@@ -53,7 +53,7 @@
 	quest.0691BDE968724213.title: "&fAbelha de Liga Vibrante"
 	quest.069247036385D7CF.quest_desc: ["Afeta o horário do dia em que uma abelha pode trabalhar. Existem 3 níveis disso: &aDiurno&r, &dNoturno&r, &cMetaturnal&r. Abelhas &aDiurnas&r só podem trabalhar durante o dia, abelhas &dNoturnas&r só podem trabalhar à noite, abelhas &cMetaturnas&r podem trabalhar a qualquer hora do dia. &cMetaturnal&r é o que estamos procurando. A BeeBee naturalmente tem a característica &cMetaturnal&r, mas, como mencionado antes, está de férias, então precisaremos buscar medidas alternativas. Precisaremos prender algumas abelhas em uma cerca durante a noite para torná-las &dNoturnas&r, e depois deixá-las na cerca durante o dia para torná-las &cMetaturnas&r. Podemos pular uma dessas etapas com uma Abelha Fantasmagórica, que é naturalmente &dNoturna&r."]
 	quest.069247036385D7CF.quest_subtitle: "Dormir é para os fracos"
-	quest.069247036385D7CF.title: "&l&eComportamento"
+	quest.069247036385D7CF.title: "&l&eComportamento das Abelhas"
 	quest.06B352AE90DD0D3E.quest_desc: ["Uma &8Abelha de Blaze&r polinizando um &4Ovo de Geração de Abelha Obsidiana&r irá convertê-lo em um &2Ovo de Geração de Abelha Infinita&r."]
 	quest.06B352AE90DD0D3E.title: "&fAbelha Infinita"
 	quest.08A3292277D2FDE2.quest_subtitle: "Fabricado com Aparelho de Encantamento"
@@ -173,6 +173,7 @@
 	]
 	quest.17419401147B5C02.quest_subtitle: "Você curte jazz? - Não, não é uma referencia."
 	quest.17419401147B5C02.title: "&fCriando e Convertendo &6Abelhas"
+	quest.176ACC61DC206E55.quest_desc: ["Seu ninho também pode ser obtido ao cultivar Fungos Carmesins, com uma chance de 2%."]
 	quest.176ACC61DC206E55.quest_subtitle: "Alimente uma Abelha de Cogumelo com um Fungo Carmesim"
 	quest.176ACC61DC206E55.title: "&fAbelha de Cogumelo Carmesim"
 	quest.177199FED92C3B5B.quest_subtitle: "Alimente uma Abelha de Diamante com um Diamante Infundido"
@@ -226,8 +227,6 @@
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["Para atrair Abelhas para este ninho, você precisará de &5Fruta do Coro Cozida&r em vez de &6Guloseimas de Mel&r."]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Atrai Abelhas do End quando colocado no End"
 	quest.1E9BD4B74DAEA9FC.title: "&fNinho de &ePedra do End"
-	quest.1EBD5E4410A6DF34.quest_subtitle: "Alimente uma Abelha Fantasmagórica com uma Adaga de Soulium"
-	quest.1EBD5E4410A6DF34.title: "Abelha de Soulium"
 	quest.205DE46ABA1CCC8F.quest_subtitle: "Feito na Fundição de Ligas"
 	quest.205DE46ABA1CCC8F.title: "&fAbelha de Liga Condutiva"
 	quest.2086C73688C8BA51.quest_subtitle: "Alimente uma Abelha de Lava com um Balde de Ácido Sulfúrico"
@@ -267,6 +266,7 @@
 	quest.26FB7A789981BD3C.title: "&fAbelha de Grafite"
 	quest.28AE3B536D23E138.quest_subtitle: "Fabricação por Infusão"
 	quest.28AE3B536D23E138.title: "&fAbelha de Inferium"
+	quest.2982D38BD5EE6349.quest_desc: ["Seu ninho também pode ser obtido ao cultivar Fungos Deformados, com uma chance de 2%."]
 	quest.2982D38BD5EE6349.quest_subtitle: "Alimente uma Abelha Cogumelo com Fungo Distorcido"
 	quest.2982D38BD5EE6349.title: "&fAbelha de Cogumelo Distorcido"
 	quest.29A71E780923874E.quest_subtitle: "Nômade + Cana"
@@ -281,8 +281,6 @@
 	quest.29EE878BC8D3A742.title: "&fCapturando &6Abelhas&f!"
 	quest.2A559D527BC88DEC.quest_desc: ["Jogue um &9Ovo de Geração de Abelha Espacial&r e um &8Bloco de Aço do Céu&r na &6lava&r, espere alguns ticks e voilà, você terá um Ovo de Geração de Abelha de Aço do Céu."]
 	quest.2A559D527BC88DEC.title: "&fAbelha de Aço do Céu"
-	quest.2AEC294578952BFD.quest_subtitle: "Lápis + Esquelético"
-	quest.2AEC294578952BFD.title: "&fAbelha de Corante"
 	quest.2AEEDCC6826CF4AB.quest_subtitle: "Negócio Suspeito"
 	quest.2AEEDCC6826CF4AB.title: "&fAbelha de Petróleo"
 	quest.2BE538246C672689.quest_desc: ["Usando uma fundição, despeje &#9332D9Unobtainium Derretido&r sobre um &#F2EB2EOvo de Geração de Abelha de Vibranium&r."]
@@ -378,9 +376,6 @@
 	quest.3B5095CEDD9FB323.title: "&fAbelha de Aço Energizado"
 	quest.3CB7AB928D3E1CC6.quest_subtitle: "Feito com energizador"
 	quest.3CB7AB928D3E1CC6.title: "&fAbelha de Cristal Flamejante"
-	quest.3D63868AC4393EBC.quest_desc: ["Uma abelha que dá Fluido de XP do &2Just Dire Things&r."]
-	quest.3D63868AC4393EBC.quest_subtitle: "Lápis + Esmeralda"
-	quest.3D63868AC4393EBC.title: "&fAbelha de Experiência"
 	quest.3D7480E4F9063E93.quest_subtitle: "Madeira + Suor"
 	quest.3D7480E4F9063E93.title: "&fAbelha Fazendeira"
 	quest.3DA5F622E3266AE5.quest_subtitle: "Feito no Reprocessador"
@@ -400,8 +395,6 @@
 	quest.3EB6CBA0B1374BDD.title: "&fAbelha de Aço Dracônico Elétrico"
 	quest.40E4F1172A164DD1.quest_subtitle: "Chance de surgir ao quebrar Vagens de Cacau em uma Selva"
 	quest.40E4F1172A164DD1.title: "&fAbelha de Açucar"
-	quest.40F8A44DF4D8DBD6.quest_subtitle: "Magmatic + Nomad"
-	quest.40F8A44DF4D8DBD6.title: "&fAbelha de Blaze"
 	quest.419DD6FE84B91749.quest_desc: ["Ao coletar genes, você obterá uma porcentagem de uma característica. Você pode combiná-los em uma mesa de trabalho para somá-los, ou colocá-los em um Indexador de Genes para auto-combinar. Não requer um sinal de redstone."]
 	quest.419DD6FE84B91749.quest_subtitle: "O Combinador e Baú de Genes"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["Quando colocado no &cNether&r e recebendo &ePedra Luminosa&r, o Ninho de &ePedra Luminosa&r atrairá uma &eAbelha Luminosa&r."]
@@ -650,8 +643,6 @@
 	]
 	quest.7B0CE182D3FE3035.quest_subtitle: "2 flores altas podem ser criadas com Essência do MA"
 	quest.7B0CE182D3FE3035.title: "&fFlores Fabricáveis"
-	quest.7B40A9DAA119DE59.quest_subtitle: "Crystalline + Neon Cuckoo"
-	quest.7B40A9DAA119DE59.title: "Abelha Menril"
 	quest.7B5A0BFD47D96BDE.quest_desc: ["Usado para capturar abelhas que estão voando ao redor.\\n\\nVocê pode usar uma &aMelhoria de Filtro&r para filtrar quais abelhas você quer capturar, bem como uma Melhoria de Abelha Bebê para capturar apenas abelhas bebês."]
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "Capture Abelhas"
 	quest.7B5A0BFD47D96BDE.title: "&fApanhador"
