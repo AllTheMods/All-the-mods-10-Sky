@@ -7,33 +7,41 @@ ServerEvents.recipes((allthemods) => {
 
   // kubejs/server_scripts/crushing.js
 
-  const inputs = [
-    "#c:deepslate_blocks",
-    "minecraft:end_stone",
-    "minecraft:blackstone",
-    "minecraft:sand",
-    "minecraft:netherrack"
-  ]
+  const inputs = ["deepslate", "cobbled_deepslate", "end_stone", "blackstone", "sand", "netherrack"]
 
   const outputs = [
-    "exdeorum:crushed_deepslate",
-    "exdeorum:crushed_end_stone",
-    "exdeorum:crushed_blackstone",
-    "exdeorum:dust",
-    "exdeorum:crushed_netherrack"
+    "crushed_deepslate",
+    "crushed_deepslate",
+    "crushed_end_stone",
+    "crushed_blackstone",
+    "dust",
+    "crushed_netherrack"
   ]
 
   inputs.forEach((input, index) => {
     allthemods
       .custom({
         type: "mekanism:crushing",
-        input: Ingredient.of(input).toJson(),
+        input: Ingredient.of(`minecraft:${input}`).toJson(),
         output: {
-          id: outputs[index],
+          id: `exdeorum:${outputs[index]}`,
           count: 1
         }
       })
-      .id(`kubejs:mekanism/crushing/${outputs[index].split(":")[1]}`)
+      .id(`kubejs:mekanism/crushing/${outputs[index]}_from_${input}`)
+
+    for (let i = 1; i < 10; i++) {
+      allthemods
+        .custom({
+          type: "mekanism:crushing",
+          input: Ingredient.of(`allthecompressed:${input}_${i}x`).toJson(),
+          output: {
+            id: `allthecompressed:${outputs[index]}_${i}x`,
+            count: 1
+          }
+        })
+        .id(`kubejs:mekanism/crushing/compressed/${outputs[index]}_${i}x_from_${input}`)
+    }
   })
 
   allthemods

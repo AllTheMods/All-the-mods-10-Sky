@@ -23,16 +23,19 @@ ServerEvents.recipes((event) => {
     })
   }
 
+  ;["emerald", "diamond", "redstone", "lapis", "quartz", "ancient_debris", "ruby", "sapphire", "topaz"].forEach(
+    (material) => {
+      addCasting(
+        "allthecompressed:sand_1x",
+        { tag: `c:molten_${material}`, amount: 900 },
+        { item: `geore:budding_${material}` }
+      )
+    }
+  )
   ;[
-    "emerald",
-    "diamond",
     "gold",
     "iron",
     "copper",
-    "redstone",
-    "lapis",
-    "quartz",
-    "ancient_debris",
     "aluminum",
     "tin",
     "silver",
@@ -41,12 +44,13 @@ ServerEvents.recipes((event) => {
     "osmium",
     "nickel",
     "lead",
-    "zinc",
-    "ruby",
-    "sapphire",
-    "topaz"
+    "zinc"
   ].forEach((material) => {
-    addCasting("allthecompressed:sand_1x", { tag: `c:molten_${material}` }, { item: `geore:budding_${material}` })
+    addCasting(
+      "allthecompressed:sand_1x",
+      { tag: `c:molten_${material}`, amount: 810 },
+      { item: `geore:budding_${material}` }
+    )
   })
 
   addCasting("allthecompressed:sand_1x", { tag: "c:molten_carbon" }, { item: "geore:budding_coal" })

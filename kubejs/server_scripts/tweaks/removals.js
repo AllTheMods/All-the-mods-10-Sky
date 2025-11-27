@@ -221,6 +221,12 @@ ServerEvents.recipes((allthemods) => {
   allthemods.remove({ id: `create:crushing/tuff_recycling` })
   allthemods.remove({ id: `modern_industrialization:materials/plutonium/craft/block_from_ingot` })
   allthemods.remove({ id: `industrialforegoing:laser_drill_fluid/oil` })
+  allthemods.remove({ id: `mysticalagradditions:nitro_crystal_crux` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/dirty/from_raw_block` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/dirty/from_raw_ore` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/dirty/from_ore` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/clean` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/crystal/from_slurry` })
 })
 
 ServerEvents.generateData("after_mods", (allthemods) => {
