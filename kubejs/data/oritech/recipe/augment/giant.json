@@ -14,10 +14,7 @@
     "entityAttributeId": "minecraft:generic.scale"
   },
   "requiredStation": "oritech:simple_augment_station",
-  "requirements": [
-    "oritech:augment/dwarf",
-    "oritech:augment/armor"
-  ],
+  "requirements": ["oritech:augment/dwarf", "oritech:augment/armor"],
   "researchCost": [
     {
       "count": 64,
