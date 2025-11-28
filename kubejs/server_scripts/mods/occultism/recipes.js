@@ -80,8 +80,6 @@ ServerEvents.recipes((allthemods) => {
       ritual_type: "occultism:craft"
     })
     .id("allthemods:occultism/ritual/honeycomb")
-
-
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
