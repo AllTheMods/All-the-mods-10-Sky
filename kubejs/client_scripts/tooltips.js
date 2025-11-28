@@ -68,12 +68,7 @@ ItemEvents.modifyTooltips((allthemods) => {
   ])
   //Occultism
   allthemods.add("kubejs:ritual_dummy/honeycomb", [Text.of("§7Tier: Foliot")])
-  allthemods.add("kubejs:ritual_dummy/upgrade_ritual_satchel_t1_to_t2", [
-    Text.of(
-      "§cWARNING: Will delete all items in the Apprentice Satchel. Consider taking out all items from the Apprentice Satchel."
-    ),
-    Text.of("§7Tier: Afrit")
-  ])
+
   //Create
   allthemods.add("create:limestone", [Text.of("Make a Lava Source Block flow on top of Create Honey").gray()])
 
