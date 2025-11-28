@@ -1,0 +1,40 @@
+{
+  "type": "oritech:augment_data",
+  "applyCost": [
+    {
+      "count": 8,
+      "ingredient": {
+        "item": "oritech:raw_biopolymer"
+      }
+    }
+  ],
+  "effect": {
+    "amount": 1.0,
+    "attributeOperationType": 1,
+    "entityAttributeId": "minecraft:generic.scale"
+  },
+  "requiredStation": "oritech:simple_augment_station",
+  "requirements": [
+    "oritech:augment/dwarf",
+    "oritech:augment/armor"
+  ],
+  "researchCost": [
+    {
+      "count": 64,
+      "ingredient": {
+        "item": "oritech:raw_biopolymer"
+      }
+    },
+    {
+      "count": 4,
+      "ingredient": {
+        "tag": "c:tiny_dusts/plutonium"
+      }
+    }
+  ],
+  "rfCost": 80000000,
+  "time": 1600,
+  "toggleable": true,
+  "uiX": 55,
+  "uiY": 90
+}
