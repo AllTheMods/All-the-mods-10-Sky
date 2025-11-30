@@ -193,7 +193,7 @@
 				{
 					count: 2L
 					id: "63A070075644110C"
-					item: { count: 2, id: "minecraft:repeater" }
+					item: { count: 1, id: "minecraft:repeater" }
 					type: "item"
 				}
 			]
@@ -549,7 +549,7 @@
 				{
 					count: 4L
 					id: "3917421D27C651E4"
-					item: { count: 4, id: "mekanismgenerators:fission_reactor_port" }
+					item: { count: 1, id: "mekanismgenerators:fission_reactor_port" }
 					type: "item"
 				}
 				{
@@ -658,7 +658,7 @@
 				{
 					count: 33L
 					id: "0BE623827F600CC7"
-					item: { count: 33, id: "mekanism:thermal_evaporation_block" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_block" }
 					type: "item"
 				}
 				{
@@ -1402,13 +1402,13 @@
 				{
 					count: 32L
 					id: "517FC41DE11BB012"
-					item: { count: 32, id: "mekanism:induction_casing" }
+					item: { count: 1, id: "mekanism:induction_casing" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "5CD030B6B8A747B6"
-					item: { count: 2, id: "mekanism:induction_port" }
+					item: { count: 1, id: "mekanism:induction_port" }
 					type: "item"
 				}
 			]
@@ -1551,25 +1551,25 @@
 				{
 					count: 64L
 					id: "35D437CE90158B46"
-					item: { count: 64, id: "mekanism:structural_glass" }
+					item: { count: 1, id: "mekanism:structural_glass" }
 					type: "item"
 				}
 				{
 					count: 58L
 					id: "7A7018026E464DF3"
-					item: { count: 58, id: "mekanism:structural_glass" }
+					item: { count: 1, id: "mekanism:structural_glass" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "7D8EB15A3DB21BFC"
-					item: { count: 4, id: "mekanism:sps_port" }
+					item: { count: 1, id: "mekanism:sps_port" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "21E33C57C5913965"
-					item: { count: 2, id: "mekanism:supercharged_coil" }
+					item: { count: 1, id: "mekanism:supercharged_coil" }
 					type: "item"
 				}
 			]
@@ -1900,7 +1900,7 @@
 				{
 					count: 33L
 					id: "555D6EE9775EC7FA"
-					item: { count: 33, id: "mekanism:thermal_evaporation_block" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_block" }
 					type: "item"
 				}
 				{
@@ -2111,7 +2111,7 @@
 				{
 					count: 3L
 					id: "36956376F56A076A"
-					item: { count: 2, id: "mekanismgenerators:fusion_reactor_port" }
+					item: { count: 1, id: "mekanismgenerators:fusion_reactor_port" }
 					type: "item"
 				}
 			]
@@ -2147,7 +2147,7 @@
 				{
 					count: 2L
 					id: "4ADBCE26247048B5"
-					item: { count: 2, id: "mekanismgenerators:turbine_valve" }
+					item: { count: 1, id: "mekanismgenerators:turbine_valve" }
 					type: "item"
 				}
 				{
@@ -2188,13 +2188,13 @@
 				{
 					count: 2L
 					id: "3C99BB935A826521"
-					item: { count: 2, id: "mekanismgenerators:turbine_rotor" }
+					item: { count: 1, id: "mekanismgenerators:turbine_rotor" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "095CA8A85AA2C79A"
-					item: { count: 4, id: "mekanismgenerators:turbine_blade" }
+					item: { count: 1, id: "mekanismgenerators:turbine_blade" }
 					type: "item"
 				}
 				{
@@ -2373,7 +2373,7 @@
 				{
 					count: 12L
 					id: "79CC7DCAAD8B6141"
-					item: { count: 12, id: "mekanismgenerators:turbine_vent" }
+					item: { count: 1, id: "mekanismgenerators:turbine_vent" }
 					type: "item"
 				}
 			]
@@ -2479,13 +2479,13 @@
 				{
 					count: 6L
 					id: "492B866023128B7B"
-					item: { count: 6, id: "mekanism:structural_glass" }
+					item: { count: 1, id: "mekanism:structural_glass" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "15E1D36E2CE6FA0D"
-					item: { count: 4, id: "mekanism:boiler_valve" }
+					item: { count: 1, id: "mekanism:boiler_valve" }
 					type: "item"
 				}
 				{
@@ -2519,7 +2519,7 @@
 			tasks: [{
 				count: 4L
 				id: "2D6A5B51E7B9DD9F"
-				item: { count: 2, id: "mekanism:boiler_valve" }
+				item: { count: 1, id: "mekanism:boiler_valve" }
 				type: "item"
 			}]
 			x: 15.0d
@@ -3138,16 +3138,6 @@
 			}]
 			x: 2.0d
 			y: -20.0d
-		}
-		{
-			id: "505799C894C771B2"
-			invisible: true
-			tasks: [{
-				id: "74E743C093C7EC3B"
-				type: "checkmark"
-			}]
-			x: 16.5d
-			y: -21.5d
 		}
 	]
 }

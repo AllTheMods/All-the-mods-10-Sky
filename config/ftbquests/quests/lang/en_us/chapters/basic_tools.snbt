@@ -1,12 +1,10 @@
 {
-	quest.01F59AF41A6DA0F7.quest_desc: [ ]
+	quest.01F59AF41A6DA0F7.quest_desc: ["&cNote to those in Editing Mode: This quest was temporarily hidden as Draco Arcanus Pickaxe lacks a recipe at the time of writing. When Draco Arcanus Pickaxe becomes craftable, be it via Forbidden Arcanus or KubeJS, remove this note and unhide the quest."]
 	quest.01F59AF41A6DA0F7.quest_subtitle: "Tier: &54"
 	quest.01F59AF41A6DA0F7.title: ""
 	quest.03E05018D64DDEE1.quest_desc: ["&eTier 5&r is basically just for Allthemodium Ore, not much else."]
 	quest.03E05018D64DDEE1.title: "&eHarvest Tier 5"
-	quest.053E6882650CEFC6.quest_desc: [ ]
 	quest.053E6882650CEFC6.quest_subtitle: "Tier: &e5"
-	quest.053E6882650CEFC6.title: ""
 	quest.0583862ED0114442.quest_subtitle: "&f4 &cAttack Damage"
 	quest.077A214422FEFF02.quest_subtitle: "&f6.5 &cAttack Damage"
 	quest.09733948CBCB3FB9.quest_desc: ["&dTier 6&r is the highest tier, anything that is breakable can be mined with it, including Vibranium and Unobtainium."]
@@ -15,9 +13,7 @@
 	quest.161878AB4236C58B.quest_subtitle: "&f6.5 &cAttack Damage"
 	quest.16AAC61729C44881.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.1756F81ACFC56C58.quest_subtitle: "Tier: &e5"
-	quest.175A03C28F72244D.quest_desc: [ ]
 	quest.175A03C28F72244D.quest_subtitle: "Tier: &54"
-	quest.175A03C28F72244D.title: ""
 	quest.17FE0C7748DD65CA.quest_desc: ["&5Tier 4&r is Diamond tool level, used to get Obsidian and Netherite. Also some modded ores like Uranium and Platinum."]
 	quest.17FE0C7748DD65CA.title: "&5Harvest Tier 4"
 	quest.1D3F11194EA3BB73.quest_subtitle: "Tier: &b3"
@@ -31,23 +27,17 @@
 	quest.2A6753C806D2AF8D.quest_desc: ["Does more damage than you would ever need! Does have some downsides though."]
 	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &cAttack Damage"
 	quest.2B9AF0D6ED8BA628.quest_subtitle: "&f6 &cAttack Damage"
-	quest.2D4E406DD9EFA8C8.quest_desc: [ ]
 	quest.2D4E406DD9EFA8C8.quest_subtitle: "Tier: &b3"
-	quest.2D4E406DD9EFA8C8.title: ""
 	quest.2E6D11A5F5626A6C.quest_subtitle: "Tier: &f2"
 	quest.2EE4E88FC814AFA4.quest_subtitle: "Tier: &91"
-	quest.31B58988AAB27E91.quest_desc: [ ]
 	quest.31B58988AAB27E91.quest_subtitle: "Tier: &54"
-	quest.31B58988AAB27E91.title: ""
 	quest.36A3ECD4F6CA2732.quest_subtitle: "&f8 &cAttack Damage"
 	quest.36B9D5A99E1AA85C.quest_subtitle: "&f8 &cAttack Damage"
 	quest.3917DECAEF56A06A.quest_desc: ["&fTier 2&r is the stone pickaxe level. It's almost only for mining Iron items."]
 	quest.3917DECAEF56A06A.title: "&fHarvest Tier 2"
 	quest.3B542DC05240242C.quest_subtitle: "&f6 &cAttack Damage"
 	quest.3BF1900346772703.quest_subtitle: "Tier: &f2"
-	quest.3EDD2310E7290A54.quest_desc: [ ]
 	quest.3EDD2310E7290A54.quest_subtitle: "Tier: &b3"
-	quest.3EDD2310E7290A54.title: ""
 	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cAttack Damage"
 	quest.480FA9FE57743B66.quest_subtitle: "&f5 &cAttack Damage"
 	quest.4C8C56F960D92E9D.quest_subtitle: "&f51 &cAttack Damage"
@@ -66,9 +56,7 @@
 	quest.5A2908437EC43AC6.quest_subtitle: "Tier: &54"
 	quest.5A6670364ADE0858.quest_subtitle: "&f29 &cAttack Damage"
 	quest.609D03E335CF32E2.quest_subtitle: "Tier: &d6"
-	quest.632E537DA0F45CC7.quest_desc: [ ]
 	quest.632E537DA0F45CC7.quest_subtitle: "Tier: &d6"
-	quest.632E537DA0F45CC7.title: ""
 	quest.6552E301C370D203.quest_subtitle: "&f7 &cAttack Damage"
 	quest.6601450C63FEEE61.quest_desc: ["&bTier 3&r is Iron Pickaxe level, it mines most ores like Diamond, Emerald, and Gold."]
 	quest.6601450C63FEEE61.title: "&bHarvest Tier 3"

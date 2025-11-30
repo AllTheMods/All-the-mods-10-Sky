@@ -323,7 +323,7 @@
 		""
 		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them (except for Foundation Chalk, look for Void Chalk to add those to the mix)! "
 	]
-	quest.690B89D23134B624.title: "&cR&6a&ei&an&9b&5o&dw&r Chalk"
+	quest.690B89D23134B624.title: "&zRainbow&r Chalk"
 	quest.6C1BBA559963B3DF.quest_desc: [
 		"The &aDictionary Of Spirits&r serves as the Guide Book for &dOccultism&r. You'll absolutely need to make this if you want to continue with the mod!"
 		""
@@ -381,23 +381,19 @@
 		"There are also ways to summon cool friends known as &dFamiliars&r that give special buffs and even fight for you! Make sure to check out the &dFamiliar Rituals&r in your guide book!"
 	]
 	quest.7F59941D62E672B0.title: "&dFamiliars"
-	task.03350093F049AD67.title: ""
 	task.036759CF4EEFFC7D.title: "AllRightsReserved"
 	task.05A43D4098C30ED1.title: "Eldritch Chalices"
 	task.0EE813C344409F59.title: "Candles"
 	task.10037D5225C2D20E.title: "Iesnium Sacrificial Bowls"
 	task.1709A45C149125F1.title: "AllRightsReserved"
-	task.28F295B4EC2EB476.title: ""
 	task.2C5C6F411E2F0CAF.title: "Any #c:dusts/netherite"
 	task.348A7E3E3A3D324E.title: "Yes, I've read this and totally won't forget it!"
 	task.3621D48E2CFAF2C2.title: "Any #c:wools"
-	task.4DF03E583D33C20A.title: ""
 	task.51F520BF7DA37873.title: "Storage Stabilizers"
 	task.523951BF097BA61F.title: "Any #c:dusts/emerald"
 	task.53DE943DF951696B.title: "Demon Miner"
 	task.55DE27AB2EDB306E.title: "Sacrificial Bowls"
-	task.57108C994437F25B.title: ""
-	task.656A1E143070FEF4.title: ""
+	task.57108C994437F25B.title: "Any #ae2:all_nether_quartz"
 	task.6A5F16B79D587128.title: "Golden Bowls"
 	task.6C3887D42B6B2122.title: "Familiars"
 }

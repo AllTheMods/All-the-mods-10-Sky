@@ -156,8 +156,6 @@
 	quest.4F9C8D90ACF563F5.quest_desc: ["Thank you &2&lMinecraft&r for the Update Aquatic, but Swimming can still be very slow. \\n\\nSo why not speed it up! Just like Depth Strider! \\n\\nWith the &9Hydrostatic Repulsor &7Unit&r you can Walk and Swim faster in &9Water&r."]
 	quest.4F9C8D90ACF563F5.quest_subtitle: "Pants"
 	quest.4F9C8D90ACF563F5.title: "&9Hydrostatic Repulsor &7Unit"
-	quest.505799C894C771B2.quest_desc: ["Some &5Machines&r from &5&lMekanism&r can't be Upgraded like Factories like the &9&lMetallurgic Infuser&r and &d&lEnrichment Chamber&r, they can only take &8Upgrade&r Cards. \\n\\nThe &6&lATM Devs&r saw this and wanted Players to instead of making 50 &9&lElectrolytic Separators&r they can make 1 Multiblock! \\n\\nIn order to Craft these Multiblocks though, we'll need a previous Multiblock. The &c&lAutomatic Hepheastus Forge&r. \\n\\nIt has its own Quest in &aChapter 4&r: &dCreative&r. Check it out there! "]
-	quest.505799C894C771B2.title: "Upgraded, Un-Upgradable &5Machines"
 	quest.50F23B2688D7E699.quest_desc: ["With 1,000mB of &dAntimatter&r processed through a &5&lChemical Crystallizer&r we can make 1 &dAntimatter Pellet&r. \\n\\nThat means it takes 1,000,000mB &aPolonium&r or 1MmB &aPolonium&r. \\n\\nFor all that &aPolonium&r you'll need 5,000,000mB &8Nuclear Waste&r and &2Fissile Fuel&r to make the &8Nuclear Waste&r. Only 5MmB &2Fissile Fuel&r... only! \\n\\nBut finally, we have it! The most valued &eItem&r in all of &5&lMekanism&r! The &dAntimatter Pellet&r. \\n\\nWe can now make our MekaSuit, more storage for the &e&lQIO&r, and even the &6&lATM Star&r!"]
 	quest.5194A067BEA98E79.quest_desc: ["Hey, I remember you! \\n\\nTurns out, the &5&lIsotopic Centrifuge&r is used for 2 Recipes. &2Fissile Fuel&r and &3Plutonium&r! \\n\\nFor each 5mB of &8Nuclear Waste&r we can create 1mB of &3Plutonium&r. \\n\\nIf each &3Plutonium Pellets&r are 1,000mB worth of &3Plutonium&r, then we'll need 5,000mB of &8Nuclear Waste&r and the same for &2Fissile Fuel&r."]
 	quest.5194A067BEA98E79.title: "Spinning for &3Plutonium"
@@ -301,5 +299,3 @@
 	task.496C4FDD2515EB24.title: "&aInduction Providers"
 	task.59F0226D83026397.title: "AllRightsReserved"
 }
-
-

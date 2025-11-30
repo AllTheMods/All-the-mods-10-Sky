@@ -256,7 +256,7 @@
 	quest.649167FC31EB916E.quest_desc: ["&3Vegetable Oil&r can be made by putting either crops or seeds into a &3Thermopneumatic Processing Plant&r."]
 	quest.649167FC31EB916E.quest_subtitle: "Better Oil"
 	quest.649167FC31EB916E.title: "Vegetable Oil"
-	quest.64D34A6C3487C5DF.quest_desc: ["The &3Aerial Interface&r can be used to refill your pressurizable things with pressure. Now you can use your Pneumatic Armor without needing to recharge!\\n\\nYou will need one of these in order to craft the &6ATM Star&r."]
+	quest.64D34A6C3487C5DF.quest_desc: ["The &3Aerial Interface&r can be used to refill your pressurizable things with pressure. Now you can use your Pneumatic Armor without needing to recharge!"]
 	quest.64D34A6C3487C5DF.quest_subtitle: "Wireless Pressure!"
 	quest.64E2E05B228EA53E.quest_desc: ["&3Advanced Pressure Tubes&r are the best Pressure Tubes available, being able to hold 20 bars of pressure!\\n\\nAlthough these are really cool on their own, they can also be used in some even cooler recipes."]
 	quest.64E2E05B228EA53E.quest_subtitle: "A Whole new Level!"
@@ -281,7 +281,7 @@
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["The next stage of the mod requires the collection of &3Crude Oil&r. This Oil can be found naturally on the surface of the overworld."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "The Path to Plastic"
 	quest.6CA01DCE1F4A0EC3.title: "Crude Oil"
-	quest.6D124ACF4AE80490.quest_desc: ["With Micromissiles you can shoot explosions from far away! Now nobody can escape!\\n\\nTheses are needed to craft the &6ATM Star&r."]
+	quest.6D124ACF4AE80490.quest_desc: ["With Micromissiles you can shoot explosions from far away! Now nobody can escape!"]
 	quest.6D124ACF4AE80490.quest_subtitle: "Firing Explosions from afar!"
 	quest.6EB53CDCB80D4B66.quest_desc: [
 		"The &3Pneumatic Door&r acts as automatic door that can be made to only open for you!"

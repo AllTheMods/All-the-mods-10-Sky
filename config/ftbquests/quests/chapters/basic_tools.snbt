@@ -170,7 +170,7 @@
 			y: 0.0d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1218,6 +1218,7 @@
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
 			id: "01F59AF41A6DA0F7"
+			invisible: true
 			optional: true
 			rewards: [{
 				id: "2262E94BF46880A3"
