@@ -14,7 +14,7 @@ ServerEvents.recipes((allthemods) => {
     CALCULATION: "ae2:calculation_processor_press",
     ENGINEERING: "ae2:engineering_processor_press",
     LOGIC: "ae2:logic_processor_press",
-    QUANTUM: "advanced_ae:quantum_processor_press",
+    QUANTUM: "advanced_ae:quantum_processor_press"
   }
 
   function press(input, output) {
