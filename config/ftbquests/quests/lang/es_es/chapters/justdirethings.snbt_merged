@@ -1,0 +1,733 @@
+{
+	quest.026C63594F813BCC.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Elimina todos los debuffs negativos del jugador cuando se activa, tiene un tiempo de espera."
+	]
+	quest.0272E58516A0C284.quest_desc: [
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+	]
+	quest.02B0CCD5607FF3B5.quest_desc: ["El accesor de jugador actúa como un cofre que interactúa con el inventario del jugador. Usando la GUI el accesor de jugador puede tener sus lados configurados para interactuar con el inventario del jugador, mano secundaria o ranuras de armadura."]
+	quest.02B8F50721F12CFF.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:"
+		""
+		"Previene que el jugador reciba daño por caída."
+	]
+	quest.03ED9B0DFE8B4574.quest_desc: [
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+		"- Estupefacción"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.04A1D582003A0D9A.quest_desc: [
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+	]
+	quest.05056CAA64E3971B.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Hace que las flechas disparadas por el Arco apliquen un efecto de poción basado en tu Bote de Poción."
+	]
+	quest.05D8C6EF8FCD6250.quest_desc: [
+		"El Pringue Primogel es el primer nivel de pringue añadido por JDT y requiere materiales básicos del Overworld para craftearse."
+		""
+		"Crafteos Desbloqueados:"
+		"- Ferricore"
+		"- Carbón Primigenio"
+		""
+		"Ejemplo de Propagación de Pringue:"
+		""
+		"{image:atm:textures/questpics/justdirethings/goo_spread_ferricore.png width:200 height:200 align:center}"
+	]
+	quest.07655CA904354E9E.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:"
+		""
+		"Rompe hierba y flores cercanas cuando se activa."
+	]
+	quest.079A415488A32076.quest_desc: ["La Ascua de Blaze es un nuevo material añadido por JDT. La Ascua de Blaze se adquiere realizando Propagación de Pringue en Bloques de Carbón Primigenio usando pringue de nivel dos o superior. El Mineral de Ascua de Blaze es afectado por fortuna."]
+	quest.09485B63483B7A15.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:"
+		""
+		"Temporalmente hace que los mobs hostiles cercanos pierdan el agro hacia el jugador, tiene un tiempo de espera."
+	]
+	quest.09D2137B4F42006E.quest_desc: ["La Ascua de Eclipse es un nuevo material añadido por JDT. La Ascua de Eclipse se adquiere realizando Propagación de Pringue en Bloques de Carbón de Llama del Vacío usando pringue de nivel cuatro. El Mineral de Ascua de Eclipse es afectado por fortuna."]
+	quest.0A02DBE226C3F44E.quest_desc: [
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+		"- Estupefacción"
+		"- Visión Nocturna"
+		"- Removedor de Debuffs"
+		"- Obliteración Mental"
+	]
+	quest.0B485DB737A036E9.quest_desc: ["El Copiador de Configuraciones de Máquina permite a los jugadores copiar configuraciones entre máquinas."]
+	quest.0B9BBE2A764631BF.quest_desc: ["El intercambiador simple puede teletransportar items, bloques, mobs o jugadores sobre él a otro intercambiador simple al que esté vinculado. Para vincular intercambiadores usa la Llave de Ferricore."]
+	quest.0C1D55AA9CC902BD.quest_desc: [
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+	]
+	quest.0C2EC56133D3CC6C.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Temporalmente hace al jugador inmune al daño cuando se activa, tiene un tiempo de espera."
+	]
+	quest.0C9DD8E53A1B92C0.quest_desc: [
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+		"- Rayos X"
+		"- Romper Instantáneo"
+	]
+	quest.0CBFE2CE53DCACD5.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Incrementa la altura de salto del jugador."
+	]
+	quest.0E3FDD8BB6D17A30.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Rompe hojas cercanas cuando se activa."
+	]
+	quest.0FAF274ADA65B26A.quest_desc: ["El Fluido de Portal es un fluido verde misterioso vital en la operación de la Pistola de Portales Avanzada.\\n\\nDejar caer Catalizador de Fluido de Portal en Fluido Polimórfico creará Fluido de Portal Inestable PERO el Fluido de Portal Inestable solo puede existir en el End. Realizar Propagación de Pringue con pringue de Nivel Tres o superior convertirá el Fluido de Portal Inestable en Fluido de Portal."]
+	quest.120DCA89A919C7AF.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Otorga al jugador Visión Nocturna."
+	]
+	quest.1256F280F3669DDA.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Hace que las Flechas se encadenen a enemigos cercanos."
+	]
+	quest.132F4671E121C7B8.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Incrementa la velocidad de caminata."
+	]
+	quest.16E02F671FBE9148.quest_desc: ["La Pistola de Portales es un item que usa energía para crear dos portales para teletransportarse entre dos puntos. Clic Izquierdo dispara un portal azul, Clic Derecho un portal naranja y Shift Clic Derecho elimina ambos portales."]
+	quest.1705175C20CE91DD.quest_desc: ["La Aleación de Eclipse es un nuevo material añadido por JDT. La Aleación de Eclipse se adquiere realizando Propagación de Pringue en Bloques de Netherite usando pringue de nivel cuatro. El Mineral de Aleación de Eclipse es afectado por fortuna."]
+	quest.1705175C20CE91DD.title: "Aleación de Eclipse"
+	quest.171DB70D0D19A942.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Funde automáticamente los items soltados de bloques minados."
+	]
+	quest.176A1CC43467EF23.quest_desc: [
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+		"- Pisotón Terrestre"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.17A9D2CA160561D9.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Provee asistencia de paso al jugador."
+	]
+	quest.17C4F6EC1AFBC3AA.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		"Resalta mobs cercanos con partículas cuando se activa."
+	]
+	quest.18032636A60D0B2C.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Una versión mejorada del Escáner de Minerales que renderiza minerales cercanos cuando se activa."
+	]
+	quest.199388A311FAC14C.quest_desc: [
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+		"- Autofundidor"
+		"- Martillo"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.19E6757F04098A0C.quest_desc: [
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+	]
+	quest.19E678E6EF9539DC.quest_desc: ["Solo un sensor simple que emite una señal de redstone y tiene una ranura de filtro."]
+	quest.1B173E7533E1171F.quest_desc: ["Solo un colector de fluidos simple."]
+	quest.1CBA0D7DA0558EBC.quest_desc: [
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+		"- Extinguir"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.1DAA5DD81EF96469.quest_desc: [
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Autofundidor"
+		"- Martillo"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.1E0C6409B2573CCA.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Una versión mejorada de Pisotón Terrestre que repele y ralentiza mobs cercanos, tiene un tiempo de espera."
+	]
+	quest.1EA02BA24AF02256.quest_desc: ["Las Plantillas de Aleación de Eclipse se usan para mejorar armadura y herramientas de Celestigem a Aleación de Eclipse mientras se retienen encantamientos y mejoras instaladas."]
+	quest.1ECFA72CF2BA4B45.quest_desc: ["Un soltador simple y puedes configurar la cantidad soltada a la vez."]
+	quest.1FE7C52491E7499B.quest_desc: [
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+		"- Pisotón Terrestre"
+		"- Negar Daño por Caída"
+	]
+	quest.1FFA1DA6A5EA4E70.quest_desc: [
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+		"- Pisotón Terrestre"
+		"- Negar Daño por Caída"
+		"- Terremoto"
+	]
+	quest.200ECDC70E97D254.quest_desc: ["El Bote de Combustible es un tanque que puede llenar contenedores con el fluido que contiene.\\n\\nEl Bote de Combustible tiene tres modos de llenado:\\n\\n - Ninguno\\n - Cualquiera\\n - Just Dire Things"]
+	quest.21147C8CBF98AEB4.quest_desc: [
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.237D11FF5B09BA88.quest_desc: [
+		"Habilidad Intrínseca:"
+		"- Sin Pisotear"
+		"- Cosecha Automática"
+		"- Crecimiento de Cultivos Acelerado III"
+		""
+		"Mejora Válida:"
+		"- Teletransportador de Drops"
+	]
+	quest.2409EAD96CE3BDF7.quest_desc: ["Las Plantillas de Blazegold se usan para mejorar armadura y herramientas de Ferricore a Blazegold mientras se retienen encantamientos y mejoras instaladas."]
+	quest.242F74010488F261.quest_desc: ["El Bote de Combustible es un item que permite un uso más eficiente del combustible. Puede almacenar 50,000 de combustible, cada item quemable tiene un valor de combustible diferente dependiendo de la cantidad de items fundidos. Un combustible es suficiente para fundir un item."]
+	quest.24BA4B4EED0A9DBD.quest_desc: [
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+	]
+	quest.25213DBA6E6CEDD2.quest_desc: [
+		"El Pringue Shadowpulse es el cuarto y final nivel de pringue añadido por JDT y requiere materiales de la Ciudad Antigua y Warden para craftearse."
+		""
+		"Crafteos Desbloqueados:"
+		"- Aleación de Eclipse"
+		"- Ascua de Eclipse"
+		"- Cristal de Tiempo"
+	]
+	quest.25E915AE1FC53254.quest_desc: ["Las Plantillas de Celestigem se usan para mejorar armadura y herramientas de Blazegold a Celestigem mientras se retienen encantamientos y mejoras instaladas."]
+	quest.27FD46A8C958D259.quest_desc: ["El Tótem de Recuerdo de Muerte es un item de un solo uso que permite a un jugador teletransportarse de vuelta a su ubicación de muerte."]
+	quest.283D7E65F2AD45F2.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Una versión mejorada del Escáner de Mobs que aplica Resplandor a mobs cercanos cuando se activa."
+	]
+	quest.2875FACD3BFB0A8E.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Provee curación menor cuando se activa, pero solo se puede activar si el jugador ha recibido daño recientemente o está recibiendo daño."
+	]
+	quest.2A01CE9206DD4F8A.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Mina bloques de mineral adyacentes todos a la vez, pero toma ligeramente más tiempo minar."
+	]
+	quest.2A919F73CB09CF8B.quest_desc: [
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+		"- Velocidad de Nado"
+		"- Señuelo"
+		"- Fase"
+	]
+	quest.2B1BAEC5DAAF9DAC.quest_desc: [
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Teletransportador de Drops"
+	]
+	quest.2D86D4403E0F4EB9.quest_desc: [
+		"Blazegold es un nuevo material añadido por JDT. Blazegold se adquiere realizando Propagación de Pringue en Bloques de Oro usando pringue de nivel dos o superior. El Mineral de Blazegold es afectado por fortuna."
+		""
+		"Blazegold otorga la habilidad intrínseca de Reparación de Lava a herramientas y Armadura. Reparación de Lava, repara la herramienta/armadura cuando se deja caer en un bloque fuente de lava, convirtiendo el bloque fuente en obsidiana a cambio de reparar la herramienta/armadura."
+	]
+	quest.2D86D4403E0F4EB9.title: "Blazegold"
+	quest.2F86FB9E4D49E4B0.quest_desc: [
+		"Mejoras Válidas:"
+		"- Escáner de Mobs"
+	]
+	quest.3138B83ABC2930F9.quest_desc: [
+		"Habilidad Intrínseca:"
+		"- Sin Pisotear"
+		"- Cosecha Automática"
+		"- Crecimiento de Cultivos Acelerado IV"
+		""
+		"Mejora Válida:"
+		"- Teletransportador de Drops"
+	]
+	quest.35A78E04092767AD.quest_desc: [
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+		"- Salpicadura"
+		"- Persistente"
+		"- Flecha Teledirigida"
+	]
+	quest.37B903620493A354.quest_desc: [
+		"Mejoras Válidas:"
+		"- Ahumador Automático"
+		"- Cauterizar Heridas"
+		"- Teletransportador de Drops"
+		"- Rayos X de Mobs"
+	]
+	quest.3971FF7D044D1FE5.quest_desc: ["Las habilidades de armadura pueden ser configuradas y alternadas en el menú de configuración. Usa una herramienta o varita de JDT para abrir el menú y haz clic en tu pieza de armadura para configurar las habilidades de esa pieza de armadura."]
+	quest.3A471716A29F5172.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Provee al jugador con Élitros, nota que los Élitros provistos por esta mejora son afectados por las mejoras de Velocidad de Caminata y Carrera."
+	]
+	quest.3AE1811C32B94A66.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Extingue al jugador si está en fuego, tiene un tiempo de espera."
+	]
+	quest.3B3E3D81843BB358.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Incrementa la velocidad de carrera."
+	]
+	quest.3BF32843DE3CF3C2.quest_desc: [
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+		"- Velocidad de Nado"
+		"- Señuelo"
+	]
+	quest.3C8C80345D3F5FE8.quest_desc: ["El colector de items recoge items y los deposita en el inventario debajo de él."]
+	quest.3CBB78C9B8D3665E.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Reduce el rango de detección de mobs hostiles."
+	]
+	quest.3CFD798362605880.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Hace que las Flechas de Poción disparadas por el Arco tengan un efecto de Salpicadura, golpeando múltiples objetivos en un área."
+	]
+	quest.3D9964CB0440DD5A.quest_desc: ["Dejar caer Ascua de Blaze en Fluido Polimórfico creará Combustible de Ascua de Blaze Sin Refinar. Realizar Propagación de Pringue con pringue de Nivel Dos o superior convertirá el Combustible de Ascua de Blaze Sin Refinar en Combustible de Ascua de Blaze."]
+	quest.3F3559EF5D08B706.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Hace que las Flechas busquen activamente sus objetivos."
+	]
+	quest.40C5C355B6DA1893.quest_desc: ["El Generador de Bolsillo es un generador portátil que usa items quemables para cargar items y herramientas en el inventario del jugador, el Generador de Bolsillo es compatible con el Bote de Combustible."]
+	quest.41E8C93A44559E48.quest_desc: ["La &7Máquina Paradoja&r puede, por un precio de mucha Energía y &aFluido de Tiempo&r, tomar una Instantánea de bloques y entidades en el área designada; luego puede duplicarla. \\n\\nMuchos Bloques y Entidades están en lista negra por configuraciones así que ¡nada de duplicar Abejas!"]
+	quest.433117EEA55B6A54.quest_desc: ["Solo un colocador de fluidos simple."]
+	quest.441F37A95AB66E6B.quest_desc: ["Esta Quest ha sido escrita por &6Staff de AllTheMods&r, o un &2contribuidor de la Comunidad&r para uso en Modpacks de AllTheMods. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito. \\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo de edición."]
+	quest.4458F8829800A950.quest_desc: ["El Fluido Polimórfico es la base de todos los Fluidos / Combustibles en JDT. El Fluido Polimórfico se craftea dejando caer Catalizador Polimórfico en agua."]
+	quest.446A37C7FCDACF84.quest_desc: ["El Carbón de Llama del Vacío es un nuevo material añadido por JDT. La Llama del Vacío se adquiere realizando Propagación de Pringue en Bloques de Ascua de Blaze usando pringue de nivel tres o superior. El Mineral de Carbón de Llama del Vacío es afectado por fortuna."]
+	quest.454662617304E299.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Permite al jugador caminar a través de bloques cuando se aplica a pantalones. Hay una etiqueta de bloque para poner en lista negra bloques de ser capaces de ser traspasados."
+		"Cuando se aplica a un arco, permite que las flechas traspasen paredes."
+	]
+	quest.454CA1F8CC198D9D.quest_desc: [
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+	]
+	quest.45A25221F54A1DEC.quest_desc: ["La Llave de Ferricore permite al jugador rotar máquinas, pero también se usa para vincular intercambiadores juntos."]
+	quest.45D683D7F1A32B04.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Permite a la herramienta minar bloques instantáneamente."
+	]
+	quest.46E6B1600AA8A61E.quest_desc: [
+		"Mejoras Válidas:"
+		"- Escáner de Mobs"
+		"- Ahumador Automático"
+		"- Cauterizar Heridas"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.46EE2F9818F8D1D9.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Limpia automáticamente cualquier bloque afectado por gravedad directamente encima del bloque minado."
+	]
+	quest.4773421DC70009AB.quest_desc: [
+		"Habilidad Intrínseca:"
+		"- Sin Pisotear"
+		"- Crecimiento de Cultivos Acelerado I"
+	]
+	quest.48E4D75FD3145AD6.quest_desc: ["El Fluido de Tiempo es usado por la Máquina Paradoja y la Varita del Tiempo. Se obtiene dejando caer un Cristal de Tiempo en Fluido Polimórfico.\\n\\nPara un cristal tan difícil de conseguir, me alegra que nos hayan dado un fluido fácil por una vez."]
+	quest.49636B3C6E6D0C2A.quest_desc: ["No tiene usos, se ve genial sin embargo."]
+	quest.4987759CF379C1EB.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Previene efectos de lentitud y velocidad de ser dados mientras tienes Cristales de Tiempo en tu inventario."
+	]
+	quest.49EF8A4346AEF582.quest_desc: ["Dejar caer Ascua de Eclipse en Combustible de Llama del Vacío creará Combustible de Ascua de Eclipse Sin Refinar. Realizar Propagación de Pringue con pringue de Nivel Cuatro convertirá el Combustible de Ascua de Eclipse Sin Refinar en Combustible de Ascua de Eclipse."]
+	quest.4A5937F6E5D06BE1.quest_desc: ["Un generador de combustible líquido simple que funciona con los combustibles líquidos añadidos por JDT."]
+	quest.4ACB72F3A23A5A19.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Incrementa la velocidad de nado."
+	]
+	quest.4B1E4FC4599DB916.quest_desc: [
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+		"- Extinguir"
+		"- Élitros"
+	]
+	quest.4B3F20E5C7E3BCFB.quest_desc: ["El Carbón Primigenio es un nuevo material añadido por JDT. El Carbón Primigenio se adquiere realizando Propagación de Pringue en Bloques de Carbón usando pringue de nivel uno o superior. El Mineral de Carbón Primigenio es afectado por fortuna."]
+	quest.4C54BD57CAB8A54B.quest_desc: [
+		"El Pringue Blazebloom es el segundo nivel de pringue añadido por JDT y requiere materiales del Nether para craftearse."
+		""
+		"Crafteos Desbloqueados:"
+		"- Blazegold"
+		"- Ascua de Blaze"
+	]
+	quest.4D98D2123BD5BFB3.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Mina troncos adyacentes todos a la vez, nota que incrementará el tiempo tomado para romper cuando se minan múltiples troncos."
+	]
+	quest.4E03AE15BEF86178.quest_desc: [
+		"Mejoras Válidas:"
+		"- Escáner de Mobs"
+		"- Ahumador Automático"
+		"- Cauterizar Heridas"
+		"- Teletransportador de Drops"
+	]
+	quest.4E9B35DCA018FD42.title: "Mejoras de Herramientas"
+	quest.4F9932477EDDCB8E.quest_desc: ["La Pistola de Portales Avanzada es la versión mejorada de la Pistola de Portales que requiere tanto energía como fluido de portal para operar. A diferencia de la Pistola de Portales, la Pistola de Portales Avanzada permite al jugador teletransportarse entre ubicaciones que han sido codificadas. Usando \"V\" (tecla por defecto) el menú usado para codificar y seleccionar destinos para teletransportación."]
+	quest.5054977BD5354561.quest_desc: [
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+	]
+	quest.515C0527226BA50C.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Otorga al jugador vuelo creativo."
+	]
+	quest.517F0135926B15EE.quest_desc: ["Todas las máquinas simples vienen con control de redstone, y algunas vienen con filtrado."]
+	quest.52EC86E03EB50525.quest_desc: [
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+		"- Sin Pisotear"
+		"- Cosecha Automática"
+		"- Crecimiento de Cultivos Acelerado II"
+	]
+	quest.53F9E5CE7EE6F852.quest_desc: ["El Atrapacriaturas permite el transporte de mobs. Los mobs pueden ser puestos en lista negra vía una etiqueta de entidad."]
+	quest.567005978482235F.quest_desc: [
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+		"- Salpicadura"
+		""
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+	]
+	quest.5961C1ED32522BEF.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r "
+		""
+		"Genera un señuelo del jugador que atrae el agro lejos del jugador, tiene un tiempo de espera."
+	]
+	quest.5A1AB1AD7DEFDD9A.quest_desc: [
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+		"- Extinguir"
+		"- Élitros"
+		"- Protección de Muerte"
+		"- Vuelo"
+		"- Inmunidad a Lava"
+		"- Protección de Tiempo"
+	]
+	quest.5A38E9F68570F7F3.quest_desc: [
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+		"- Velocidad de Nado"
+		""
+		"Habilidad Intrínseca:"
+		"- Habilidad de Lava"
+	]
+	quest.5A9436B100FC1E67.quest_desc: [
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+	]
+	quest.5B02719C13B1FFE2.quest_desc: [
+		"Habilidades:"
+		"- Ráfaga de Aire: Distancia de lanzamiento mejorada aún más."
+		"- Desplazamiento del Vacío: Distancia de teletransportación mejorada."
+		"- Puerta de Eclipse: Crea un agujero portátil en un área de 3x3, la dirección depende de la cara del bloque apuntado. La distancia del agujero creado es configurable. Nota que Puerta de Eclipse no funciona en entidades de bloque."
+	]
+	quest.5B910F1389C0B915.quest_desc: [
+		"Habilidades:"
+		"- Ráfaga de Aire: Distancia de lanzamiento mejorada y consume FE."
+		"- Desplazamiento del Vacío: Teletransporta al jugador en la dirección que está mirando consumiendo FE en el proceso."
+	]
+	quest.5BBE8B30ED7518B8.quest_desc: [
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+	]
+	quest.5BD5737703F3F077.quest_desc: ["Ferricore es un nuevo material añadido por JDT. Ferricore se adquiere realizando Propagación de Pringue en Bloques de Hierro usando pringue de nivel uno o superior. El Mineral de Ferricore es afectado por fortuna."]
+	quest.5BD5737703F3F077.title: "Ferricore"
+	quest.5C6709350BEF4050.quest_desc: [
+		"El Pringue Voidshimmer es el tercer nivel de pringue añadido por JDT y requiere materiales del End para craftearse."
+		""
+		"Crafteos Desbloqueados:"
+		"- Celestigem"
+		"- Llama del Vacío"
+	]
+	quest.5D4E51471F3939E0.quest_desc: [
+		"Habilidades:"
+		"- Ráfaga de Aire: Lanza al jugador en la dirección que está mirando consumiendo durabilidad en el proceso, varitas de mayor nivel lanzan al jugador una mayor distancia. Nota que el jugador no recibirá daño por caída mientras esté sosteniendo la varita."
+	]
+	quest.5EE7D5DE07A83C7D.quest_desc: ["&lTipo de Habilidad:&r Activa\\n\\n&lFunción de Habilidad:&r\\n\\nResalta minerales cercanos con partículas verdes cuando se activa.\\n\\n&4&lNOTA ESTA HABILIDAD HA SIDO DESACTIVADA.&r&f"]
+	quest.5F5120451BA5B2FE.quest_desc: ["Las máquinas avanzadas tienen las mismas capacidades que sus variantes simples con la adición de área de trabajo configurable, más ranuras de filtro y requiriendo energía."]
+	quest.60A4994078500F63.quest_desc: ["Celestigem es un nuevo material añadido por JDT. Celestigem se adquiere realizando Propagación de Pringue en Bloques de Diamante usando pringue de nivel tres o superior. El Mineral de Celestigem es afectado por fortuna."]
+	quest.61213012615619C5.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Ahúma automáticamente items soltados por muertes."
+	]
+	quest.636854555AD75DC3.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Teletransporta automáticamente los items soltados al inventario vinculado a la herramienta. Shift Clic Derecho con la herramienta en un inventario lo vincula. Nota que cuando está en una azada de JDT los items soltados por la habilidad de cosecha automática de la tierra de cultivo voidshimmer / shadowpulse son teletransportados al inventario vinculado, también hacer clic derecho en tierra de cultivo voidshimmer / shadowpulse las re-vinculará si el inventario vinculado de la herramienta ha sido cambiado."
+	]
+	quest.6690AEE064DC2A7C.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:"
+		""
+		"Incrementa el área minada a la vez. Cuando se instala en herramientas de mayor nivel el área máxima minada se incrementa. El área minada puede ser configurada en el menú."
+	]
+	quest.6720F863B907A5F1.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Hace que las Flechas de Poción disparadas por el arco tengan un efecto Persistente, aplicando efectos a un área con el tiempo."
+	]
+	quest.6737CB17D562B134.quest_desc: ["Solo un clickeador simple que hace clic con el item que se le da."]
+	quest.67B87570C340C243.title: "Mejoras de Armadura"
+	quest.6889EFC6CC291463.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Repele mobs cercanos cuando se activa, tiene un tiempo de espera."
+	]
+	quest.6A4D31194C4CE156.quest_desc: [
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+		"- Rayos X"
+		"- Romper Instantáneo"
+	]
+	quest.6ADE6F9E004055F7.quest_desc: [
+		"Los Cristales de Tiempo son un nuevo material añadido por JDT. Estos crecen en Bloques de Cristal de Tiempo en Ciernes, que son creados realizando propagación de pringue en Amatista en Ciernes o un Bloque de Cristal de Tiempo.\\n\\nSIN EMBARGO, el Bloque de Cristal de Tiempo en Ciernes debe recolectar tiempo del Overworld, el Nether, y el End para ser capaz de cultivar Cúmulos de Cristal de Tiempo. NO PUEDES romper o usar toque de seda en el Bloque de Cristal de Tiempo en Ciernes. Debes usar un Intercambiador, Caja de Cartón, o Gadget de Cortar y Pegar para moverlos.\\n\\nDespués de un tiempo, el Bloque de Cristal de Tiempo en Ciernes se quedará sin energía, y debe ir por otro viaje al Overworld, Nether, y End."
+		"{@pagebreak}"
+		"Para automatizar este proceso, mira el video enlazado en la imagen sobre esta quest."
+	]
+	quest.6ADE6F9E004055F7.quest_subtitle: "Timey Wimey"
+	quest.6D9CFCD81A23BB3B.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Hace al jugador inmune a la lava."
+	]
+	quest.6F709652A2B88C78.quest_desc: ["El transmisor de energía provee energía a bloques dentro de su rango de trabajo, solo puede aceptar energía desde abajo."]
+	quest.6FD4C60B547F4131.quest_desc: [
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+	]
+	quest.703BDCDC88DD813C.quest_desc: [
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+		"- Romper Instantáneo"
+	]
+	quest.70AD088336748892.quest_desc: ["Solo un generador de carbón simple."]
+	quest.70BF85E2D235BAD5.quest_desc: ["Dejar caer Carbón de Llama del Vacío en Combustible de Ascua de Blaze creará Combustible de Llama del Vacío Sin Refinar. Realizar Propagación de Pringue con pringue de Nivel Tres o superior convertirá el Combustible de Llama del Vacío Sin Refinar en Combustible de Llama del Vacío."]
+	quest.70C404E5685E4E91.quest_desc: ["Solo un colocador de bloques simple."]
+	quest.71128E508D810DDF.quest_desc: [
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+		"- Salpicadura"
+		"- Persistente"
+		"- Flecha Teledirigida"
+		"- Fase"
+		"- Flecha Yondu"
+	]
+	quest.71441DFA05FD73E5.quest_desc: [
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+		"- Estupefacción"
+		"- Visión Nocturna"
+	]
+	quest.7305EE0F7D73C231.quest_desc: ["Las Mejoras en Blanco son la base de todas las habilidades. Las habilidades están separadas en dos tipos, pasivas y activas.\\n\\nLas habilidades pasivas no requieren entrada activa por el jugador para funcionar, sin embargo las habilidades Activas solo funcionan cuando son activadas por una tecla que los jugadores configuran en el menú de configuración, también las habilidades activas consumen durabilidad/energía cuando se usan. Cuando se instalan en armadura de mayor nivel las habilidades Activas tienen tiempos de espera reducidos y las habilidades Pasivas tienen mayores efectos.\\n\\nLa mesa de herrería se usa para aplicar mejoras a herramientas y armadura de JDT. Mantener shift cuando se pasa el cursor sobre herramientas o armadura de JDT muestra qué mejoras son válidas."]
+	quest.73552A4BA0687962.quest_desc: ["Estas mejoras pueden ir tanto en herramientas como en armadura."]
+	quest.7464CA1290B3474B.quest_desc: [
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+	]
+	quest.76B1C5AFC5D6B7CF.quest_desc: ["La Varita del Tiempo puede ser usada para acelerar bloques, similarmente al Time in a Bottle, hasta velocidad x256. A diferencia de TIAB, usa FE y Fluido de Tiempo en lugar de tiempo almacenado como combustible, haciéndolo considerablemente más fácil de rellenar.\\n\\nEstá en lista negra para jugadores falsos, sin embargo. ¡No queremos que automatices ESTO!"]
+	quest.76B1C5AFC5D6B7CF.quest_subtitle: "Primo del Time in a Bottle"
+	quest.78840993C7832E89.quest_desc: [
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Teletransportador de Drops"
+		"- Romper Instantáneo"
+	]
+	quest.79BBCC1BEE90DBBB.quest_desc: [
+		"&lTipo de Habilidad:&r Pasiva"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Permite al jugador burlar a la muerte, tiene un tiempo de espera muy largo. Así que de otra manera un Tótem de Inmortalidad con un tiempo de espera que no se consume."
+	]
+	quest.7AEFF81E7C8CF300.quest_desc: ["Usar Shift Clic Derecho cuando se sostiene una herramienta o varita de JDT abrirá el menú de configuración donde el jugador puede configurar y alternar habilidades."]
+	quest.7B9486981786AC47.quest_desc: [
+		"&lTipo de Habilidad:&r Activa"
+		""
+		"&lFunción de Habilidad:&r"
+		""
+		"Elimina permanentemente la ia de mobs cercanos, debido al costo de energía solo puede afectar cinco mobs como máximo por activación, tiene un tiempo de espera muy largo."
+	]
+	quest.7D1D2A4E07E98709.quest_desc: ["Un rompebloques simple que requiere una herramienta para romper bloques."]
+	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things es un mod todoterreno. Just Dire Things añade una nueva mecánica de crafteo llamada Propagación de Pringue, junto con máquinas que asisten en la automatización de Propagación de Pringue y otras utilidades."]
+	quest.7F0B2D58361FB00E.title: "Just Dire Things"
+	task.00B0A3B14DEB34B9.title: "Mejoras Híbridas"
+	task.03982D782B426ABB.title: "AllRightsReserved"
+	task.19931057AAC1A03A.title: "AllRightsReserved"
+	task.32309011F80C0A9E.title: "NOTE"
+	task.366CA7D53571A552.title: "Utilidades"
+	task.3AC95E8DC4229D17.title: "Just Dire Things"
+	task.3CAD6AD06BE4C3D3.title: "Herramientas"
+	task.40B39896B6CD41C6.title: "Armadura"
+	task.5AB4103FF540ABB4.title: "Fluidos"
+	task.5DD919AF75C92C8A.title: "Herramientas"
+	task.665A5DFA6270ADA6.title: "Máquinas Simples"
+	task.67B21CF59C3D02E5.title: "Máquinas Avanzadas"
+	task.7197FBBA21C0F94A.title: "Armadura"
+}

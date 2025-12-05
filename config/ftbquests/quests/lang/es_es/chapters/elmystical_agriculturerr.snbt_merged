@@ -1,0 +1,184 @@
+{
+	quest.04A7AA70C23830FF.quest_desc: ["Las Hoces son herramientas que pueden ser usadas para limpiar grandes cantidades de materiales orgánicos. Las Hoces rompen bloques en un área alrededor del bloque que minas."]
+	quest.04B6E31120663EB2.quest_subtitle: "Nivel: &a2"
+	quest.06EAA74E0A10CBB6.quest_subtitle: "Rango: &b36&r Bloques"
+	quest.06EAA74E0A10CBB6.title: "&9Acelerador de Crecimiento de Imperium"
+	quest.07564DBB023EE2A6.quest_subtitle: "Nivel: &b4"
+	quest.077B2D62FA7650FB.quest_subtitle: "Rango: &627&r Bloques"
+	quest.077B2D62FA7650FB.title: "&cAcelerador de Crecimiento de Tertium"
+	quest.0B37355262121DD5.quest_desc: ["El &aAltar de Infusión&r es cómo haces todas las semillas. Coloca el Altar primero y te mostrará dónde colocar los Pedestales después.\\n\\nPara que la Infusión comience, el Altar requiere una &4señal de Redstone&r."]
+	quest.0B37355262121DD5.quest_subtitle: "Creando Semillas"
+	quest.0B37355262121DD5.title: "&4Altar de Infusión"
+	quest.0EFEDB0DD90DFC81.quest_desc: ["El Cosechador puede auto-cosechar cultivos y re-plantarlos. Los items recolectados por el Cosechador son puestos en su inventario interno."]
+	quest.13124A7E22999850.quest_subtitle: "Nivel: &e1"
+	quest.15D764CAF047EA7A.title: "&cArmadura de Tertium&r"
+	quest.1609BF52108238B0.quest_subtitle: "Nivel: &e1"
+	quest.1636F3F12E92CAEA.quest_desc: [
+		"Para usar una Regadera necesitarás llenarla con Agua haciendo clic derecho en un bloque fuente de Agua. Una vez esté llena con Agua puedes mantener clic derecho en un cultivo para regar los cultivos dentro del AOE de la Regadera."
+		""
+		"Las Regaderas de Esencia tienen la habilidad de auto-riego. Solo shift-clic derecho la Regadera en el aire para alternar el auto-riego encendido o apagado. Se verá como si la Regadera estuviera encantada cuando esté encendida."
+	]
+	quest.16E3031D800B40D5.quest_desc: ["El Spawner de Soulium usa esencias de mob para generar mobs. Por ejemplo si pones algo de Esencia de Ghast puedes generar un Ghast."]
+	quest.1C2CF6253F8B32EE.quest_subtitle: "Nivel: &56"
+	quest.1C4ABF4518638A82.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)\\n - Velocidad II (3:00)\\n - Resistencia II (3:00)\\n - Regeneración II (3:00)\\n - Fuerza II (3:00)"]
+	quest.1C4ABF4518638A82.title: "&4Manzana de Supremium"
+	quest.1CC4F8570A7A99EB.quest_desc: ["&dEsencia&r es el punto de partida para todas tus necesidades de cultivo en Mystical Agriculture.\\n\\n&eEsencia de Inferium&r es el tier base de todas las esencias. ¡Puedes obtener esto minando, matando mobs, o haciendo semillas para cultivarlas! \\n\\nPara hacer las esencias más grandes y mejores, necesitarás hacer un &9Cristal de Infusión&r. "]
+	quest.1CC4F8570A7A99EB.quest_subtitle: "Nivel: &e1"
+	quest.1CC4F8570A7A99EB.title: "&aInferium"
+	quest.1CF8263756EE8F2A.quest_desc: ["Este &ePolvo&r especial es soltado por el Wither y el Ender Dragon cuando son matados por un &dArma de Esencia&r encantada con &dIluminación Mística&r."]
+	quest.1CF8263756EE8F2A.title: "&5Polvo Consciente&r"
+	quest.1E0F92F07FDD162E.quest_desc: ["Necesitarás &bBases de Semilla de Prosperidad&r para crear cultivos de recursos."]
+	quest.1E0F92F07FDD162E.quest_subtitle: "Todo se trata de esa Base (de Semilla)"
+	quest.1E0F92F07FDD162E.title: "&bBase de Semilla de Prosperidad"
+	quest.1E414D285E7A5FE2.title: "&cHerramientas de Tertium"
+	quest.1E7DC8E0493BE99E.quest_subtitle: "Nivel: &e1"
+	quest.1F7591DB6D8EC1E7.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)\\n - Velocidad II (3:00)\\n - Resistencia II (3:00)\\n - Regeneración II (3:00)\\n - Fuerza II (3:00)\\n - Prisa II (3:00)"]
+	quest.1F7591DB6D8EC1E7.title: "&5Manzana de Insanium"
+	quest.1F88C697817A7680.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)"]
+	quest.1F88C697817A7680.title: "&aManzana de Inferium"
+	quest.202B1F54D3F06DAB.quest_desc: ["Esta es la Esencia de Nivel 6, hecha combinando 4 Supremium juntos con un Cristal de Infusión."]
+	quest.202B1F54D3F06DAB.quest_subtitle: "Nivel: &56"
+	quest.202B1F54D3F06DAB.title: "&5Insanium"
+	quest.20851E0CF315F722.quest_desc: ["Para semillas de este nivel, necesitarás un crux del mismo tipo colocado debajo de la tierra de cultivo para que las semillas crezcan."]
+	quest.20851E0CF315F722.title: "&5Tierra de Cultivo de Insanium"
+	quest.212EF8601746C500.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)\\n - Velocidad II (3:00)\\n - Resistencia II (3:00)\\n - Regeneración II (3:00)"]
+	quest.212EF8601746C500.title: "&9Manzana de Imperium"
+	quest.21A90474590FCDB8.quest_desc: ["El \"Horno\" es una versión mejorada de un Horno vanilla que puede ser mejorado para mayor velocidad y mejor eficiencia."]
+	quest.21A90474590FCDB8.title: "\"Horno\""
+	quest.224CE21E56703F6E.quest_desc: ["La Varita puede ser usada para activar el Altar de Infusión, solo clic derecho en el altar para activar el proceso de infusión."]
+	quest.224CE21E56703F6E.quest_subtitle: "¡Eres un Mago (Inserta tu nombre)!"
+	quest.224CE21E56703F6E.title: "&2Varita"
+	quest.23C36E4B5DCEBFDD.quest_desc: ["Esta Quest ha sido creada por &6AllTheMods Staff&r, o un &2colaborador de la Comunidad&r para uso en AllTheMods Modpacks.\\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por &6AllTheMods Team&r sin permiso explícito.\\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
+	quest.260F9C98DC2E485B.quest_subtitle: "Nivel: &b4"
+	quest.26A7746051A4A079.quest_subtitle: "Nivel: &63"
+	quest.27A0BCE75F198A82.quest_subtitle: "Nivel: &e1"
+	quest.27E8ED4B5F8127F9.quest_subtitle: "Nivel: &b4"
+	quest.29AE69722AB4C75C.quest_subtitle: "Nivel: &a2"
+	quest.2A59C2FE4AAA79D4.quest_subtitle: "Nivel: &a2"
+	quest.2A7E3F2CD335EAD0.quest_desc: ["Para empezar tu viaje haciendo &aEquipo de Esencia&r, necesitarás hacer la Armadura de Inferium primero.\\n\\nEste equipo puede ser mejorado a niveles más altos, justo como las Esencias. ¡También puedes &9Aumentarlos&r con la &bMesa de Tinkering&r!"]
+	quest.2A7E3F2CD335EAD0.title: "&aArmadura de Inferium"
+	quest.2AECDD9E2DEA708C.quest_subtitle: "Nivel: &a2"
+	quest.2C73E3C5113BF2AC.quest_desc: ["Beep beep Soy una Oveja"]
+	quest.2C73E3C5113BF2AC.quest_subtitle: "Nivel: &a2"
+	quest.2C9C9CB71941DC01.quest_desc: ["Esta es la Esencia de Nivel 3, hecha combinando 4 Prudentium juntos con un Cristal de Infusión."]
+	quest.2C9C9CB71941DC01.quest_subtitle: "Nivel: &63"
+	quest.2C9C9CB71941DC01.title: "&cTertium"
+	quest.2DDA04088C8220D2.quest_desc: ["Los Fragmentos de Prosperidad son un ingrediente de crafteo central en el mod. Para encontrar algo de Mena de Prosperidad, ve a minar."]
+	quest.2DDA04088C8220D2.quest_subtitle: "¿Podemos finalmente tener Prosperidad?"
+	quest.2DDA04088C8220D2.title: "&bFragmentos de Prosperidad"
+	quest.30E9255DEC69C061.title: "&4Herramientas de Supremium"
+	quest.32B01BD789F0B037.quest_desc: ["Supremium Despertado y otras esencias de nivel pueden ser cultivadas usando el mod &6Productive Bees&r."]
+	quest.32B01BD789F0B037.title: "Automatizando Supremium Despertado"
+	quest.3339445194568D77.title: "&2Herramientas de Prudentium"
+	quest.3384308C78D86059.quest_subtitle: "Nivel: &a2"
+	quest.33D23C65E7274A8F.quest_desc: ["Para despertar tu Esencia de Supremium, necesitarás crear un nuevo Altar y 4 nuevos Pedestales, así como 4 &cVasijas de Esencia&r.\\n\\nLas Vasijas de Esencia requerirán las Esencias de Elementos iniciales para llenarse: Fuego, Agua, Tierra, y Aire."]
+	quest.33D23C65E7274A8F.title: "&dEl Despertar&r"
+	quest.37B297640F537383.quest_desc: ["El Aumento No Sintonizado es usado en un Altar de Infusión para crear varios aumentos. ¡Obtén &ePrisa&r, &1Visión Nocturna&r, &bResistencia al Daño por Caída&r, &6Resistencia al Fuego&r, y mucho más con estos increíbles aumentos!"]
+	quest.37B297640F537383.title: "&fAumento No Sintonizado"
+	quest.38A77DBAD24C4B53.quest_subtitle: "Nivel: &63"
+	quest.398DEF6BA2E488C1.quest_subtitle: "Nivel: &56"
+	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)\\n - Velocidad II (3:00)"]
+	quest.3BB3AA6C29285837.title: "&2Manzana de Prudentium"
+	quest.3BD8315851A3EE5F.quest_subtitle: "Nivel: &a2"
+	quest.3C9F5EB59D72AC90.quest_desc: ["Un Bloque de Lingotes de Supremium Despertado es necesario para craftear la &6Estrella ATM&r."]
+	quest.3E555B364FD88B43.quest_subtitle: "Rango: &c45&r Bloques"
+	quest.3E555B364FD88B43.title: "&4Acelerador de Crecimiento de Supremium"
+	quest.3EA2578C3A56FAE8.quest_desc: ["El Extractor de Almas te permite llenar Jarras de Almas insertando una jarra y usando items de mob para llenarlas. Por ejemplo, añadiendo Carne Podrida dará una porción de un Alma de Zombie."]
+	quest.3EBCBED3FD033117.quest_subtitle: "Nivel: &a2"
+	quest.408D8B1CFBA22BAF.quest_desc: ["Bloques A prueba de Wither, Ladrillos A prueba de Wither y Vidrio A prueba de Wither tienen una resistencia a explosiones muy alta y no pueden ser destruidos por el Wither o el Ender Dragon."]
+	quest.408D8B1CFBA22BAF.title: "&0Bloques A prueba de Wither"
+	quest.409A92D40F539485.quest_subtitle: "Nivel: &e1"
+	quest.41DBE44D7AA0B623.quest_desc: ["¡La Mesa de Tinkering es cómo añades estos aumentos a tu equipo de esencia!"]
+	quest.42218A7D42CF0A4C.quest_subtitle: "Nivel: &a2"
+	quest.4352505361D61BB2.quest_subtitle: "Nivel: &a2"
+	quest.4526E151BAE88310.quest_subtitle: "Nivel: &e1"
+	quest.4530C14828C3D153.quest_subtitle: "Nivel: &b4"
+	quest.45549E52B3CE2D23.quest_desc: ["Las Guadañas son herramientas que pueden cultivar grandes áreas de cultivos de una vez. También pueden ser usadas como una arma bastante buena."]
+	quest.4821419D44F8083F.quest_desc: [
+		"&9Aceleradores de Crecimiento&r incrementan muy ligeramente la velocidad de crecimiento de una semilla cuando se colocan directamente debajo de la tierra de cultivo. Cada nivel tiene un rango de cuántos bloques 'arriba' puede acelerar, con Inferium siendo el más bajo en 12. "
+		""
+		"Nota: Aceleradores de Crecimiento de todos los niveles proporcionan la misma tasa de ticks de crecimiento. Niveles más altos sin embargo tienen un rango más grande, así que puedes apilar más de ellos debajo de una sola planta. No importa qué nivel uses siempre y cuando el Acelerador de Crecimiento esté colocado dentro de su rango máximo."
+	]
+	quest.4821419D44F8083F.quest_subtitle: "Rango: &e9&r Bloques"
+	quest.4821419D44F8083F.title: "&aAcelerador de Crecimiento de Inferium"
+	quest.48BF71269DEA1AB1.title: "&4Tierra de Cultivo de Supremium"
+	quest.4EF5DE3FBA2A7AE3.quest_desc: ["Empezando con Esencia de Inferium, puedes crear lingotes para hacer tanto &9Herramientas&r de Esencia como &9Armadura&r.\\n\\nHerramientas de Esencia pueden ser mejoradas a niveles más altos, y justo como la Armadura, pueden ser &5Aumentadas&r en la &3Mesa de Tinkering&r."]
+	quest.4EF5DE3FBA2A7AE3.title: "&aHerramientas de Inferium"
+	quest.4F0DD86CF6E5F1B5.quest_subtitle: "Nivel: &b4"
+	quest.4F137DB561F45306.title: "&2Armadura de Prudentium&r"
+	quest.52BB58D470560219.quest_subtitle: "Rango: &c54&r Bloques"
+	quest.52BB58D470560219.title: "&6Acelerador de Crecimiento de Supremium Despertado"
+	quest.54735C5FCD2077B3.quest_desc: [
+		"&aMystical Agriculture&r es un mod de generación de recursos que te permite cultivar una gran variedad de recursos vanilla y modded usando &aSemillas&r."
+		""
+		"Por favor nota, muchas de las semillas han sido eliminadas en este modpack, ¡sí lo sé! ¿Cómo pudimos? Bueno hay unas pocas alternativas con Geores que podrían llenar ese vacío ;)_"
+	]
+	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
+	quest.54D72C234EA76054.quest_subtitle: "Nivel: &e1"
+	quest.56201F98819478AB.quest_subtitle: "Nivel: &a2"
+	quest.576ABF43FCF886B7.title: "&2Tierra de Cultivo de Prudentium"
+	quest.5782E9F866453D1D.quest_subtitle: "Nivel: &b4"
+	quest.5B1E0E3E876339E7.title: "&4Armadura de Supremium"
+	quest.5BC4250E4C9F803C.title: "&9Tierra de Cultivo de Imperium"
+	quest.5C590DB2F3D935E5.quest_desc: ["El Reprocesador de Semillas puede convertir semillas de esencia de vuelta en esencias."]
+	quest.5C590DB2F3D935E5.quest_subtitle: "¡Reciclando!"
+	quest.5F6ACDE014A61F46.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)\\n - Velocidad II (3:00)\\n - Resistencia II (3:00)"]
+	quest.5F6ACDE014A61F46.title: "&cManzana de Tertium"
+	quest.617F1FA978197AFD.quest_subtitle: "Nivel: &56"
+	quest.6235B9923BE0AAEB.quest_desc: ["El Encantador es un bloque que te permite añadir encantamientos a items encantables usando items y esencias."]
+	quest.6235B9923BE0AAEB.title: "&bEncantador"
+	quest.62D572BAB055F56F.quest_subtitle: "Nivel: &e1"
+	quest.6501A410F1543C70.quest_desc: ["El Fertilizante Místico funciona como Polvo de Hueso, pero mejor. Crece instantáneamente lo que sea en lo que se use a madurez completa."]
+	quest.6501A410F1543C70.title: "&dFertilizante Místico"
+	quest.66C52B137A4FF869.quest_desc: ["Esta es la Esencia de Nivel 4, hecha combinando 4 Tertium juntos con un Cristal de Infusión."]
+	quest.66C52B137A4FF869.quest_subtitle: "Nivel: &b4"
+	quest.66C52B137A4FF869.title: "&9Imperium"
+	quest.67DBE6C59C0D9D1B.quest_desc: ["Esta es la Esencia de Nivel 5, hecha combinando 4 Imperium juntos con un Cristal de Infusión."]
+	quest.67DBE6C59C0D9D1B.quest_subtitle: "Nivel: &c5"
+	quest.67DBE6C59C0D9D1B.title: "&4Supremium"
+	quest.67DDFA6FB1F9EECA.title: "&9Herramientas de Imperium"
+	quest.685C4A646E092A82.title: "&6Armadura de Supremium Despertado"
+	quest.6A18B971C3DB83AE.quest_subtitle: "Nivel: &63"
+	quest.712EB19B26D405DD.quest_subtitle: "Nivel: &e1"
+	quest.73350AD668200E99.quest_desc: ["Esta es la Esencia de Nivel 2, hecha combinando 4 Inferium juntos con un Cristal de Infusión."]
+	quest.73350AD668200E99.quest_subtitle: "Nivel: &a2"
+	quest.73350AD668200E99.title: "&2Prudentium"
+	quest.75560045ED084900.quest_desc: [
+		"La mayoría de las semillas son simples de hacer, pero para hacer &9Semillas de Mob&r, necesitarás dirigirte al Nether para recoger algo de &8Soulium&r. "
+		""
+		"Con la piedra y mena que encuentres, necesitarás usar estos para hacer la &3Daga de Soulium&r y &3Jarras de Almas&r. Usando la daga para matar mobs, serás capaz de recolectar sus &balmas&r, las cuales son usadas en el Altar de Infusión para crear las respectivas semillas de mob. "
+		""
+		"Alternativamente, puedes llenar Jarras de Almas dentro del &3Extractor de Almas&r insertando una jarra y usando items de mob para llenarlas. Por ejemplo, añadiendo Carne Podrida dará una porción de un Alma de Zombie."
+	]
+	quest.75560045ED084900.title: "Creando Semillas de Mob"
+	quest.7580037DB8ADEB3C.quest_desc: ["Miau miau Soy una Vaca..."]
+	quest.7580037DB8ADEB3C.quest_subtitle: "Nivel: &a2"
+	quest.76071C22A73A2026.title: "&cTierra de Cultivo de Tertium"
+	quest.7655E1C6C5E5469F.quest_subtitle: "Rango: &a18&r Bloques"
+	quest.7655E1C6C5E5469F.title: "&2Acelerador de Crecimiento de Prudentium"
+	quest.77C6667B4C37589C.quest_desc: ["Las Mejoras de Máquina son usadas para acelerar máquinas de &aMystical Agriculture&r."]
+	quest.7A103577EAE7B3F1.quest_desc: ["Esta es la Esencia de Nivel 5 - Despertada, hecha combinando 4 Polvo Consciente, 10 de cada Esencia Elemental y 1 Bloque de Supremium juntos en un Altar de Despertar."]
+	quest.7A103577EAE7B3F1.quest_subtitle: "Nivel: &c5 - Despertado"
+	quest.7A103577EAE7B3F1.title: "&6Supremium Despertado"
+	quest.7ADE214373DE135F.quest_subtitle: "Nivel: &63"
+	quest.7BBD85F94D98CA46.quest_desc: ["La mayoría de las Semillas de Recursos fueron &celiminadas&r para dar paso a &bFlux Sieves&r (ExDeorum) y el mod &aGeOres&r con &6Niveles de Acelerador de Crecimiento&r."]
+	quest.7BBD85F94D98CA46.title: "Advertencia"
+	quest.7CFA92CC48D1E7E3.quest_subtitle: "Nivel: &c5"
+	quest.7D43016926E77150.title: "&9Armadura de Imperium&r"
+	quest.7DFF18CFEB0B8DBE.quest_desc: ["¡Querrás empezar a cultivar &aInferium&r tan pronto como puedas!\\n\\nAunque no es requerido para cultivar estas semillas, también puedes crear &eTierra de Cultivo de Esencia&r que incrementará la velocidad de crecimiento de las semillas (especialmente Semillas de Inferium). Sin embargo, ciertas semillas requerirán ciertas tierras de cultivo para ser plantadas."]
+	quest.7DFF18CFEB0B8DBE.title: "&aTierra de Cultivo de Inferium"
+	task.011F410922A4D859.title: "Guadañas"
+	task.0C92F7E44100B2BA.title: "Herramientas de Tertium"
+	task.2DA0BD7B2834A560.title: "Bloques A prueba de Wither"
+	task.323D34AF775A642B.title: "Hoces"
+	task.34551E919FD101CF.title: "Herramientas de Imperium"
+	task.3E133AC7B615971D.title: "Herramientas de Supremium"
+	task.41910A3BC6C0E838.title: "Herramientas de Prudentium"
+	task.4C906A47EBC15BC1.title: "Regaderas"
+	task.4F6E8F2EC33DB910.title: "Herramientas de Supremium Despertado"
+	task.518B9569DCE0A771.title: "TodosLosDerechosReservados"
+	task.51A3E013D2B3D744.title: "Mejoras de Máquina"
+	task.64FADC78A8AD3FE4.title: "Semillas"
+	task.773CA1FDC4CEFCEF.title: "TodosLosDerechosReservados"
+	task.7D9A58EBADE91F54.title: "Herramientas de Inferium"
+}

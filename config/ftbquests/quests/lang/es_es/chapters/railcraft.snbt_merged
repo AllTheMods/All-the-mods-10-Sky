@@ -1,0 +1,191 @@
+{
+	quest.008D186B4E0ED14F.quest_desc: [
+		"El Horno de Vapor es otra máquina que usa Vapor para algo útil. \\n\\nAl poner Vapor en el Horno de Vapor actuará como un horno para cualesquiera items en él. Haciendo Lingotes de Menas y cocinando items de comida. \\n\\nEs una máquina de 2x2x2 de bloques de Horno de Vapor."
+		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
+	]
+	quest.008D186B4E0ED14F.title: "Horno de Vapor"
+	quest.020E6AF37A0421C8.quest_desc: [
+		"El Tanque de Agua es como tener un barril afuera. Solo que este barril es mucho más grande. Recolecta agua y puede contener agua para Locomotoras de Vapor. \\n\\nLa cantidad de agua que hace es dependiente del bioma y visible al cielo. \\n\\nEstá hecho por bloques de Tanque de Agua de 3x3x3 con el centro siendo hueco."
+		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
+	]
+	quest.020E6AF37A0421C8.title: "Tanque de Agua"
+	quest.032B654201E71618.quest_desc: ["Estos &cKits de Vía&r son para usar entidades con tus &7Vagonetas&r (Entidades aka Mobs). \\n\\nEl &cKit de Embarque&r recogerá cualesquiera Mobs cercanos y los pondrá en una &7Vagoneta&r. \\nEl &cKit de Desembarque&r descarga Mobs de las &7Vagonetas&r. \\nEl &cKit de Volcado&r dejará caer los mobs en las &7Vagonetas&r debajo de las &6vías&r en las que está."]
+	quest.032B654201E71618.title: "&cKits de Vía&r para mover entidades"
+	quest.035C52EF63AD23A7.quest_desc: ["De ahí el nombre del mod, &lRailCraft&r, y sobre lo que gira, &5Trenes&r, ¡las &6Vías&r son bastante importantes. \\n\\nLas &2Vanilla&r funcionan para muchas de estas pero vamos todos sabemos que apestan. ¡Las mejoradas necesitarán algunos items más especiales para sus recetas! ¡Craftealas! (¡Podrían requerir usar máquinas para hacer los items así que revisa esa parte de la quest!)"]
+	quest.035C52EF63AD23A7.title: "¡&6&lRaíles&r!"
+	quest.068294A7C21DE550.quest_desc: ["Los &cKits de Vía&r son usados para craftear con &6raíles&r para hacer &6raíles&r especiales. \\n\\nEstos &6raíles&r serán útiles para todo lo relacionado con &5Trenes&r como: detener el &5Tren&r, mover el &5Tren&r, y emitir redstone."]
+	quest.068294A7C21DE550.title: "¡&c&lVías&r!"
+	quest.08457BEED799E600.quest_desc: ["Estas nuevas &7Vagonetas&r son mayormente para colocar &6Vías&r.\\n\\nEl &7Colocador de Vías&r coloca &6Vías&r mientras el &7Removedor de Vías&r remueve &6Vías&r.\\n\\nEl &7Reemplazador de Vías&r reemplaza las &6Vías&r con unas diferentes y el &7Cortador Inferior de Vías&r reemplaza los bloques debajo de las &6Vías&r."]
+	quest.08457BEED799E600.title: "&7Vagonetas&r y &6Vías"
+	quest.0A43FD0B5C76C1C5.quest_desc: [
+		"¡&l&7RailCraft&r añade un multiblock de Alto Horno para nosotros para transformar Hierro en Acero! \\n\\nPara construirlo necesitarás 34 Ladrillos de Alto Horno. Será de 3 bloques de ancho, 3 bloques de largo, y 4 bloques de alto. Los dos bloques en el centro exacto necesitan ser huecos. Sabrás que está hecho cuando se forme todo junto y te permita acceder a su GUI. \\n\\nAhí puedes poner Hierro, en cualquier forma, para obtener Acero y Arena Granulada."
+		"{image:atm:textures/questpics/railcraft/rail_furnace.png width:100 height:100 align:center}"
+	]
+	quest.0A43FD0B5C76C1C5.title: "Alto Horno (Acero)"
+	quest.104049993CC62E7F.quest_desc: ["El Cargador de Items Avanzado es todo lo que el regular es pero puede ser usado desde cualquier lugar cerca de la &6Vía&r. Al lado, arriba, al lado en el otro lado. Usa la &4Palanca&r para cambiar su dirección."]
+	quest.104049993CC62E7F.title: "Cargador de Items Avanzado"
+	quest.1698565EBB68DC85.quest_desc: [
+		"La &6Vía en Y&r es la segunda vía hecha usando un Mazo de Clavos. Dirige dos &6Vías&r en una. Si tienes una &6Vía&r intersectada por otra la &6Y&r moverá &7Vagonetas&r en la primera &6Vía&r hacia la intersectada."
+		"{image:atm:textures/questpics/railcraft/rail_wye.png width:100 height:100 align:center}"
+	]
+	quest.1698565EBB68DC85.title: "&6Vías en Y"
+	quest.170118E3C3C072E5.quest_desc: [
+		"El &6Cruce&r es la última &6Vía&r hecha por el Mazo de Clavos. Actúa como una intersección normal para &6Vías. Las &7Vagonetas&r siguen yendo de la misma manera que antes pero ahora las &6Vías&r pueden intersectarse. ¿Qué pasa si 2 &7Vagonetas&r se golpean entre sí en él? ¡¡¡EXPLOTAN!!! Estoy bromeando pero las &eLocomotoras Eléctricas&r lo harán sin embargo."
+		"{image:atm:textures/questpics/railcraft/rail_junction.png width:100 height:100 align:center}"
+	]
+	quest.170118E3C3C072E5.title: "&6Vías de Cruce"
+	quest.175D943160C10646.quest_desc: [
+		"&l&7RailCraft&r usa muchas máquinas para diferentes cosas pero mayormente creación de recursos."
+		""
+		"¡Todas ellas empiezan con Lingotes de Hierro!"
+	]
+	quest.175D943160C10646.title: "&l&7Máquinas"
+	quest.17F7964611D893BE.quest_desc: ["El Cargador de Fluidos será útil para mantener tus &3Locomotoras de Vapor&r funcionando. Tiene que ser colocado unos pocos bloques arriba de las &6Vías&r y desplegará fluidos en la &5Locomotora&r o &7Vagonetas&r."]
+	quest.17F7964611D893BE.title: "Cargador de Fluidos"
+	quest.184F98BE0F6710E2.quest_desc: ["Estos 2 &cKits de Vía&r son para usar &7Vagonetas&r y Redstone.\\n\\nEl &cKit Activador&r activará cualquier &7Vagoneta&r que vaya sobre él. \\nEl &cKit Detector&r activará una señal de redstone cuando sea que una &7Vagoneta&r pase sobre él. \\n\\nAmbos son similares a sus contrapartes &2Vanilla&r para &6raíles&r regulares."]
+	quest.184F98BE0F6710E2.title: "&cKits de Vía&r para usar Redstone"
+	quest.21693C4DE6531D73.quest_desc: [
+		"La Trituradora es justo como el nombre sugiere. Puede triturar bloques para obtener los materiales de crafteo, como ladrillos de una escalera de ladrillos, o polvos de lingotes. \\n\\n¡Necesita energía para funcionar sin embargo! \\n\\nPara construir una es 3x2x2 de bloques de Trituradora."
+		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
+	]
+	quest.21693C4DE6531D73.title: "Trituradora"
+	quest.249E5C6893387E15.quest_desc: ["Estas &cVías&r están hechas para detener las &5Locomotoras&r y &7Vagonetas&r. \\n\\nEl &cKit de Bloqueo&r detiene &7Vagonetas&r y solo las inicia cuando se le da un pulso de redstone. \\nEl &cKit de Tope&r es para el final de tus &6vías&r, las detendrá y no iniciará. \\nEl &cKit de Puerta&r solo despliega una Puerta de Valla conectada con la &6vía&r."]
+	quest.249E5C6893387E15.title: "&cKits de Vía&r para detener &7Vagonetas&r"
+	quest.283AB56F81EF03A5.quest_desc: ["Para energizar tus &6Raíles Eléctricos&r y tu &eLocomotora Eléctrica&r necesitarás &eMarcos. Los Marcos&r necesitan ser energizados y moverán energía a cada &eMarco&r conectado."]
+	quest.283AB56F81EF03A5.title: "&eMarcos"
+	quest.2869AB982799CF0C.quest_desc: ["El &cKit de Vía de Un Sentido&r es bastante simple. Las &7Vagonetas&r solo pueden ir donde la flecha está apuntando."]
+	quest.2869AB982799CF0C.title: "&cKit de Vía&r Un Sentido"
+	quest.2A30595DC6DDBFF7.quest_desc: [
+		"Las &6Vías Eléctricas&r son usadas para las &eLocomotoras Eléctricas&r. Necesitarán ser energizadas por &eMarcos&r y sí te lastimará si la tocas."
+		"{image:atm:textures/questpics/railcraft/rail_electric_rail.png width:150 height:100 align:center}"
+	]
+	quest.2A30595DC6DDBFF7.title: "&6Vías Eléctricas"
+	quest.2AB0FA084739827A.quest_desc: ["Para realmente usar una &9Taladradora de Túneles&r necesitarás un &9Cabezal de Taladradora&r. \\n\\nVienen en 4 estilos diferentes y mina dependiente del &9Cabezal de Taladradora&r. \\n\\n¡Puede ser encantado y tiene durabilidad así que querrás encantarlo!"]
+	quest.2AB0FA084739827A.title: "&9Taladradora de Túneles, Cabezal de Taladradora"
+	quest.2D00F85379A4D591.quest_desc: ["El Cargador de Items es el dispensador más básico de RailCraft. Tiene que estar encima de la &6Vía&r y puede ser configurado a lo que querrás cargado en tus &7Vagonetas&r debajo."]
+	quest.2D00F85379A4D591.title: "Cargador de Items"
+	quest.31094CC16E710040.quest_desc: ["La &4Palanca&r es la herramienta principal de RailCraft. \\n\\nCuando se usa en una &5Locomotora&r cambiará la dirección que está mirando. \\n\\nCuando se hace shift clic puedes conectar &5Locomotoras&r y &7Vagonetas&r. \\n\\nCuando solo se usa en &7Vagonetas&r les da un ligero empujón. \\n\\nY cuando se usa en vías especiales cambian su modo. \\n\\nLas diferentes &4Palancas&r solo dan diferentes apariencias y daño."]
+	quest.31094CC16E710040.quest_subtitle: "\"¿Qué, vas a robarme?\""
+	quest.365D4B1DC953D406.quest_desc: ["El Dispensador de &7Vagonetas&r hará lo que el nombre sugiere. Puede dispensar cualesquiera &7Vagonetas&r en las &6Vías&r en frente de él. Necesita una señal de Redstone para dispensar."]
+	quest.365D4B1DC953D406.title: "Dispensador de &7Vagonetas&r"
+	quest.38451B61E3FC075B.quest_desc: [
+		"Espera tenemos Acero de nuevo ¿eso también significa que obtenemos nuestro Coque (de Carbón) de vuelta? ¡Sí! \\nPara obtener Coque (de Carbón) necesitarás un Horno de Coque. Para hacer uno necesitarás 26 Ladrillos de Horno de Coque y colocarlos 3x3x3 con 1 bloque hueco en el centro. Sabrás que está hecho cuando puedas acceder a la GUI y sea todo una textura. \\n\\n¡Coloca Carbón o Bloques de Carbón para obtener Coque (de Carbón) y Creosota Líquida! Siempre puedes poner cualquier tronco para obtener Carbón Vegetal y Creosota."
+		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
+	]
+	quest.38451B61E3FC075B.title: "Horno de Coque"
+	quest.3E75AFE3482834C5.quest_desc: ["¡&lRailCraft&r es un mod entero basado en &5Trenes&r! \\n\\n¡Desde &7Vagonetas&r a &eLocomotoras Eléctricas&r a &9Taladradoras de Túneles&r! ¡Tiene todo en cuanto a accesorios de &5Tren&r también! Semáforos, Calderas de Vapor para energizar &5Trenes&r, y automatización para todo ello. \\n\\n¡El Mod modelo para Amantes de &5Trenes&r Modelo!"]
+	quest.3E75AFE3482834C5.title: "&7&lRailCraft"
+	quest.3E8C2E7769DFBF35.quest_desc: [
+		"A diferencia de la &3Locomotora de Vapor&r no necesitarás poner nada en la &eLocomotora Eléctrica&r. \\n\\nFunciona con la energía de los &eMarcos&r debajo de las &6Vías Eléctricas&r. \\n\\nSí, solo puede ser corrida en &6Vías Eléctricas&r."
+		"{image:atm:textures/questpics/railcraft/rail_electric.png width:100 height:100 align:center}"
+	]
+	quest.3E8C2E7769DFBF35.title: "&eLocomotora Eléctrica"
+	quest.4071BBBE12CACD2D.quest_desc: ["El Dispensador de &5Trenes&r es una mejor versión del Dispensador de &7Vagonetas&r. ¡Puede Dispensar la &5Locomotora&r entera y más! Establece un patrón para lo que quieres que sea desplegado luego dale una señal de redstone."]
+	quest.4071BBBE12CACD2D.title: "Dispensador de Trenes"
+	quest.425E375A9EC127EB.quest_desc: [
+		"¡Las &6Vías Reforzadas&r son la versión mejorada de los &6raíles&r normales! Son ligeramente más rápidas y no explotan."
+		"{@pagebreak}"
+		"1"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced1.png width:150 height:100 align:center}"
+		"{@pagebreak}"
+		"2"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced2.png width:150 height:100 align:center}"
+		"{@pagebreak}"
+		"3"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced3.png width:150 height:100 align:center}"
+		"{@pagebreak}"
+		"4"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced4.png width:150 height:100 align:center}"
+	]
+	quest.425E375A9EC127EB.title: "&6Vías Reforzadas"
+	quest.475E307844E3AF7F.quest_desc: [
+		"Las Calderas de Agua son algunas de las máquinas más útiles de &l&7RailCraft&r. Necesitan una Caja de Fuego de Combustible y algún tipo de caldera encima. La Caja de Fuego de Combustible puede ser 1x1 2x2 o 3x3. El tamaño de la Caja de Fuego cambia qué tan grande puede ser la Caldera encima. Para Caja de Fuego 1x1 solo puede tener Caldera 1x1. Para Caja de Fuego 2x2 puede ser una Caldera 2x2x3. Para Caja de Fuego 3x3 puede ser 3x3x4. El Combustible Líquido tomará Creosota para calentarse. Para Caja de Fuego Sólida usará cualquier cosa que un horno pueda usar."
+		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
+	]
+	quest.475E307844E3AF7F.title: "Calderas"
+	quest.4A44623D8A307473.quest_desc: [
+		"¡Las &6Vías Eléctricas de Alta Velocidad&r son como las &6Vías Eléctricas&r pero más rápidas! También requieren lo que las &6Vías de Alta Velocidad&r normales requieren y lo que las &6Vías Eléctricas&r requieren. &cImpulsos de Velocidad&r y &eMarcos&r para energizarlas. ¡Ahora tienes que ser cuidadoso alrededor de las esquinas y con tocarlas!"
+		"{image:atm:textures/questpics/railcraft/rail_electric_speed.png width:150 height:100 align:center}"
+	]
+	quest.4A44623D8A307473.title: "&6Vías Eléctricas de Alta Velocidad"
+	quest.50A286C268F38E09.quest_desc: ["Con esta página de Quest tomé mucho tiempo coloreando los textos para intentar ayudarte a ti el Jugador a entender a qué me estoy refiriendo. Solo para darme cuenta de que podría ser aún más confuso, ¡así que aquí hay una Leyenda! \\n\\n&5Púrpura&r es cualquier Tren o Locomotora, así que tanto Locomotoras Eléctricas como de Vapor y Vagonetas adjuntas. \\n&6Oro&r es cualesquiera Vías y Raíles, incluye Raíles especiales pero no Kits de Vía. \\n&cRojo Claro&r representa cualquier Kit de Vía. \\n&4Rojo Oscuro&r es para Palancas. \\n&3Cian&r es para la Locomotora de Vapor solamente. \\n&eAmarillo&r es para solo la Locomotora Eléctrica. \\n&9Azul&r es para la Taladradora de Túneles. \\n&7Gris&r es para Vagonetas y Vagonetas especiales."]
+	quest.50A286C268F38E09.title: "Leyenda de Color"
+	quest.5128B119DFFF0C4C.quest_desc: [
+		"La &3Locomotora de Vapor&r es la &5Locomotora&r más básica. Puede ser energizada dándole agua, combustible de horno, y esperando. Necesitará agua constante para seguir funcionando. \\n\\nNo te preocupes eso solo significa que el humo saliendo de la parte superior de ella es Vapor de Agua, el cual es seguro para el Medio Ambiente. Bueno la parte del Carbón no es lo mejor para el Medio Ambiente... eh es &2Minecraft&r ¡qué nos importa!"
+		"{image:atm:textures/questpics/railcraft/rail_steam_locomotive.png width:100 height:100 align:center}"
+	]
+	quest.5128B119DFFF0C4C.title: "&3Locomotora de Vapor"
+	quest.5180CDD196518F64.quest_desc: [
+		"Las &6Vías de Hierro con Correa&r, como las &6Vías Abandonadas&r, son perfectas para los tacaños. ¡Van mucho más lento que las otras &6vías&r pero sin riesgo de descarrilamiento!"
+		"{image:atm:textures/questpics/railcraft/rail_strap.png width:150 height:100 align:center}"
+	]
+	quest.5180CDD196518F64.title: "&6Vías de Hierro con Correa"
+	quest.53594EBA9F7BA840.quest_desc: ["El Descargador de Items Avanzado es justo como la parte normal pero puede ser usado desde cualquier dirección. Nada diferente además de la dirección."]
+	quest.53594EBA9F7BA840.title: "Descargador de Items Avanzado"
+	quest.541D270451DA4320.quest_desc: ["La Vía de Cambio será necesaria para mover carriles entre las diferentes &6Vías&r Especiales. Las Flechas en ella muestran cuál va a dónde."]
+	quest.54F2CB52D3A7BA87.quest_desc: ["El Descargador de Items es lo opuesto del Cargador de Items. Tomará items de las &7Vagonetas&r. Este debe también estar encima de la &6Vía&r."]
+	quest.54F2CB52D3A7BA87.title: "Descargador de Items"
+	quest.55D7CD0FA8F1AE48.quest_desc: ["La razón por la que todos estamos aquí, &5Trenes&r. El mod se llama &l&7RailCraft&r no actúes sorprendido. \\n\\nHay 2 &5Trenes&r principales diferentes y 1 &5Tren&r de minería especial. \\n\\nEstos &5Trenes&r por sí mismos pueden volverse un poco aburridos, ¡así que por qué no adjuntar &7Vagonetas&r a ellos! Conectar &7Vagonetas&r con &7Vagonetas&r y con &5Trenes&r es llamado Acoplamiento, y desconectarlos es Desacoplar. Para Acoplar &5Trenes&r y &7Vagonetas&r usa una &4Palanca&r o una &6Vía&r con el &cKit de Vía&r de Acoplamiento."]
+	quest.55D7CD0FA8F1AE48.title: "¡&7&lVagonetas&r 'Y' &5&lTrenes&r!"
+	quest.5820EDEF71340A1A.quest_desc: [
+		"Las &6Vías Abandonadas&r son buenas para los tacaños y la estética. Pueden ser usadas para puentear a través de unos pocos bloques sin soporte. Solo pueden estar a 2 bloques de distancia de bloques yendo en la misma dirección, o un bloque de la dirección opuesta. Vienen con el riesgo de descarrilamiento sin embargo, básicamente tu &7Vagoneta&r será lanzada fuera de los &6raíles&r."
+		"{image:atm:textures/questpics/railcraft/rail_abandoned.png width:150 height:100 align:center}"
+	]
+	quest.5820EDEF71340A1A.title: "&6Vías Abandonadas"
+	quest.5E750DB2244A67A1.quest_desc: [
+		"La &6Vía de Desvío&r es la primera de golpear una &6vía&r con un Mazo de Clavos. Puede ayudar a ir en dos direcciones, adelante y a un lado. Puede ser cambiada con un Interruptor al lado de la &6vía&r."
+		"{image:atm:textures/questpics/railcraft/rail_turnout.png width:100 height:100 align:center}"
+	]
+	quest.5E750DB2244A67A1.title: "&6Vías de Desvío"
+	quest.5F458D79D43D8842.quest_desc: ["Esta Quest ha sido creada por &6AllTheMods Staff&r, o un &2colaborador de la Comunidad&r para uso en AllTheMods Modpacks.\\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por &6AllTheMods Team&r sin permiso explícito.\\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
+	quest.609CA1ACFA981BD5.quest_desc: ["El &cKit de Enrutamiento&r es usado con los tickets de paso."]
+	quest.609CA1ACFA981BD5.title: "&cKit de Vía&r Enrutamiento"
+	quest.61C93ABE07742DCD.quest_desc: [
+		"La Turbina de Vapor usa Vapor para hacer energía FE y EU. \\n\\nEs una construcción de 3x2x2 de solo Carcasa de Turbina de Vapor, y necesitará un Motor de Turbina en ella, y Vapor entubado dentro."
+		"{image:atm:textures/questpics/railcraft/rail_turbine.png width:100 height:100 align:center}"
+	]
+	quest.61C93ABE07742DCD.title: "Turbina de Vapor"
+	quest.64C105E1E2F97900.quest_desc: ["Los Mazos de Clavos son usados en &6Vías&r normales para cambiar sus modos. ¡Muy útiles para intentar hacer intersecciones!"]
+	quest.64C105E1E2F97900.title: "'Cámbialos'"
+	quest.677C5D35DADA4A42.quest_desc: ["&cEl Acoplador&r es para conectar o desconectar &7Vagonetas&r. Acoplamiento es la frase para conectar &7Vagonetas&r. \\n\\nPuede ser configurado con una &4Palanca&r para acoplar, desacoplar, o auto acoplar. Necesita Redstone para funcionar."]
+	quest.677C5D35DADA4A42.title: "&cKit de Vía&r Acoplador"
+	quest.6C14D1B60124C2B2.quest_desc: [
+		"La &9Taladradora de Túneles&r es perfecta para colocar automáticamente &6Raíles&r especialmente bajo montañas o colinas. \\n\\nNecesitará 3 cosas para empezar a funcionar: &9Cabezal de Taladradora&r, combustible como Carbón, y &6Raíles&r. ¡Una vez tenga los 3 solo déjala ir! \\n\\n¡Recuerda mantener el rastro de los items yendo en ella!"
+		"{image:atm:textures/questpics/railcraft/rail_tunnel.png width:100 height:100 align:center}"
+	]
+	quest.6C14D1B60124C2B2.title: "&9Taladradora de Túneles"
+	quest.6C163E005351FF6D.quest_desc: ["El &cKit de Silbato&r cuando está activo con Redstone causará que las &5Locomotoras&r activen sus silbatos."]
+	quest.6C163E005351FF6D.title: "&cKit de Vía&r Silbato"
+	quest.6DB65926EE6D6C2E.quest_desc: ["Estos &cKits de Vía&r son para cambiar el momento con tus &7Vagonetas&r. \\n\\nLos &cKits de Transición&r cambian la velocidad de la &5Locomotora&r que pasa, necesita energía de redstone. \\nLos &cKits de Impulso&r acelerarán la &7Vagoneta&r si están energizados y ralentizarán la &7Vagoneta&r si no están energizados. \\nEl &cKit de Control&r da a las &7Vagonetas&r un pequeño empujón, cuando está energizado cambiará la dirección en la que la empuja. \\nEl &cKit de Acelerador&r cambiará la velocidad de una &5Locomotora&r que pasa a cualquier velocidad que esté configurada, necesita ser energizado con redstone. \\nEl &cKit de Lanzador&r literalmente lanzará tu &7Vagoneta&r!"]
+	quest.6DB65926EE6D6C2E.title: "&cKits de Vía&r para mover &7Vagonetas&r"
+	quest.6E7C4228CD2B6BB9.quest_desc: ["Esta &4Palanca&r tiene unos pocos modos diferentes, cada uno cambia el diseño de una &5Locomotora&r. Desde por defecto el cual es descrito mientras pasas el cursor sobre el item en tu inventario, ninguno el cual va a &7gris&r, &6H&r&5a&r&6l&r&5l&r&6o&r&5w&r&6e&r&5e&r&6n&r el cual lo hace espeluznante, y &cN&r&2a&r&cv&r&2i&r&cd&r&2a&r&cd&r el cual lo hace festivo!"]
+	quest.75DD345164EE5CD9.quest_desc: [
+		"Las &6Vías de Alta Velocidad&r son como las &6Vías Reforzadas&r pero obviamente más rápidas. ¡Necesitarán &cKits de Vía&r para ayudar a construir velocidad sin embargo! Y cuidado alrededor de las esquinas."
+		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
+	]
+	quest.75DD345164EE5CD9.title: "&6Vías de Alta Velocidad"
+	quest.78D8F40AA9568511.quest_desc: ["La Máquina Laminadora Energizada es una versión mucho mejor de la Máquina Laminadora Manual. \\n\\nNo tienes que seguir mirando en la máquina para craftear cosas y automáticamente crafteará todas ellas. \\n\\n¡El único problema es que necesita energía!"]
+	quest.7D40B80DBBC4E160.quest_desc: ["¡La Máquina Laminadora Manual será tu pequeña máquina de crafteo para muchas cosas materiales para railcraft! \\n\\nCuando pones la receta dentro y puede hacer más de 1 autocrafteará mientras todavía la estés mirando. Cuando dejas la Máquina Laminadora mientras craftea abortará el crafteo y lo pondrá en tu inventario. \\n\\n¡Debes construir manualmente la última receta!"]
+	quest.7F187E291C3D5BA7.quest_desc: ["El Descargador de Fluidos es el opuesto exacto del Cargador de Fluidos. En lugar de estar sobre la &6Vía&r está debajo. En lugar de dar a las &3Locomotoras de Vapor&r agua toma su agua. ¡No sé por qué querrías hacer eso pero puedes!"]
+	quest.7F187E291C3D5BA7.title: "Descargador de Fluidos"
+	quest.7F4B734CFB0F0306.quest_desc: ["Estas nuevas &7Vagonetas&r son similares a las &7Vagonetas&r &2Vanilla&r especiales. La &7Vagoneta con un Tanque&r contendrá y moverá cualquier Líquido contenido en ella. ¡La &7Vagoneta con una Celda de Energía&r en su lugar contendrá y moverá Energía!"]
+	quest.7F4B734CFB0F0306.title: "Nuevas Vagonetas"
+	task.025A45B704969EAE.title: "Vías en Y"
+	task.03AE084C781CBA31.title: "Kits de Vía"
+	task.11741300813AF742.title: "TodosLosDerechosReservados"
+	task.15BD622D04888DD8.title: "Vagonetas"
+	task.19E2DE9D89B89D7B.title: "Mazos de Clavos"
+	task.1E77B21EA9F2E9A7.title: "Cajas de Fuego de Combustible"
+	task.2606DDF2AE263B42.title: "Kits de Vía"
+	task.2A2D77813F3127A6.title: "Raíles"
+	task.3490AE43AD653256.title: "Vías de Desvío"
+	task.382933BEE2BCBD64.title: "Cabezales de Taladradora"
+	task.395D321BFFDB098A.title: "Vías de Cruce"
+	task.3E8F4263F7053EDD.title: "Vagonetas"
+	task.653ED58A9B65C796.title: "Palancas"
+	task.6A4FADC04E1C9DA7.title: "Tanques de Caldera de Vapor"
+	task.6C12449632AD53DC.title: "Kits de Vía"
+	task.6D074E91F5BFC2A8.title: "Kits de Vía"
+	task.7B128D5D8D5530A8.title: "Coloreado"
+	task.7BB13793B38DFC2C.title: "TodosLosDerechosReservados"
+}

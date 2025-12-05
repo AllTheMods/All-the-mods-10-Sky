@@ -1,0 +1,29 @@
+{
+	quest.0A497EC17534D248.quest_desc: ["&#53BAEDBBL Routers&r es un mod de logística el cual es completamente inalámbrico. Solo necesitas los &#8B53EDImportadores&r y &#EDB753Exportadores&r y pueden transferir items, fluidos, energía, químicos y fuente."]
+	quest.0A497EC17534D248.title: "&#45A5EDBienvenido a BBL Routers"
+	quest.222446C143B43770.title: "Transfiriendo Fuente"
+	quest.33A1316FD66C6428.quest_subtitle: "Se requieren mejoras para que los Importadores/Exportadores funcionen"
+	quest.3584DE12E1D7D14F.quest_desc: [
+		"Hay 2 tipos de filtros en este mod, puedes hacer &7clic derecho&r con ellos en mano para configurarlos:"
+		""
+		"1. &#EDDE53Filtro de Mod&r: Tienes que escribir el nombre completo del mod sin espacios para configurar el filtro."
+		""
+		"2. &#EDDE53Filtro de Etiqueta&r: Tienes que escribir la etiqueta sin el # para configurar el filtro."
+	]
+	quest.3584DE12E1D7D14F.title: "Mejoras de Filtro"
+	quest.3E14842D5F454F98.title: "Incrementando Velocidad de Operación"
+	quest.401A518B2D1BDB9A.quest_subtitle: "Colocar en el inventario receptor"
+	quest.5312BD7BDC054E48.title: "Transfiriendo Items"
+	quest.548676DCD1E09A7F.quest_subtitle: "Colocar en el inventario emisor"
+	quest.6420E8B38993D8E3.title: "Transmisión de Energía"
+	quest.671141CF874D89A4.title: "Transfiriendo Fluidos"
+	quest.68ABBA8CB99AF6A1.quest_desc: [
+		"Mantener &#EDD353Shift&r sobre un item te dará información respecto a ellos."
+		""
+		"Para usar el &#537CEDConector&r, primero &7clic derecho&r en el &#EDB553Importador&r y luego &7clic derecho&r en el &#5360EDExportador&r para enlazarlos."
+	]
+	quest.6B11A21220723520.title: "Transfiriendo Químicos"
+	quest.7742D896461A4632.quest_subtitle: "Solo ponlo en el Exportador"
+	task.368EEAEC5B950F4D.title: "Usando el Conector"
+	task.7ECFB3665B40F251.title: "Mejoras"
+}

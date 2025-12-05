@@ -1,0 +1,26 @@
+{
+	quest.104EBBC08B4733F5.quest_desc: ["La &dCámara de Simulación&r es la máquina principal dentro de HNN.\\n\\nCuando se le da energía, ejecutará simulaciones basadas en el &bModelo de Datos&r que se coloca dentro. La energía requerida también depende del Modelo de Datos colocado dentro, y se puede ver dentro de la descripción del Modelo. \\n\\nLa máquina también requiere al menos una &9Matriz de Predicción&r para ejecutar una simulación.\\n\\nEl resultado de la simulación se emitirá en la Matriz. Las simulaciones siempre producirán algún tipo de &ePredicción Generalizada&r, la cual se puede usar en varias recetas de crafteo. También varían dependiendo del origen del mob en el Modelo de Datos.\\n\\nSi la simulación tiene éxito, recibirás una &dPredicción de Mob&r basada en el modelo. Cuanto más alto el nivel del Modelo de Datos usado, más alta es la tasa de éxito para una simulación."]
+	quest.104EBBC08B4733F5.title: "&aSimulando Muertes"
+	quest.10E8BC20D406D9FB.quest_subtitle: "Hace varios Materiales del Nether"
+	quest.12AE2856444996F6.quest_desc: ["Esta Misión ha sido escrita por &6AllTheMods Staff&r, o un &2Colaborador de la Comunidad&r para uso en Modpacks de AllTheMods.\\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Misión no está permitida para ser usada en ningún pack público no lanzado por &6AllTheMods Team&r sin permiso explícito.\\n\\nEsta misión está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
+	quest.14B3542ECB59869C.quest_desc: ["El &5Fabricador de Botín&r es la máquina que te consigue ese dulce, dulce botín de Predicciones de Mob.\\n\\nCuando se le da energía y una Predicción de Mob exitosa, serás capaz de elegir qué item te gustaría obtener del Modelo de Datos de ese mob. La máquina recordará tu elección, así que puede ser automatizada.\\n\\nEjemplos de Predicciones de Mob:\\n\\n- &dEnder Dragons&r para &dHuevos de Dragón\\n - &2Zombies&r para Hierro\\n - &0Withers&r para &5Estrellas del Nether"]
+	quest.14B3542ECB59869C.title: "Creando &dBotín"
+	quest.2559201BCF5D497C.quest_subtitle: "Hace varios Materiales del Overworld"
+	quest.34CD54347E9821B5.quest_desc: ["Una vez que hagas tu primer Modelo de Datos, necesitarás subirlo de nivel para que sea útil.\\n\\nLos Modelos de Datos comienzan en el primer nivel: &7Defectuoso&r. ¡Necesitarás al menos subirlo a &aBásico&r si te gustaría ejecutar algunas simulaciones en él!\\n\\nUna vez colocado dentro del Deep Learner, el HUD te dirá cuántas muertes se requieren para subirlo de nivel. También puedes ver esta info en la descripción del Modelo mismo."]
+	quest.34CD54347E9821B5.title: "Subiendo de Nivel Modelos de Datos"
+	quest.37EBB8E0D6E5F821.quest_desc: [
+		"&6Hostile Neural Networks&r (HNN para abreviar) es un mod basado en simular muertes de mobs para botín!\\n\\nPara hacer esto, estarás recolectando \"datos\" sobre mobs, luego ejecutando simulaciones de los datos para crear sus drops!\\n"
+		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
+	]
+	quest.37EBB8E0D6E5F821.title: "¡Bienvenido a &9Hostile Neural Networks&r!"
+	quest.3E3CBDCEAB0FF28F.quest_desc: ["El &9Deep Learner&r es uno de los componentes centrales de HNN.\\n\\nCon este item, puedes hacer clic derecho para abrir un HUD y almacenar &6Modelos de Datos&r para reunir datos mientras matas mobs.\\n\\nCada Learner puede contener 4 Modelos de Datos, y mientras tengas el Learner en cualquier lugar en tu inventario, recolectará datos para los modelos colocados dentro!\\n\\nNota: Puedes tener múltiples Deep Learners en tu inventario, y contará las muertes para todos los Modelos de Datos dentro de todos los Learners."]
+	quest.3E3CBDCEAB0FF28F.quest_subtitle: "El HUD de Aprendizaje"
+	quest.3E3CBDCEAB0FF28F.title: "&aAprendiendo Mobs"
+	quest.58C2ABED43B2EA61.quest_desc: ["&9Marcos de Modelo&r son el punto de partida para crear Modelos de Datos.\\n\\nPara empezar a recolectar datos sobre un mob específico, querrás hacer uno de estos luego &9clic derecho&r en el mob del que te gustaría reunir datos. Cuando se hace apropiadamente, el Marco de Modelo se convertirá en el Modelo de Datos del mob en el que hiciste clic.\\n\\nPara reunir datos para ese mob, coloca el Modelo de Datos recién creado dentro de un &aDeep Learner&r, luego empieza a matar ese mob específico con el Deep Learner en tu inventario."]
+	quest.58C2ABED43B2EA61.quest_subtitle: "\"Reuniendo Datos\""
+	quest.58C2ABED43B2EA61.title: "&9Modelando Mobs"
+	quest.5A23107C363A209E.quest_subtitle: "Hace varios Materiales del End"
+	task.15D2A03410859443.title: "TodosLosDerechosReservados"
+	task.6B580F95A2E5A465.title: "TodosLosDerechosReservados"
+	task.7F17E48ACE65C84E.title: "Modelos de Datos"
+}

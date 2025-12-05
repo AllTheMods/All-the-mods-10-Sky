@@ -1,0 +1,39 @@
+{
+	quest.08B60D8A25008CCC.quest_desc: ["Esta Misión ha sido creada por el &6Staff de AllTheMods&r, o un &2Colaborador de la Comunidad&r para su uso en Modpacks de AllTheMods. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, no se permite el uso de esta Misión en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito. \\n\\nEsta misión está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
+	quest.09C82CDDA800D8C9.quest_desc: ["El Wither es el segundo Jefe de Minecraft, este siendo más electivo. \\n\\nTendrás que construir el Wither para hacer que aparezca. ¡Usando 4 Arenas de Almas en forma de T y colocando 3 Calaveras de Wither Skeleton encima hará que aparezca! \\n\\nTiene 300 Corazones y volará alrededor disparando Calaveras de Wither a Jugadores o Mobs. \\n\\nCuando se le reduzca a la mitad de Vida ganará un escudo contra Proyectiles y necesitará ser matado con una Espada o Hacha. \\n\\nUna vez que lo mates dejará: Estrella del Nether, oportunidad de un Alma de Wither, y un montón de Items de Corail."]
+	quest.09C82CDDA800D8C9.title: "Matar al Wither"
+	quest.0E20A9B79D1C6637.quest_desc: ["El Warden es un Jefe añadido en 1.20. \\n\\nAparece teniendo 3 Chilladores de Sculk naturalmente apareciendo que suenan en fila, o cualquier Chillador sonando después de que un primer Warden haya aparecido. \\n\\nEs el Mob más poderoso añadido por Minecraft, con 500 Corazones y más de 20 Corazones de daño con sus ataques. \\n\\nSus ataques incluyen golpearte y Sonar Blasts para los más lejanos. \\n\\nSu única debilidad es ser ciego, ¡pero como daredevil eso hizo que sus otros sentidos fueran mucho más fuertes! Si estás cerca puede olfatearte y ¡ten cuidado con hacer ruido! \\n\\nSi de alguna manera lo matas dejará: Catalizadores de Sculk, Caparazón del Warden, y Corazón del Abismo."]
+	quest.0E20A9B79D1C6637.title: "Matar al Warden"
+	quest.0F55D0B4D5094EDB.quest_desc: ["Mientras hacía muchas de las líneas de misión para ATM7, el Vendedor Ambulante pensó que sería divertido empujarme constantemente alrededor en la pantalla de misiones.\\n\\n\"Échales. A todos.\"\\n\\n- AlfredGG \\n\\n\"¡Apoyo esto!\" \\n\\n- Toshiba"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "\"Esto es Personal\" - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Matar al Vendedor Ambulante y sus Molestas Llamas"
+	quest.17F3AC15ADCFB175.title: "&l&9Recompensa del End:&r&e Enderman"
+	quest.1F18B64C84C8809D.title: "&l&9Recompensa del Overworld:&r&e Spiders"
+	quest.2B05A29C62676EB2.title: "&l&9Recompensa del Overworld:&r&e Zombies"
+	quest.2BD077EFE77B8EBB.quest_desc: ["Los Zombies tienen diferentes variantes que aparecen en otros Biomas. "]
+	quest.2BD077EFE77B8EBB.title: "Variantes de Zombies"
+	quest.3371F9248D403664.title: "&l&cRecompensa del Nether:&r&e Wither Skeletons"
+	quest.3813F5C1760C3A79.quest_desc: ["Que los Piglin Brutes estén aquí podría causar controversia pero los considero Minijefes. \\n\\nAparecen en Bastiones con Piglins regulares pero estos son Hostiles no Neutrales. Personalmente odio eso, especialmente ya que si golpeas a uno todos los Piglins se volverán Hostiles contra ti. \\n\\n¡Tienen 50 Corazones y un Hacha de Oro para golpearte. Usualmente las Hachas de Oro apenas hacen daño, pero cuando ellos la usan, es dios de alguna manera! \\n\\n¡No dejan nada y actúan más como un obstáculo para los Bastiones!"]
+	quest.3813F5C1760C3A79.title: "Matar a un Piglin Brute"
+	quest.41C0948CD9D50322.quest_desc: ["Aquí encontrarás todos los contratos que puedes obtener matando enemigos."]
+	quest.41C0948CD9D50322.quest_subtitle: "Matando Todas Las Cosas"
+	quest.41C0948CD9D50322.title: "Tablón de Recompensas (Bounty Board)"
+	quest.42822B1E8A53D051.title: "&l&9Recompensa del Overworld:&r&e Skeletons"
+	quest.56DA46DC82F6665D.quest_desc: ["El Wilden Chimera es un Jefe añadido por Ars Nouveau y es necesario para progresar a través de él. \\n\\n¡Necesita ser invocado a través de un ritual y luego combatido!"]
+	quest.56DA46DC82F6665D.title: "Matar al Wilden Chimera"
+	quest.5AC497F76A086A5C.title: "&l&9Recompensa del Overworld:&r&e Witches"
+	quest.6141DE779232C8AA.title: "&l&cRecompensa del Nether:&r&e Blazes"
+	quest.6827836C8E675A94.quest_desc: ["Los Skeletons tienen diferentes variantes, ¡como los Zombies!"]
+	quest.6827836C8E675A94.title: "Variantes de Skeletons"
+	quest.728BE1816DA23DC0.quest_desc: ["El Dragón del End es el Jefe que guarda El End. \\n\\nCuando entras a un Portal del End llegarás a la Isla del End donde ella aparece. \\n\\nTiene 200 Corazones y puede atacar con Bolas de Fuego o embistiéndote. \\n\\n¡Tendrás que romper los Cristales del End en los pilares ya que la curan, para poder matarla! \\n\\nUna vez que la mates, dejará: Esencia Arcana, Epic Shaderbags, Piel de Dragón, Escamas de Dragón de dos mods diferentes, ¡y un montón de experiencia! \\n\\nEntonces el Portal se abrirá para que puedas regresar al Overworld, o puedes encontrar un Gateway del End para explorar las islas exteriores. También encontrarás un Huevo de Dragón en el Portal."]
+	quest.728BE1816DA23DC0.title: "Matar al Dragón del End"
+	quest.77FC692AC94D2EEF.title: "&l&9Recompensa del Overworld:&r&e Creepers"
+	task.00CBF98DE4E9CC90.title: "TodosLosDerechosReservados"
+	task.171FD27057746E80.title: "Matar 1 Wither"
+	task.1809F1F9A3043683.title: "Matar 1 Dragón del End"
+	task.1D136D138EF82DA9.title: "Matar 2 Trader Llamas"
+	task.452B65E139D9E12D.title: "Matar 1 Wilden Chimera"
+	task.596ABB45C0612AAF.title: "Matar 1 Wandering Trader"
+	task.65E53C9C5AE98B69.title: "TodosLosDerechosReservados"
+	task.69678CAC075C8EA5.title: "Matar 1 Warden"
+}

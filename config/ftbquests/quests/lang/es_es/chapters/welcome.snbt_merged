@@ -1,0 +1,11 @@
+{
+	quest.3708A4780ACEB34E.quest_desc: ["En este modpack, las quests son opcionales. ¡Los mods no están bloqueados detrás de completar ninguna quest!\\n\\nMuchas de las líneas de quest individuales fuera de la línea principal de quests están destinadas a servir como guías de mods. ¡Si quieres seguir la progresión, asegúrate de revisar la Línea Principal de Quests!"]
+	quest.3BC0A50886A3222B.quest_desc: ["¡ATM10 To the Sky es un pack kitchensink que te permite explorar una variedad de diferentes mods a tu manera!\\n\\n¡Si tienes alguna pregunta o problema, siéntete libre de unirte al discord de ATM!"]
+	quest.3BC0A50886A3222B.title: "&dBienvenido a All The Mods 10, Ahora en el Cielo (otra vez)"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["Esta Quest ha sido creada por el &6Staff de AllTheMods&r, o un &2colaborador de la comunidad&r para uso en los Modpacks de AllTheMods. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito. \\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo de edición."]
+	quest.5AC1BE754210429E.quest_desc: ["¡Si quieres crear un equipo para ti y tus amigos, usa el comando &a/ftbteams party create (nombre del equipo)&r para crear el equipo!"]
+	task.201F519941A2C7F4.title: "AllRightsReserved"
+	task.2C816285392535F0.title: "AllRightsReserved"
+	task.4F13A02FB0055A62.title: "Creando un Equipo"
+	task.52BB142F044075B4.title: "Quests"
+}

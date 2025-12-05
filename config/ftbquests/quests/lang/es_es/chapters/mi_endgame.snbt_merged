@@ -1,0 +1,13 @@
+{
+	quest.0AE83A6CC21F96D4.quest_desc: ["Electrolizar una &#3127F5Singularidad&r hará &#DA27F5Materia UU&r. En este proceso, la &#3127F5Singularidad&r &n&aNO&r se consume."]
+	quest.1E22A0D5F4B2EB0D.quest_subtitle: "Congelando Argón con Helio"
+	quest.27826D74ADC73556.quest_desc: ["Cocinar &#ED8C61Polvo de Cobre&r con &#90F0E7Oxígeno&r en un &#E3CE54EBF de Kanthal&r te dará &#E87848Lingote Caliente de Cobre Recocido&r. Este puede ser enfriado en un &#4CBBD9Congelador de Vacío&r para obtener &#E87848Lingote de Cobre Recocido&r. Estos lingotes pueden ser macerados para el &#E87848Polvo de Cobre Recocido&r."]
+	quest.3AB0822F02350DA3.quest_subtitle: "Daño Infinito"
+	quest.3B99290BE63F2968.quest_subtitle: "Comprimiendo Polvo de Carbono"
+	quest.4F780343E3FFA43E.quest_subtitle: "Este es el Fin"
+	quest.53C167AF34694F8F.quest_desc: ["Mezclar Polvos de &#40B36AItrio&r, &#DBA146Cobre Recocido&r, &#33CC3ANeodimio&r e &#D6D290Iridio&r hará &#5EDEE0Polvo Superconductor&r. Este puede ser cocinado en un &#E3CE54EBF de Kanthal&r para ser enfriado en el &#4CBBD9Congelador de Vacío&r."]
+	quest.53C167AF34694F8F.quest_subtitle: "Conduciendo supermente"
+	quest.54C852CA6E056589.quest_subtitle: "Baterías Nucleares"
+	quest.732DA855AFF62907.quest_desc: ["Centrifugar &8Carbón&r hará &7Polvo de Carbono&r."]
+	task.121A74E938A0320C.title: "Materia UU"
+}
