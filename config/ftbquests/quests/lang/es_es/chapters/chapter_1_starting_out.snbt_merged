@@ -1,0 +1,133 @@
+{
+	quest.01B5005BF9056A2E.quest_subtitle: "Martillear Arena"
+	quest.040C336C718DCC7D.quest_desc: ["Este es un &6&lModpack de ATM&r, necesitarás &lMONTONES&r de Materiales. \\n\\nEntonces, ¿qué haremos con nuestras toneladas de &7Grava&r? ¿Solo usar mil millones de Cofres? \\n\\nNo, en su lugar podemos combinar 9 Bloques en 1 Bloque Comprimido. \\n\\n¡Esto funciona con un montón de Bloques diferentes y cada uno puede ser Comprimido aún más!"]
+	quest.040C336C718DCC7D.title: "Bloques Comprimidos"
+	quest.043AB8772206FF71.quest_desc: ["¡El &0Pedernal&r se puede obtener raramente Rompiendo &7Grava&r como de costumbre, o &bCribando&r Bloques! \\n\\nNormalmente el &0Pedernal&r es bastante inútil en &2&lMinecraft&r. Haces un Mechero y luego... nada más. \\n\\n¡Sin embargo, &b&lSkyblock&r es muy diferente! Así que recógelo y guárdalo para el inicio del juego."]
+	quest.043AB8772206FF71.title: "&8Pedernal"
+	quest.04ACC7E762537FB4.quest_desc: ["No necesitaremos mil millones de Máquinas sofisticadas para Duplicar Minerales aquí... ¡solo necesitaremos unas pocas! \\n\\nEl &3&lExprimidor&r de &3&lID&r puede convertir &7Bloques de Mineral Bruto&r en &7Mineral Bruto&r. \\n\\nPara usarlo, simplemente coloca el &7Bloque de Mineral Bruto&r en el &3&lExprimidor&r y Salta sobre él para empujarlo hacia abajo. Una vez que esté Triturado, el &7Mineral Bruto&r saldrá escupido. ¡Raramente podría dar aún más! \\n\\n¡Pero espera! ¡Eso no es todo! \\n\\nTambién tenemos Martillos de Mineral, estos pueden romper &7Minerales Brutos&r en 2 de &7Polvo&r, que pueden ser Fundidos en &7Lingotes&r."]
+	quest.04ACC7E762537FB4.title: "Duplicación de Minerales Fácil"
+	quest.091F1D752FA3BAAC.quest_desc: ["Con solo 2 de &0Pedernal&r podemos hacer &0Tijeras de Pedernal&r. Funcionan igual que las Tijeras, solo que más baratas. \\n\\n¡Las necesitaremos para conseguir &2Hojas&r! \\n\\nY Lana... si necesitas Lana."]
+	quest.091F1D752FA3BAAC.title: "Recolectando &2Hojas"
+	quest.0BD70DFE33D84323.quest_desc: [
+		"Las &b&lCribas&r son la forma en que obtendremos la mayoría de nuestros Recursos. \\n\\nColócalas y no harán mucho. Necesitaremos darles una Malla para usarlas. La Malla de Hilo es la primera, pero se puede mejorar. \\n\\nSimplemente haz Clic Derecho en la &b&lCriba&r con una Malla para colocarla y Shift Clic Derecho para sacarla. \\n\\nCon la Malla puesta, ahora podemos hacer Clic Derecho con ciertos Bloques en la &b&lCriba&r para pasarlos. Mantén el Clic Derecho o Mantenlo presionado y una vez que pasen por completo soltarán Objetos. \\n\\nConsejo Pro: si hay &b&lCribas&r una al lado de la otra, ¡funcionarán al mismo tiempo! ¡Esto llega hasta un área de 5x5!"
+		"{image:atm:textures/questpics/chap1/chap1_sieve.png width:100 height:100 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_sieves.png width:100 height:100 align:center}"
+	]
+	quest.0BD70DFE33D84323.title: "&b&lCribas &ry Mallas"
+	quest.0D794D25F04E04A7.quest_desc: ["No podemos conseguir &4Netherrack&r en &c&lEl Nether&r. Está algo vacío. ¡En su lugar necesitaremos hacerla! \\n\\nCombina &5Agua de Bruja&r con &cLava&r en un &6&lBarril&r para hacer &4Netherrack&r. \\n\\n¡También podemos Triturarla con un &8Martillo&r para &bCribarla&r y obtener más Objetos!"]
+	quest.0D794D25F04E04A7.title: "&4Netherrack"
+	quest.0E7F7CF44A982EA3.quest_desc: ["Las &7Bolas de Arcilla&r y el Polvo de Hueso pueden hacer &3Arcilla de Porcelana&r. \\n\\n¡Esto será necesario para hacer &3Cubos&r o Cubos más grandes llamados &c&lCrisoles&r!"]
+	quest.0E7F7CF44A982EA3.title: "&3Arcilla de Porcelana"
+	quest.0FEFD055B435B17F.quest_desc: ["Ahora finalmente podemos conseguir algo de &cLava&r. ¡No te preocupes por estropear los &7Generadores de Adoquín&r nunca más! \\n\\nNo podemos hacer &cLava Infinita&r pero al menos podemos seguir haciendo más. \\n\\n¡Es muy importante para la Mezcla de Fluidos y otras Recetas, así que probablemente necesitarás una tonelada!"]
+	quest.0FEFD055B435B17F.title: "&cLava"
+	quest.11032183CCCA206D.quest_desc: ["Los &aMobs Pasivos&r necesitan 2 cosas para Aparecer. \\n\\n1. &2Césped&r, que tenemos. \\n\\n2. Luz, ¡que necesitaremos! \\n\\nSi hay suficiente Luz, con &2Césped&r para que Aparezcan. Aparecerán aleatoriamente. \\n\\nA veces puede tardar un poco en funcionar."]
+	quest.11032183CCCA206D.title: "&aMobs Pasivos"
+	quest.128A1EEAF8F45042.quest_desc: ["Las &5Esporas de Micelio&r provienen raramente de &bCribar&r Tierra. \\n\\nFuncionan como las &2Semillas de Césped&r, ¡colócalas en Tierra o &2Césped&r para obtener &5Micelio&r!"]
+	quest.128A1EEAF8F45042.title: "¡Trae el Moho!"
+	quest.145917B219D0D28D.quest_desc: ["Todos los Mundos de &bSkyblock&r aparecen con lo necesario. &2Césped &fy un &2Árbol&r. \\n\\nNecesitaremos el &2Árbol&r para &6Madera&r y todo lo que viene de la &6Madera&r. ¿Qué pasa con el &2Césped&r? \\n\\nBueno, para 1. Los &aMobs Pasivos&r necesitan &2Césped&r para Aparecer. 2. El &2Césped&r se extiende a otra Tierra. 3. ¡Podemos hacer Shift Clic Derecho en el &2Césped&r para obtener &7Guijarros&r!"]
+	quest.145917B219D0D28D.title: "&2Césped"
+	quest.162AB6F9257EB71E.quest_desc: [
+		"Hay muchas formas de generar tus primeros bits de energía."
+		""
+		"¡En este pack, Generators Galore ha recibido una revisión! Con mejoras más baratas a 8x y 64x, y una mayor producción de energía en general, ¡consigue una buena generación de lava y ponte en marcha! Si queremos empezar con la automatización en ATM10:TTS, ¡necesitaremos adentrarnos más en la energía y algunos mods nuevos!"
+		""
+		"¡Aquí hay algunos de los mods que incluye!"
+		""
+		"&bGenerators Galore&r (niveles y cambios)"
+		""
+		"&bNiveles de Growth Accelerator&r (recomendamos direccional, ¡es súper rápido!)"
+		""
+		"&bGeores&r (¡Cultiva esos materiales que te faltan!)&r"
+	]
+	quest.162AB6F9257EB71E.title: "El Siguiente Capítulo"
+	quest.1B186F14606C07D7.quest_desc: ["Combinar &ePiedra Luminosa&r con &cLava&r en un &6&lBarril&r (con suerte uno de &7&lPiedra&r) hará &ePiedra del End&r. \\n\\n¡Al igual que con la &4Netherrack&r podemos usar un &8Martillo&r para Triturarla y luego &bCribar&r las partes Trituradas! \\n\\nEsto nos dará &3Perlas de Ender&r, &aOjos de Ender&r, y más..."]
+	quest.1B186F14606C07D7.title: "&ePiedra del End"
+	quest.1E9F1FBAA6AAA43B.quest_desc: ["Los &cMobs Hostiles&r son más fáciles de generar que los &aPasivos&r. \\n\\nMientras esté lo suficientemente Oscuro, y estén al menos a 24 Bloques de distancia de ti, Aparecerán. \\n\\nSi tu Isla se está haciendo más grande, ¡quizás quieras Iluminarla!"]
+	quest.1E9F1FBAA6AAA43B.title: "&cMobs Hostiles"
+	quest.1FA3ACD9B8CD02FE.quest_desc: ["¿Qué &9Agua&r? ¡&5Agua de Bruja&r! \\n\\nColoca un &6&lBarril&r sobre un &5Bloque de Micelio&r y pon &9Agua&r en él para obtener &5Agua de Bruja&r. \\nTarda un segundo pero está bien, ¡tenemos paciencia! \\n\\n(Por cierto, ¡cualquier &5Bloque de Micelio&r cerca del &5Agua de Bruja&r comenzará a cultivar &cSetas&r!)"]
+	quest.1FA3ACD9B8CD02FE.title: "&5Agua de Bruja"
+	quest.23E71537225B8392.quest_desc: [
+		"Con nuestra madera recién encontrada, podemos hacer Palos. ¡Con nuestros Palos podemos hacer un &6Cayado&r! \\n\\nEstos se pueden usar para Romper &2Hojas&r. Cuando lo hacen, las &2Hojas&r Soltarán más &2Brotes&r y un nuevo Objeto llamado &eGusanos de Seda&r. \\n\\nLanza esos &eGusanos de Seda&r sobre las &2Hojas&r para Infestarlas. Esto se extenderá a otras Hojas y crecerá con el tiempo. \\n\\n¿Por qué querría una persona cuerda una Infestación de &eGusanos de Seda&r, preguntas? \\n\\n¡Para Hilo, por supuesto! Simplemente Rompe esas Hojas Blancas ahora para conseguirlo."
+		"{image:atm:textures/questpics/chap1/chap1_tree.png width:100 height:100 align:center}"
+	]
+	quest.23E71537225B8392.title: "Infestando nuestros &2Árboles"
+	quest.25B49E9D15BAEF3E.quest_desc: ["El &9Agua&r puede provenir de algunas formas diferentes. \\n\\n¡&9Lluvia&r, Compostaje en &6&lBarril&r, &bHielo&r! \\n\\nComo sea que lo hagas, haz instantáneamente una &9Fuente de Agua Infinita&r colocando 2 &9Fuentes de Agua&r en diagonal una de la otra en un área de 2x2. \\n\\n¡Ahora no tendremos que preocuparnos por conseguir &9Agua&r nunca más!"]
+	quest.25B49E9D15BAEF3E.title: "&9Agua"
+	quest.29F82373417B2006.quest_desc: ["¿Te quedaste sin brotes? ¡Puedes conseguir algunos brotes de emergencia en la parte superior derecha del menú de misiones! También es repetible: ¡no hay necesidad de reiniciar tu mundo si sucede algo malo!\","]
+	quest.29F82373417B2006.title: "Brotes de Emergencia"
+	quest.2A3BF8D20EEED292.quest_desc: [
+		"El &6&lBarril (de Roble)&r es muy diferente de los Barriles de &2&lMinecraft&r. \\n\\n¡De hecho, lo necesitaremos para muchos Objetos y Bloques diferentes! \\n\\nPodemos usarlo para Mezclar Objetos con Líquidos colocando un Líquido dentro y Soltando un Objeto en él. \\n\\nO incluso Mezcla de Líquidos colocando ambos en el &6&lBarril&r. \\n\\nPor cierto, para Mezclar con &cLava&r deberías usar un &7&lBarril de Piedra&r. ¡Los de &6Madera&r se Quemarán! \\n\\nSi hay &9Lluvia&r, se llenará con &9Agua&r."
+		"{image:atm:textures/questpics/chap1/chap1_barrel.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_leaves.png width:100 height:110 align:center}"
+	]
+	quest.2A3BF8D20EEED292.title: "&6&lBarril (de Roble)"
+	quest.2C134DDBF9283407.quest_desc: ["Para aquellos que quieren acelerar el inicio, esto les da un comienzo en 'modo fácil'. No tienes que completar esta misión, y es opcional para la progresión."]
+	quest.2C134DDBF9283407.quest_subtitle: "Para aquellos que quieren saltar hacia adelante"
+	quest.2C134DDBF9283407.title: "Una Ventaja Inicial"
+	quest.322F7A333B35F7FD.quest_desc: ["Para obtener Materiales necesitamos procesar Bloques a través de &b&lCribas&r... vale, pero estas &7Rocas&r son demasiado duras para pasar por la &b&lCriba&r. \\n\\n¿Qué tal si las &8Martilleamos&r? \\n\\n¿Pensabas que estaba bromeando? ¡Rompe Bloques con el &8Martillo&r para obtener una versión Triturada de ellos!"]
+	quest.322F7A333B35F7FD.title: "&8Martillos"
+	quest.376BAC497511F067.quest_desc: [
+		"Si rodeas un horno con Hierro en una mesa de crafteo, puedes mejorar tu horno a un Horno de Hierro."
+		""
+		"Estos funden más rápido y también se pueden configurar para ser automatizados con la rueda dentada en la parte superior izquierda de la GUI."
+	]
+	quest.376BAC497511F067.quest_subtitle: "¿Todo recibe una mejora en este pack?"
+	quest.376BAC497511F067.title: "Fundiendo hierro con hierro"
+	quest.3948A052907BEC04.quest_subtitle: "Martillear Piedra Negra"
+	quest.3C5AAFC9672F2CF7.quest_desc: ["¡También podemos lanzar Tierra en una &b&lCriba&r para obtener Objetos! \\n\\nLa Tierra es bastante rara y necesaria, así que asegúrate de tener suficiente para &bCribar&r. \\n\\n¡La Tierra nos dará &2Cultivos&r como Objeto, así como &2Semillas de Césped&r! Las &2Semillas de Césped&r se pueden usar en Tierra para hacer &2Césped&r. \\n\\n¡Cualquier Tierra, en cualquier lugar!"]
+	quest.3C5AAFC9672F2CF7.title: "&2Semillas de Césped"
+	quest.441200BE0C75C2AD.quest_desc: ["¡Las Mallas se pueden mejorar! ¡Y necesitarán ser mejoradas para obtener nuevos Objetos! \\n\\nPuedes consultar JEI para todos los Objetos, pero básicamente cuanto mejor sea la Malla, mejores serán los Objetos que Suelta. \\n\\nLos Objetos que Suelta y la Tasa de Aparición cambian con la Malla."]
+	quest.441200BE0C75C2AD.title: "Mallas Mejoradas"
+	quest.469E414BC7F0C238.quest_desc: ["Los &3Cubos de Porcelana&r funcionan como los &7Cubos de Hierro&r. \\n\\n¡Simplemente más baratos, más fáciles de conseguir al principio del juego, y se rompen después de colocar &cLava&r! \\n\\n¿Espera qué? \\n\\nSí, no son buenos con el calor y después de colocar la &cLava&r el &3Cubo&r se romperá. \\n\\n¡El &9Agua&r está bien sin embargo!"]
+	quest.469E414BC7F0C238.title: "&3Cubo de Porcelana"
+	quest.488C8BDF45B9CA0F.quest_desc: [
+		"¡Los &aGateways&r son formas fáciles de conseguir &aMobs Pasivos&r y Recompensas de Botín! \\n\\nVale, quizás no fáciles. Tendrás que Luchar contra Oleadas de &cMonstruos&r. Además necesitarás un &aOjo de Ender&r para hacerlo. \\n\\n¡Pero merece la pena! \\n\\nDiferentes &aPuertas&r dan diferentes Recompensas y &cMonstruos&r. Esta dará 6 de cada Animal de Granja."
+		"{image:atm:textures/questpics/chap1/chap1_gateway.png width:100 height:100 align:center}"
+	]
+	quest.488C8BDF45B9CA0F.title: "¡¡¡Mobs Gratis!!!"
+	quest.4C502B5A1C1A0C58.quest_desc: ["Con &5Agua de Bruja&r podemos lanzar &eArena&r en ella como cuando obtenemos &7Arcilla&r del &9Agua&r, solo que ahora obtendremos &8Arena de Almas&r. \\n\\n¡La &8Arena de Almas&r se puede &bCribar&r para obtener más Objetos del &c&lNether&r! \\n\\nAh sí, podrías decepcionarte con el &c&lNether&r..."]
+	quest.4C502B5A1C1A0C58.title: "&8Arena de Almas"
+	quest.4CCA1C828677D518.quest_desc: ["¡Manteniendo Shift Clic Derecho mientras miras la Parte Superior de un &2Bloque de Césped&r te dará &7Guijarros&r! \\n\\n&7Guijarros&r para &7Piedra&f, &8Pizarra Profunda&f, &7Andesita&f, &dGranito&f, Diorita, &0Piedra Negra&r, y &8Basalto&r. \\n\\nPodemos combinar 4 &7Guijarros&r para hacer la &7Piedra&r relacionada con los &7Guijarros&r. ¡O simplemente Presiona K mientras pasas el ratón sobre un montón de ellos en tu Inventario! \\n\\nEso funciona para muchos Objetos con Recetas similares, ¡pruébalo!"]
+	quest.4CCA1C828677D518.title: "Cavando a través del &2Césped"
+	quest.522B2CE771DDBA0F.quest_desc: ["Mentí, ¡los &6&lBarriles&r no solo Mezclan Líquidos y Fluidos. ¡También Compostan! \\n\\nLanza algunos &2Cultivos&f, &2Musgo&f, u &2Hojas&r en un &6&lBarril (de Roble)&r y se convertirá en Tierra. \\n\\n¡Esta es la única forma de conseguir más Tierra al principio del juego!"]
+	quest.522B2CE771DDBA0F.title: "¿Haciendo Tierra?"
+	quest.52DD11BC71F45E32.quest_desc: [
+		"Los &9&lCrisoles&r solo están aquí por una razón. ¡&9Agua&r no gratuita! \\n\\nPuedes esperar a que la &9Lluvia&r llene los &6Barriles&r gratis o simplemente lanzar &2Hojas&r en un &9&lCrisol&r y esperar. \\n\\n¡Créeme, el &9&lCrisol&r es mucho más rápido!"
+		"{image:atm:textures/questpics/chap1/chap1_crucible.png width:100 height:100 align:center}"
+	]
+	quest.52DD11BC71F45E32.title: "&9Agua &fde &2Hojas"
+	quest.60D53C6A50F9245B.quest_subtitle: "Martillear Grava"
+	quest.6113DCE514DBB5D4.quest_subtitle: "Martillear Adoquín"
+	quest.62AF24DD96B7B4AD.quest_desc: ["Cuando &b&lCribamos&r en busca de &7Minerales&r no obtendremos el &7Mineral Bruto&r completo. ¡No, eso es demasiado fácil! ¡Obtenemos &7Trozos&r! \\n\\n4 &7Trozos&r harán 1 &7Bloque de Mineral Bruto&r. \\n\\n¡Puedes usar K mientras pasas el ratón sobre los &7Trozos&r en tu Inventario para combinarlos instantáneamente!"]
+	quest.62AF24DD96B7B4AD.title: "&7Trozos de Mineral"
+	quest.62C9E87ECD00CA84.quest_desc: ["¡&b&lSkyblock&r comienza como cualquier Mundo normal de &2&lMinecraft&r! ¡Golpea ese &2Árbol&r! \\n\\nSolo... no mires abajo. \\n\\n¡Y ten cuidado de no perder el &2Brote&r! "]
+	quest.62C9E87ECD00CA84.title: "Golpeando &2Árboles"
+	quest.62FCB337688ACDBC.quest_desc: ["Ni siquiera te preocupes por hacer &6Herramientas de Madera&r ve directo a la &7Piedra&r. \\n\\n¡Y sí, todavía puedes hacer &7&lGeneradores de Piedra&r con &9Agua &fy &cLava&r! \\n\\nSi estás tomando la ruta más difícil, no puedes usarlos todavía. Necesitarás seguir las Misiones más para llegar allí."]
+	quest.62FCB337688ACDBC.title: "&7Adoquín"
+	quest.647E94E2156CB596.quest_desc: [
+		"Si has jugado &b&lATM9TTS&r probablemente recuerdes los &7Bloques Generadores de Piedra&r que simplemente hacían &7Adoquín&r en un Inventario encima de ellos. \\n\\nEstos funcionan de manera un poco diferente... todavía necesitarás un Inventario encima del &7&lGenerador&r para recoger los Bloques pero la forma en que funciona es diferente. \\n\\nPara que funcione necesitaremos una &cFuente de Lava&r y una &9Fuente de Agua&r en 2 de los Lados del &7&lGenerador&r. Entonces, comenzará a hacer &7Adoquín&r. \\n\\nSi queremos hacer otros Bloques como &7Andesita&r o incluso &5Obsidiana&r, necesitaremos colocar esos Bloques debajo del &7&lGenerador&r. ¡Consulta JEI para ver más Recetas! \\n\\n¡Podemos mejorar los &l&7Generadores&r, estos simplemente los Acelerarán!"
+		"{image:atm:textures/questpics/chap1/chap1_stone.png width:150 height:100 align:center}"
+	]
+	quest.647E94E2156CB596.title: "&7&lGenerador de Piedra"
+	quest.658751C690E2B520.quest_subtitle: "Martillear Pizarra Profunda"
+	quest.6C1D268CE2B0D05D.quest_desc: [
+		"Cocina algo de &3Porcelana&r en un &c&lCrisol de Porcelana&r. \\n\\nEstos tienen 1 propósito. ¡Cocinar Objetos en &cLava&r! \\n\\nLanza el &c&lCrisol&r sobre una &6Fuente de Calor&r. Algo de &6Calor&r más acelerará el proceso. El &cFuego&r hace más que las &eLinternas&r, la &cLava &fhace más que el &cFuego&r. \\n\\nLuego, coloca Bloques en el &c&lCrisol&r. Como &7Piedra&r o incluso &4Netherrack&r. ¡Después de un tiempo hará &cLava&r!"
+		"{image:atm:textures/questpics/chap1/chap1_lava.png width:120 height:200 align:center}"
+	]
+	quest.6C1D268CE2B0D05D.title: "&c&lCrisol de Porcelana"
+	quest.6CCF2126B2BA72A6.quest_desc: ["Normalmente encontramos &2Musgo&r en &2Cuevas Exuberantes&r... ummm ¿dónde hay Cuevas en el &b&lCielo&r? \\n\\n¡Bueno, siempre podemos combinar 4 &2Semillas de Césped&r para hacer 1 &2Musgo&r! \\n\\n¿Eso no suena como un trato justo? ¿Olvidaste que puedes usar Polvo de Hueso en el &2Musgo&r para extenderlo a toda la Tierra, &2Césped&r, y &7Piedra&r cercanos. \\n\\n¡El &2Musgo&r se puede &bCribar&r como la Tierra pero en lugar de obtener &2Cultivos&r obtendremos &2Brotes&r!"]
+	quest.6CCF2126B2BA72A6.title: "&2Musgo"
+	quest.70C2B568FA46337F.quest_desc: ["Necesitaremos mucha &7Grava&f/&eArena&r/Polvo. ¡Así que hagamos 9x más a la vez! \\n\\nCombina 9 &8Martillos&r en un &8Martillo Comprimido&r. Estos pueden &8Martillear&r Bloques Comprimidos como si fueran Bloques normales. \\n\\nEl &7Adoquín Comprimido&r dará 9 de &7Grava&r con el &8Martillo&r."]
+	quest.70C2B568FA46337F.title: "Triturando Bloques Comprimidos"
+	quest.79D6F21C1E1D1749.quest_desc: ["El trauma de todos los Mundos de &b&lSkyblock&r fallidos... la &5Obsidiana&r. \\n\\nComo muchos Jugadores de &b&lSkyblock&r han aprendido, cuando el &9Agua &ftoca un Bloque de &cFuente de Lava&r hará &5Obsidiana&r. \\n\\n¡Podemos hacer esto de una manera más pacífica usando &6&lBarriles&r!"]
+	quest.79D6F21C1E1D1749.title: "&5Obsidiana"
+	quest.7ADFD864139BF2F2.quest_desc: ["¡Bienvenido al &b&lCielo&r! \\n\\nPodrías notar la falta de... bueno, ¡básicamente todo! \\n\\nEn caso de que tengas un problema de demasiado suelo (Mundo normal &2&r, no &bSkyblock&r) entonces consulta las FAQ en el &9Discord&r para obtener tu respuesta. \\n\\nUsa el comando \"/skyblock gui\" esto te permitirá hacer un Equipo para comenzar una Isla! Selecciona el tipo así como el Nombre para empezar. El resto de las configuraciones son para Multijugador."]
+	quest.7ADFD864139BF2F2.quest_subtitle: "¡Bienvenido a All The Mods 10: To the Sky! Ahora en dos dígitos."
+	quest.7ADFD864139BF2F2.title: "Empezando"
+	quest.7B08D4FC6F1B0005.quest_desc: ["¡Pon algo de &9Agua&r en un &6&lBarril&r y luego Lanza un Bloque de Polvo en él para obtener &7Arcilla&r! \\n\\nNecesitarás hacer Clic Derecho en el &6&lBarril&r para sacar la &7Arcilla&r. \\n\\nNecesitaremos &7Arcilla&r para algunas cosas como &cLadrillos de Fuego&r y &3Arcilla de Porcelana&r."]
+	quest.7B08D4FC6F1B0005.title: "&7Arcilla"
+	quest.7CC729E68A89D962.quest_desc: ["¡Podemos combinar &9Agua&r y Leche en un &6&lBarril&r para obtener &aBloques de Slime&r! \\n\\n¿Cómo funciona eso? \\n\\n¡No lo sé! \\n\\n¡Y realmente no quiero saberlo!"]
+	quest.7CC729E68A89D962.quest_subtitle: "Viscoso y pegajoso"
+	quest.7CC729E68A89D962.title: "&aSlime"
+	task.2019707AE4DAC703.title: "{atm9.quest.start1.emergency}"
+}

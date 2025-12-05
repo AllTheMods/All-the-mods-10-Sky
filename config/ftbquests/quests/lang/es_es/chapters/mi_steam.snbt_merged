@@ -1,0 +1,85 @@
+{
+	quest.088CA7B6D4899846.quest_desc: ["El &#65C2A6Empaquetador&r se usa para crear &#53E67BLingotes Dobles&r, &#53E67BCuchillas&r y &#53E67BCables&r. Junto con esto hay muchos otros usos para la máquina pero estos serán los principales para ti."]
+	quest.0DAF5D42694EA8C9.quest_desc: [
+		"&#6E6D6D&nMartillo de Forja&r es el comienzo de tu viaje. Tiene muchos usos como obtener una &#B53A3Amejor salida&r de tus minerales hasta hacer &#DBD25Acomponentes&r para futuros crafteos."
+		""
+		"El &7Martillo&r que crafteaste no es requerido para una receta pero te dará una mejor salida en los &#DBD25Acomponentes&r que craftees."
+	]
+	quest.0DAF5D42694EA8C9.title: "&#949494Martillo de Forja"
+	quest.1036837C9AD3F301.quest_desc: ["El &#6E6D6DMartillo de Forja&r te permitirá triturar fácilmente Lingotes de &#FFAC3BCobre&r o formas de Mineral en sus Polvos."]
+	quest.12F9705ACB8FB300.quest_desc: [
+		"La &#EDD653&nMáquina de Corte&r te permite hacer muchos crafteos. Los importantes son los Pernos. "
+		""
+		"La &#EDD653&nMáquina de Corte&r funciona con &#E3993DLubricante&r el cual se obtiene usando el &#EDD653&nMezclador&r."
+	]
+	quest.12FB3990CA1653A4.quest_desc: [
+		"El &#DBA15ATaladro de Vapor&r será tu mejor amigo para la minería del juego temprano. Es capaz de hacer un área de minería de &53 por 3&r así como tener un &#EEF768toque de seda activable&r."
+		""
+		"Puedes alternar la minería &53 por 3&r presionando la tecla \"Alternar Minería 3x3\" la cual está establecida por defecto a &7'Y'&r."
+		""
+		"&#EEF768Toque de Seda&r puede ser alternado haciendo &7Shift Clic-Derecho&r en el Taladro de Vapor"
+		""
+		"Para llenar el &#DBA15ATaladro de Vapor&r, puedes sostener el taladro sobre un &6combustible&r en tu inventario y hacer &7Clic-Derecho&r. &9Agua&r puede ser o &7Clic-Derecho&r en el mundo o puedes llevar un cubo de agua contigo."
+	]
+	quest.1C9D3FC67D58AC02.quest_desc: ["El &#EDD653&nMezclador&r nos permitirá combinar items y fluidos. Pueden ser usados para teñir items o incluso duplicarlos."]
+	quest.1E4E462928F2A71C.quest_desc: [
+		"El &7&nHorno de Coque&r será usado para convertir &#787777Carbón&r a &#696464Coque&r. &#696464Coque&r es 4 veces tan efectivo como combustible que el &#787777Carbón&r. "
+		""
+		"El multibloque puede ser previsualizado sosteniendo una &#D1D15Ellave inglesa&r en tu mano secundaria o principal. Sostener &#B4D95Descotillas&r en tu mano te dirá las posibles posiciones para ellas."
+		""
+		"El &7&nHorno de Coque&r es un multibloque hueco hecho mayormente de ladrillos."
+	]
+	quest.21A4FE1741E4E78C.quest_desc: [
+		"La &#65C2A6Cantera&r es un multibloque para generar recursos. Requiere &aTaladros&r y &7Vapor&r para funcionar."
+		""
+		"Cada iteración tiene una probabilidad de consumir el &aTaladro&r. Mejores &aTaladros&r dan mejores recursos."
+		""
+		"La Cantera de Vapor solo puede usar &#DEA14BCobre&r y &#DE9531Taladros de Bronce&r. También puede usar &#8A5C1ETierra&r para generar Piedras."
+	]
+	quest.21A4FE1741E4E78C.quest_subtitle: "Recursos Infinitos"
+	quest.23708582B1064C9D.quest_desc: ["Un &#46DBBBCircuito&r requerirá algunos de estos componentes básicos para funcionar, automatizar partes de estos será útil en el futuro."]
+	quest.23708582B1064C9D.title: "Capacitancia y Resistencia"
+	quest.24285F25F9563B02.quest_desc: ["El &#467FDB&nCircuito Analógico&r, ¡ah! finalmente lo lograste. Usualmente otras personas tomaron la mitad del tiempo que tú pero no te lo tendré en cuenta..."]
+	quest.24285F25F9563B02.quest_subtitle: "Conceptos Básicos de Electrónica"
+	quest.253822C64BBBB1EB.quest_desc: ["El &#6E6D6DMartillo de Forja&r te permitirá triturar fácilmente Lingotes de &#9AD5EDEstaño&r o formas de Mineral en sus Polvos."]
+	quest.357DDE894EB512F7.quest_desc: ["El &#65C2A6Trefilador&r es capaz de aplicar la cantidad justa de fuerza para hacer &#53E67BCables&r para nosotros. ¡¡Impactante!! Lo sé..."]
+	quest.3AA4D1B60E4E71A5.quest_desc: ["Todos los &cmultibloques&r son definidos por las &eescotillas&r puestas en ellos. Mejorar estas &eescotillas&r en los &cmultibloques&r mejorará la máquina como un todo."]
+	quest.41877F44CD3D1EDB.quest_desc: ["El &#E3BC19Horno de Bronce&r actúa justo como uno regular, la única diferencia mayor es que corre con vapor y es el doble de rápido."]
+	quest.458BFDB636F8B495.quest_desc: ["Combinar el polvo de Coque con Hierro dará Polvo de Acero Sin Cocinar. Cocinarlo en el Alto Horno de Vapor te dará Lingotes de Acero requeridos para la progresión futura."]
+	quest.478C1AF86610A8B7.quest_desc: ["El &#EDD653&nCompresor&r es usado para hacer &#53EDAAPlacas&r, &#53EDAAPlacas Curvas&r y &#53EDAAAnillos&r."]
+	quest.48F77A0BE1F33B29.quest_desc: ["Usando el recientemente construido &#65C2A6Trefilador&r, ahora podemos hacer &#53E67BCables&r y &#53E67BCables Finos&r lo cual nos llevará a la electricidad."]
+	quest.48F77A0BE1F33B29.title: "Cable Terrible"
+	quest.4E69C6ABFE467C25.quest_desc: ["El &#65C2A6Fundidor de Aleaciones&r viene de &#3187C4Extended Industrialization&r. Combina la tarea de &#4C4BDEMezclador&r y &#954BDEHorno&r en uno, por lo tanto haciendo el trabajo menos tedioso."]
+	quest.55C6BBC996B51838.quest_desc: [
+		"&#ED9553Caldera de Bronce&r convierte &9agua&r en vapor. El vapor actuará como combustible para que tus máquinas funcionen en la &7&nEra de Vapor&r."
+		""
+		"Para usar la máquina, simplemente provéela con &9agua&r y cualquier &#ED5353combustible de horno&r. Esto elevará la temperatura de la máquina, a temperatura máxima será capaz de manejar 4 máquinas simultáneamente."
+	]
+	quest.55C6BBC996B51838.quest_subtitle: "Hirviendo agua"
+	quest.589DFDB8FB7211AA.quest_desc: ["La producción de &7Caucho&r para tu movimiento a la &#C1DB46&nEra Eléctrica&r es trivial. Automatizarlo lo antes posible te llevará más lejos de lo que crees."]
+	quest.589DFDB8FB7211AA.title: "Caucho y Placa de Circuito"
+	quest.5CCF92238B23EDC9.quest_desc: [
+		"&#A0DE45&nModern Industrialization&r es un mod que es similar a &#D93D3DIC2&r y &#D93D3DGregTech&r en su naturaleza pero debes progresar diferente que esos 2 mods."
+		""
+		"A través de estas misiones, te guiaré para hacer las partes requeridas para la &#43E898Armadura Infinita&r."
+	]
+	quest.5CCF92238B23EDC9.quest_subtitle: "Leer ayudará"
+	quest.5CCF92238B23EDC9.title: "&#A0DE45Bienvenido a Modern Industrialization"
+	quest.5E191081662C2F1A.quest_desc: ["El &#6E6D6DMartillo de Forja&r actúa como el bloque de estación de trabajo para el aldeano de &#A0DE45Modern Industrialization&r. Este aldeano te dará una amplia variedad de intercambios útiles."]
+	quest.68EAB0248989FC97.quest_desc: [
+		"El &#EDD653&nAlto Horno de Vapor&r desbloquea nuevos horizontes de progresión. Este será un multibloque clave en tus futuros esfuerzos."
+		""
+		"No solo este multibloque te permitirá hacer &7Lingotes de Acero&r sino que también permite el procesamiento de &#696E60Aceite Sintético Crudo&r a &#494D43Aceite Sintético&r el cual será usado más tarde para &#36472ACaucho&r y más cosas."
+	]
+	quest.7282DCB1547CEB63.quest_desc: ["&#ED9553Bronce&r actuará como el bloque de construcción de la &7&nEra de Vapor&r. Cocinar este polvo te dará los &#ED9553Lingotes de Bronce&r que usaremos más adelante."]
+	quest.7282DCB1547CEB63.title: "&#EDD653Bronce"
+	quest.7A873E48E38B5C0E.quest_desc: ["Las Máquinas de Acero usan el doble de vapor que las de Bronce pero también lo compensan con el doble de aumento de velocidad."]
+	quest.7D220876E8FF7AED.quest_desc: [
+		"El &#65C2A6Desempaquetador&r tiene muchos usos desde ser capaz de desempaquetar &#53E67BBloque en Lingotes&r y más hasta &#53E67Breciclar partes&r de máquinas."
+		""
+		"&oIncluso puedes obtener Lingotes de Silicio más fáciles de él.&r"
+	]
+	task.198A217D6A4C951C.title: "Intercambios de Aldeano"
+	task.31BE41B971794377.title: "Era de Acero"
+	task.45C5CAC94406DF41.title: "Niveles de Multibloque"
+}

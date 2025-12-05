@@ -1,0 +1,44 @@
+{
+	quest.011F787E620DE9E8.quest_desc: ["Para configurar el Filtro de Mobs solo tienes que hacer clic en el Mob que nunca quieres ver de nuevo, con el Filtro de Mobs. \\n\\nCada Filtro solo puede contener 1 Mob así que si quieres que Zombis, Esqueletos, Arañas, Creepers, y Endermen no aparezcan más necesitarás 5 Filtros de Mobs. \\n\\nPuedes intercambiar el Mob en él simplemente haciendo clic en un Mob diferente con él."]
+	quest.011F787E620DE9E8.quest_subtitle: "¡Él no está invitado!"
+	quest.034A9FBCA6D79BB6.quest_desc: ["El Pilón Cosechador necesita una Azada para funcionar. \\n\\n(Las Azadas que no pueden romperse funcionarán para siempre, las Azadas que pueden necesitarán ser reemplazadas)."]
+	quest.09D18512037386C1.quest_desc: ["Para poner Efectos de Poción dentro necesitarás llenar un Filtro de Poción. \\n\\nPara hacerlo: ten un Efecto de Poción en ti, luego haz clic derecho con el Filtro de Poción para removerlo de ti y añadirlo al Filtro, y repite hasta que esté lleno y activo. \\n\\nEsto también funciona con Efectos de Poción moddeados o unos que usualmente no puedes obtener a través de Pociones como Prisa o Resistencia."]
+	quest.12ED1EE85E146A4B.quest_desc: [
+		"Los Pilones Cosechadores funcionan como una Granja Automática muy simple. Pon el Pilón en o dentro de la Fuente de Agua y automáticamente cosechará y replantará Cultivos que estén completamente crecidos en el área establecida alrededor de él. "
+		""
+		"El área puede ser establecida a 3x3, 5x5, 7x7, o 9x9 Bloques alrededor del Pilón. "
+		""
+		"Necesitará una Azada para usar en las Plantas y necesitará un Inventario como un cofre encima de él para poner los Cultivos. ¡Haz todo eso y si está Encendido comenzará a cultivar!"
+	]
+	quest.18246A48C20B29D8.quest_desc: ["¡El Pilón de Infusión funciona similar a un Faro solo que mucho mejor y más barato! \\nCuando un Efecto de Poción es puesto por un Filtro de Poción, ¡te dará continuamente el Efecto de Poción sin importar dónde estés! \\n\\nMe escuchaste bien, ya no hay un radio establecido para el Pilón de Infusión, ahora te alcanzará donde sea."]
+	quest.30B0240543253EFB.quest_desc: ["¡Pylons es un mod maravilloso hecho por nuestro propio &aMutant Gumdrop&r!\\n\\n¡No dejes que el tamaño del mod te haga subestimarlo! Provee muchos Pilones los cuales pueden ser usados para muchas cosas para ayudar a hacer jugar Minecraft más fácil.\\n\\nPara empezar necesitarás algo de Piedra Negra Pulida para hacerlos."]
+	quest.30B0240543253EFB.title: "&lPylons"
+	quest.32E52AD6EF194A60.quest_desc: ["El Pilón de Expulsión funciona como una forma de mantener a la gente fuera de tu propiedad. \\n\\nCuando se coloca mantendrá a cualquier Jugador que no esté en la lista blanca fuera de una cantidad establecida de Chunks alrededor de él. \\n\\nLos Chunks son establecidos en su GUI en la parte superior izquierda desde 1x1, 3x3, o 5x5 Chunks. \\n\\n¡También no, no puede ser establecido demasiado cerca del Spawn. Sabemos lo que ustedes trolls quieren y no lo daremos! \\n\\n¡Para poner en Lista Blanca a jugadores revisa la Quest de Filtro de Jugador!"]
+	quest.32E52AD6EF194A60.quest_subtitle: "¡Fuera de mi propiedad!"
+	quest.403F76908A8A5661.quest_desc: ["El Pilón de Expulsión empuja a los jugadores fuera del área, ¡pero qué tal si quieres a &lalgunos&r jugadores cerca! Entonces necesitarás un Filtro de Jugador. \\n\\nHaz Clic Derecho en un Jugador con él para establecerlo en él, ¡y luego ponlo en el Pilón para ponerlos en Lista Blanca! \\n\\n¡Así que cuando todos los demás sean empujados fuera, tu amigo no lo será! \\n\\nTambién por defecto el Dueño del Pilón no será expulsado."]
+	quest.5B5FC539BD1F4A73.quest_desc: [
+		"Este Pilón es todo sobre bloquear Spawns de Mobs. "
+		""
+		"¡Puedes usar Filtros de Mobs para bloquear spawns de solo ciertos Mobs o usar el Filtro Sin Vida para bloquear todos los spawns de Mobs! "
+		""
+		"Puedes apilar múltiples Filtros de Mobs para bloquear más spawns. Además puedes cambiar el Área de Trabajo para qué tan lejos bloquea esos Spawns de Mobs. "
+		""
+		"Si usas el Filtro Sin Vida ignorará todas esas configuraciones."
+	]
+	quest.5C2C29ECA67F9B49.quest_desc: [
+		"Con el Filtro Sin Vida nunca tendrás que preocuparte sobre ningún spawn de Mob dentro de un área de 25x25 Chunks. "
+		""
+		"¡Esto no incluye Spawns Forzados sin embargo, eso es Mobs spawneados de Spawners o incluso Huevos Generadores!"
+		""
+		"El 25x25 cubrirá cada distancia que los Mobs spawnean cerca del jugador. Hostiles o Pasivos. "
+		""
+		"¡Esto incluye cada Nivel Y también, arriba o abajo del Pilón, así que no más preocuparse sobre iluminar cuevas! "
+		""
+		"No hay Lista Blanca con este Filtro, prevendrá cada Spawn de Mob."
+	]
+	quest.5C2C29ECA67F9B49.quest_subtitle: "Finalmente paz y tranquilidad. "
+	quest.5E02AE661945306C.quest_desc: ["Esta Quest ha sido creada por &6AllTheMods Staff&r, o un &2colaborador de la Comunidad&r para uso en AllTheMods Modpacks. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por &6AllTheMods Team&r sin permiso explícito. \\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
+	task.35320BB07FB39D05.title: "TodosLosDerechosReservados"
+	task.59DD89698DBAA215.title: "TodosLosDerechosReservados"
+	task.616C07AFBAFA7AE4.title: "Azadas"
+}
