@@ -34,8 +34,7 @@ ServerEvents.recipes((allthemods) => {
     "mekanism:upgrade_anchor",
     "railcraft:world_spike",
     "railcraft:personal_world_spike",
-    "railcraft:world_spike_minecart",
-    "oritech:platinum_nugget"
+    "railcraft:world_spike_minecart"
   ]
 
   const seedRemovals = [
