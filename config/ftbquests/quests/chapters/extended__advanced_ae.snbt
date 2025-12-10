@@ -53,8 +53,8 @@
 			image: "atm:textures/questpics/extended_advanced_ae/quantum_computer.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 10.0d
-			y: 7.0d
+			x: 10.5d
+			y: 8.0d
 		}
 		{
 			height: 5.0d
@@ -1526,6 +1526,69 @@
 			}]
 			x: 4.5d
 			y: -1.0d
+		}
+		{
+			dependencies: ["1A20BBBAFBEDF911"]
+			icon: {
+				components: {
+					"ftbquests:icon": "advanced_ae:block/crafting/quantum_internal_powered_animation"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "33B7C1D2A229EB5C"
+			rewards: [
+				{
+					count: 18
+					id: "2A93266B79348FDA"
+					item: {
+						count: 1
+						id: "advanced_ae:quantum_structure"
+					}
+					type: "item"
+				}
+				{
+					count: 23
+					id: "37F0143ECDCA50A0"
+					item: {
+						count: 1
+						id: "advanced_ae:quantum_accelerator"
+					}
+					type: "item"
+				}
+				{
+					id: "4B1E1BF2FF533B25"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			shape: "none"
+			size: 2.0d
+			tasks: [
+				{
+					count: 200L
+					id: "2C7A41048C1FF413"
+					item: { count: 1, id: "advanced_ae:quantum_structure" }
+					type: "item"
+				}
+				{
+					count: 100L
+					id: "10C18F67CBE3A6FF"
+					item: { count: 1, id: "advanced_ae:quantum_accelerator" }
+					type: "item"
+				}
+				{
+					id: "4DE22C031756655B"
+					item: { count: 1, id: "advanced_ae:quantum_core" }
+					type: "item"
+				}
+				{
+					id: "0345E62514E11269"
+					item: { count: 1, id: "advanced_ae:quantum_multi_threader" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.0d
 		}
 	]
 }
