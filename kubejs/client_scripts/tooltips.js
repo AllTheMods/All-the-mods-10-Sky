@@ -68,6 +68,7 @@ ItemEvents.modifyTooltips((allthemods) => {
   ])
   //Occultism
   allthemods.add("kubejs:ritual_dummy/honeycomb", [Text.of("§7Tier: Foliot")])
+  allthemods.add("kubejs:ritual_dummy/misc_demonic_sapling", [Text.of("§7Tier: Wild")])
 
   //Create
   allthemods.add("create:limestone", [Text.of("Make a Lava Source Block flow on top of Create Honey").gray()])
