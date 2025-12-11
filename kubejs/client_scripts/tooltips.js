@@ -75,25 +75,26 @@ ItemEvents.modifyTooltips((allthemods) => {
 
   allthemods.add("create:scoria", [Text.of("Make a Lava Source Block flow on top of Create Chocolate").gray()])
   // Botany Pot warning for Sculk
-  allthemods.add([
-	"minecraft:sculk",
-	"minecraft:sculk_sensor",
-	"minecraft:sculk_catalyst",
-	"minecraft:sculk_vein",
-	"minecraft:sculk_shrieker",
-	],
-	[
-		Text.of("§9In a Botany Pot: Requires a hoe enchanted with Silk Touch to be harvested")
-	])
-	// Apotheosis Gateway Warning
-  allthemods.add([
-	'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/frontier"]',
-	'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/ascent"]',
-	'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/summit"]',
-	'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/pinnacle"]'],
-	[
-		Text.of("§cWARNING: Will implode at wave 3 in a Compact Machine or AE2 Spatial Storage")
-	])
+  allthemods.add(
+    [
+      "minecraft:sculk",
+      "minecraft:sculk_sensor",
+      "minecraft:sculk_catalyst",
+      "minecraft:sculk_vein",
+      "minecraft:sculk_shrieker"
+    ],
+    [Text.of("§9In a Botany Pot: Requires a hoe enchanted with Silk Touch to be harvested")]
+  )
+  // Apotheosis Gateway Warning
+  allthemods.add(
+    [
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/frontier"]',
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/ascent"]',
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/summit"]',
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/pinnacle"]'
+    ],
+    [Text.of("§cWARNING: Will implode at wave 3 in a Compact Machine or AE2 Spatial Storage")]
+  )
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
