@@ -49,6 +49,9 @@ ServerEvents.tags("block", (allthemods) => {
   allthemods.add("justdirethings:tick_speed_deny", "#allthemods:tick_acceleration_blacklist")
   allthemods.add("tiab:un_acceleratable", "#allthemods:tick_acceleration_blacklist")
   //allthemods.add('industrialforegoingsouls:cant_accelerate', '#allthemods:tick_acceleration_blacklist')
+
+  // Fix Jank with Feral Flares and Enchanting
+  allthemods.add("minecraft:replaceable", "torchmaster:invisible_light")
 })
 
 ServerEvents.tags("item", (allthemods) => {
