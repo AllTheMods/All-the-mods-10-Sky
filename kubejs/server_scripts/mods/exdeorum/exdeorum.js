@@ -166,10 +166,7 @@ ServerEvents.recipes((allthemods) => {
   ;[
     "integrateddynamics:menril_sapling",
     "forbidden_arcanus:growing_edelwood",
-    "ars_elemental:yellow_archwood_sapling",
-    "allthemodium:ancient_sapling",
-    "allthemodium:demonic_sapling",
-    "allthemodium:soul_sapling"
+    "ars_elemental:yellow_archwood_sapling"
   ].forEach((sapling) => {
     sieving(sapling, Materials.Moss, [
       { mesh: Meshes.IRON, chance: 0.01 },
