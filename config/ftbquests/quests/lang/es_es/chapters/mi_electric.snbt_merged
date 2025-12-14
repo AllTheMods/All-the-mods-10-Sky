@@ -1,0 +1,113 @@
+{
+	quest.068128395837AF4F.quest_subtitle: "Igual que el de vapor"
+	quest.08C870DC50CA49FC.quest_desc: [
+		"&#5C5C5CPetróleo Crudo&r por sí solo no es de mucha utilidad para nosotros, pero cuando se pasa por una destilería, obtenemos productos que pueden usarse para muchísimos propósitos."
+		""
+		"Podemos producir &#C4C241Combustible Pesado Sulfúrico&r, &#CECC5FCombustible Ligero Sulfúrico&r y &#D9D782Nafta Sulfúrica&r con él."
+	]
+	quest.08C870DC50CA49FC.title: "Procesamiento de &#5C5C5CPetróleo Crudo"
+	quest.0903F0D8642449B7.quest_desc: ["Pasando de la &6circuitería analógica&r, ahora podemos procesar más de 2 bits de información. Esto abre horizontes para algunas máquinas nuevas"]
+	quest.0A9ADDE68342B987.quest_desc: [
+		"Para hacer &#43DEC2Polietileno&r, sigues la cadena de químicos de esta manera:"
+		""
+		"&8Petróleo crudo&r -> &#D2CD2DCombustible Ligero Sulfúrico&r-> &#DBD658Combustible Ligero&r-> &#E2DF78Combustible Ligero Craqueado con Vapor&r -> &#44D1DBEtileno&r -> &#43DEC2Polietileno&r."
+	]
+	quest.0C94D76B87E49FFD.title: "Procesamiento de Hierro"
+	quest.103728F2BAD5AE84.title: "Componentes Avanzados"
+	quest.1351D0594F1E6551.quest_desc: ["Estos &#55EDA4componentes básicos&r nos llevarán al siguiente avance en procesamiento."]
+	quest.1351D0594F1E6551.title: "Componentes de Circuito"
+	quest.162807D14C173CB4.quest_desc: ["La &#5599EDCentrífuga&r confirmó nuestra teoría de que si giramos algo lo suficientemente rápido, un nuevo material simplemente sale de él. Tiene muchos usos, pero lo necesitarás principalmente para el procesamiento de &#F2AAE5Cromo&r y &#AD3497Monacita&r. "]
+	quest.162807D14C173CB4.quest_subtitle: "Giras mi cabeza vuelta vuelta..."
+	quest.1745124F83D033B9.title: "Componentes Básicos"
+	quest.18C0EF38430C3E67.quest_subtitle: "La Era Digital"
+	quest.1A84DF4478D55C41.quest_subtitle: "Igual que el de vapor"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["El &#4497DBmódulo Overdrive&r preserva la eficiencia de la máquina incluso cuando la receta no se está ejecutando actualmente. A cambio, bloquea la máquina para la receta."]
+	quest.1E0EF28175A7424F.quest_desc: ["Ya que estás produciendo vapor, ¿por qué no usarlo para hacer electricidad? Simplemente coloca una &#6363DBTurbina&r y pon &7vapor&r dentro y saca &#DBDB63electricidad&r."]
+	quest.1E0EF28175A7424F.quest_subtitle: "Vapor -> Electricidad"
+	quest.1F21B578FAF4CCAC.quest_subtitle: "Igual que el de vapor"
+	quest.1F3E18129B871C49.quest_subtitle: "Igual que el de vapor"
+	quest.22AD9DF2BCC04575.quest_subtitle: "Creando la energía"
+	quest.22AD9DF2BCC04575.title: "Generación de Electricidad"
+	quest.256C3DBA392B4236.quest_desc: ["Electrolizar las Soluciones Ácidas para Manganeso y Cromo te dará sus Polvos que pueden usarse para futuras recetas."]
+	quest.256C3DBA392B4236.quest_subtitle: "9 Polvos Diminutos dan 1 Polvo"
+	quest.2EF0C033C540A7B1.title: "Procesamiento de Rubí"
+	quest.32D585D9F73CD9FD.quest_desc: ["El &#EDDF55Alto Horno Eléctrico&r te permitirá cocinar varios recursos diferentes. Las recetas requieren que se use una &#B8ED55bobina específica&r en la estructura."]
+	quest.374C06B3999BB0D3.quest_desc: ["Mezclar &#C2C78BHierro&r, &#EDB2EACromo&r, &#BEC9A3Níquel&r y &7Manganeso&r te dará &#ADF0EEPolvo de Acero Inoxidable&r."]
+	quest.3A03852E282DAA4D.quest_desc: ["El &#ED8055Electrolizador&r es capaz de proporcionar suficiente energía en ráfagas al material para que se descomponga en recursos más fundamentales."]
+	quest.3B9D9CB589DB2003.quest_desc: [
+		"Las máquinas de &#71EBB4&nModern Industrialization&r funcionan de manera diferente a otros mods. Todas las máquinas tienen un &#E5EB71multiplicador de eficiencia&r, este aumenta a medida que tienes una receta en la máquina que fabrica. La &#E5EB71Eficiencia&r aumenta la &#E5EB71velocidad&r de la máquina. La &#E5EB71Eficiencia&r se reinicia cuando cambia la receta."
+		""
+		"Se te aconseja usar 1 máquina para 1 receta produciendo componentes pasivamente. Así es como se supone que se debe jugar el mod. Las mejoras harán que el sistema sea mejor. Esto se cubrirá en el futuro."
+		""
+		"{image:atm:textures/questpics/modernindustrialization/prod_line.png width:100 height:100 align:center}"
+		""
+		"{@pagebreak}"
+		"Todas las máquinas de este mod aceptan FE como energía. &c16 FE&r se convierte a &#E1EB591 EU&r de energía."
+	]
+	quest.3B9D9CB589DB2003.quest_subtitle: "Esto ayudará"
+	quest.3CE72DAF431269CD.quest_desc: ["El &#D6AC2FPolarizador&r es capaz de magnetizar los materiales puestos en él."]
+	quest.401A3FD6A3511870.quest_subtitle: "Ábrete Sésamo"
+	quest.401A3FD6A3511870.title: "Puertas Lógicas"
+	quest.401B559649C54C5C.quest_desc: ["Mezclar &#92CCF0Hidrógeno&r y &#519BC9Cloro&r te dará &#4FB373Ácido Clorhídrico&r. Esto se usará para procesar &#F2A0E1Polvo de Cromo&r."]
+	quest.408EBED932656006.quest_desc: ["Dopar &7Silicio&r te dará un rendimiento mucho mejor que usar &7Silicio&r base."]
+	quest.408EBED932656006.title: "Silicio Dopado"
+	quest.413F338DB07BA88C.quest_subtitle: "Igual que el de vapor"
+	quest.4A5A143A79809BB6.quest_desc: [
+		"Ah sí, finalmente lo lograste. Bienvenido a la Era Eléctrica, este es el verdadero comienzo de tu aventura."
+		""
+		"Primero que nada, necesitamos Aleación de Batería... para hacer baterías, impactante, lo sé."
+	]
+	quest.4A5A143A79809BB6.quest_subtitle: "Aleación de Batería"
+	quest.4A5A143A79809BB6.title: "La Era Eléctrica"
+	quest.4E7B1B16C7CDA84C.quest_subtitle: "Igual que el de vapor"
+	quest.532BCAB3FBF91B1D.quest_desc: [
+		"Las &#44DB9CMejoras&r añaden la habilidad para que las máquinas pasen a un estado de &#4467DBoverclock&r aumentando aún más la velocidad máxima de la máquina."
+		""
+		"Una máquina puede esperar hasta un stack de cualquier tier de mejoras. La &#CEDB44Mejora Básica&r añade &#F7F448+2EU/t&r a la capacidad por mejora."
+	]
+	quest.548274CC00E67EC4.quest_desc: ["Transferir electricidad es simple, solo colocas un cable entre tus &#F5B027Generadores&r y &#3CC1FAMáquinas&r. Los cables LV pueden transferir &#EEFA3C256 EU/t&r como máximo."]
+	quest.548274CC00E67EC4.quest_subtitle: "Límites de Cable"
+	quest.548274CC00E67EC4.title: "Cables LV"
+	quest.54CE9493B63620C4.quest_desc: ["El &#AC59EBGenerador Diésel&r convierte una variedad de combustibles líquidos a electricidad. El más accesible para ti al principio será &7Aceite de Creosota&r y &8Aceite Sintético&r."]
+	quest.54CE9493B63620C4.quest_subtitle: "Combustibles Líquidos -> Electricidad"
+	quest.55BB4005BB4CA316.title: "Procesamiento de Monacita"
+	quest.5A62260FB3850092.quest_desc: ["Mezclar &eAzufre&r, &#6ACDE6Oxígeno&r y &9Agua&r te dará &#D3D955Ácido Sulfúrico&r. Esto se usará para procesar &7Polvo de Manganeso&r."]
+	quest.5AA8D2A1F3618615.quest_subtitle: "Moviendo electricidad"
+	quest.5B50AC47957F0CD7.quest_desc: ["La &7Plataforma Petrolífera&r perforará &#7A7A7APetróleo de Esquisto&r y &#918686Petróleo Crudo&r para ti."]
+	quest.5B50AC47957F0CD7.quest_subtitle: "Sonidos de águila"
+	quest.5D404ED40C6C2690.quest_subtitle: "Entrada de más energía"
+	quest.604C003EE6B1CC6B.quest_subtitle: "Igual que el de vapor"
+	quest.6256612D46C88C0C.quest_desc: [
+		"Los &#723CFATransformadores&r convierten un rango de energía a otro. "
+		""
+		"&#723CFATransformadores&r &#EBC471LV&r a &#DDE548MV&r: Convierten energía &#EBC471LV&r a energía &#DDE548MV&r, tiene 5 entradas y 1 salida."
+		""
+		"&#723CFATransformadores&r &#DDE548MV&r a &#EBC471LV&r: Convierten energía &#DDE548MV&r a energía &#EBC471LV&r, tiene 1 entrada y 5 salidas."
+	]
+	quest.6256612D46C88C0C.quest_subtitle: "\"La libertad es el derecho de todos los seres sintientes\""
+	quest.6256612D46C88C0C.title: "Transformadores LV-MV"
+	quest.6647A9652EFDDCDF.quest_desc: ["Para enfriar el &#ADF0EELingote de Acero Inoxidable Caliente&r simplemente ponlo en un &#56E3DFCongelador de Vacío&r para convertirlo en &#ADF0EELingote de Acero Inoxidable&r usable."]
+	quest.66D4256F79D5B30B.quest_subtitle: "Igual que el de vapor"
+	quest.6A25ED4059E224D2.quest_desc: [
+		"La &#ED5585Destilería&r se usa para destilar ciertos fluidos para recibir mejores salidas más adecuadas para nuestro uso. "
+		""
+		"Debes bloquear la receta para obtener lo que quieres si una entrada singular produce muchas salidas. Primero haz clic en el icono de candado en la GUI, haz clic en la flecha y luego en el icono &7'+'&r en tu receta deseada. "
+	]
+	quest.6A25ED4059E224D2.quest_subtitle: "Bloquea la receta"
+	quest.6E7DF4AF86A036EC.title: "Procesamiento de Petróleo de Esquisto"
+	quest.72FFD9E471242D68.quest_desc: ["El Acero Inoxidable requiere más calor para fundirse que un horno normal. Debemos usar nuestro Alto Horno Eléctrico previamente construido."]
+	quest.744E620B7DEBB483.quest_desc: ["El &#27CFF5Congelador de Vacío&r se usará para enfriar &#E6AD1ELingotes Calientes&r o ciertos fluidos para mejores ratios de items que ya has estado produciendo."]
+	quest.744E620B7DEBB483.quest_subtitle: "Bing Chilling"
+	quest.76660075F254597E.quest_desc: ["La &#F5B758Mejora Avanzada&r añade &#EDE02F16 EU/t&r de uso máximo por mejora."]
+	quest.7E3B19796870C2B1.quest_desc: ["El &#9955EDReactor Químico&r será una de las máquinas más útiles para ti en el futuro. Se usará para crear varios químicos."]
+	quest.7EDBE88A2CFAB353.quest_desc: [
+		"Los &#562FD6Ensambladores&r se usan para hacer un montón de componentes y máquinas. Son capaces de hacer trabajos de crafteo de una manera automática."
+		"También ofrecen variantes &amucho más baratas&r de algunas recetas que ya has usado."
+	]
+	quest.7EDBE88A2CFAB353.quest_subtitle: "Necesitarás muchos"
+	quest.7FE5864E59D7B827.quest_desc: ["Los &#6784EBCascos&r controlan la cantidad de energía que puede ser empujada dentro de una máquina. A medida que pones mejoras en la máquina, necesitarás un &#6784EBCasco&r de tier más alto en ella para aceptar más energía. El tier del &#6784EBCasco&r también afecta qué cable puede conectarse a él."]
+	quest.7FE5864E59D7B827.quest_subtitle: "Bloque de construcción básico"
+	task.12433760FD40CB3A.title: "Lee esto cuidadosamente"
+	task.1489DD401D237541.title: "Electricidad"
+	task.1FE598387B609AE5.title: "Transferencia de Electricidad"
+}

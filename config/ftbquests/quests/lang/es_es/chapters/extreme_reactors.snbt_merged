@@ -1,0 +1,112 @@
+{
+	quest.0B1DF8A040826D87.quest_desc: ["Ahora que tienes &cRossinite&r, puedes mezclarlo con &aBenitoite&r para crear lingotes de &dInsanite&r.\\n\\n&aMena de Benitoite&r se puede encontrar en el Nether."]
+	quest.0B1DF8A040826D87.title: "Insanite"
+	quest.14E5349DD740D026.quest_desc: [
+		"Para insertar combustible en el reactor, necesitarás elegir uno de los lados que tenga un &9Puerto de Acceso Sólido de Reactor&r y bombear &eUranio&r desde un inventario."
+		""
+		"La forma más fácil de hacer esto es usar algo como un &aCajón de Almacenamiento&r o incluso solo un &aCofre&r con una &9Tubería de Items&r conectada en la parte superior, como la imagen mostrada abajo.\\n"
+		"{image:atm:textures/questpics/extremereactors/importexample.png width:150 height:150 align:1}"
+	]
+	quest.14E5349DD740D026.title: "Alimentando nuestro Reactor Pasivo"
+	quest.186731580B14F9D2.quest_desc: ["Para interactuar con nuestra Turbina, necesitaremos varios &6Puertos&r.\\n\\nEl &9Puerto de Fluido&r es usado para insertar vapores como &bVapor&r, o extraer escape, como &9agua&r. Debido a esto, necesitarás dos para tu Turbina.\\n\\nLa &cToma de Energía&r extrae energía, y es requerida para completar el multibloque."]
+	quest.186731580B14F9D2.title: "Puertos de Turbina"
+	quest.19DE6EBEA8219E8E.quest_desc: ["Esta Quest ha sido creada por &6AllTheMods Staff&r, o un &2colaborador de la Comunidad&r para uso en AllTheMods Modpacks. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por &6AllTheMods Team&r sin permiso explícito. \\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
+	quest.2598273041353196.quest_desc: ["Cuando construyas el &aReprocesador&r, necesitarás al menos un &eColector&r e &9Inyector de Residuos&r.\\n\\nEl &eColector de Reprocesador&r debe ser colocado en el centro de la cara inferior de la estructura.\\n\\nEl &9Inyector de Residuos&r debe ir en el centro de la cara superior, que es donde bombearás o insertarás residuos como &9Lingotes de Cyanite&r."]
+	quest.2598273041353196.title: "Importando Residuos"
+	quest.25D4406CB86C8CBB.quest_desc: ["Ahora que estamos recolectando algunos &9residuos&r de nuestro reactor, parte de la progresión requiere que \"Fluidices\" algunos de los lingotes que obtienes. ¿Sabes lo que eso significa?\\n\\n¡Necesitamos hacer un &aFluidizador&r! El componente principal es el &aControlador de Fluidizador&r. Una vez construido, puedes hacer clic derecho en este para abrir la interfaz. Aquí, puedes encenderlo o apagarlo, ver qué hay dentro, y el nivel de energía actual."]
+	quest.25D4406CB86C8CBB.title: "El Fluidizador"
+	quest.2A20000FAEC2E16A.quest_desc: ["Para extraer energía o items de tu reactor, o incluso introducir combustible, necesitarás estos bloques &crequeridos&r.\\n\\nLa &cToma de Energía&r proporciona una forma para que \"tomes\" la energía que un reactor &9pasivo&r hace. Puedes adjuntar tuberías y cables para extraer la energía de él.\\n\\nLos &aPuertos de Acceso&r son requeridos para cada reactor, y te permiten tanto introducir combustible al reactor, o extraer residuos. Es usualmente una buena idea tener 2 por reactor, uno para cada trabajo."]
+	quest.2A20000FAEC2E16A.title: "Interactuando con el Reactor"
+	quest.2AF31F1769085641.quest_desc: [
+		"El &aReprocesador&r es una estructura multibloque de 3x3x7 que tiene reglas específicas para completar la construcción del multibloque."
+		""
+		"El corazón de este multibloque es el &aControlador&r, y puede ser colocado en cualquier cara vertical siempre y cuando no esté en el marco."
+	]
+	quest.2D592669F4D41793.quest_desc: ["Justo como el Reactor, el marco debe ser construido de &dCarcasas&r, ¡pero las paredes pueden ser &9Vidrio de Turbina&r en su lugar!"]
+	quest.2D592669F4D41793.title: "Construcción de Turbina"
+	quest.354086C858E10154.quest_desc: [
+		"Ahora que tenemos algo de Cyanite de nuestro reactor bebé, querremos una forma de reprocesar ese residuo en algo útil."
+		""
+		"Para hacer esto, necesitaremos construir otro multibloque: el &aReprocesador&r."
+		""
+		"Esto toma mucho Cyanite, ¡así que empieza a abastecerte! Podrías querer mejorar a un reactor más grande también. "
+	]
+	quest.354086C858E10154.title: "Reprocesando nuestros Residuos"
+	quest.3C3FE45CEF5E242B.quest_desc: ["Mientras que las otras &aPartes de Reprocesador&r tienen un lugar obligatorio al construir, ¡estas tres partes pueden ser colocadas en cualquier cara vertical siempre y cuando no estén en el marco!\\n\\nEl &cPuerto de Energía&r es usado para dar energía a la máquina multibloque para procesar residuos.\\n\\nEl &9Puerto Inyector de Fluido&r es usado para inyectar el líquido necesario, el cual dependerá del tipo de residuo inyectado. Para Cyanite, ¡eso significa agua!\\n\\nEl &aPuerto de Salida&r es usado para sacar el material reprocesado. Puedes hacer clic derecho para agarrar el material a mano, o bombearlo para automatización."]
+	quest.3F9D553C9FA64F2A.quest_desc: ["Los Reactores son estructuras multi-bloque, ¡significando que puedes crear tu propio tamaño personalizado!\\n\\nSi estás usando &aPartes de Reactor Básicas&r, el tamaño más grande de reactor que puedes construir es 5x5x5.\\n\\nEl Reactor &lMás Grande&r que puedes hacer usando &ePartes de Reactor Reforzadas&r es 32x32x48. Hay muchas variables que contribuyen a la salida general de un reactor, ¡así que asegúrate de experimentar!\\n\\nAlgunos consejos generales:\\n\\nCuanto más alto el reactor, más combustible puede contener y quemar porque hay más barras de combustible, significando más energía general. Esto también significa una &ctasa de quemado&r más alta.\\n\\nCuanto más ancho el reactor, más eficiente es, siempre y cuando no añadas más barras de combustible al diseño. Esto significa menos consumo en general."]
+	quest.3F9D553C9FA64F2A.title: "Expandiendo Nuestros Reactores"
+	quest.4415C9F8DA2D7E68.quest_desc: ["Con Cyanite, podemos crear el corazón de la Turbina, el &9Controlador de Turbina&r.\\n\\nLas Turbinas son estructuras multi-bloque, ¡justo como los Reactores! ¡Introducen vapores como &7Vapor&r hecho por Reactores &dEnfriados Activamente&r para crear TONELADAS de energía! Necesitaremos unas pocas otras piezas para ser capaces de construir nuestra primera.\\n\\nNota: Partes de Turbina Básicas solo pueden ser usadas para construir un tamaño máximo de Turbina de 5x5x10. Para construir una Turbina más grande, debes usar &aPartes de Turbina Reforzadas&r."]
+	quest.4415C9F8DA2D7E68.title: "Haciendo Turbinas"
+	quest.4745152F6FF242B3.quest_desc: ["Cuando el reactor quema combustible, crea &9residuos&r o un &dReactivo&r que también querrás extraer. ¡Para eso es el otro Puerto de Acceso Sólido! Asegúrate de configurarlo a salida, luego bombearlo a algún tipo de almacenamiento."]
+	quest.4745152F6FF242B3.quest_subtitle: "No desperdicies y no te faltará o algo así...."
+	quest.4745152F6FF242B3.title: "Lidiando con Residuos"
+	quest.476755275B948A5F.quest_desc: ["Los Reactores también pueden ser usados para calentar &brefrigerantes&r como agua para crear &bvapor&r, como &bVapor&r.\\n\\nPara hacer esto, necesitarás construir un reactor reforzado. Este es construido de la misma forma que construiste tu reactor 3x3x3, pero todas las partes necesitarán ser &aPartes de Reactor Reforzadas&r en su lugar. También sugeriría que sea más grande que un 3x3x3.\\n\\nPara introducir un refrigerante, necesitarás un &9Puerto de Fluido de Forge&r. Esto introducirá cualquier fluido como Agua dentro del reactor. Esto también será usado para exportar el vapor creado en el reactor.\\n\\nSi quieres, puedes crear un &aPuerto de Fluido de Mekanism&r para convertir el fluido Vapor en el gas Vapor de Mekanism en su lugar."]
+	quest.476755275B948A5F.quest_subtitle: "¡¡Para Hacer Vapor!!"
+	quest.476755275B948A5F.title: "Construyendo Un Reactor Enfriado Activamente"
+	quest.4AD8363D7359A072.quest_desc: [
+		"Vamos a construir el reactor pasivo más pequeño posible, el &93x3x3&r. Los requisitos para la quest son las cantidades exactas para lo que necesitarás para construir uno.\\n\\nPara construir esto, empiezas construyendo un marco de 3x3x3 hecho de Carcasas. En el medio de la cara inferior, puedes solo usar otra Carcasa de Reactor. Querrás que cada pared exterior tenga un &9componente de reactor&r, como una Toma de Energía Activa o Puerto de Acceso Sólido."
+		"{@pagebreak}"
+		"Cada reactor que construyas requerirá exactamente 1 &6Controlador de Reactor&r, el cual es usualmente puesto en el medio de la pared frontal. Siguiente, colocaremos 1 &aBarra de Combustible&r en el centro del multibloque, y 1 &eBarra de Control&r encima de ella en la cara superior.\\n\\nNecesitarás una forma de introducir y sacar residuos, lo cual se hace usando &9Puertos de Acceso Sólido de Reactor&r. Para esta construcción, coloca uno en el lado izquierdo y uno en el derecho.\\n\\nPara extraer energía, colocaremos la &cToma de Energía Activa&r en el medio de la pared trasera. ¡Una vez colocado, el reactor debería completarse! ¡Ahora puedes hacer clic derecho en el Controlador para abrir la interfaz y encenderlo!\\n\\nNota: El reactor más grande que puedes hacer usando &aPartes de Reactor Básicas&r es 5x5x5. Para construir un reactor más grande, necesitarás &ePartes de Reactor Reforzadas&r."
+		"{@pagebreak}"
+		"Así es como se verá un reactor 3x3x3:\\n"
+		"{image:atm:textures/questpics/extremereactors/3x3sample.png width:150 height:150 align:1}"
+	]
+	quest.4AD8363D7359A072.quest_subtitle: "Aprendiendo lo Básico"
+	quest.4AD8363D7359A072.title: "&dNuestro Primer Reactor"
+	quest.4B9E9497E44D0096.quest_desc: ["Para construir un reactor, necesitarás empezar haciendo &6Carcasas de Reactor&r.\\n\\nEstas componen el marco y paredes de tu reactor, aunque las paredes pueden ser reemplazadas por &9Vidrio de Reactor&r si te gustaría ver dentro de tu reactor.\\n\\nPara referencia futura, cuando una parte dice \"Básica\", esto significa que solo puede ser usada con otras partes básicas. Las partes Básicas también solo pueden ser usadas para construir reactores más pequeños, ya que tiene un cierto límite de tamaño. ¡Ten esto en mente!"]
+	quest.4B9E9497E44D0096.title: "Componentes de Construcción de Reactor"
+	quest.4ED36AA3766E842B.quest_desc: ["En lugar de construir la Turbina más pequeña en este punto, es mejor construir una Turbina basada en el diseño de tu &9Reactor&r.\\n\\nPara empezar, quieres construir una Turbina que pueda manejar la &9Tasa de Producción de Vapor&r de tu reactor. Para obtener la mayor energía de ella, necesitará mantener ya sea 900RPM o 1800RPM también. ¡Esto toma mucho experimentar con diferentes bobinas, # de aspas, y tamaño general de la Turbina!\\n\\nNota: Para completar esta quest, necesitarás crear una &dPantalla de Tareas&r de cualquier tamaño. Una vez colocada, puedes hacer clic derecho en la pantalla y seleccionar esta quest como el requisito, luego enviar energía al bloque de pantalla de tareas para llenarlo y completar la quest."]
+	quest.4ED36AA3766E842B.title: "&dLa Turbina"
+	quest.4FA6BEA4E646B742.quest_desc: ["Antes de que podamos empezar a construir nuestro reactor, necesitaremos fundir algún Carbón o Carbón Vegetal para crear &9Lingotes de Grafito&r.\\n\\nEl Grafito, junto con Hierro, es uno de los materiales principales al hacer un Reactor."]
+	quest.4FA6BEA4E646B742.quest_subtitle: "Carbono Endurecido"
+	quest.4FA6BEA4E646B742.title: "Grafito para Carcasas"
+	quest.501C6B7580453410.quest_desc: ["El &aFluidizador&r es un multibloque personalizable que tiene un tamaño mínimo de 3x3x3. Justo como los otros multibloques, el marco necesitará ser hecho de Carcasas, mientras que las caras pueden ser hechas de Vidrio."]
+	quest.501C6B7580453410.title: "Construcción de Fluidizador"
+	quest.55DCA040C84DCEF3.quest_desc: ["Si quieres poner tus manos en el producto que el &aFluidizador&r hace, necesitarás un &aPuerto de Salida&r en una de las caras.\\n\\nEl &aFluidizador&r necesitará energía para operar, así que un &cPuerto de Energía&r es requerido para completar la estructura."]
+	quest.55DCA040C84DCEF3.title: "Puertos Requeridos"
+	quest.5914D015D8543875.quest_desc: ["El &aFluidizador&r puede operar en uno de 3 modos: Sólido a Fluido, Combinando 2 Sólidos en un Fluido, o combinando 2 Fluidos en un nuevo Fluido. Todo esto depende del tipo de &aInyectores&r que uses para el multibloque.\\n\\nPor ejemplo, si quieres convertir &dBlutonium&r en un fluido, puedes usar 1 &aInyector Sólido&r.\\n\\nSi quieres combinar dos sólidos juntos en algo nuevo, construirás el multibloque con 2 &aInyectores Sólidos&r.\\n\\nSi quieres combinar dos fluidos, usarás 2 &9Inyectores de Fluido&r.\\n\\nEsto puede parecer confuso, pero es importante para la progresión. Por ejemplo, querrás convertir Magentite en un fluido en el Fluidizador primero, luego enviarlo a un &aReprocesador&r con Ludicrite para crear Ridiculite."]
+	quest.5914D015D8543875.title: "Modos Operacionales"
+	quest.5A615BB74A5CD332.quest_desc: ["Usando el &aReprocesador&r, podemos combinar todo lo que hemos hecho hasta ahora para hacer unos pocos lingotes nuevos.\\n\\nNota: ¡Podrías necesitar un &9Fluidizador&r para completar este paso!"]
+	quest.5A615BB74A5CD332.title: "Ludicrite y Ridiculite"
+	quest.5AD80D3242DD3F60.quest_desc: ["¡Uno de los materiales más difíciles de conseguir en el mod!\\n\\n¡Esta es también la Bobina de Turbina más poderosa disponible!"]
+	quest.5AD80D3242DD3F60.title: "&dBloque de Insanite"
+	quest.67AFCBCE7AAC3089.quest_desc: [
+		"Para hacer girar una Turbina, necesitaremos estos componentes &crequeridos&r:\\n\\n- &9Rodamientos de Rotor&r son colocados en un extremo del eje de la turbina. Esto puede ser en cualquier cara, pero dicta de dónde sobresale el eje. Esto es típicamente colocado en el centro de la cara inferior.\\n\\n- &eEjes de Rotor&r se extienden desde un Rodamiento de Rotor al lado opuesto de la turbina, todo el camino hasta un solo bloque de Carcasa de Turbina, creando el eje para la Turbina.\\n\\n- &9Aspas de Rotor&r hacen girar el rotor. Estas son colocadas en los Ejes de Rotor y pueden ser de múltiples bloques de longitud. Cada Aspa puede manejar una cierta cantidad de vapor, y determina cuántas son necesarias basado en las tasas de producción de tu reactor.\\n\\nAquí hay un ejemplo de una configuración de Eje Vertical para una Turbina, con la Bobina de Turbina de Plomo en la parte superior.\\n"
+		"{image:atm:textures/questpics/extremereactors/maxbasicturbine.png width:100 height:150 align:1}"
+	]
+	quest.67AFCBCE7AAC3089.title: "Creando El Eje de Turbina"
+	quest.69642A3618E86DED.quest_desc: [
+		"Para construir el marco para el &aReprocesador&r, necesitarás muchas Carcasas. Esto también significa mucho Cyanite.\\n\\nEmpieza construyendo una estructura hueca de 3 bloques de ancho, 3 bloques de profundidad, y 7 bloques de alto. Este es el marco.\\n\\nSi se hace bien, tendrás un lugar vacío en el medio de la cara inferior y superior. Para las caras verticales, puedes usar ya sea &aVidrio de Reprocesador&r o una de las partes requeridas del &aReprocesador&r como el Puerto de Energía, Controlador, etc.\\n\\nSi te gustaría ver una imagen de cómo se verá el marco, ¡revisa la siguiente página!"
+		"{@pagebreak}"
+		"El marco del multibloque Reprocesador.\\n"
+		"{image:atm:textures/questpics/extremereactors/reprocessorframe.png width:100 height:175 align:1}"
+		"{@pagebreak}"
+		"Un Reprocesador completamente construido:\\n"
+		"{image:atm:textures/questpics/extremereactors/reprocessorfull.png width:100 height:150 align:1}"
+	]
+	quest.69642A3618E86DED.title: "Construyendo El Marco"
+	quest.6ADDFD55AD0DF7D4.quest_desc: ["Combinando &9Lingotes de Ridiculite&r con &cRossinite&r en un &aReprocesador&r creará &dLingotes de Inanite&r.\\n\\nAhora podemos usar estos para hacer un bloque de &dInanite&r."]
+	quest.6ADDFD55AD0DF7D4.title: "Inanite"
+	quest.75AD0CEBC1335915.quest_desc: ["El &dControlador de Reactor&r es el corazón del reactor. Cuando un reactor es formado, puedes hacer clic derecho en la terminal para abrir la interfaz del reactor.\\n\\nDependiendo de si es un reactor &9Enfriado Pasivamente&r o &eEnfriado Activamente&r, la interfaz cambiará. Los reactores Enfriados Pasivamente son usados para producir energía directamente quemando combustible. Los Reactores Enfriados Activamente usan el calor creado para vaporizar el refrigerante, el cual es luego enviado a una Turbina para crear energía.\\n\\nEn la interfaz de un reactor pasivo, puedes ver y alternar el estado y la expulsión de residuos. También verás las temperaturas, cuánto FE/t el reactor está produciendo, y cuánto combustible el reactor está quemando por tick."]
+	quest.75AD0CEBC1335915.quest_subtitle: "El Corazón del Reactor"
+	quest.775D176081DD75F5.quest_desc: [
+		"Hacer clic derecho en un Controlador de Turbina cuando está completamente construido te mostrará la Interfaz de Turbina.\\n\\nAquí, puedes ver todas las estadísticas para la Turbina. Pasar el cursor sobre cada una te dirá más información sobre cada una.\\n\\nEn la parte inferior izquierda, tendrás 2 flechas para controlar la &9Tasa de Flujo&r. Esto controla cuánto vapor calentado es bombeado a la Turbina. Para saber a cuánto deberías configurar esto, revisa la &dTasa de Producción de Vapor&r de tu reactor como punto de partida. "
+		"{image:atm:textures/questpics/extremereactors/turbineui.png width:200 height:150 align:1}"
+	]
+	quest.7B4AAC741F0A6073.quest_desc: ["Cada reactor necesita &9Barras de Control de Reactor&r y &9Barras de Combustible&r. Estas controlan cómo el combustible es insertado en el reactor.\\n\\nLas Barras de Control son colocadas en la cara superior del reactor. También puedes tener más de una por reactor, pero debes tener al menos 1. Típicamente, cuantas más tengas, más combustible puede usar y quemar el reactor. Eso puede significar más energía general, pero a costa de tasas de quemado más altas, dependiendo de la configuración de tu reactor.\\n\\nPara cada Barra de Control, necesitarás suficientes Barras de Combustible para extenderse a la base del reactor. Por ejemplo, si tu reactor es de 5 bloques de alto, necesitarás 3 Barras de Combustible extendiéndose desde cada Barra de Control.\\n\\nSi haces clic derecho en una Barra de Control, puedes controlar cuánto combustible es quemado en el reactor insertando o retrayendo las barras de combustible. Cuanto más extiendas las barras, menos combustible será quemado."]
+	quest.7B4AAC741F0A6073.title: "Barras de Control de Reactor"
+	quest.7C4D8AA107780795.quest_desc: ["Usando el &aFluidizador&r, podemos combinar &dBlutonium&r con &eYellorium&r para hacer &2Verderium.\\n\\nCuando se usa como combustible en un reactor, &2Verderium&r produce &cRossinite&r como un reactivo. ¡Necesitamos esto!\\n\\nPara usar &2Verderium&r como un combustible, necesitarás hacer &cPuertos de Inyección de Combustible&r para tu reactor.\\n\\nNota: Podrías necesitar vaciar el combustible actualmente en tu reactor, o hacer un nuevo reactor para este propósito. "]
+	quest.7C4D8AA107780795.title: "Rossinite"
+	quest.7C4E4793DA887DE4.quest_desc: ["Basado en el mod original &eBig Reactors&r, ¡&aExtreme Reactors&r te permite construir Reactores multibloque personalizables!\\n\\nEl elemento principal es por supuesto, Uranio. Necesitarás esto y mucho carbón y hierro para empezar a construir.\\n\\nSi alguna vez te pierdes en el camino, ¡refiérete a &aEl Libro Extremo&r para ayuda! "]
+	quest.7C4E4793DA887DE4.quest_subtitle: "No es comestible... créeme"
+	quest.7C4E4793DA887DE4.title: "¡Bienvenido a &9Extreme Reactors&r!"
+	quest.7E07C5A6FA6B6B1F.quest_desc: [
+		"Una vez que hayas construido un &aReprocesador&r completamente funcional, puedes bombear energía, agua, y &9Cyanite&r para crear &dBlutonium&r."
+		""
+		"Esto puede ser usado como un combustible para tu reactor, y crea su propio residuo llamado &9Magentite&r. "
+	]
+	quest.7E07C5A6FA6B6B1F.title: "Blutonium"
+	task.27D8027E1B88F02A.title: "AllRightsReserved"
+	task.2905C4386A407A1E.title: "La Interfaz de Turbina"
+	task.4851C74261B5FA25.title: "AllRightsReserved"
+}

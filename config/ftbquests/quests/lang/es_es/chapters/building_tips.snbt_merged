@@ -1,0 +1,205 @@
+{
+	quest.0052E5592A6BBEC1.quest_desc: [
+		"Esto es &2&lMinecraft&r, no puedo decirte cómo construir..."
+		"{@pagebreak}"
+		"¡Pero puedo darte consejos para ello!"
+	]
+	quest.0052E5592A6BBEC1.title: "&l¡Consejos de Construcción!&r"
+	quest.01516BC726013B7C.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r es un mod hecho en casa para ayudar a unificar minerales.\\n\\n¡Con eso viene una tonelada de bloques decorativos muy útiles!\\n\\n¡&dFluorita&r y &9Zafiro&r ambos se ven muy geniales!"]
+	quest.034DB3C64F24C7B7.title: "&lBloques de &6AllTheOres&r"
+	quest.04F5846E2468E807.quest_desc: ["&b&lPuertas de Macaw&r añade todo tipo de diferentes Puertas y variantes de Puertas. \\n¿Quieres el diseño de Abedul pero con Madera de Abeto? ¡Puedes tenerlo! \\n\\n¡Diablos, incluso tiene Puertas de Hospital!"]
+	quest.04F5846E2468E807.title: "&b&lPuertas de Macaw"
+	quest.0539AF15A10B2859.quest_desc: ["&lMáquinas Compactas&r te permite entrar a una dimensión compactada. Después de colocar una &lMáquina Compacta&r, puedes entrar en ella usando el Dispositivo de Encogimiento Personal.\\n\\n¡El tamaño de la &lMáquina Compacta&r es dependiente de la receta, variando desde 5x5x5 hasta 45x45x45!\\n\\nNo puedes romper las paredes de la &lMáquina Compacta&r, y puedes salir haciendo Clic Derecho con el Dispositivo de Encogimiento Personal."]
+	quest.0539AF15A10B2859.title: "&lMáquinas Compactas"
+	quest.0596F6C70758EEC0.quest_desc: ["¡Mientras son los más caros, también son los más bonitos! \\n\\n¡Y eso es lo que importa para Construcciones!"]
+	quest.06FFBB12CFA87815.quest_desc: ["¡Los Troncos de &2&lMinecraft&r Vanilla, encontrados en los diferentes Biomas &2Vanilla&r! \\n\\n¡No debería tener que explicar más que eso!"]
+	quest.06FFBB12CFA87815.title: "Troncos &2Vanilla&r"
+	quest.08C66BCA3AAE765B.quest_desc: ["Este añade Bloques No-&2&lMinecraft&r así que preferiría no discutirlo."]
+	quest.08C66BCA3AAE765B.title: "&b&lTechos de Macaw"
+	quest.09955CF85F579E0F.quest_desc: ["Conseguirás esto eventualmente, es literalmente el Bloque más abundante en &2&lMinecraft&r."]
+	quest.09955CF85F579E0F.title: "Bloques de Piedra"
+	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r es otro Mod basado en &lChiseled&r. \\n\\nLa esencia del Mod es usar la Herramienta Cincel para cambiar los diseños de algunos Bloques. \\n\\nPuedes hacer Clic Derecho con el Cincel para abrir su GUI, ahí puedes poner hasta un stack de Bloques en él, luego elegir un diseño que quieras, y sacarlo. O puedes mantenerlo en el Cincel, no veo por qué querrías sin embargo. \\n\\n¡También puedes hacer Clic Izquierdo en un Bloque con el Cincel para cambiar su diseño sin abrir la GUI del Cincel! \\n\\nNo te preocupes este no tiene Durabilidad."]
+	quest.09F49ED309152E24.title: "&l&cChisel Reborn"
+	quest.0A21773B773F34F8.quest_desc: ["¡El color es una de las partes más importantes de hacer una Construcción más viva! \\n\\n¡Le da vida, personalidad, y color! \\n\\n¡Empieza con los Tintes!"]
+	quest.0A21773B773F34F8.title: "Bloques Coloreados"
+	quest.0EB6ED88895366D0.quest_desc: ["¿Recuerdas cuando era solo Piedra y Adoquín?"]
+	quest.0EB6ED88895366D0.title: "Piedras &2Vanilla&r"
+	quest.0FE30548F25FEDB1.quest_desc: ["Si eres como yo y no te gusta vivir en una Caja (me recuerda demasiado a la Escuela), entonces te gustará tener Vidrio en tus Construcciones para ver afuera. \\n\\nMientras los normales Vanilla son bonitos por supuesto ¡podemos hacerlo mucho mejor! \\n\\n¡Incluso podemos sacar algún uso de ello!"]
+	quest.106884349C9FF3BA.quest_desc: ["¡Hombre algunas Fuentes de Luz son simplemente tan feas! \\n\\n¡Cambiemos eso!"]
+	quest.106884349C9FF3BA.title: "Luces de &l&bChipped&r"
+	quest.11C43962B06D5092.quest_desc: ["¿Es esto necesario?"]
+	quest.11C43962B06D5092.title: "Ahora solo estás presumiendo"
+	quest.156605859D553276.quest_desc: ["Ventanas, Paneles de Ventana, Contraventanas, Cortinas, Persianas, ¡hasta Parapetos! \\n\\n¡Ni siquiera sé qué es eso!"]
+	quest.156605859D553276.title: "&l&bVentanas de Macaw&r"
+	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r es todo sobre hacer de la Cocina tu hogar. \\n\\n¡Recomiendo usar todo lo que da ya que cada Item tiene un uso y se ve increíble!"]
+	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
+	quest.1972B36F72808D55.quest_desc: ["Solo algunas de estas piedras están cinceladas sin embargo."]
+	quest.1972B36F72808D55.title: "Piedras de &l&bChipped&r"
+	quest.1FD60B7448CED1EB.quest_desc: ["Este Mod de &b&lMacaw&r añade nuevos tipos de Vallas, Puertas de Valla, y Muros. \\n\\nSí, el alambre de púas te herirá. \\n\\nNo, no puedes saltar sobre ninguno de ellos normalmente."]
+	quest.1FD60B7448CED1EB.title: "&b&lVallas y Muros de Macaw"
+	quest.2094D1CE4BA66091.quest_desc: ["La luz es una parte muy importante de cualquier Base. \\n\\n¡Evita que los Monstruos Aparezcan, ayuda a ver, e incluso añade más Color y vida a tus Construcciones! \\n\\n¡O puedes simplemente usar Visión Nocturna pero dónde está la diversión en eso!"]
+	quest.22D2CFDDB06C720C.quest_desc: ["Las herramientas son muy importantes en &2&lMinecraft&r pero también lo es el espacio de inventario. ¡Así que por qué no liberar algo de espacio haciendo un Paxel! \\nLos Paxels son una combinación de Picos (P), Hachas (ax), y Palas (els). \\n\\n¡Pueden pelar madera, hacer caminos, y minar cualquier bloque que ese mismo nivel de pico/hacha/pala pueda!"]
+	quest.22D2CFDDB06C720C.title: "Paxel"
+	quest.23631A4A743D4F0C.quest_desc: ["Ni siquiera te quejes de este. \\n\\nHay docenas de formas de conseguir Hierro y es necesario incluso para la progresión normal. \\n\\n¡Conseguirás Hierro, lo harás en un Bloque, y lo harás bonito!"]
+	quest.23631A4A743D4F0C.title: "Metales de &l&bChipped&r"
+	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r es un Mod que añade unos pocos Items muy útiles. \\n\\n¡Todo para por supuesto, construir! \\n\\nCada uno requiere &cEnergía&r para funcionar y tiene un Menú que se abre por defecto con &lG&r."]
+	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
+	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r es similar a Mods de Cinceles ya que cambia los diseños de Bloques, ¡pero &b&lChipped&r tiene su propia forma de hacerlo! \\n\\n&b&lChipped&r en su lugar usa Estaciones a las que necesitarás ir, para cambiar Bloques. \\n\\nHay 7 Estaciones diferentes cada una cambia diferentes Bloques: Mesa de Carpintero cambia Madera, Soplador de Vidrio cambia Vidrio. \\n\\nY 6 de esas Estaciones pueden ser cambiadas en un Item de mano para acceso más fácil. \\n\\n¡Hay incluso Mejoras de Mochila para ellas!"]
+	quest.28FDB2D13D0DDE8E.title: "&l&bChipped&r"
+	quest.2B4801CD3E90BD40.quest_desc: ["&l&3Handcrafted&r es para todo lo relacionado con Decoración. \\n\\nHay Camas (que se ven lo suficientemente bien para dormir en ellas, ¡y soy un durmiente exigente!) y Mesitas de Noche para los Dormitorios. \\n\\nHay Sillas y Mesas para la Sala de Estar. \\n\\nHay un Horno, Platos, y Cuencos para la Cocina. \\n\\n¡Diablos hay incluso Estatuas solo para presumir!"]
+	quest.2B4801CD3E90BD40.title: "&l&3Handcrafted&r"
+	quest.2B864D741F7C7549.quest_desc: ["&lÁrboles Productivos&r es todo sobre Árboles y criar Árboles para hacer más Árboles. \\n\\n¡Así que es seguro adivinar que trae más tipos de Madera a &2&lMinecraft&r! \\n\\n¡Diablos incluso alguna Madera de especialidad!"]
+	quest.2B864D741F7C7549.title: "&lÁrboles Productivos"
+	quest.2BA0E5D48E234FE9.quest_desc: ["¡El reino mágico de &d&lArs Nouveau&r nos trae Luces Mágicas! ¡Fuentes de Luz de pura magia! \\n\\nPueden ser colocadas normalmente usando Hechizos o puedes craftear una Linterna de Luz Mágica y colocar esa en su lugar."]
+	quest.2BA0E5D48E234FE9.title: "Luces de &d&lArs Nouveau&r"
+	quest.30B3BC91460C9B19.quest_desc: ["&bMacaw Sketch&r es un Desarrollador de Mods muy popular. Es conocido por Mods de Decoración. \\nDesde Ventanas, a Caminos, a Cajones. Él hace casi todo. \\n\\n¿Puedes craftearlo todo?"]
+	quest.30B3BC91460C9B19.title: "&bMods de Macaw"
+	quest.318A2CC03D1D0B04.quest_desc: ["¿Alguna vez extrañaste las &lVaritas de Construcción&r? \\n\\n¡Bueno yo sí, y también &9Mrbysco&r! ¡Así que hizo &l&6Palos de Construcción&r! \\n\\nHay unos pocos Niveles diferentes de &6Palo de Construcción&r. Cuanto más caros son, más Durabilidad tienen y más Bloques pueden colocar. \\n\\nEmpezarán simplemente colocando Bloques para llenar un espacio, pero sus opciones pueden ser cambiadas abriendo su GUI. Necesitarás configurar una Tecla tú mismo para hacerlo. \\n\\nUna vez la abras, puedes cambiar todo sobre ellos. ¡Dónde colocan Bloques, en qué patrón, e incluso qué Bloques colocar! \\n\\nTambién tienen sus propias Mejoras que puedes Craftear. Para usarlas, combina la Mejora con tu &6Palo de Construcción&r en una Mesa de Herrería. "]
+	quest.318A2CC03D1D0B04.title: "&l&6Palos de Construcción"
+	quest.3497C2E05DF5A87C.quest_desc: ["&cRedstone&r, &9Lapislázuli&r, Cuarzo, &5Amatista&r, &aEsmeralda&r, y &bDiamantes&r son todas Gemas preciosas. \\n\\nAsí que por supuesto las estamos convirtiendo en Bloques, ¡bloques preciosos muy bonitos para ser exactos!"]
+	quest.3497C2E05DF5A87C.title: "Bloques de Gemas de &l&bChipped&r"
+	quest.35C46E6E27C9CB1A.quest_desc: ["¡Los 10 Troncos &2Vanilla&r son maravillosos, pero solo tienen tantos diseños! \\n\\n¡Así que por supuesto &l&bChipped&r, contribuyó añadiendo docenas de nuevos diseños para esos Troncos!"]
+	quest.35C46E6E27C9CB1A.title: "Troncos de &l&bChipped&r"
+	quest.3889D0255074CE85.quest_desc: ["&bMacaw&r decidió que los muebles no eran suficiente, necesitaba que su hogar Macaw tuviera más que solo iluminación natural de sus &b&lVentanas de Macaw&r. \\n\\n¡Así que ahora tenemos &b&lLuces y Lámparas de Macaw&r que añade todo tipo de Fuentes de Luz. \\n\\n¡Desde Lámparas a Linternas a Candelabros!"]
+	quest.3889D0255074CE85.title: "&l&bLuces y Lámparas de Macaw&r"
+	quest.392F34FD4FCC794A.quest_desc: ["¡Mientras pueden ser caros también son bastante elegantes!"]
+	quest.392F34FD4FCC794A.title: "Bloques de &2&lMystical Agriculture&r"
+	quest.3BA4504DEFB87264.quest_desc: ["Funciona similar a las &lSimply Lights&r, Invertida se Iluminará cuando no se aplique Redstone a ella mientras la normal solo funcionará con Redstone. \\n\\nEstas necesitan estar adjuntas a una Pared para ser colocadas sin embargo."]
+	quest.3BA4504DEFB87264.title: "Lámparas de Pared"
+	quest.3D1D5CB45D81A6E4.quest_desc: ["Similar a &b&lPuertas de Macaw&r este añade diferentes tipos y versiones de Trampillas. \\n\\n¿Quieres una Trampilla de Jungla con el Patrón de Abeto? ¡Bueno ahora puedes! "]
+	quest.3D1D5CB45D81A6E4.title: "&b&lTrampillas de Macaw"
+	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r es el Mod de Construcción más importante. De hecho si me das un Modpack y &l&6Framed Blocks&r no está en él, no jugaré. ¡Es así de importante! \\n\\n&l&6Framed Blocks&r nos da Bloques simulados que pueden ser rellenados con cualquier Bloque que no sea una Entidad de Bloque (Entidades de Bloque son Bloques como Mesa de Crafteo, Horno, o Cámara de Enriquecimiento). \\n\\n¡Estos Marcos pueden ser casi cualquier forma o cualquier cosa! ¡Desde Losas verticales, a pendientes, incluso cuartos de bloque! \\n\\n¿Quieres Escaleras de &5Netherite&r? ¡Entonces usa Framed Blocks! ¿Quieres una Mesa de Crafteo de Bala de Heno? ¡Puedes conseguirla! ¿Quieres ángulos perfectos en tu construcción? ¡Entonces empieza a hacer &l&6Framed Blocks&r!"]
+	quest.3E4B27759C973006.title: "&l&6Framed Blocks&r"
+	quest.3ED8365BAD406CC5.quest_desc: ["¡Estos son Mods que he encontrado perfectos para decorar tu casa o base! \\n\\n¡Siéntete libre de revisar incluso más de lo que se muestra aquí!"]
+	quest.3ED8365BAD406CC5.title: "¡Mods de Decoración!"
+	quest.3EEF17C57375CC39.quest_desc: ["&lSimply Lights&r añade luces muy simples de hacer y fáciles de usar.\\n\\nCuando se invierten funcionarán sin Redstone y se apagarán cuando la señal de Redstone las active.\\n\\n¡Hay un montón de diferentes colores y formas de ellas!"]
+	quest.3EEF17C57375CC39.title: "&lSimply Light&r"
+	quest.3F185554793CCE54.quest_desc: ["Para construir necesitarás Herramientas. Y querrás Herramientas. \\n\\n¡Herramientas que pueden ayudarte a conseguir Bloques, Herramientas para ayudarte a conseguir diferentes versiones de esos Bloques, y Herramientas para ayudarte a colocar Bloques! \\n\\n¡Necesitarás empezar con un Palo!"]
+	quest.3F185554793CCE54.title: "¡Herramientas!"
+	quest.3FD9DC6B7844A79C.quest_desc: ["Siempre he odiado lo aburrido que es el Hormigón, especialmente en la vida real. \\n\\n¡Bueno al menos en &2&lMinecraft&r con el Mod &l&bChipped&r podemos conseguir diferentes diseños con él!"]
+	quest.3FD9DC6B7844A79C.title: "Hormigón de &l&bChipped&r"
+	quest.40C068B2B8AC0F33.quest_desc: ["Terraformar es una parte importante incluso para la más simple de las Construcciones. Pero nosotros los Jugadores de &2&lMinecraft&r simplemente no tenemos el tiempo o esfuerzo para hacerlo. \\n\\n¿Así que por qué no dejar que las Máquinas lo hagan por nosotros? \\n\\nLas Canteras son formas muy fáciles de hacerlo pero todas empiezan con Rompedores de Bloques. El Rompedor de Bloques Simple solo romperá lo que está en frente de él, no el más útil... \\n\\n¡Pero el Rompedor de Bloques Avanzado Minará un Área establecida! ¡Mucho mejor para Terraformar!"]
+	quest.40C068B2B8AC0F33.title: "Canteras y Minas"
+	quest.44688FC2E34FF09F.quest_desc: ["¡Minecraft ya añade cientos de Bloques, y los Mods añaden cientos más! Pero a veces todavía no es suficiente. \\n\\n¡Con algunos Mods podemos cambiar los Bloques que ya tenemos en unos con diferentes formas, diseños, e incluso en Bloques enteramente nuevos!"]
+	quest.44688FC2E34FF09F.title: "Cambiando Bloques"
+	quest.48971CE964CF037F.quest_desc: ["Mientras proteger nuestros Reactores Nucleares es importante y ver los contenidos de ellos se relaciona con la seguridad de ello. \\n\\n¡El Vidrio también puede ser usado para hacer que nuestras bases se vean mejor! \\n\\n¿Y realmente qué es más importante: seguridad y protección de nuestros reactores nucleares? ¡O hacer que nuestras bases se vean mejor!"]
+	quest.4B552E9D05FF5415.quest_desc: ["¡&l&9X&cy&aC&8r&aa&cf&9t&r es todo sobre los 5 Colores diferentes, esto incluye usarlos para Bloques! \\n\\n¡&aVerde&r, &cRojo&r, &9Azul&r, &8Oscuro&r, y Bloques Claros de todo tipo!"]
+	quest.4B552E9D05FF5415.title: "Mundo &l&9X&cy&aC&8r&aa&cf&9t&r"
+	quest.55160BAFFD9E2988.quest_desc: ["¡El Mod de &9Macaw&r por excelencia, &9&lMuebles de Macaw&r! \\n\\n¡Añade todo lo que necesitas! ¡Sillas, Mesas, Estanterías, e incluso Cajones!"]
+	quest.55160BAFFD9E2988.title: "&l&9Muebles de Macaw&r"
+	quest.5716E84828EC0C23.quest_desc: ["Los Ladrillos de Construcción de Plástico son Bloques hechos a través de &l&7PneumaticCraft: Repressurized&r. \\n\\n¡Justo como sus contrapartes de la vida real duelen al pisarlos! \\n\\nAsí que o usa Zapatos o alisa los Ladrillos."]
+	quest.5716E84828EC0C23.title: "Ladrillos de Construcción de Plástico"
+	quest.59B6C6BF0550D13D.quest_desc: ["¡Nuevos tipos de Vidrio que pueden ser usados con tus Trenes! O bases, \\n\\nNo puedo obligarte a usarlo para nada específico."]
+	quest.59B6C6BF0550D13D.title: "Vidrio de &7&lRailcraft&r"
+	quest.5AD09CCEEDC0B50F.quest_desc: ["Ahora estos son súper útiles, ¡definitivamente deberías revisarlos! \\n\\nLa Fuente de Luz real es la Linterna de Llamarada Feral. Colocará Fuentes de Luz invisibles alrededor de 20 Bloques o más alrededor de ella. \\n\\nLa Mega Antorcha es diferente: no emite Luz pero Bloquea todas las apariciones de Mobs Hostiles con 64 Bloques de ella. Útil para aquellos usando Visión Nocturna. \\n\\nLa Lámpara de Pavor hace lo opuesto, bloquea apariciones de Mobs Pasivos en la misma área."]
+	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
+	quest.5C0588F5B9B65AFD.quest_desc: [
+		"&d&lCamol&r es la respuesta a camuflar &lTODO.&r Desde Pipez a Cables de Mekanism a Estrellas ATM, y todo menos el- no, espera, el Fregadero de Cocina, también."
+		""
+		"Craftea el &d&lBloque de Camuflaje&r junto con el bloque que quieres usar para el camuflaje, luego clic derecho en el bloque que quieres camuflar, como algún tipo de cable o algo."
+		""
+		"Por defecto el &d&lBloque de Camuflaje&r tomará la forma de colisión del bloque camuflado. Puedes cambiar esto a la versión de Retención de Forma poniéndolo en una cuadrícula de crafteo por sí mismo. Esto hará que tome la forma del bloque de camuflaje."
+		""
+		"Si quieres remover un &d&lBloque de Camuflaje&r, clic derecho en el bloque camuflado con otro Bloque de Camuflaje."
+		""
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.5C0588F5B9B65AFD.title: "&d&lCamol"
+	quest.5D5563142917495A.quest_desc: ["¡&l&eFarmer's Delight&r es todo sobre Cultivar y Cocinar Items de Comida! ¡También podemos usar esos mismos Items para Decoración y uso! \\n\\nLa Estufa, Ollas, y Sartenes son perfectos para una Cocina. \\n\\nLos Barriles de Comida son geniales para una Despensa. \\n\\n¡Las cosas de Granja son geniales para decoración exterior y los Gabinetes son perfectos para cualquier lugar!"]
+	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
+	quest.5E5D5D28D82F6891.quest_desc: ["¡&l&9X&cy&aC&8r&aa&cf&9t&r añade un montón de Vidrios con su &lNúcleo del Mundo&r! \\n\\n¡Desde unos que puedes atravesar caminando, a brillantes, a unos más fuertes!"]
+	quest.5E5D5D28D82F6891.title: "Vidrio de &l&9X&cy&aC&8r&aa&cf&9t&r"
+	quest.5EB488C393B084C4.quest_desc: ["¡Una continuación de &lChiseled&r, &4&lRechiseled&r! \\n\\nTodo este Mod funciona dentro de la Herramienta Cincel, Clic Derecho con ella para abrir su GUI. \\nA la Izquierda es donde eliges el diseño y Abajo a la Derecha es donde pones los Bloques. \\n\\nArriba de eso puedes ver el diseño en patrones establecidos: solo el 1 Bloque, 3x1 Bloques, o Muro de 3x3 de ese Bloque. ¡También puedes configurar la imagen para girar o no girar haciendo clic en el botón! \\n\\nJunto a donde van los Bloques, puedes hacer clic en el Cincel, haciendo esto establecerá el diseño seleccionado, a cada Bloque en tu Inventario que pueda ser cambiado. \\n\\n¡También no tiene Durabilidad!"]
+	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
+	quest.5F7F753FD72BFBBF.quest_desc: ["¿Más Bloques añadidos por &l&7Railcraft&r? ¡Estoy empezando a dudar si es siquiera sobre Trenes!"]
+	quest.5F7F753FD72BFBBF.title: "Bloques Coloreados de &l&7Railcraft&r"
+	quest.616ED6C49C37EB91.quest_desc: ["&b&lCaminos y Pavimentos&r añade toneladas de diferentes Bloques tipo Alfombra (y versiones de Bloques completos y Losas). \\n\\nEstos son obviamente usados como Caminos, simplemente se ven mucho mejor que el Bloque de Camino de &2&lMinecraft&r. "]
+	quest.616ED6C49C37EB91.title: "&b&lCaminos y Pavimentos de Macaw"
+	quest.61BE7882EE0E6FAF.quest_desc: ["Lo que rueda escaleras abajo \\nSolo o en parejas... \\nRueda sobre el perro de tu vecino \\n¿Qué es genial para un bocadillo \\nY cabe en tu espalda? \\n¡Es Tronco! ¡Tronco! ¡Tronco!"]
+	quest.6258F26293B9C1C1.quest_desc: ["¿Qué nos da &9&lCrystalix&r preguntas? \\n¡Da Vidrio! ¡Todos los diferentes tipos de Vidrio! Hay Normal, Claro, y Bordeado. \\n\\nBordeado es el patrón de Vidrio normal de &2&lMinecraft&r. Tiene bordes y píxeles cerca de la esquina para hacerte saber que es Vidrio. Claro tiene los bordes pero no píxeles cerca de las esquinas, así que el interior es todo claro. Normal no tiene bordes ni píxeles, es enteramente 100% claro y de un color. \\n\\nCada Vidrio de &9&lCrystalix&r tiene sus propias propiedades también: Sin Sombra, Reforzado, Luz, y Fantasma. \\n\\nSin Sombra afectará cómo reacciona a Shaders e incluso iluminación de &2&lMinecraft&r. Reforzado afectará la Resistencia a Explosiones. Luz afectará si da Luz, ignora Luz, o actúa como Vidrio normal, dejando entrar Luz. Fantasma será capaz de cambiar quién puede caminar a través del Vidrio, este tiene la mayoría de configuraciones."]
+	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
+	quest.6607E5CDB3D17D67.quest_desc: ["¡No te preocupes, estos no se prenderán fuego!"]
+	quest.6607E5CDB3D17D67.title: "Lana de &l&bChipped&r"
+	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r por supuesto con ser todo alrededor de Colores, las Luces también están basadas en Color. \\n\\nLas Luces RGB serán de cualquier Tinte con el que estén hechas. \\n\\nEl Tinte específicamente no la Gema."]
+	quest.667CD7C6E87A05F4.title: "Luces de &l&9X&cy&aC&8r&aa&cf&9t&r"
+	quest.6AC85C203E7C3482.quest_desc: ["Conseguiste uno de todo de &b&lMods de Macaw&r. Creo que te lo has ganado. \\n\\n¡Y por ello quiero decir que eres tu propio &bMacaw&r!"]
+	quest.6AC85C203E7C3482.title: "&bMacaw&r Completado"
+	quest.6BC78AF7C9D93F11.quest_desc: ["¡Incluso versiones Esmaltadas!"]
+	quest.6BC78AF7C9D93F11.title: "Terracota de &l&bChipped&r"
+	quest.6F65216B13E9FFA9.quest_desc: ["Consigue un Bloque. Literalmente cualquier Bloque. \\n\\nCada Jugador debería saber que los Bloques son los bloques de construcción de construir. Para realmente construir algo necesitarás Bloques."]
+	quest.6F65216B13E9FFA9.title: "¡Bloques!"
+	quest.72DB967E59EEA729.quest_desc: ["¡&3&lGlassential&r es un Mod muy importante para construir, incluso para construcciones con propósitos! \\n¡No es solo Vidrio normal, estos tienen habilidades que pueden ser leídas mientras pasas el cursor sobre el Item! \\n\\nComo Vidrio Etéreo que puedes atravesar caminando pero los Mobs no. (¡Usé ese para mi Domo de Abejas en 9sky!)"]
+	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
+	quest.7C2ED69E07988DF4.quest_desc: ["La Silla original de &2&lMinecraft&r, las escaleras. \\n\\nBienvenido a &2&lMinecraft&r Moddeado, tenemos mucho más que solo escaleras para decoración. \\n\\n¡Hay docenas de mods que añaden decoración e incluso más que añaden items que pueden ser usados para decoración!"]
+	quest.7C2ED69E07988DF4.title: "¡Decoración!"
+	quest.7CF13A4941F608E5.quest_desc: ["¡Desde Vidrio normal, a Vidrio con Paneles, a incluso Mosaicos!"]
+	quest.7CF13A4941F608E5.title: "Vidrio de &l&bChipped&r"
+	quest.7DA8ACE06DE8097F.quest_desc: ["&6Cobre&r es el Mineral más abundante en &2&lMinecraft&r y su uso principal es para decoración. \\n\\n¡Ya hay un montón de diferentes variantes añadidas por &2&lMinecraft&r pero &l&bChipped&r no pensó que fuera lo suficientemente bueno! ¡Así que tenemos más! \\n\\nIncluso variantes para las versiones oxidadas. \\n\\nPuedes hacer falsos &aBloques de Esmeralda&r."]
+	quest.7DA8ACE06DE8097F.title: "&6Cobre de &l&bChipped"
+	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r es un Mod muy simple. ¿Te gustan las Luces Coloreadas? Puedes tener Luces Coloreadas. \\n\\n¡Son todas de un color sin Texturizado y pueden venir en diferentes Formas como Escaleras o Losas o incluso Placas de Presión! \\n\\n¡Incluso funcionan con &l&cDy&6en&ea&ami&bcs&r!"]
+	quest.7DABD82393713B5A.title: "&l&cLuminax"
+	quest.7E49C985A0433B20.quest_desc: ["¡&d&lArs Nouveau&r es un Mod mágico muy divertido y con él trae su propio set de Madera! \\n\\n¡Archwood viene en 5 colores diferentes de árboles que aparecen en la mayoría de Biomas pero mayormente en su Bioma de Archwood!"]
+	quest.7E49C985A0433B20.title: "Troncos de &d&lArs Nouveau&r"
+	task.00A904FBEDE80712.title: "Techos de Macaw"
+	task.0138936FB4DD8A88.title: "Utilidades de Chipped"
+	task.022D9FAD58AEE2C8.title: "Luminax"
+	task.064B1841F9288CC3.title: "Bloques"
+	task.06F2EC3901908BF1.title: "Ladrillos de Construcción de Plástico"
+	task.074BDA389D0FB989.title: "Cobre de Chipped"
+	task.0896EE64F92CCD86.title: "Puertas de Macaw"
+	task.0BAEC53DD32C9870.title: "Troncos de Árboles Productivos"
+	task.0EBE231AB868C868.title: "Bloques"
+	task.0ED255BCB75ECCF1.title: "Vidrio de Crystalix"
+	task.104E1A4BF3520D67.title: "Vidrio de Reactor"
+	task.16EF7FF802D5A2BB.title: "Framed Blocks"
+	task.195338A3977C682E.title: "Bloques de Mystical Agriculture"
+	task.1A66B7FFB4E2163E.title: "Troncos Vanilla"
+	task.1A7078C3984DD910.title: "Bloques de Netherite"
+	task.1BA8C5F08A824C08.title: "Luces y Lámparas de Macaw"
+	task.1E7A57902EA62332.title: "Fuentes de Luz"
+	task.20374000F8ADE952.title: "Trampillas de Macaw"
+	task.225F53F8A0E9E822.title: "Cooking for Blockheads"
+	task.238F4D40E6D9238E.title: "Tintes"
+	task.27BABC4910038807.title: "Piedras Vanilla"
+	task.27DF6EE4B85F1792.title: "Bloques de AllTheOres"
+	task.2BECEC3EFA8F6DA3.title: "Piedras de Chipped"
+	task.2E92D23F149C142D.title: "Metales de Chipped"
+	task.30933620783092A5.title: "Muebles de Macaw"
+	task.32CB6A7BC1AB644E.title: "Simply Light"
+	task.36E85C17C558F436.title: "Torchmaster"
+	task.389B5B0F35B89FC8.title: "Hormigón de Chipped"
+	task.3BE936F7D054FDDA.title: "Palos de Construcción"
+	task.3C16167530BEC231.title: "TodosLosDerechosReservados"
+	task.3C18AB7133946682.title: "Paxels"
+	task.3C4997133CCECBE0.title: "Handcrafted"
+	task.40B245AFD0DAB3A0.title: "Vidrio de Railcraft"
+	task.41602F0D9097E74F.title: "Terracota de Chipped"
+	task.41FF171C7D97B574.title: "Bloques de Gemas de Chipped"
+	task.436475D6C527A458.title: "Caminos y Pavimentos de Macaw"
+	task.46803BBAC2069773.title: "Cambiando Bloques"
+	task.46905D1E23255397.title: "Ventanas de Macaw"
+	task.49F387C7EAD579A2.title: "Macaw Completado"
+	task.4B13D48FF9D2530E.title: "Luces de XyCraft"
+	task.4B274207A9646FE9.title: "Farmer's Delight"
+	task.4E28970476CABACD.title: "Luces de Chipped"
+	task.53A682560123F9B6.title: "Glassential"
+	task.5936B8B8EDE0AE55.title: "Bloques de Metal y Gema"
+	task.5DEABD15EDE5736F.title: "Vidrio de XyCraft"
+	task.5FB27C61053F7FB5.title: "Luces de Ars Nouveau"
+	task.624ADD79136376C0.title: "Items de Mundo XyCraft"
+	task.6AA335ED81844F9F.title: "TodosLosDerechosReservados"
+	task.6BD970777103D55D.title: "Escaleras"
+	task.6D2E8755BB3463FF.title: "Bloques Coloreados de Railcraft"
+	task.6F475689ED4EDF59.title: "Items de mods de Macaw"
+	task.70367F545A9CB4D0.title: "Camas"
+	task.712552C459B5BD54.title: "Madera de Ars Nouveau"
+	task.720CE629EA4E37D0.title: "Troncos de Chipped"
+	task.7213278CEE1B25A3.title: "Troncos"
+	task.74CA4DE423248784.title: "Lámparas de Pared"
+	task.76C92D826994D92B.title: "Vidrio de Chipped"
+	task.773B7F8C77B21B28.title: "Lana de Chipped"
+	task.78ECC6C98CA985D7.title: "Vallas y Muros de Macaw"
+	task.79400615E3A7401D.title: "Building Gadgets"
+}

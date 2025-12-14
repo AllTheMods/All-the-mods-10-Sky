@@ -1,0 +1,146 @@
+{
+	quest.034F2CDF0830254B.quest_desc: [
+		"Funciona igual que el Importador de Items, pon el &eImportador de Fluidos&r en un Tanque con Líquido. Luego la &eInterfaz de Fluidos&r en donde quieres que vaya y conéctalos con Cables Lógicos. ¡Finalmente la Tarjeta de Variable igual que antes! \\n\\nTambién puede extraer Líquidos al Límite Entero. \\n\\nNo coloca ni toma Fuentes de Fluido del mundo, solo mueve Fluidos de un Tanque a otro."
+		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
+	]
+	quest.034F2CDF0830254B.title: "&eImportación de Fluidos"
+	quest.03C40D6A5D722543.quest_desc: ["Las Tarjetas de Variable son necesarias para iniciar Interacciones como Importar Items. Las pondrás en una de las ranuras del Importador para añadirlas. \\n\\nDesde ahí puedes editar todo vía el botón +. Puedes cambiar cuánto es Importado, qué Ranura de Item, qué Canal, prácticamente todo con solo esa Tarjeta. \\n\\nSi eres como yo solo queriendo mover items, nada muy elegante solo ponla y quizás cambia el Límite para cuánto es movido."]
+	quest.046C417B2ADF3AA7.quest_desc: ["Las Tarjetas tienen sus límites. La Extracción de Items solo puede extraer 8 items por Operación. Extracción de Fluido a solo 5 Cubos. Dios sabe con Químicos y Energía. \\n\\nEsto es &2&lMinecraft&r Modded estos límites no serán suficientes necesitamos Overclockearlos. \\n\\n¡Lanza algunos Overclockers en la parte superior derecha de la Tarjeta y mejorará el límite que pueden transferir!"]
+	quest.046C417B2ADF3AA7.quest_subtitle: "Máx: 4"
+	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... hay un 4 en algún lugar también. \\n\\nPara establecer un Número pon el Item dentro y luego puedes hacer Clic Izquierdo o Derecho para cambiar la cantidad. Shift y haz lo mismo para ir de 10 en 10. ¡Una vez que tengas un Número establecido lánzalo en una Tarjeta! \\n\\nEntonces esperará hasta que ese Número establecido de Items esté allí para empezar a tomar Items. También dejará esa cantidad en el primer Inventario."]
+	quest.0BB562FB44B0AAA7.quest_desc: ["¡Las Tarjetas no son las únicas con límites, así que tampoco son las únicas con Overclockers! \\n\\nEstos van en el &cNodo&r mismo abajo a la derecha y aumentan qué tan rápido hace las Operaciones."]
+	quest.0BB562FB44B0AAA7.quest_subtitle: "Máx: 8"
+	quest.1834B5C1F8435D7A.quest_desc: [
+		"Las Tuberías Mecánicas son como &5&lMeka&r deja fluir los Fluidos.\\n\\nAlgunas Máquinas en &5&lMeka&r necesitarán Fluidos como el Separador Electrolítico necesitando Agua o Plantas de Evaporación para hacer Litio."
+		"{image:atm:textures/questpics/logistics/meka_pipe.png width:200 height:50 align:center}"
+	]
+	quest.1834B5C1F8435D7A.quest_subtitle: "Fluidos"
+	quest.1C70D739CE464E25.quest_desc: ["Funciona exactamente como las &2Tarjetas de Items&r, necesitas Tarjetas de Extraer e Insertar. Solo que esta vez tomas de Tanques conteniendo &9Fluidos&r a otro Tanque. No, no mueve Fuentes de &9Fluido&r dentro o fuera del Mundo."]
+	quest.1C70D739CE464E25.title: "&9Tarjeta de Fluidos"
+	quest.230582AAFC0A1632.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.2329AA0AFBEF1E13.quest_desc: [
+		"&e&lPipez&r es el Mod de &f&lLogística&r más simple. ¡Es tan simple que el mod entero cabe en esta Página de Misiones mientras tiene espacio para más Mods!"
+		""
+		"Adjunta la Tubería específica a donde quieres mover items y usa la Llave de Tubería para configurar qué lado Tira, Empuja, o no conecta."
+		""
+		"¡Otras Llaves funcionan con &e&lPipez&r también!"
+		""
+		"(Puede causar lag cuando se usa en masa, aunque no tanto lag como las tuberías de &5&lMekanism&r)."
+	]
+	quest.2329AA0AFBEF1E13.title: "&l&ePipez"
+	quest.2A6900E87DE8BAE0.quest_desc: ["El Filtro de Mod es otro Filtro bastante básico. En este pones Items y hará lo mismo con Lista Blanca o Lista Negra. Pero en lugar de ser solo ese Item será cualquier Item de ese Mod. \\n\\nGema de Apotheosis solo permitirá Items de Apotheosis. Aleación de Mekanism solo permitirá Items de Mekanism. Y así sucesivamente."]
+	quest.2A976D41F79C34B1.quest_desc: ["&e&lPipez&r tiene su propia forma de Filtrar Items, necesitas al menos una Mejora Avanzada para obtenerla sin embargo. Cuando una Mejora Avanzada está dentro puedes hacer clic en el botón Añadir para añadir Filtros. \\nLuego puedes añadir: Item, Etiqueta, o NBT en el Filtro. \\n\\nAhí también puedes añadir el Filtro de Destino establecido. Para establecerlo, Shift Clic Derecho en un Inventario con él. \\n\\nTambién tendrás que configurarlo para Lista Blanca el Filtro o Lista Negra, así que solo el Filtro o todo menos el Filtro."]
+	quest.2F4458E9921DEB86.quest_desc: [
+		"Estas &e&lTuberías&r son mayormente debido a &5&lMekanism&r. &5&lMekanism&r añade el último estado de la materia en forma de &aGas&r. &aGas&r no puede ser movido con ninguna de las otras &e&lTuberías&r así que si necesitas mover Hidrógeno o Litio necesitarás &aTuberías de Gas&r. \\n\\n(Siempre he tenido problemas diferenciando si el item de &5&lMekanism&r es &aGas&r, &bFluido&r, o incluso Tipo de Infusión. Cuando está en una Máquina podría decir &aGas&r o &bFluido&r, lo cual puede ayudar a enseñarte. ¡Si no lo hace puedes revisar JEI para otras recetas que podrían involucrarlo!)"
+		"{image:atm:textures/questpics/logistics/pipez_gas.png width:200 height:50 align:center}"
+	]
+	quest.2F4458E9921DEB86.title: "&aTuberías de Gas&r"
+	quest.3065EA195D0A36BA.quest_desc: ["Las Etiquetas son una parte muy importante de agrupar Items en Minecraft. ¡Así que por supuesto podemos aprovechar eso para Filtros! \\n\\nPuedes poner un Item dentro y seleccionar una Etiqueta o si la sabes, escribirla tú mismo. \\n\\nRealmente útil para unos como sacar Equipo de un sistema usando la Etiqueta para Herramientas. \\n\\n(También puedes encontrar Etiquetas haciendo /kubejs hand para encontrar cuáles son las Etiquetas del Item en tu mano.)"]
+	quest.308935C85364B04D.quest_desc: ["Con cada Tarjeta teniendo sus propios datos puede ser bastante molesto cambiar constantemente la configuración de cada Tarjeta. ¡Así que clonémoslas en su lugar! \\n\\n¡Clic Izquierdo en una Tarjeta con el Clonador para copiar sus Datos, luego Clic Derecho en una Tarjeta para darle esos Datos!"]
+	quest.30DE4F5BC3EDB555.quest_desc: [
+		"Los Transportadores Logísticos son lo que &5&lMeka&r usa para mover Items y Bloques a través de la distancia. \\n\\nNecesitarán ser Configurados para Tirar o Empujar a Inventarios como Cofres o Cajones."
+		"{image:atm:textures/questpics/logistics/meka_transporter.png width:200 height:50 align:center}"
+	]
+	quest.30DE4F5BC3EDB555.quest_subtitle: "Bloques+Items"
+	quest.316B513FE568EF57.quest_desc: [
+		"El Calor es otro factor en &5&lMekanism&r y Alimenta muchas Máquinas y Multibloques. Plantas de Evaporación Térmica y Reactores de Fusión ambos usan Calor para funcionar. ¡Y Conductores es como estarás moviendo Calor!"
+		"{image:atm:textures/questpics/logistics/meka_conductor.png width:200 height:50 align:center}"
+	]
+	quest.316B513FE568EF57.quest_subtitle: "Calor"
+	quest.33433A443B65D252.quest_desc: [
+		"&bAgua&r=&bAzul&r &bAgua&r=&bFluido&r por lo tanto &bAzul&r=&bFluido&r\\n\\nMuchos Mods tienen sus propios &bFluidos&r, con incluso Minecraft teniendo los suyos, con &bAgua&r y &cLava&r. Lo más probable es que necesites mover esos &bFluidos&r y una buena forma de hacerlo es con &bTuberías de Fluidos&r. \\n\\n¡Esto se puede conectar a Fregaderos para mover &bAgua&r Infinita!"
+		"{image:atm:textures/questpics/logistics/pipez_fluid.png width:200 height:50 align:center}"
+	]
+	quest.33433A443B65D252.title: "&bTuberías de Fluidos"
+	quest.34CFE1439262AA72.quest_desc: [
+		"&5&lMekanism&r es un Mod Tecnológico enorme y popular, así que por supuesto tiene &lLogística&r con él."
+		""
+		"Las diferentes Máquinas son exigentes con las Configuraciones y necesitarán ser cambiadas en su GUI para mover items apropiadamente. ¡Luego puedes usar las &5&lTuberías Meka&r para mover lo que necesites mover!"
+		""
+		"¡Pero espera no es solo para &5&lMekanism&r que estas funcionan! ¡Funcionan para un montón de otras máquinas también! Solo necesitan ser Configuradas con una Llave para Empujar y Tirar."
+		""
+		"(Estas pueden causar un poco de lag cuando se usan en masa así que ten cuidado con ellas)."
+	]
+	quest.34CFE1439262AA72.title: "&5&lMekanism"
+	quest.36836AD948F96B9F.quest_desc: [
+		"La más simple de las más simples de &e&lTuberías&r, la &eTubería de Items&r. \\n\\nMoverá Items de un Inventario a otro. Podría ser de un Cofre a otro, podría ser de una Granja a un Sistema, o incluso una Cantera a un Fundidor. \\n\\nMuy simple solo conecta las &eTuberías&r a lo que quieres mover, y usa tu Llave para configurar de qué lado Tira. "
+		"{image:atm:textures/questpics/logistics/pipez_item.png width:200 height:50 align:center}"
+	]
+	quest.36836AD948F96B9F.title: "&eTuberías de Items"
+	quest.47768B1FFD57D56E.quest_desc: ["¿No odias simplemente tener que cablear &4Redstone&r a todas partes? Si podemos tener FE Inalámbrica ¿por qué no &4Redstone&r Inalámbrica? Finalmente podemos gracias a &c&lLaserIO&r. ¡Puedes introducir una &4Señal de Redstone&r con la &4Tarjeta&r luego usar una &4Tarjeta de Salida&r para dar Salida a la &4Señal&r en algún otro lugar!"]
+	quest.47768B1FFD57D56E.title: "&4Tarjeta de Redstone"
+	quest.47A2BEFB11F4D581.quest_desc: ["El Filtro Básico es bastante... ¡fácil de usar! Simplemente pon Items dentro y ahora están filtrados. \\n\\nPuedes cambiarlo para que sea Lista Blanca/permita solo esos Items o que sea Lista Negra/deniegue solo esos Items. \\n\\nTambién puedes tenerlo para que coincida con datos NBT o no. Coincidir Datos NBT significaría tener los mismos Encantamientos, Durabilidad, o incluso Mobs dentro de cualquier Item. Si se selecciona no coincidir hará cualquiera de ese Item sin importar NBT."]
+	quest.493D04D954E4FBA0.quest_desc: [
+		"&5&lMekanism&r es un Mod Tecnológico... ¿por qué te sorprende que necesite Energía para sus Máquinas?"
+		"{image:atm:textures/questpics/logistics/meka_cable.png width:200 height:50 align:center}"
+	]
+	quest.493D04D954E4FBA0.quest_subtitle: "Energía"
+	quest.4BC2D7FCDD792DBA.quest_desc: [
+		"Porque los Items, Bloques y Fluidos normales de &2&lMinecraft&r no eran suficiente. Y el Calor y Energía añadidos tampoco lo eran. \\n\\nEl resto de &5&lMekanism&r se mueve con Tubos Presurizados. Los Gases son los principales ya que si estás usando &5&lMekanism&r estarás usando Gases como Hidrógeno y Oxígeno. \\nTipos de Infusión son similares como Infusión de Carbón e Infusión de Redstone. Lodos se usan con Procesamiento de Minerales. \\nY Pigmentos de Tinte son la esencia del Color, cualquier item que es Teñido puede ser cambiado con esa parte de &5&lMekanism&r."
+		"{image:atm:textures/questpics/logistics/meka_tube.png width:200 height:50 align:center}"
+	]
+	quest.4BC2D7FCDD792DBA.quest_subtitle: "Gas+Más"
+	quest.4C41FD926F31180B.quest_desc: ["Para mover &2Items&r con &c&lLaserIO&r necesitarás algunas &2Tarjetas de Items&r. \\n\\nConfigura una para Extraer y ponla en el lado del &cNodo Láser&r del que quieres Importar. Luego configura la otra para Insertar y ponla en el lado al que quieres Exportar los Items. \\n\\nHay múltiples configuraciones que puedes cambiar con la Extracción en orden de a dónde quieres que vayan los Items si hay múltiples lugares de donde Extraer. Round Robin hará que Extraiga items en un orden en lugar del Inventario más cercano primero."]
+	quest.4C41FD926F31180B.title: "&2Tarjeta de Items"
+	quest.4FBAB3A0FBF8CE2F.quest_desc: [
+		"¡Por qué preocuparse de qué se está moviendo cuando puedes simplemente mover todo! &5Tuberías Universales&r son incluso menos discriminatorias que &cTuberías de Energía&r. Pueden mover &eItems&r, &bFluidos&r, o &cEnergía&r. "
+		"{image:atm:textures/questpics/logistics/pipez_universal.png width:200 height:50 align:center}"
+	]
+	quest.4FBAB3A0FBF8CE2F.title: "&5Tuberías Universales"
+	quest.52F85CED20C8B1E9.quest_desc: ["La &eEnergía&r tiene que llegar a algún lado de alguna manera, preferiblemente a donde queremos que vaya. ¡Muévela igual que con &2Items&r, &9Fluidos&r, y &5Químicos&r!"]
+	quest.52F85CED20C8B1E9.title: "&eTarjeta de Energía"
+	quest.53EC96FA0E7C4ED4.quest_desc: [
+		"¡Todo Mod Tecnológico necesita &cEnergía&r, ya sea FE, RF o algo más! &cTuberías de Energía&r no discriminan, ¡simplemente mueven! \\n\\n¡Algunas Máquinas tienen puertos de IO estrictos para &cEnergía&r así que asegúrate de revisar eso!"
+		"{image:atm:textures/questpics/logistics/pipez_energy.png width:200 height:50 align:center}"
+	]
+	quest.53EC96FA0E7C4ED4.title: "&cTuberías de Energía"
+	quest.5C0F6B1C93A52113.quest_desc: ["¡Ahora este es el verdadero Corazón de &c&lLaserIO&r! Los &cNodos Láser&r son donde las Tarjetas reales irán para funcionar. \\n\\nMoverán Items de cualquier Inventario adyacente en las 4 Direcciones Cardinales y Arriba y Abajo. Para mover a Inventarios Más Lejanos necesitarás un segundo &cNodo&r y Conectarlos con la Llave haciendo Shift Clic Derecho en 1 y Clic Derecho en el 2do. \\n\\nPondrás las Tarjetas en las Ranuras de la Dirección correcta y puedes poner Overclockers de Nodo allí también para hacerlo funcionar más rápido. "]
+	quest.5F1218CF8EFC607B.quest_desc: [
+		"&c&lLaserIO&r es la continuación de DireWolf de la &lLogística&r de &a&lEnderIO&r."
+		""
+		"¡Es todo sobre mover items vía &cLasers&r! ¿Quién no ama los &cLasers&r?!"
+		""
+		"Y todo comienza con el Chip Lógico."
+	]
+	quest.5F1218CF8EFC607B.title: "&c&lLaser IO"
+	quest.6112956E19017D2D.quest_desc: ["Los Cables Lógicos son diferentes de otras &e&lTuberías&r o &5&ltuberías Meka&r. Las otras Tuberías actúan como tolvas, los items se mueven de 1 Inventario, a la Tubería, luego al 2do Inventario. Los Cables Lógicos simplemente saltan al intermediario lo cual también salta mucho lag. \\n\\nSon solo para conectar Importadores e Interfaces."]
+	quest.617695A9CA45D88F.quest_desc: ["Cuando usas &c&lLaserIO&r para &lLogística&r podrías terminar con MUCHAS Tarjetas. Con cada una tomando una ranura en tu Inventario puede ponerse bastante apretado. Desearía que tuvieran un almacenamiento para Tarjetas... oh espera lo tienen, ¡es el Portatarjetas! \\n\\nPuedes almacenar múltiples Tarjetas en él y cuando abres un Nodo Láser el Portatarjetas se abrirá también como un segundo Inventario. ¡Muy útil!"]
+	quest.6718043D0F2D1830.quest_desc: ["Se le pidió a DireWolf que hiciera una adición de sus Tarjetas para funcionar con &5&lMekanism&r y sus... otros estados de la materia. Todo lo que los Tubos Presurizados pueden mover, estas tarjetas pueden. Gas, Tipos de Infusión, y Pigmentos."]
+	quest.6718043D0F2D1830.title: "&5Tarjeta Química"
+	quest.6A962535CD68713E.quest_desc: ["¡&e&lPipez&r mueven más! \\n\\nTodas las Mejoras incrementan la cantidad que las &e&lTuberías&r mueven pero cada una otorga más opciones para usar con la &e&lTubería&r. \\n\\nMejora Básica permite Activación de Redstone con &e&lPipez&r.\\n\\nMejora Mejorada te permite cambiar la distribución ya sea: Más Cercano Primero, Más Lejano Primero, Round-Robin, o Aleatorio.\\n\\nMejora Avanzada te da la opción de añadir Filtros.\\n\\n¡Definitiva no otorga nada nuevo solo mueve mucho!"]
+	quest.6CD7D99AA102A5C3.quest_desc: ["&n&f&lLogística&r: \\nUn sistema de mover, gestionar, y almacenar items o recursos. \\n\\nEn Minecraft Modded es bastante lo mismo, ¡mover items! Con Modded necesitarás items y por miles, diablos si quieres la &6&lEstrella&r se pone en los millones! Así que necesitarás mover items de fábricas, máquinas, granjas, y especialmente cofres. Para eso es la &l&fLogística&r."]
+	quest.6CD7D99AA102A5C3.title: "&lLogística"
+	quest.6E05B62A40D5A891.quest_desc: [
+		"¡&3&lIntegrated Dynamics&r es todo sobre &f&lLogística&r! Es prácticamente la definición de &lLogística&r."
+		""
+		"Es todo sobre mover, gestionar, y almacenar items. Diablos quizás ni siquiera necesites la Llave para ello, ¡está tan bien diseñado! Consigue una por si acaso sin embargo."
+		""
+		"(Solución de tubería con menos lag, estas son recomendadas)."
+	]
+	quest.6E05B62A40D5A891.title: "&3&lIntegrated Dynamics"
+	quest.6F152402756DA35E.quest_desc: [
+		"Para hacer funcionar esto pon el Importador de Items en el Inventario del que quieres sacar Items. Siguiente, pon la Interfaz en el segundo Inventario y conéctalos con Cables Lógicos. Luego, pon la Tarjeta de Variable en el Importador y cámbiala como gustes. \\n\\nPuede ser cambiada para Importar Items al Límite Entero (Más de 2 Billones)."
+		"{image:atm:textures/questpics/logistics/id_item.png width:200 height:50 align:center}"
+	]
+	quest.6F152402756DA35E.title: "&fImportación de Items"
+	quest.76CECFB244F39F18.quest_desc: [
+		"¡Simplemente golpea un &3Importador de Energía&r en una Fuente de Energía y conéctalo a una &3Interfaz de Energía&r con Cables Lógicos! ¡Pon y edita las Tarjetas de Variable y estarás moviendo Energía como un pro! \\n\\nDebo decir que encontré que tiene problemas con Importar o Exportar a Flux Plugs y Points así que ten cuidado con eso."
+		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
+	]
+	quest.76CECFB244F39F18.title: "&3Importación de Energía"
+	quest.7AD6E01ED01E6F13.quest_desc: ["Estos son algunos de los dispositivos de transferencia de items y fluidos más rápidos, fáciles de usar y versátiles que hay. Usa Piedra Luminosa para aumentar las transferencias a stacks/cubos por tick, y diamantes te permiten enfocar una cantidad específica de MB o items siendo enviada al bloque especificado (piedra luminosa en translocador de salida, pepita de diamante en translocador de entrada)."]
+	quest.7AD6E01ED01E6F13.quest_subtitle: "De vuelta otra vez..."
+	quest.7AD6E01ED01E6F13.title: "¿Adivina quién ha vuelto?"
+	quest.7BC8F50A89A3BE1A.quest_desc: ["Estos solo se usan para Conectar &cNodos Láser&r entre sí y a Conectores. No muy importante solo quería mantener el tema de las Llaves. \\n\\n¡Funciona como una Llave para otras Configs!"]
+	quest.7EE27C3908008E20.quest_desc: ["¡Si necesitas encadenar tus &cNodos Láser&r una distancia lejana intenta usar Conectores! Solo usa la Llave como normal."]
+	task.2BA7FC10243AA011.title: "Tubos Presurizados"
+	task.337725ECA2C04090.title: "Transportadores Logísticos"
+	task.4448DE84ABA737BE.title: "Cables Universales"
+	task.48A30B08A090BD75.title: "Llaves"
+	task.48CF7A7622423DEA.title: "Mejoras de Tubería"
+	task.4CCB830CFDD43B5E.title: "TodosLosDerechosReservados"
+	task.5B7926B511000F1F.title: "Tuberías Mecánicas"
+	task.5E4B74F97BDED243.title: "TodosLosDerechosReservados"
+	task.77187686AC2440DB.title: "Translocadores"
+	task.79E961F671475850.title: "Conductores Termodinámicos"
+}

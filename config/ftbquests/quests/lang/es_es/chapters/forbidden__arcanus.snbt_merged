@@ -1,0 +1,144 @@
+{
+	quest.02F2DF9D9DA7833A.quest_desc: ["¡Para obtener nuestras &9Almas Corruptas&r necesitaremos hacer algo de &5Encantamiento&r! \\n\\nEstamos buscando el &5Encantamiento de Saqueo de Almas&r. Va en Armas, y cada vez que matas un Mob tiene una probabilidad de generar un &9Alma Corrupta&r. \\n\\nEstas pueden luego ser matadas para obtenerlas como Items. Trata de hacerlo rápido ya que les gusta volar lejos. \\n\\n¿Quizás saben que quieres matarlas?"]
+	quest.02F2DF9D9DA7833A.title: "&5Encantamiento de Saqueo de Almas"
+	quest.03C54B07106091DD.quest_desc: ["El &cPrisma de Fundición&r es probablemente el Item más usado de estos Rituales. \\n\\nNecesitarás 4 &cPolvo de Blaze&r, 2 &8Carbón&r, y un bloque de &bCristal Arcano&r para hacerlo. ¡Y no olvides la Reliquia &3Elementarium&r! Puede ser usado con Herramientas para Fundir los Items que rompen: Mena Cruda a Lingotes, Troncos a Carbón Vegetal, Arena a Vidrio. \\n\\nTambién puedes usarlo para Combustible de Horno, pero apesta un poco. ¡Lo cual es tonto porque el nombre sugiere que sería mejor!"]
+	quest.03C54B07106091DD.title: "&cPrisma de Fundición"
+	quest.050CD33E92601651.quest_desc: [
+		"¿&c&lNivel 1&r no es suficiente para ti? ¡Entonces, necesitarás mejorarlo! \\n\\nPon un Tablón de Madera de Edel en la Ranura central de la &6&lForja&r y coloca 4 &bCristales Arcanos&r y 4 Chatarra de Spawner en los Pedestales. \\n\\n¡Golpéalo con un Mazo y tu &c&lNivel 1&r se mejorará a una &3&lForja de Nivel 2&r! \\n\\n¡Ahora, nuevos Rituales estarán disponibles, la &6&lForja&r puede contener más Esencias, y puedes usar una segunda Reliquia!"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier1.png width:100 height:100 align:center}"
+	]
+	quest.050CD33E92601651.title: "&l&3Forja de Nivel 2"
+	quest.07BEE6FEC14765DC.quest_desc: ["Receta bastante simple necesitando Arcilla, Hierro, Bolas de Slime, y más... \\n\\nLas Magnetitas son mejores para saquear, los Mods añaden estas en Pools de Loot por todo &c&lEl Nether&r así que no craftees una ¡solo encuentra una! \\n\\n¡La Cera es un nuevo Item añadido por &6&lForbidden \\& Arcanus&r el cual es una mezcla de Botella de Miel y Bolas de Slime! \\n\\nPuedes usarlo en un &6Pedestal de Piedra Oscura&r para obtener &7Pedestales Magnetizados&r los cuales funcionan de la mano con Tolvas (y Items como Tolvas como Tuberías). \\n\\n¡También puedes usarlo con Botas para incrementar cuán cerca los Items pueden estar para ser arrastrados a tu Inventario!"]
+	quest.092BB595F75D5536.quest_desc: ["¡Bienvenido a &6&lForbidden \\& Arcanus&r! \\n\\nPara empezar este Mod necesitaremos algunos Cristales Arcanos. Ve a tamizar algo de Polvo."]
+	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
+	quest.0AC8FE3B59D1B09D.quest_desc: ["El Capturador Cuántico es una Herramienta muy útil para mover Mobs. \\n\\nSimplemente Haz Clic Derecho en un Mob para \"capturarlo\", luego Haz Clic Derecho de nuevo para dejarlo ir. \\n\\nNecesitarás una cantidad establecida de &bAureal&r en ti para usarlo sin embargo, esto es dependiente de la Salud del Mob. ¡Más Salud, más &bAureal&r necesario! No costará nada dejar ir a los Mobs sin embargo, eso es gratis. \\n\\n¡Oh espera, probablemente debería decirte cómo Craftearlo! ¡Necesitarás un &7Núcleo Cuántico&r el cual es crafteado con &7Runas&r, &cPolvo Mundabitur&r, y &8Pedernal&r! \\n\\nLa Chatarra de Spawner son drops de Minar un Spawner sin Toque de Seda, así que romperá el Spawner."]
+	quest.0FD638380EECFFBD.quest_desc: [
+		"{image:atm:textures/questpics/forbidden/forbidden_forge1.png width:100 height:100 align:center}"
+		"Para empezar a hacer tu Forja, coloca nuestra &9Piedra Oscura Pulida&r, &6Piedra Oscura Pulida Arcana&r, y &6Piedra Oscura Pulida Cincelada Dorada&r en este patrón. "
+		"{image:atm:textures/questpics/forbidden/forbidden_forge2.png width:100 height:100 align:center}"
+		"\"Siguiente coloca nuestra Mesa de Herrería en la &6Piedra Oscura Pulida Cincelada Dorada&r interior y golpéala con &cPolvo Mundabitur&r, ¡obtendrás la &6&lForja de Hefesto&r!\\n\\n¡Por último coloca nuestros &6Pedestales de Piedra Oscura&r encima de las 8 &6Piedras Oscuras Pulidas Cinceladas Doradas&r exteriores!\""
+	]
+	quest.0FD638380EECFFBD.title: "Construyendo la &6&lForja"
+	quest.15849165CA8C00F9.quest_desc: [
+		"¡La última &6&lForja&r más poderosa así que por supuesto eso significa que es la más cara! \\n\\nNecesitarás 2 &5Estrellas del Nether Oscuras&r las cuales son hechas combinando 4 &5Acero de Obsidiana&r y una Estrella del Nether. \\n\\n2 &dEscamas de Dragón&r las cuales son soltadas cuando el &dEnder Dragon&r muere. \\n\\n4 &3Catalizadores de Sculk&r los cuales son soltados del &3Warden&r, o pueden ser obtenidos con Toque de Seda en el Deep Dark. \\n\\n¡Y &2Bloque de Estelarita&r el cual son solo 9 &2Piezas de Estelarita&r! \\n\\nEsto permite incluso más Esencias y...¿recetas de end game? ¿De dónde saqué siquiera esta página de quest?"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier5.png width:100 height:100 align:center}"
+	]
+	quest.15849165CA8C00F9.title: "&l&9Forja de Nivel 5"
+	quest.185DBBDD252CBA0C.quest_desc: [
+		"¡La &6&lForja&r es el Bloque más importante en &6&lForbidden \\& Arcanus&r! Ahora que hiciste el Multibloque puedes romper el bloque de &6&lForja&r y moverlo, aunque solo funciona mientras está en el Multibloque. \\n\\n¡Necesitarás llenarlo con todas las 4 Esencias: &bAureal&r, Almas, &4Sangre&r, y &aExperiencia&r! \\n\\nLuego, pon Reliquias si es necesario. \\n\\nDespués de eso, pon el Item central en la Receta, en la Ranura del medio de la &6&lForja&r, y los Items exteriores en los &6Pedestales&r."
+		"{image:atm:textures/questpics/forbidden/forbidden_gui.png width:135 height:100 align:center}"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier3.png width:100 height:100 align:center}"
+	]
+	quest.185DBBDD252CBA0C.title: "&l&cForja de Nivel 1"
+	quest.198E9E90CC9606C4.quest_desc: ["Tenemos nuestros Items en Pedestales, tenemos nuestro &bAureal&r, Almas, &4Sangre&r, y &aExperiencia&r... ¿y no está terminando? ¿Por qué no está terminando? \\n\\n¡Para finalizar realmente el Ritual necesitaremos usar un Mazo! \\n\\nFunciona como un Pico pero también tiene una cantidad limitada de usos para finalizar Rituales, ¡solo Haz Clic Derecho en la &6&lForja&r con él!"]
+	quest.198E9E90CC9606C4.title: "Finalizando el Ritual"
+	quest.2002AB7D061007FA.quest_desc: ["La &6Reliquia Artesana&r puede ser crafteada con la Forja de Hefesto de nivel 3, usando Oro de Blaze, un Quemador de Blaze, algo de obsidiana y núcleos fundidos. \\n\\nCuando se usa en el &l&bClibano&r te permitirá hacer &5Acero de Obsidiana&r. \\n\\n¡Cuando se usa en &6&lForjas&r te dará un descuento en &aExperiencia&r usada!"]
+	quest.2002AB7D061007FA.title: "&6Reliquia Artesana"
+	quest.230EEE4671B46D0C.quest_desc: ["&9Piedra Oscura&r normalmente aparece profundo bajo tierra. Pero...no hay bajo tierra aquí. Afortunadamente, tenemos Cobblegen Galore para proveer algo de Piedra Oscura para nosotros. \\n\\nColoca Agua de Bruja y Lava al lado del Generador de Bloques, con un Bloque de Cristal Arcano debajo. La lava será consumida sin embargo. \\n\\nEs el Bloque más usado para &6&lForbidden \\& Arcanus&r, todos los Multibloques los usarán para su base. \\n¡Asegúrate de agarrar una tonelada de ellos!"]
+	quest.230EEE4671B46D0C.title: "&9Piedra Oscura"
+	quest.29434DB0CC2E30E6.quest_desc: ["¡Combinando &cPolvo Mundabitur&r, &bPolvo de Cristal Arcano&r, &8Carbón Vegetal&r, y un &eLingote de Oro&r obtendremos nuestra primera Aleación! ¡El &6Lingote de Deorum&r! \\n\\nEste es el Lingote fundacional de &6&lForbidden \\& Arcanus&r, ¡necesitarás docenas de él! \\n\\nEs especialmente usado para Bloques de Construcción para nuestras Máquinas Multibloque."]
+	quest.29434DB0CC2E30E6.title: "&6Deorum"
+	quest.2ADA491A2485061C.quest_desc: [
+		"&aExperiencia&r es la 4ta Ranura y material necesario para la &6&lForja&r. \\n\\nPara añadir &aExperiencia&r necesitarás poner 1 de 3 cosas en la &aRanura de Experiencia&r. \\n\\n1. &aOrbes Xpetrificados&r, estos dan la mayor &aEXP&r. \\n\\n2. &aBotella de Encantamiento&r, ¡da un poco de &aEXP&r pero fácil de conseguir! \\n\\n3. &5Item Encantado&r, ¡la &6&lForja&r raspará los &5Encantamientos&r de él manteniéndolo como &aEXP&r!"
+		"{image:atm:textures/questpics/forbidden/forbidden_experience.png width:135 height:100 align:center}"
+	]
+	quest.2ADA491A2485061C.title: "&aExperiencia"
+	quest.2D3C8905B783A212.quest_desc: ["¡Por unos pocos Drops de Mob más &bPolvo de Cristal Arcano&r puedes hacer &cPolvo Mundabitur&r! \\n\\n¡Esta es una parte muy importante en el crafteo y creación de Multibloques! \\n\\nY puedes encontrarlo en &dEnd Cities&r lo cual la mayoría termina haciendo..."]
+	quest.2D3C8905B783A212.title: "&cPolvo Mundabitur"
+	quest.31AD9826FB036C98.quest_desc: ["¡&7Runas&r pueden ser minadas por cualquier espíritu minero de Occultism! \\n\\nSon más útiles que &2Estelarita&r pero menos útiles que &bCristales Arcanos&r."]
+	quest.31AD9826FB036C98.quest_subtitle: "¡Estas solían ser &5Moradas&r!"
+	quest.31AD9826FB036C98.title: "&7Runas"
+	quest.356102D5B5F3CA1E.quest_desc: ["Una Aleación añadida por &6&lForbidden \\& Arcanus&r es &5Acero de Obsidiana&r. \\n\\nEs creado en el &l&bClibano&r, combinando Hierro Crudo y &5Obsidiana&r. \\n\\n¡Necesitarás una Reliquia Artesana para realmente hacer la Aleación! \\n\\nTambién obtendrás &6Cobre&r como residuo, lo cual probablemente no se supone que pase..."]
+	quest.356102D5B5F3CA1E.title: "&5Acero de Obsidiana&r"
+	quest.3999AE0921641E60.quest_desc: [
+		"&8Materia Oscura&r es creada Fundiendo Madera de Edel. \\n\\n&5Polvo Corrupti&r es hecho con &5Acero de Obsidiana&r y algunos Drops de Mob. \\n\\n¡Tira ambos al suelo juntos y un &8Agujero Negro&r aparecerá! \\n\\nEl &8Agujero Negro&r anulará cada Item o Proyectil que se acerque, ¡pero lo que queremos alimentarle es &aExperiencia&r! \\n\\nCuando le alimentas suficiente &aEXP&r te devolverá un &aOrbe Xpetrificado&r."
+		"{image:atm:textures/questpics/forbidden/forbidden_blackhole.png width:150 height:100 align:center}"
+	]
+	quest.3999AE0921641E60.title: "&8Agujero Negro"
+	quest.3BEE1B1DF87783A8.quest_desc: ["Tenemos una tercera forma de obtener Madera de Edel Creciendo en este pack. Tamizando. Tamiza algo de musgo con una Malla de Hierro (o mejor) para esa dulce dulce Madera de Edel."]
+	quest.3D82C6639A6371CB.quest_desc: ["4 &7Núcleos Cuánticos&r y un &cPolvo Mundabitur&r y puedes obtener el &7Inyector Cuántico&r. \\n\\n&7Inyectores Cuánticos&r no son usados mucho en esta etapa. Ni siquiera sé qué hacen normalmente, además de hacer alguna animación elegante cuando haces clic derecho en ellos."]
+	quest.3D82C6639A6371CB.title: "&7Inyector Cuántico&r"
+	quest.40B757772D0FBAC9.quest_desc: [
+		"&4Sangre&r es la 3ra Ranura necesitando llenarse en la &6&lForja&r. \\n\\nPuedes matar Mobs en/cerca de la &6&lForja&r para añadir &4Sangre&r. \\n\\nO puedes depositar Tubos de Ensayo llenos para poner esa &4Sangre&r dentro de la &6&lForja&r. \\n\\nPara llenar un Tubo de Ensayo, tenlo en tu Mano Secundaria cuando mates Mobs."
+		"{image:atm:textures/questpics/forbidden/forbidden_blood.png width:135 height:100 align:center}"
+	]
+	quest.40B757772D0FBAC9.title: "&4Sangre"
+	quest.414A35A72AFB5FF5.quest_desc: ["Este es probablemente uno de los más molestos de craftear, necesita &bPrismarina&r, &2Escama de Tortuga&r, &9Lapislázuli&r, y un &3Corazón del Mar&r. \\n\\n¡Espero que te guste &2&lMA&r! \\n\\nCombina con Cascos... muy probablemente para dar Respiración o Afinidad Acuática, pero no puedo hacer que funcione..."]
+	quest.414A35A72AFB5FF5.title: "&9Prisma Marino"
+	quest.46567ED894E9883C.quest_desc: [
+		"¡Aquí es donde se pone divertido! \\n\\nUsa 4 Lingotes de &6Deorum&r, 4 &bCristales Arcanos&r, y una &9Piedra Oscura Pulida Cincelada&r para mejorar de &3&lNivel 2&r a &e&lNivel 3&r. \\n\\n¡Ahora podemos contener incluso más Esencias, incluso más Reliquias, e incluso más Recetas!"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier2.png width:100 height:100 align:center}"
+	]
+	quest.46567ED894E9883C.title: "&e&lForja de Nivel 3"
+	quest.4707FB01F15F6E1F.quest_desc: [
+		"¡El &b&lClibano&r es un nuevo Multibloque que actúa algo así como un Horno Jumbo! ¡Para hacerlo sigue estos pasos!"
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano1.png width:100 height:100 align:center}"
+		"La primera capa es un Área de 3x3, con las esquinas hechas de &9Piedra Oscura Pulida&r y el resto lleno con &9Ladrillos de Piedra Oscura Pulida&r."
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano2.png width:100 height:100 align:center}"
+		"La segunda capa usa solo &9Ladrillos de Piedra Oscura Pulida&r y el &bNúcleo de Clibano&r. ¡Recuerda mantener el Bloque del medio vacío!"
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano3.png width:100 height:100 align:center}"
+		"La capa final es justo como la primera... ¡justo encima de las otras dos capas!"
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano4.png width:100 height:100 align:center}"
+		"¡Finalmente Haz Clic Derecho en el Multibloque con &cPolvo Mundabitur&r para terminarlo!"
+	]
+	quest.4707FB01F15F6E1F.title: "&b&lClibano"
+	quest.487C70679535DDDB.quest_desc: ["¿No odias esas estúpidas limitaciones en tu Capturador Cuántico? ¡No puedes poner Wardens en la base de tus amigos! \\n\\nBueno ahora no hay preocupaciones porque podemos mejorar nuestro Capturador Cuántico con 3 &2Piezas de Estelarita&r y una Estrella del Nether para hacer el Capturador de Jefes. \\n\\n¡Ahora podemos transportar nuestros Jefes donde queramos!"]
+	quest.487C70679535DDDB.quest_subtitle: "Lo sé, Gema de la Trinidad, no tienes que gritarme"
+	quest.49D0B6D3ED3DCCCD.quest_desc: ["¡&bPolvo de Cristal Arcano&r es bastante simple, solo Funde &bCristales Arcanos&r y boom! \\n\\n¡También puedes usar el Multibloque Clibano para obtener unos pocos pedazos de &bCristales Arcanos&r de vuelta!"]
+	quest.49D0B6D3ED3DCCCD.title: "&bPolvo de Cristal Arcano"
+	quest.4A564E8FE587C7E4.quest_desc: ["¡La mejor forma de obtener Almas es vía el Extractor de Almas! \\n\\n¡Por unos pocos Items y Bloques del Nether y una Jarra Utrem (la cual necesita Madera de Edel para craftear) puedes obtener tu herramienta para Encontrar Almas! \\n\\nMantén Clic Derecho con ella en Arena de Almas y extraerá las Almas de ella. \\n\\nDejándola como Arena... no espera es Arena Desalmada... ¡¿qué demonios es Arena Desalmada?!?!" ]
+	quest.4BE209D5DAF1F321.quest_desc: [
+		"&bAureal&r es la primera y más importante Ranura en la &6&lForja&r. \\n\\n¡Puedes ya sea automatizarlo con &bObeliscos de Cristal Arcano&r o depositar &bBotellas de Aureal&f/&bPociones&r! \\n\\n¡Puedes encontrar &bBotellas de Aureal&r en Cofres en la mayoría de Estructuras, o puedes craftearlas con &bPolvo de Cristal Arcano&r y una Poción de Regeneración II."
+		"{image:atm:textures/questpics/forbidden/forbidden_aureal.png width:135 height:100 align:center}"
+	]
+	quest.4BE209D5DAF1F321.title: "&bAureal"
+	quest.4C93FCBAB7F3C00D.quest_desc: ["Dado que no hay menas en un mundo skyblock que podamos minar, pensarías que te dejaríamos obtener Runas y Estelarita tamizando, ¿verdad? \\n¡INCORRECTO! Tendremos que usar Espíritus Mineros para ellas. Revisa la página de quest de Occultism para aprender más sobre el mod."]
+	quest.4C93FCBAB7F3C00D.quest_subtitle: "Pensé que esta era la Página de Quest de Forbidden Arcanus"
+	quest.4C93FCBAB7F3C00D.title: "¿Occultism?"
+	quest.4CFE097D0A8683C8.quest_desc: ["¡El &5Cráneo de Obsidiana&r es un Casco que cuando se usa puede protegerte de daño de Fuego/Lava! \\n\\nCon el tiempo se desgastará a lo cual necesitarás repararlo con &5Acero de Obsidiana&r. \\n\\nAsí es también como lo crafteas, un Cráneo de Esqueleto con 8 &5Acero de Obsidiana&r."]
+	quest.4CFE097D0A8683C8.title: "&5Cráneo de Obsidiana"
+	quest.52472667678E10D1.quest_desc: ["&2Estelarita&r aparece entre el Nivel Y- ¿por qué estoy siquiera diciendo esto? Sabes que no hay ninguna- Probablemente estoy mencionando el hecho de que estamos en un mundo skyblock un poco demasiado. \\n\\n¡Pensarías, con tener un radio tan enorme sería fácil de encontrar! ¡No lo es, es muy rara! ¡Tan rara, que solo mineros Marid y Eldritch son lo suficientemente hábiles para ser capaces de encontrarla! \\n\\nTen cuidado al Minarla sin embargo, ¡cuando se rompe EXPLOTARÁ!"]
+	quest.52472667678E10D1.title: "&2Piezas de Estelarita"
+	quest.52D4FCE72B15BC46.quest_desc: ["¿Alguna vez quisiste un \"Cubo mejor\"? ¡Bueno puedes con el Cubo de Madera de Edel! \\n\\nPor solo unos pocos Tablones de Madera de Edel puedes obtener un Cubo mejor, el cual puede contener 4 Cubos de Agua o Leche. \\n\\n¡También puedes contener 3 Cubos de Lava! Pesa más así que solo puedes contener 3 en lugar de 4."]
+	quest.539266A1C03C2EBA.quest_desc: [
+		"¡Almas es la 2da Ranura necesaria para la &6&lForja&r, también la más pequeña: solo necesitando 10 para llenarla! \\n\\nCada Alma y Alma Corrupta contará como 1 Alma. ¡Mientras que Almas Encantadas cuentan como las 10 enteras!"
+		"{image:atm:textures/questpics/forbidden/forbidden_souls.png width:135 height:100 align:center}"
+	]
+	quest.539266A1C03C2EBA.title: "Almas"
+	quest.53E2BEA626B35BFC.quest_desc: ["¡Receta bastante cara pero definitivamente vale la pena! \\n\\nUsar el &6Ojo &4Espectral&r te dará el &4Efecto de Visión Espectral&r. ¡Este Efecto da &eBrillo&r a cada Mob dentro de un radio de 100 Bloques en cada dirección! \\n\\n¡Perfecto para encontrar estructuras bajo tierra, o Withers Guardianes invocados por el Guardián del Caos, o incluso encontrar la granja de Axolotes oculta de tus amigos!"]
+	quest.53E2BEA626B35BFC.quest_subtitle: "¡Muy popular en ATM6!"
+	quest.53E2BEA626B35BFC.title: "&7Amuleto de &6Ojo &4Espectral"
+	quest.580148D1141446A6.quest_desc: [
+		"¿&c&lNether&r demasiado aterrador para ti? ¡Entonces, puedes buscar Almas en el &2&lOverworld&r!\\n\\nDentro de tu Mundo podrías encontrar algunas Almas Perdidas vagando alrededor.\\n\\n¡Puedes matarlas por las Almas que sueltan! Es mucho menos eficiente sin embargo...\\n"
+		"Si estás teniendo problemas encontrando Almas, podrías querer buscar el encantamiento de Saqueo de Almas en tu espada. Matar mobs con este encantamiento ocasionalmente generará Almas."
+	]
+	quest.580148D1141446A6.title: "Almas Perdidas"
+	quest.5A6FF0D4BA894306.quest_desc: ["El niño poster de &6&lForbidden \\& Arcanus&r, la &aStella Eterna&r. \\n\\n¡Por 1 &bDiamante&r, 3 &aOrbes Xpetrificados&r, y una &2Pieza de Estelarita&r podemos hacer uno de los Items más overpowered en este Modpack! \\n\\nPuedes usar la &aStella Eterna&r con un Item y un Modificador de Item Aplicado para hacer que los Items pierdan su Durabilidad. ¡No, espera quiero decir pierdan su necesidad de Durabilidad! Básicamente Items Indestructibles. \\n\\n¡Esto puede ser usado en casi cada Item con Durabilidad desde &bHachas de Diamante&r, a Cañas de Pescar, a incluso &eArmadura de Glowstone Refinada&r! \\n\\nHay algunas limitaciones, solo funciona con Items con Durabilidad no usos: como Cristales de Infusión o Energía: ¡como Meka-Tool!"]
+	quest.5A6FF0D4BA894306.title: "&aStella Eterna"
+	quest.5CD0E6F349F2F32D.quest_desc: ["¡No tengas miedo, esto no es un oogly boogly, es una Madera de Edel completamente crecida! \\n\\nEl Árbol tendrá un Tronco de Madera de Edel Tallado en la parte superior y Ramas de Madera de Edel saliendo de él, estas pueden ser rotas para Palos de Madera de Edel. \\n\\nLos Troncos son huecos por dentro, espacio similar a un Caldero. ¡Curiosamente también puede contener Agua como un Caldero!"]
+	quest.5ED0DA95BAE43D88.quest_desc: ["El último de los Prismas, bueno este es un &dCristal&r ¡pero entiendes la idea! \\n\\nPrimero, necesitarás una Reliquia &ePacto Divino&r, las cuales se encuentran en &b&lThe Other&r. \\n\\nLuego, necesitarás &3Fragmentos de Enderpearl&r, &5Amatista&r, y Cuarzo del Nether. ¡No te preocupes se pone más difícil! \\n\\nAhora necesitaremos cada tipo de Alma. Te enseñé cómo obtener Almas y &9Almas Corruptas&r en otras Quests ahora te enseñaré sobre &dAlmas Encantadas&r. \\n\\n¡Encuentra un Alma Perdida volando alrededor en tu mundo, luego lánzale una &bPoción Arrojadiza de Aureal&r! ¡Entonces, se convertirán en un &dAlma Encantada Perdida&r, mátalas! \\n\\nCon eso ahora puedes hacer el &dCristal&r, el cual puede ser aplicado a Herramientas y Armadura para darle Soulbound. Esto significa que cuando mueras, reaparecerás con estos Items en tu Inventario todavía."]
+	quest.5ED0DA95BAE43D88.title: "&dCristal de Vinculación de Almas"
+	quest.5F00A66CC1FE1F9F.quest_desc: ["Honestamente la única parte difícil de esta receta es el Ala de Murciélago, ¿cuántas veces estás matando Murciélagos y mucho menos Granjeándolos? \\n\\n¡Este es bastante nuevo y no combina con Armadura, solo es usado para el end game!"]
+	quest.63C95FDAA447CA47.quest_desc: ["¡La única receta que necesita &3&lNivel 2&r, el &7Prisma Terrastomp&r! \\n\\n¡Necesitarás &7Espespeleotema&r, &7Espespeleotema&r, y &8Pedernal&r junto con un &bBloque de Diamante&r! \\n\\nComo los otros Prismas este necesitará la Reliquia &3Elementarium&r para ser hecho. \\nComo el &cPrisma Ardiente&r, el &7Prisma Terrastomp&r puede ser usado con Herramientas. ¡Estas Herramientas serán capaces de minar en un Área de 3x3, en lugar de solo 1 Bloque Minado minará 9!"]
+	quest.63C95FDAA447CA47.title: "&7Prisma Terrastomp"
+	quest.66FE4552E09B5EFF.quest_desc: ["¡Los Prismas son importantes para muchas de las recetas de &6&lForbidden \\& Arcanus&r y otros Mods más tarde! \\n\\nPara craftearlos necesitaremos &3Elementarium&r, el cual es hecho con varias escamas de dragón en la Forja de Hefesto. \\n\\n¡Creo que sería más fácil decirnos dónde no puedes encontrarlo!"]
+	quest.66FE4552E09B5EFF.title: "&3Elementarium"
+	quest.67CCEFEBA4D79429.quest_desc: ["¡&ePacto Divino&r es el más difícil de obtener, necesitarás hacer algunas granadas de mano santas para ellos! \\n\\nEs usado para craftear el Cristal de Vinculación de Almas y...nada más realmente..."]
+	quest.67CCEFEBA4D79429.title: "&ePacto Divino"
+	quest.692183ACBB2AABF7.quest_desc: ["¡Las Reliquias son hallazgos raros alrededor de tu Mundo de &2&lMinecraft&r! Pero...no tenemos exactamente loot en un mundo skyblock. Afortunadamente, puedes craftearlas ahora con la Forja de Hefesto. \\n\\nPueden ser usadas en tu &6&lForja&r, en los cuadrados alrededor de la ranura central, ¡estos se abren más cuanto más mejoras los Niveles! \\n\\nO puedes usarlas en el &l&bClibano&r. \\n\\n¡Algunas son solo Modo Creativo, no te preocupes sabemos cuánto amas tus Items OP y estaremos buscando formas de añadirlas!"]
+	quest.692183ACBB2AABF7.title: "&lReliquias"
+	quest.6BA2BC09E23B34A9.quest_desc: [
+		"Esta necesita otra &9Piedra Oscura Pulida Cincelada&r, solo que ahora con 4 &7Runas&r y 4 Piezas de &2Estelarita&r. \\n\\nEsta &6&lForja&r es la última para el &6&lForbidden \\& Arcanus&r básico. \\n\\n¡Por supuesto tiene el resto de las Recetas más cada espacio para Reliquias está abierto ahora!"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier4.png width:100 height:100 align:center}"
+	]
+	quest.6BA2BC09E23B34A9.title: "&l&dForja de Nivel 4"
+	quest.6F57BE412A7BE84E.quest_desc: ["¡&9Almas Corruptas&r son usadas para 2 cosas! \\n\\n1. Receta de crafteo con la &l&dForja de Nivel 4&r, de la cual no necesitamos preocuparnos ahora mismo. \\n\\n2. ¡Madera de Edel Creciendo! \\n\\nMadera de Edel Creciendo actúa como el Brote para Madera de Edel, estas son la única forma de obtener Madera de Edel ahora, junto con tamizar."]
+	quest.6F57BE412A7BE84E.title: "&9Almas Corruptas"
+	quest.7671AFAA1EFD287F.quest_desc: ["¿Quieres automatizar lentamente &bAureal&r para tu &6&lForja&r? ¡Entonces, necesitarás 2 &bBloques de Cristal Arcano&r, &6Piedra Oscura Pulida Arcana&r, y &cPolvo Mundabitur&r! \\n\\nColoca la &6Piedra Oscura Pulida Arcana&r, luego encima de ella coloca ambos &bBloques de Cristal Arcano&r. \\n\\nUna vez que obtengas esta Estructura de 1x3x1, ¡Haz Clic Derecho en ella con &cPolvo Mundabitur&r para hacer el &bObelisco&r! \\n\\n¡Puedes colocar estos, donde los Pedestales usualmente van, en el &6&lMultibloque de Forja&r para automatizar &bAureal&r!"]
+	quest.7671AFAA1EFD287F.title: "&bObelisco de Cristal Arcano"
+	quest.79C9875A1A494762.quest_desc: ["¡Si prefieres no usar &9Almas Corruptas&r para cultivar Madera de Edel, puedes descansar en la Suerte! \\n\\nEl Vendedor Ambulante tiene una probabilidad de venderte Madera de Edel Creciendo, la cual puede ser plantada para cultivar Madera de Edel. \\n\\n¡El Vendedor Ambulante es muy aleatorio sin embargo, trata de usar Alfombras de Vendedor para al menos saber dónde aparecerá!"]
+	quest.79C9875A1A494762.quest_subtitle: "De Wandy T'"
+	quest.79C9875A1A494762.title: "Comprando Madera de Edel"
+	task.63D5DE02A5E407A1.title: "Any #occultism:miners"
+	task.763964008982F4ED.title: "Alfombras de Vendedor"
+}

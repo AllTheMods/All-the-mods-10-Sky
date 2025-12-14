@@ -1,0 +1,20 @@
+{
+	quest.102D82A38637FA84.quest_desc: ["&c&lBaubley Heart Canisters&r es un mod centrado alrededor de equipo fuerte y salud máxima aumentada. El recurso principal son &c corazones&r, los cuales puedes obtener matando mobs. Diferentes corazones vienen de diferentes mobs, y corazones de tier más bajo pueden ser convertidos en mejores."]
+	quest.102D82A38637FA84.quest_subtitle: "Robando su corazón"
+	quest.102D82A38637FA84.title: "&c&lBaubley Heart Canisters"
+	quest.11AA616D7622370C.quest_desc: ["Una versión mejorada que puede ser usada para más buffs."]
+	quest.15AEC638E00516AB.quest_subtitle: "Un corazón \"frío\""
+	quest.29555A5CFB098858.quest_subtitle: "Ahora estamos llegando a algún lado"
+	quest.297289FD3DA90DB4.quest_desc: ["Casi cada mob hostil suelta un &cCorazón Rojo&r. Estos son usados para un aumento de salud de juego temprano."]
+	quest.297289FD3DA90DB4.quest_subtitle: "¡No lo comas!"
+	quest.2B0E41A8E9A34238.quest_subtitle: "Curita elegante"
+	quest.30880CC59EEF97A8.quest_desc: ["Puedes fundir corazones rojos y combinarlos con cualquier \"molde\" de corazón para hacer uno amarillo."]
+	quest.30880CC59EEF97A8.quest_subtitle: "¿Todo esto por uno?"
+	quest.30880CC59EEF97A8.title: "Corazones Rojos Fundidos"
+	quest.31DE7556AC49EE48.quest_subtitle: "Hecho de dragones (o no)"
+	quest.49F4B5361AA39709.quest_desc: ["Una versión mejorada que puede ser usada para más salud."]
+	quest.49F4B5361AA39709.quest_subtitle: "Dragones de Ender"
+	quest.5902FDE5D2D74534.quest_subtitle: "La base para aumentar"
+	quest.75ADA254B6B548D1.quest_desc: ["Esto es suficiente para curar completamente una barra de salud entera por uso. ¡Bastante bueno!"]
+	quest.75ADA254B6B548D1.quest_subtitle: "20*50 = 1000 salud"
+}
