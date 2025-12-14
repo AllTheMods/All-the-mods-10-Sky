@@ -12,7 +12,7 @@
 			click: "#78215D704E6095B0"
 			height: 1.0d
 			hover: ["Quantum Helmet"]
-			image: "advanced_ae:item/quantum_helmet"
+			image: "advanced_ae:item/quantum_helmet_base"
 			rotation: 0.0d
 			width: 1.0d
 			x: 4.5d
@@ -22,7 +22,7 @@
 			click: "#78215D704E6095B0"
 			height: 1.0d
 			hover: ["Quantum Chestplate"]
-			image: "advanced_ae:item/quantum_chestplate"
+			image: "advanced_ae:item/quantum_chestplate_base"
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.5d
@@ -32,7 +32,7 @@
 			click: "#78215D704E6095B0"
 			height: 1.0d
 			hover: ["Quantum Leggings"]
-			image: "advanced_ae:item/quantum_leggings"
+			image: "advanced_ae:item/quantum_leggings_base"
 			rotation: 0.0d
 			width: 1.0d
 			x: 6.5d
@@ -42,7 +42,7 @@
 			click: "#78215D704E6095B0"
 			height: 1.0d
 			hover: ["Quantum Boots"]
-			image: "advanced_ae:item/quantum_boots"
+			image: "advanced_ae:item/quantum_boots_base"
 			rotation: 0.0d
 			width: 1.0d
 			x: 7.5d
@@ -53,8 +53,8 @@
 			image: "atm:textures/questpics/extended_advanced_ae/quantum_computer.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 10.0d
-			y: 7.0d
+			x: 10.5d
+			y: 8.0d
 		}
 		{
 			height: 5.0d
@@ -71,6 +71,42 @@
 			width: 10.0d
 			x: -6.0d
 			y: -2.5d
+		}
+		{
+			color: 7344293
+			height: 1.0d
+			image: "advanced_ae:item/quantum_helmet_tint"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 6.5d
+		}
+		{
+			color: 7344293
+			height: 1.0d
+			image: "advanced_ae:item/quantum_chestplate_tint"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 6.5d
+		}
+		{
+			color: 7344293
+			height: 1.0d
+			image: "advanced_ae:item/quantum_leggings_tint"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 6.5d
+		}
+		{
+			color: 7344293
+			height: 1.0d
+			image: "advanced_ae:item/quantum_boots_tint"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 6.5d
 		}
 	]
 	order_index: 8
@@ -1253,7 +1289,7 @@
 				item: { count: 1, id: "advanced_ae:flight_drift_card" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 7.5d
 			y: 11.5d
 		}
 		{
@@ -1490,6 +1526,69 @@
 			}]
 			x: 4.5d
 			y: -1.0d
+		}
+		{
+			dependencies: ["1A20BBBAFBEDF911"]
+			icon: {
+				components: {
+					"ftbquests:icon": "advanced_ae:block/crafting/quantum_internal_powered_animation"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "33B7C1D2A229EB5C"
+			rewards: [
+				{
+					count: 18
+					id: "2A93266B79348FDA"
+					item: {
+						count: 1
+						id: "advanced_ae:quantum_structure"
+					}
+					type: "item"
+				}
+				{
+					count: 23
+					id: "37F0143ECDCA50A0"
+					item: {
+						count: 1
+						id: "advanced_ae:quantum_accelerator"
+					}
+					type: "item"
+				}
+				{
+					id: "4B1E1BF2FF533B25"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			shape: "none"
+			size: 2.0d
+			tasks: [
+				{
+					count: 200L
+					id: "2C7A41048C1FF413"
+					item: { count: 1, id: "advanced_ae:quantum_structure" }
+					type: "item"
+				}
+				{
+					count: 100L
+					id: "10C18F67CBE3A6FF"
+					item: { count: 1, id: "advanced_ae:quantum_accelerator" }
+					type: "item"
+				}
+				{
+					id: "4DE22C031756655B"
+					item: { count: 1, id: "advanced_ae:quantum_core" }
+					type: "item"
+				}
+				{
+					id: "0345E62514E11269"
+					item: { count: 1, id: "advanced_ae:quantum_multi_threader" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.0d
 		}
 	]
 }

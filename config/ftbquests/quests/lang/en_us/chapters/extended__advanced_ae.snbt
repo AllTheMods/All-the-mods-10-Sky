@@ -90,10 +90,13 @@
 	quest.27FC0C092EE00532.title: "Can this Liquid: The ME Canner"
 	quest.2E61219FC0BAB675.quest_subtitle: "Up to +5 Reach"
 	quest.3347CB6478F486C6.quest_subtitle: "Cell Workbench Wherever You Go"
+	quest.33B7C1D2A229EB5C.quest_desc: ["Ever wanted the ultimate Quantum Computer setup? Well, here's a setup for you, focused on maximizing co-processing threads.\\n\\n218 Quantum Computer Structural Glass, 123 Quantum Computer Accelerators, 1 Quantum Computer Core, and 1 Quantum Computer Multi-Threader are what we need. This gives us a total of 8928 co-processing threads. Note that I did not include any storage here besides the core, as the 256M crafting storage from the core is plenty enough already. The Data Entangler quest is optional for a reason.\\n\\nGet 200 Q.C. Structural Glass and 100 Q.C. Accelerators, and I'll give you the rest, because I'm just as generous as the Apothic Enchanting chapter."]
+	quest.33B7C1D2A229EB5C.quest_subtitle: ""
+	quest.33B7C1D2A229EB5C.title: "The Ultimate Quantum Computer"
 	quest.34FBD04361657724.quest_desc: [
 		"Throughout ExtendedAE, you will often be using &aEntro Crystals &ras a resource."
 		""
-		"To get the &aEntro Crystal&r, you will need a Fluix Block and an Entro Seed."
+		"To get the &aEntro Crystal&r, you will need a Fluix Block and an Entro Seed. Right Click the Fluix Block with the Entro Seed."
 		""
 		"This will create &aBudding Entroized Fluix&r, which will, similarly to Budding Certus Quartz, grow Entro Buds around it. Unlike with Certus, its decay is inevitable."
 		""
@@ -114,7 +117,7 @@
 	]
 	quest.36FB694262102CFD.quest_subtitle: "The Sink but in cell form"
 	quest.36FB694262102CFD.title: "More Resources than you ever need: Infinity Cells"
-	quest.38D0BBD5F699EF41.quest_desc: ["Allows the Quantum Armor piece to charge from your ME system's energy if linked to a Wireless Access Point. If placed into a Quantum Chestplate, it also recharges items in your inventory."]
+	quest.38D0BBD5F699EF41.quest_desc: ["Allows the Quantum Armor piece to charge from your ME system's energy if linked to a Wireless Access Point. If placed into a Quantum Chestplate, it also recharges items in your inventory. This has a special interaction with AppliedFlux, where, if you have FE Cells in the network, it will extract energy from those."]
 	quest.3916B48D7F294932.quest_desc: ["The ME Wireless Hub is an upgrade to the ME Wireless Connector. It can now connect to 8 different Wireless Connectors or Hubs. Note that the Hub can only transfer 32 channels in total."]
 	quest.3916B48D7F294932.title: "Branches of Connections: The Wireless Hub"
 	quest.3972EE0ECB215843.quest_desc: ["Extended and Advanced AE are addons for Applied Energistics 2. Both of them focus on improving your experience, adding improved versions of various devices, and more."]
