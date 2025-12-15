@@ -94,7 +94,7 @@
 	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF abreviado) é um mod técnico que adiciona muitas máquinas com vários usos diferentes.\\n\\nPara começar, crie uma &aEstrutura de Máquina da Piedade&r."]
 	quest.55820773BDD5319D.quest_subtitle: "Nível: &a1"
 	quest.55820773BDD5319D.title: "Industrial Foregoing"
-	quest.57C4A0BAE739E903.quest_desc: ["A Câmara de Dissolução é usada para fabricar máquinas mais avançadas.\\n\\nVocê precisará colocar um certo fluido nela junto com os itens necessários para o que você está criando. Verifique o JEI."]
+	quest.57C4A0BAE739E903.quest_desc: ["A Câmara de Dissolução é usada para fabricar máquinas mais avançadas.\\n\\nVocê precisará colocar um certo fluido nela junto com os itens necessários para o que você está fabricando. Verifique o JEI."]
 	quest.57C4A0BAE739E903.quest_subtitle: "A Bancada de Trabalho?"
 	quest.5FE631066CAB7397.quest_desc: ["Usado para prender e transportar mobs facilmente."]
 	quest.605A5AC65BC7E864.quest_desc: ["O Pescador Marinho pode pescar automaticamente. Pode pegar peixes, tesouros, livros encantados e algumas outras coisas. Não pode pegar abelhas, no entanto, você terá que pescar manualmente para isso.\\n\\nDeve ser colocado acima de uma piscina de &9Água&r 3x3 (ou maior)."]
