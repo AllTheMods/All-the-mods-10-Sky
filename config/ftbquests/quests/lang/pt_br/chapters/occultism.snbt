@@ -322,7 +322,7 @@
 		""
 		"Em vez de ter que carregar um conjunto completo de 16 Gizes, você pode usar o Giz Arco-Íris para pintar uma Runa que muda de cor e que conta como qualquer um deles! (exceto pelo Giz de Fundação, procure pelo Giz do Vazio para adicionar esses à mistura)! "
 	]
-	quest.690B89D23134B624.title: "&fGiz &cAr&6c&eo-&aí&9r&5i&ds&r"
+	quest.690B89D23134B624.title: "&fGiz de &zArco-Íris&r"
 	quest.6C1BBA559963B3DF.quest_desc: [
 		"O &aDicionário dos Espíritos&r serve como o Livro Guia para o &dOccultism&r. Você absolutamente precisará fazer isso se quiser continuar com o mod!"
 		""
@@ -380,22 +380,18 @@
 		"Existem também maneiras de invocar amigos legais conhecidos como &dFamiliares&r que dão buffs especiais e até lutam por você! Certifique-se de conferir os &dFamiliar Rituals&r no seu livro guia!"
 	]
 	quest.7F59941D62E672B0.title: "&dFamiliares"
-	task.03350093F049AD67.title: ""
 	task.036759CF4EEFFC7D.title: "TodosOsDireitosReservados"
 	task.05A43D4098C30ED1.title: "Eldritch Chalices"
 	task.0EE813C344409F59.title: "Velas"
 	task.10037D5225C2D20E.title: "Tigela Sacrificial de Iesnium"
 	task.1709A45C149125F1.title: "TodosOsDireitosReservados"
-	task.28F295B4EC2EB476.title: ""
 	task.2C5C6F411E2F0CAF.title: "Qualquer #c:dusts/netherite"
 	task.348A7E3E3A3D324E.title: "Sim, eu li isso e com certeza não vou esquecer!"
 	task.3621D48E2CFAF2C2.title: "Qualquer #c:wools"
-	task.4DF03E583D33C20A.title: ""
 	task.523951BF097BA61F.title: "Qualquer #c:dusts/emerald"
 	task.53DE943DF951696B.title: "Demon Miner"
 	task.55DE27AB2EDB306E.title: "Tigelas Sacrificiais"
-	task.57108C994437F25B.title: ""
-	task.656A1E143070FEF4.title: ""
+	task.57108C994437F25B.title: "Qualquer #ae2:all_nether_quartz"
 	task.6A5F16B79D587128.title: "Tigelas Douradas"
 	task.6C3887D42B6B2122.title: "Familiares"
 }

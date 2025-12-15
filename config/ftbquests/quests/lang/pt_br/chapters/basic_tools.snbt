@@ -1,12 +1,10 @@
 {
-	quest.01F59AF41A6DA0F7.quest_desc: [ ]
+	quest.01F59AF41A6DA0F7.quest_desc: ["&cNota para aqueles no Modo de Edição: Esta missão foi temporariamente ocultada pois a Draco Arcanus Pickaxe não tem receita no momento da escrita. Quando a Draco Arcanus Pickaxe se tornar fabricável, seja via Forbidden Arcanus ou KubeJS, remova esta nota e exiba a missão."]
 	quest.01F59AF41A6DA0F7.quest_subtitle: "Nível: &54"
 	quest.01F59AF41A6DA0F7.title: ""
 	quest.03E05018D64DDEE1.quest_desc: ["O &eNível 5&r é basicamente apenas para o Minério de Allthemodium, nada mais."]
 	quest.03E05018D64DDEE1.title: "&eColeta Nível 5"
-	quest.053E6882650CEFC6.quest_desc: [ ]
 	quest.053E6882650CEFC6.quest_subtitle: "Nível: &e5"
-	quest.053E6882650CEFC6.title: ""
 	quest.0583862ED0114442.quest_subtitle: "&f4 &cDano de Ataque"
 	quest.077A214422FEFF02.quest_subtitle: "&f6.5 &cDano de Ataque"
 	quest.09733948CBCB3FB9.quest_desc: ["O &dNível 6&r é o nível mais alto, qualquer coisa que seja quebrável pode ser minerada com ele, incluindo Vibranium e Unobtainium."]
@@ -15,9 +13,7 @@
 	quest.161878AB4236C58B.quest_subtitle: "&f6.5 &cDano de Ataque"
 	quest.16AAC61729C44881.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, você está no modo de edição."]
 	quest.1756F81ACFC56C58.quest_subtitle: "Nível: &e5"
-	quest.175A03C28F72244D.quest_desc: [ ]
 	quest.175A03C28F72244D.quest_subtitle: "Nível: &54"
-	quest.175A03C28F72244D.title: ""
 	quest.17FE0C7748DD65CA.quest_desc: ["O &5Nível 4&r é o nível de ferramentas de Diamante, usado para obter Obsidiana e Netherita. Também alguns minérios de mods como Urânio e Platina."]
 	quest.17FE0C7748DD65CA.title: "&5Coleta Nível 4"
 	quest.1D3F11194EA3BB73.quest_subtitle: "Nível: &b3"
@@ -31,23 +27,17 @@
 	quest.2A6753C806D2AF8D.quest_desc: ["Causa mais dano do que você jamais precisaria! Mas tem algumas desvantagens."]
 	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &cDano de Ataque"
 	quest.2B9AF0D6ED8BA628.quest_subtitle: "&f6 &cDano de Ataque"
-	quest.2D4E406DD9EFA8C8.quest_desc: [ ]
 	quest.2D4E406DD9EFA8C8.quest_subtitle: "Nível: &b3"
-	quest.2D4E406DD9EFA8C8.title: ""
 	quest.2E6D11A5F5626A6C.quest_subtitle: "Nível: &f2"
 	quest.2EE4E88FC814AFA4.quest_subtitle: "Nível: &91"
-	quest.31B58988AAB27E91.quest_desc: [ ]
 	quest.31B58988AAB27E91.quest_subtitle: "Nível: &54"
-	quest.31B58988AAB27E91.title: ""
 	quest.36A3ECD4F6CA2732.quest_subtitle: "&f8 &cDano de Ataque"
 	quest.36B9D5A99E1AA85C.quest_subtitle: "&f8 &cDano de Ataque"
 	quest.3917DECAEF56A06A.quest_desc: ["O &fNível 2&r é o nível da picareta de pedra. É usado quase que exclusivamente para minerar itens de Ferro."]
 	quest.3917DECAEF56A06A.title: "&fColeta Nível 2"
 	quest.3B542DC05240242C.quest_subtitle: "&f6 &cDano de Ataque"
 	quest.3BF1900346772703.quest_subtitle: "Nível: &f2"
-	quest.3EDD2310E7290A54.quest_desc: [ ]
 	quest.3EDD2310E7290A54.quest_subtitle: "Nível: &b3"
-	quest.3EDD2310E7290A54.title: ""
 	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cDano de Ataque"
 	quest.480FA9FE57743B66.quest_subtitle: "&f5 &cDano de Ataque"
 	quest.4C8C56F960D92E9D.quest_subtitle: "&f51 &cDano de Ataque"
@@ -66,9 +56,7 @@
 	quest.5A2908437EC43AC6.quest_subtitle: "Nível: &54"
 	quest.5A6670364ADE0858.quest_subtitle: "&f29 &cDano de Ataque"
 	quest.609D03E335CF32E2.quest_subtitle: "Nível: &d6"
-	quest.632E537DA0F45CC7.quest_desc: [ ]
 	quest.632E537DA0F45CC7.quest_subtitle: "Nível: &d6"
-	quest.632E537DA0F45CC7.title: ""
 	quest.6552E301C370D203.quest_subtitle: "&f7 &cDano de Ataque"
 	quest.6601450C63FEEE61.quest_desc: ["O &bNível 3&r é o nível da Picareta de Ferro, ele minera a maioria dos minérios como Diamante, Esmeralda e Ouro."]
 	quest.6601450C63FEEE61.title: "&bColeta Nível 3"

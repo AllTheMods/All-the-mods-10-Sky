@@ -195,7 +195,7 @@
 	quest.66A450CAC07232E1.quest_subtitle: "Calor"
 	quest.66A450CAC07232E1.title: "&6Condutores Termodinâmicos"
 	quest.67E7A9A65B14C933.quest_desc: [
-		"Conseguimos &7Aglomerados de Minério&r? O que fazemos com um &7Aglomerado&r, queríamos &7Barras&r! \\n\\nPara começar, &4Esmague &fcada &7Aglomerado&f para obter 2 &7Pós de Minério Sujo&r. \\n\\nNão podemos &6Fundir &7Pó Sujo&r, isso estragaria a Fornalha! Então precisaremos &dEnriquecê-los&r para obter nosso &7Pó&r comum. \\n\\nE como de costume, &6Funda &fo &7Pó &fpara obter &7Barras&r."
+		"Conseguimos &7Aglomerados de Minério&r? O que fazemos com um &7Aglomerado&r, queríamos &7Barras&r! \\n\\nPara começar, &4Esmague &fcada &7Aglomerado&f para obter 1 &7Pós de Minério Sujo&r. \\n\\nNão podemos &6Fundir &7Pó Sujo&r, isso estragaria a Fornalha! Então precisaremos &dEnriquecê-los&r para obter nosso &7Pó&r comum. \\n\\nE como de costume, &6Funda &fo &7Pó &fpara obter &7Barras&r."
 		"{image:atm:textures/questpics/mek/mek_tier2_2.png width:250 height:50 align:center}"
 	]
 	quest.67E7A9A65B14C933.quest_subtitle: "Processamento de Minério Tier 2"
@@ -205,7 +205,7 @@
 	quest.6CD1720B76F47806.quest_desc: ["O &2&lBiogerador&r funciona pegando &2Bio Combustível&r, fazendo &2Bioetanol&r, e usando isso para &aEnergia&r! \\n\\nEste &2&lGerador&r foi fortemente nerfado, então é recomendado não usá-lo! \\n\\nIsso porque vocês, cabeças de vento, continuam fazendo enormes &aFazendas de Melão&r que consomem o TPS dos Servidores!"]
 	quest.6CD1720B76F47806.title: "&2&lBiogerador"
 	quest.6DC1E08D019FD543.quest_desc: [
-		"Nossos &7Cristais&r precisarão de ainda mais &lProcessamento&r! \\n\\nRepita os passos anteriores de fazer uma &6&lPlanta de Evaporação Térmico&r para criar &eSalmoura&r. \\n\\nUse um &9&lSeparador Eletrolítico&r para Separar o &eCloro &fda &eSalmoura&r. \\n\\nEm seguida, obtenha &7Hidrogênio&r colocando &9Água &fem um &9&lSeparador Eletrolítico&r. \\n\\nCombine o &eCloro &fe o &7Hidrogênio &fem um &a&lInfusor Químico&r para obter &3Cloreto de Hidrogênio&r! \\n\\nCom nosso &c&lInjetor Químico&r, podemos &cInjetar &fos &7Cristais&f com &3Cloreto de Hidrogênio&r para obter 2 &7Fragmentos de Minério&r de cada &7Cristal de Minério&r."
+		"Nossos &7Cristais&r precisarão de ainda mais &lProcessamento&r! \\n\\nRepita os passos anteriores de fazer uma &6&lPlanta de Evaporação Térmico&r para criar &eSalmoura&r. \\n\\nUse um &9&lSeparador Eletrolítico&r para Separar o &eCloro &fda &eSalmoura&r. \\n\\nEm seguida, obtenha &7Hidrogênio&r colocando &9Água &fem um &9&lSeparador Eletrolítico&r. \\n\\nCombine o &eCloro &fe o &7Hidrogênio &fem um &a&lInfusor Químico&r para obter &3Cloreto de Hidrogênio&r! \\n\\nCom nosso &c&lInjetor Químico&r, podemos &cInjetar &fos &7Cristais&f com &3Cloreto de Hidrogênio&r para obter 1 &7Fragmento de Minério&r de cada &7Cristal de Minério&r."
 		"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
 	]
 	quest.6DC1E08D019FD543.quest_subtitle: "Processamento de Minério Tier 4"
@@ -252,7 +252,7 @@
 	quest.7778937DF377C1B4.quest_subtitle: "Que brisa suave!"
 	quest.7778937DF377C1B4.title: "&b&lGerador Eólico"
 	quest.77FB313845779AED.quest_desc: [
-		"Agora use outro &a&lInfusor Químico&r para &a&lInfundir&r nosso Vapor d'Água e &cTrióxido de Enxofre&r. Agora temos nosso &aÁcido Sulfúrico&r! \\n\\nCanalize o &aÁcido Sulfúrico&r para um &3&lC.D.Q.&r para &3Derreter&r nossos &7Minérios &fcom &aÁcido&r. Isso nos dará &7Lama de Minério Suja&r, uma forma &cQuímica&r de &7Minérios&r. \\n\\n3 &7Minérios Brutos&r darão 2 Baldes de &7Lama de Minério&r e 1 &7Bloco de Minério&r dará 1 Balde de &7Lama de Minério&r. \\n\\nNão podemos andar por aí com &7Lama de Minério Suja&r, é vergonhoso! Precisaremos limpá-la! Inicie uma &a&lLavadora Química&r e coloque um pouco de &9Água&r (e detergente) nela. \\n\\nCada 5mb de &7Lama Suja&r será transformada em 3mb de &7Lama de Minério&r. \\n\\nAgora que nossa &7Lama&r está toda limpa, podemos colocá-la em um &5&lCristalizador Químico&r. Isso nos dará &7Cristais de Minério&r! Sim, diferentes de &7Fragmentos &fe &7Pedaços&r. Cada 200mb de &7Lama de Minério&r equivale a 1 &7Cristal&r."
+		"Agora use outro &a&lInfusor Químico&r para &a&lInfundir&r nosso Vapor d'Água e &cTrióxido de Enxofre&r. Agora temos nosso &aÁcido Sulfúrico&r! \\n\\nCanalize o &aÁcido Sulfúrico&r para um &3&lC.D.Q.&r para &3Derreter&r nossos &7Minérios &fcom &aÁcido&r. Isso nos dará &7Lama de Minério Suja&r, uma forma &cQuímica&r de &7Minérios&r. \\n\\n3 &7Minérios Brutos&r darão 2 Baldes de &7Lama de Minério&r e 1 &7Bloco de Minério&r dará 1 Balde de &7Lama de Minério&r. \\n\\nNão podemos andar por aí com &7Lama de Minério Suja&r, é vergonhoso! Precisaremos limpá-la! Inicie uma &a&lLavadora Química&r e coloque um pouco de &9Água&r (e detergente) nela. \\n\\nCada 1mb de &7Lama Suja&r será transformada em 1mb de &7Lama de Minério&r. \\n\\nAgora que nossa &7Lama&r está toda limpa, podemos colocá-la em um &5&lCristalizador Químico&r. Isso nos dará &7Cristais de Minério&r! Sim, diferentes de &7Fragmentos &fe &7Pedaços&r. Cada 200mb de &7Lama de Minério&r equivale a 1 &7Cristal&r."
 		"{image:atm:textures/questpics/mek/mek_tier4_2.png width:300 height:50 align:center}"
 	]
 	quest.77FB313845779AED.quest_subtitle: "Processamento de Minério Tier 4"
