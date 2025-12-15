@@ -1,16 +1,16 @@
 {
-	quest.062AA943A1629A86.quest_desc: ["Você explodiu a &cF&6o&er&2n&3a&9l&5h&r&ca &6A&er&2c&3o&9-&5í&rr&ci&es&r?!?! Apenas acendeu TNT bem ao lado dela? Você está louco? Aquilo levou tantas Fornalhas e recursos e você simplesmente a explodiu!!! Pelo menos conseguiu algo bom com isso? &cC&6a&er&2v&3ã&9o&5 &cA&er&2c&3o&9-&5í&rr&ci&es&r? Carvão que dura para sempre? Na verdade, isso vale bastante a pena."]
-	quest.062AA943A1629A86.title: "&cC&6a&er&2v&3ã&9o&5 &cA&er&2c&3o&9-&5í&rr&ci&es&r"
+	quest.062AA943A1629A86.quest_desc: ["Você explodiu a &zFornalha de Arco-Íris&r?!?! Apenas acendeu TNT bem ao lado dela? Você está louco? Aquilo levou tantas Fornalhas e recursos e você simplesmente a explodiu!!! Pelo menos conseguiu algo bom com isso? &zCarvão de Arco-Íris&r? Carvão que dura para &msempre&r muito tempo? Na verdade, isso vale bastante a pena."]
+	quest.062AA943A1629A86.title: "&zCarvão de Arco-Íris&r"
 	quest.07753C5D94312A50.quest_desc: [
-		"&3Aumento&r: Gerador é o oposto do &3Aumento&r: Fábrica, em vez de usar Energia para Fundir, ele Funde para gerar Energia. Você não fundirá mais itens nele, todo Combustível usado será transformado em Energia!"
+		"&3Aprimoramento&r: Gerador é o oposto do &3Aprimoramento&r: Fábrica, em vez de usar Energia para Fundir, ele Funde para gerar Energia. Você não fundirá mais itens nele, todo Combustível usado será transformado em Energia!"
 		""
 		"(Eu me pergunto se é melhor conectar um Gerador e Fornalhas de Fábrica em vez de apenas usar Combustível em uma)"
 	]
-	quest.07753C5D94312A50.title: "&3Aumento&r: Gerador"
+	quest.07753C5D94312A50.title: "&3Aprimoramento&r: Gerador"
 	quest.0AD2B11565B484E7.quest_desc: ["Você precisará de todas as Fornalhas antes da de &5Netherita&r para estas. Sim, todas, até a de &6Cobre&r! Até a de &7Prata&r! Até a de &3Cristal&r!"]
-	quest.0AD2B11565B484E7.title: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
-	quest.0ADBE90B33ACC9FB.quest_desc: ["O &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r é um impulso para a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r ao usar o &3Aumento&r: Gerador. Se todas as outras 9 Fornalhas (sem contar as Fornalhas de AllTheModium e superiores) estiverem ao redor da &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, tiverem o &3Aumento&r: Gerador e estiverem ativamente gerando Energia (abastecidas e não cheias), elas darão um impulso a uma &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r que tem o &3Aumento&r: Gerador e está funcionando. Ela produzirá 2kFE a mais por tick!"]
-	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&co&6r"
+	quest.0AD2B11565B484E7.title: "&zChapa de Arco-Íris&r"
+	quest.0ADBE90B33ACC9FB.quest_desc: ["O &zGerador de Arco-Íris&r é um impulso para a &zFornalha de Arco-Íris&r ao usar o &3Aprimoramento&r: Gerador. Se todas as outras 9 Fornalhas (sem contar as Fornalhas de AllTheModium e superiores) estiverem ao redor da &zFornalha de Arco-Íris&r, tiverem o &3Aprimoramento&r: Gerador e estiverem ativamente gerando Energia (abastecidas e não cheias), elas darão um impulso a uma &zFornalha de Arco-Íris&r que tem o &3Aprimoramento&r: Gerador e está funcionando. Ela produzirá 2kFE a mais por tick!"]
+	quest.0ADBE90B33ACC9FB.title: "&zGerador de Arco-Íris&r"
 	quest.20EC8001A05CE2C8.quest_desc: ["O Calor Sem Fio é uma maneira divertida e fácil de alimentar Fornalhas. Primeiro, coloque o Transmissor de Calor Sem Fio e insira Energia nele. Em seguida, coloque o Receptor no Transmissor para vinculá-lo. Finalmente, coloque o Receptor na seção de Combustível da Fornalha para começar a alimentá-la!"]
 	quest.21EA29A8C7F950CE.quest_desc: ["&bDiamantes&r, o pilar do &2Minecraft&r, e de Fornalhas aprimoradas, aparentemente...\\n \\nEstas funcionam ainda mais rápido, levando apenas 80 Ticks ou 4 Segundos para fundir itens. Isso é mais rápido que um Alto-forno! \\n \\nEstas são criadas apenas por &eFornalhas de Ouro&r e podem ser transformadas em &3Fornalhas de Cristal&r ou &aFornalhas de Esmeralda&r."]
 	quest.21EA29A8C7F950CE.title: "&bFornalha de Diamante"
@@ -23,11 +23,11 @@
 	quest.2E85D6E2CFCC356E.quest_desc: ["A &3Fornalha de Vibranium&r é ainda melhor que a &6Fornalha de Allthemodium&r!"]
 	quest.2E85D6E2CFCC356E.title: "&3Fornalha de Vibranium"
 	quest.2EE8FCB63A338BC4.quest_desc: [
-		"A &cF&6o&er&2n&3a&9l&5h&ca&r do &6A&er&2c&3o&9-&5Íris&r precisa, literalmente, de todas as outras Fornalhas para ser criada. 8 &cT&6i&en&2t&3u&9r&5a&cs&r do &6A&er&2c&3o&9-&5Íris&r e 1 &cN&eú&3c&5leo&r do &6A&er&2c&3o&9-&5Íris&r nos dão a melhor Fornalha que poderíamos imaginar!"
+		"A &zFornalha de Arco-Íris&r precisa, literalmente, de todas as outras Fornalhas para ser criada. 8 &zChapa de Arco-Íris&r e 1 &zNúcleo de Arco-Íris&r nos dão a melhor Fornalha que poderíamos imaginar!"
 		""
 		"Sim, leva 20 Ticks para fundir, ou 1 Segundo, mas não funde 1 item. Quantos itens, você pergunta? Quantos há em uma pilha de itens?"
 	]
-	quest.2EE8FCB63A338BC4.title: "&cF&6o&er&2n&3a&9l&5h&ca&r do &6A&er&2c&3o&9-&5Íris"
+	quest.2EE8FCB63A338BC4.title: "&zFornalha de Arco-Íris&r"
 	quest.32C7D8AE859BF89E.quest_desc: [
 		"Pode ser &dObsidiana&r, mas não se preocupe, você não precisa de uma &bPicareta de Diamante&r para pegá-la, apenas para criá-la."
 		""
@@ -44,10 +44,10 @@
 	quest.3A4C17878FC8315B.title: "&6Fornalha de Allthemodium"
 	quest.420FE84DEE12CCE0.quest_desc: ["A &eFornalha de Ouro&r é melhor que as de Ferro com um Tempo de Cozimento de 120 Ticks.\\n\\nEla pode ser criada com uma Fornalha de &7Prata&r ou Ferro e é transformada em uma de &bDiamante&r!"]
 	quest.420FE84DEE12CCE0.title: "&eFornalha de Ouro"
-	quest.49F08DE190AAD0D8.quest_desc: ["&3Aumento&r: Fábrica torna sua Fornalha mais parecida com a Fábrica de Fundição do Mekanism. Em vez de usar Combustível, agora usará Energia! Conecte um pouco de Energia e ela começará a Fundir."]
-	quest.49F08DE190AAD0D8.title: "&3Aumento&r: Fábrica"
-	quest.538821E23E39BE97.quest_desc: ["&2Aumento&r: Eficiência de Combustível é para todos vocês, Amantes da Terra, Abraçadores de Árvores, Adeptos do Capitão Planeta, Hippies. A Fornalha consome metade da quantidade de Combustível ao custo de metade do tempo. O Carvão não Fundirá 8 itens, mas sim 16!"]
-	quest.538821E23E39BE97.title: "&2Aumento&r: Eficiência de Combustível"
+	quest.49F08DE190AAD0D8.quest_desc: ["&3Aprimoramento&r: Fábrica torna sua Fornalha mais parecida com a Fábrica de Fundição do Mekanism. Em vez de usar Combustível, agora usará Energia! Conecte um pouco de Energia e ela começará a Fundir."]
+	quest.49F08DE190AAD0D8.title: "&3Aprimoramento&r: Fábrica"
+	quest.538821E23E39BE97.quest_desc: ["&2Aprimoramento&r: Eficiência de Combustível é para todos vocês, Amantes da Terra, Abraçadores de Árvores, Adeptos do Capitão Planeta, Hippies. A Fornalha consome metade da quantidade de Combustível ao custo de metade do tempo. O Carvão não Fundirá 8 itens, mas sim 16!"]
+	quest.538821E23E39BE97.title: "&2Aprimoramento&r: Eficiência de Combustível"
 	quest.553220A2CD7CAFE4.quest_desc: ["Durante o Natal, todos os Baús parecem Presentes... mas as Fornalhas simplesmente se destacam como um polegar dolorido! Agora isso pode ser mudado com o Papel de Embrulho! Você pode Clicar com o Botão Direito em qualquer &lFornalha de Ferro&r e ela estará pronta para a temporada de festas! E depois que a temporada acabar, você pode Clicar com Shift + Botão Direito para desembrulhá-la!"]
 	quest.553220A2CD7CAFE4.quest_subtitle: "Tudo Embrulhado"
 	quest.61847F47CCA225D9.quest_desc: ["Seguindo o mesmo padrão, estas derretem em 140 Ticks ou 7 Segundos.\\n\\nPodem ser criadas com Fornalhas de &6Cobre&r ou Ferro e podem ser usadas para criar uma &eFornalha de Ouro&r."]
@@ -64,20 +64,20 @@
 	quest.686B25F2E9D8CC97.quest_subtitle: "\"Isto é Halloween\""
 	quest.711DDD55CEC439E5.quest_desc: ["A &aFornalha de Esmeralda&r, me pergunto se os Aldeões trocarão por ela? \\n \\nFunciona em 40 Ticks ou apenas 2 Segundos para derreter! Pisque e você pode perder. \\n \\nElas são criadas a partir de uma &bFornalha de Diamante&r e podem ser transformadas em uma &dFornalha de Obsidiana&r."]
 	quest.711DDD55CEC439E5.title: "&aFornalha de Esmeralda"
-	quest.73FF01D830A669AA.quest_desc: ["&4Aumento&r: Detonação transforma sua Fornalha de Ferro em um Alto-forno de Ferro! Agora ele só irá fundir Minérios, mas com o dobro da velocidade! Sim, isso acumula com os efeitos de outros Aumentos e diferentes Níveis de Fornalha."]
-	quest.73FF01D830A669AA.title: "&4Aumento&r: Detonação"
+	quest.73FF01D830A669AA.quest_desc: ["&4Aprimoramento&r: Detonação transforma sua Fornalha de Ferro em um Alto-forno de Ferro! Agora ele só irá fundir Minérios, mas com o dobro da velocidade! Sim, isso acumula com os efeitos de outros Aprimoramentos e diferentes Níveis de Fornalha."]
+	quest.73FF01D830A669AA.title: "&4Aprimoramento&r: Detonação"
 	quest.757B14D08A9A03C4.quest_desc: ["Como a maioria das máquinas Modded, as Fornalhas de Ferro têm Configurações. As Configurações podem ser encontradas clicando no Canto Superior Esquerdo. Lá estarão as Entradas, Saídas e ativação por Redstone. A ativação por Redstone muda quando a Fornalha irá fundir. Os botões superiores determinam se ela automaticamente Entra ou Sai, o que significa que se moverá automaticamente para e de Inventários conectados. As caixas são cada lado da Fornalha e determinam se ela Entra, Sai, faz ambos, Entra Combustível ou não faz nada. Isso importa para Itens sendo Canalizados para dentro ou para fora. O Vinculador de Configurações de Fornalha copiará todas essas configurações para outras Fornalhas!"]
 	quest.757B14D08A9A03C4.title: "Configurações"
 	quest.78D1C97A542133D8.quest_desc: [
-		"Aumentos são Melhorias para Fornalhas de Ferro!"
+		"Aprimoramentos são Melhorias para Fornalhas de Ferro!"
 		""
-		"No Canto Superior Direito da GUI da Fornalha estará o botão para olhar a Seção de Aumentos. Haverá um local Vermelho, Verde e Azul, cada um pode conter 1 de seus Aumentos coloridos."
+		"No Canto Superior Direito da GUI da Fornalha estará o botão para olhar a Seção de Aprimoramentos. Haverá um local Vermelho, Verde e Azul, cada um pode conter 1 de seus Aprimoramentos coloridos."
 	]
-	quest.78D1C97A542133D8.title: "&lAumentos"
+	quest.78D1C97A542133D8.title: "&lAprimoramentos"
 	quest.79C4CF8D7312FC28.quest_desc: ["O melhor que o Vanilla oferece! &5Netherita&r! Não se preocupe, você não precisará do Molde de Ferraria para ela, apenas de muita &5Netherita&r. \\n \\nEla funde um item a cada 5 Ticks, o que significa 4 Itens Fundidos por Segundo. Sim, não é mais S.P.F. (Segundos por Fundição), agora é F.P.S. (Fundições por Segundo). \\n \\nCriada a partir da &dFornalha de Obsidiana&r... espere, esta não é a Fornalha final?"]
 	quest.79C4CF8D7312FC28.title: "&5Fornalha de Netherita&r"
 	quest.7A615E2A152917AD.quest_desc: ["Para isso, você precisa de 2 &5Fornalhas de Netherita&r e 7 pedaços de vidro, cada um com a cor do Arco-Íris. &cVermelho&r, &6Laranja&r, &eAmarelo&r, &2Verde&r, &3Azul&r, &9Anil&r-&5Roxo&r e &5Violeta&r-&dMagenta&r. Sim! O arco-íris completo!"]
-	quest.7A615E2A152917AD.title: "&cR&6a&ei&2n&3b&9o&5w &rNúcleo"
+	quest.7A615E2A152917AD.title: "&zNúcleo de Arco-Íris&r"
 	quest.7F67849DE9F700D8.quest_desc: ["&2Aprimoramento&r: Velocidade faz com que sua Fornalha seja mais rápida! A &bFornalha de Diamante&r, em vez disso, fundirá a cada 40 Ticks em vez de 80 Ticks. Ao custo do dobro do uso de Combustível."]
 	quest.7F67849DE9F700D8.title: "&2Aprimoramento&r: Velocidade"
 	task.38B6F45109CB033A.title: "TodosOsDireitosReservados"

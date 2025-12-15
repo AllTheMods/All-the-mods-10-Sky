@@ -256,7 +256,7 @@
 	quest.649167FC31EB916E.quest_desc: ["O &3Óleo Vegetal&r pode ser feito colocando-se colheitas ou sementes em uma &3Planta de Processamento Termopneumática&r."]
 	quest.649167FC31EB916E.quest_subtitle: "Óleo Melhor"
 	quest.649167FC31EB916E.title: "Óleo Vegetal"
-	quest.64D34A6C3487C5DF.quest_desc: ["A &3Interface Aérea&r pode ser usada para reabastecer suas coisas pressurizáveis com pressão. Agora você pode usar sua Armadura Pneumática sem precisar recarregar!\\n\\nVocê precisará de uma dessas para criar a &6Estrela ATM&r."]
+	quest.64D34A6C3487C5DF.quest_desc: ["A &3Interface Aérea&r pode ser usada para reabastecer seus itens pressurizáveis com pressão. Agora você pode usar sua Armadura Pneumática sem precisar recarregar!"]
 	quest.64D34A6C3487C5DF.quest_subtitle: "Pressão Sem Fio!"
 	quest.64E2E05B228EA53E.quest_desc: ["&3Tubos de Pressão Avançados&r são os melhores Tubos de Pressão disponíveis, capazes de suportar 20 bars de pressão!\\n\\nEmbora sejam muito legais por si só, eles também podem ser usados em algumas receitas ainda mais legais."]
 	quest.64E2E05B228EA53E.quest_subtitle: "Um Nível Totalmente Novo!"
@@ -281,7 +281,7 @@
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["O próximo estágio do mod requer a coleta de &3Petróleo Bruto&r. Este Óleo pode ser encontrado naturalmente na superfície do mundo superior."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "O Caminho para o Plástico"
 	quest.6CA01DCE1F4A0EC3.title: "Petróleo Bruto"
-	quest.6D124ACF4AE80490.quest_desc: ["Com Micromísseis você pode disparar explosões de longe! Agora ninguém pode escapar!\\n\\nEles são necessários para criar a &6Estrela ATM&r."]
+	quest.6D124ACF4AE80490.quest_desc: ["Com Micromísseis você pode disparar explosões de longe! Agora ninguém pode escapar!"]
 	quest.6D124ACF4AE80490.quest_subtitle: "Disparando Explosões de longe!"
 	quest.6EB53CDCB80D4B66.quest_desc: [
 		"A &3Porta Pneumática&r age como uma porta automática que pode ser feita para abrir apenas para você!"

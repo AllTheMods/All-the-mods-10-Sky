@@ -383,11 +383,9 @@
 	quest.3DB5874FA93FDA50.quest_subtitle: "Eletrolise 3 Ovos de Geração de Abelha de Esmeralda em um Ovo de Geração de Abelha de Berílio"
 	quest.3DB5874FA93FDA50.title: "&fAbelha de Berílio"
 	quest.3E301F3EEC8C763A.quest_desc: [
-		"Isso pode ser usado para acelerar a taxa de crescimento de abelhas bebês ou para criar novos Ovos de Spawn."
-		""
-		"Coloque uma abelha bebê enjaulada com 20 Guloseimas de Mel para transformá-la em adulta."
-		""
-		"Para criar Ovos de Spawn, você precisará combinar o gene da abelha que deseja com uma guloseima de mel e, em seguida, usar essa guloseima de mel nesta máquina com um ovo para criar o novo ovo de spawn.\\n\\nOs genes podem ser combinados para um máximo de 100% de pureza, o que lhe dará 100% de chance de converter um Ovo em um Ovo de Spawn de Abelha."
+		"Isto pode ser usado para acelerar a taxa de crescimento de abelhas bebês, ou para criar novos Ovos de Geração.\\n\\nColoque uma abelha bebê engaiolada com 20 Guloseimas de Mel para transformá-la em adulta.\\n\\nPara criar Ovos de Geração, você precisará combinar o gene da abelha que você quer com uma guloseima de mel, e então usar essa guloseima de mel nesta máquina com um ovo para criar o novo ovo de geração.\\n\\nGenes podem ser combinados para um máximo de 100% de pureza, o que lhe dará uma chance de 100% de converter um Ovo em um Ovo de Geração de Abelha."
+		"{@pagebreak}"
+		"Você pode até aplicar genes a uma abelha sem tirá-la de sua gaiola com isso. Coloque uma Guloseima de Mel com as amostras de genes de sua escolha na incubadora junto com uma gaiola de abelha contendo a abelha na qual você deseja aplicar genes."
 	]
 	quest.3E301F3EEC8C763A.quest_subtitle: "Creche para Abelhas Bebês"
 	quest.3E301F3EEC8C763A.title: "&fIncubadora de &6Abelhas Bebê"

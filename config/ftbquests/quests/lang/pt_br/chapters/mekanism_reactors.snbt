@@ -162,23 +162,6 @@
 	quest.4F9C8D90ACF563F5.quest_desc: ["Obrigado &2&lMinecraft&r pelo Update Aquatic, mas Nadar ainda pode ser muito lento. \\n\\nEntão por que não acelerar isso! Assim como o encantamento Passos Profundos! \\n\\nCom a &9Unidade de Repulsor Hidrostático&r você pode Andar e Nadar mais rápido na &9Água&r."]
 	quest.4F9C8D90ACF563F5.quest_subtitle: "Calças"
 	quest.4F9C8D90ACF563F5.title: "&9Unidade de Repulsor Hidrostático"
-	quest.505799C894C771B2.quest_desc: [
-		"Algumas &5Máquinas&r do &5&lMekanism&r podem ser Aprimoradas, como o &9&lInfusor Metalúrgico&r e a &d&lCâmara de Enriquecimento&r. Algumas não podem, no entanto; estas só aceitam Cartões de &8Melhoria&r. \\nOs &6&lDesenvolvedores do ATM&r viram isso e quiseram que os jogadores, em vez de fazer 50 &9&lSeparadores Eletrolíticos&r, pudessem fazer 1 Multibloco! \\n\\nPara criar esses Multiblocos, no entanto, precisaremos de um Multibloco anterior. A &c&lForja Automática de Hefesto&r. \\n\\nEla tem sua própria Missão no &aCapítulo 4&r: &dCriativo&r. Dê uma olhada lá! \\n\\nTodos os Multiblocos usam a mesma Estrutura, apenas com Controladores diferentes. Confira a Próxima Página para ver as Instruções de como construí-lo!"
-		"{@pagebreak}"
-		"A primeira camada é a mais complicada, pois abriga todos os &cCarcaças de Máquina&r. As vários &cCarcaças de Máquina&r ficarão no meio, enquanto as &9Escadas de Pedra Sombria&r, os &9Blocos&r e a &6Pedra Sombria Polida Talhada Dourada&r os cercam."
-		"{image:atm:textures/questpics/mek/mek_multi_runic1.png width:150 height:100 align:center}"
-		"A segunda camada completa a primeira com mais &9Tijolos de Pedra Sombria&r e &9Escadas&r. Agora também inclui &9Lajes de Pedra Sombria&r e &7Blocos de Runa&r!"
-		"{image:atm:textures/questpics/mek/mek_multi_runic2.png width:150 height:100 align:center}"
-		"Não tem como ser mais simples que isso! Basta colocar &9Pilares de Pedra Sombria&r acima dos 4 &7Blocos de Runa&r externos e é só isso!"
-		"{image:atm:textures/questpics/mek/mek_multi_runic3.png width:150 height:100 align:center}"
-		"Eu estava certo, não fica mais simples. Continua exatamente o mesmo nível de simplicidade! Repita o passo anterior."
-		"{image:atm:textures/questpics/mek/mek_multi_runic4.png width:150 height:100 align:center}"
-		"Para finalizar, coloque &bBlocos de Cristal Arcano&r acima dos &9Pilares de Pedra Sombria&r e um &8Injetor Quântico&r acima do &7Bloco de Runa&r descoberto."
-		"{image:atm:textures/questpics/mek/mek_multi_runic5.png width:150 height:100 align:center}"
-		"Nossas &5&lMáquinas Multibloco&r precisarão de Escotilhas para funcionar! Para adicioná-las, substitua os &9Tijolos de Pedra Sombria&r da primeira camada pelas Escotilhas."
-	]
-	quest.505799C894C771B2.quest_subtitle: "É quase uma evolução!"
-	quest.505799C894C771B2.title: "&5Máquinas&r Aprimoradas, porém Não-Aprimoráveis"
 	quest.50F23B2688D7E699.quest_desc: ["Com 1.000mB de &dAntimatéria&r processada em um &5&lCristalizador Químico&r, podemos fazer 1 &dPastilha de Antimatéria&r. \\n\\nIsso significa que são necessários 1.000.000mB de &aPolônio&r ou 1MmB de &aPolônio&r. \\n\\nPara todo esse &aPolônio&r, você precisará de 5.000.000mB de &8Rejeito Nuclear&r, e de &2Combustível Fóssil&r para fazer o &8Rejeito Nuclear&r. Apenas 5MmB de &2Combustível Fóssil&r... apenas! \\n\\nMas finalmente, nós o temos! O &eItem&r mais valioso de todo o &5&lMekanism&r! A &dPastilha de Antimatéria&r. \\n\\nAgora podemos fazer nosso Meka-Traje, mais armazenamento para o &e&lOIQ&r e até mesmo a &6&lEstrela do ATM&r!"]
 	quest.5194A067BEA98E79.quest_desc: ["Ei, eu me lembro de você! \\n\\nAcontece que a &5&lCentrífuga Isotópica&r é usada para 2 Receitas. &2Combustível Fóssil&r e &3Plutônio&r! \\n\\nPara cada 5mB de &8Rejeito Nuclear&r, podemos criar 1mB de &3Plutônio&r. \\n\\nSe cada &3Pastilha de Plutônio&r equivale a 1.000mB de &3Plutônio&r, então precisaremos de 5.000mB de &8Rejeito Nuclear&r e o mesmo para o &2Combustível Fóssil&r."]
 	quest.5194A067BEA98E79.title: "Girando por &3Plutônio"
