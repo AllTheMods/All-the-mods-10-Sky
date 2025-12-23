@@ -282,6 +282,14 @@ ServerEvents.recipes((allthemods) => {
       }
     })
     .id("sgearmetalworks:casting/uru/bee_spawn_egg_from_bee")
+	// Example Firework Star recipe to help people in JEI (as it's not shown there)
+	allthemods.shapeless(
+        Item.of('minecraft:firework_star[firework_explosion={colors:[I;15790320],shape:"small_ball"}]'),
+        [
+            'minecraft:gunpowder',
+			'minecraft:white_dye'
+        ]
+    ).id("allthemods:example_firework_star")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
