@@ -921,6 +921,7 @@
 		{
 			dependencies: ["3D4CCEA2ED727AE4"]
 			id: "208734A50051ECEC"
+			min_width: 300
 			optional: true
 			rewards: [
 				{
@@ -1227,7 +1228,7 @@
 			}]
 			tasks: [{
 				id: "5C5BD15346C75F38"
-				item: { components: { "ftbfiltersystem:filter": "or(item(kubejs:dirt_cell)item(kubejs:moss_cell)item(kubejs:gravel_cell)item(kubejs:sand_cell)item(kubejs:red_sand_cell)item(kubejs:end_stone_cell)item(kubejs:netherrack_cell)item(kubejs:blackstone_cell)item(kubejs:soul_sand_cell)item(kubejs:cobbled_deepslate_cell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(kubejs:dirt_cell)item(kubejs:moss_cell)item(kubejs:gravel_cell)item(kubejs:sand_cell)item(kubejs:red_sand_cell)item(kubejs:end_stone_cell)item(kubejs:netherrack_cell)item(kubejs:blackstone_cell)item(kubejs:soul_sand_cell)item(kubejs:cobbled_deepslate_cell)item(kubejs:dust_cell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 9.0d
