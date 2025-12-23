@@ -95,6 +95,8 @@ ItemEvents.modifyTooltips((allthemods) => {
     ],
     [Text.of("§cWARNING: Will implode at wave 3 in a Compact Machine or AE2 Spatial Storage")]
   )
+  // Productive Bees
+  allthemods.add("productivebees:gene_bottle", [Text.of("§6Put this into a Centrifuge.")])
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
