@@ -119,8 +119,8 @@
 		}
 		{
 			height: 2.0d
-			image: "occultism:item/divination_rod/divination_rod_animation"
-			rotation: -45.0d
+			image: "occultism:textures/gui/book/familiar_dragon.png"
+			rotation: 0.0d
 			width: 2.0d
 			x: 18.0d
 			y: 15.5d
@@ -255,7 +255,7 @@
 			y: 5.0d
 		}
 	]
-	order_index: 15
+	order_index: 16
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -544,7 +544,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["4F35D04721DFC9FF"]
+			dependencies: ["7B574DD5CC5ACAE3"]
 			id: "1DE0F289821F55D1"
 			rewards: [{
 				id: "1B9CD287CB41E0E8"
@@ -1619,7 +1619,11 @@
 			y: 6.5d
 		}
 		{
-			dependencies: ["2AD68066C1948C90"]
+			dependencies: [
+				"2AD68066C1948C90"
+				"2A6FE386DF0E1D98"
+			]
+			dependency_requirement: "one_completed"
 			icon: {
 				id: "occultism:chalk_light_blue_impure"
 			}
@@ -2018,6 +2022,101 @@
 			x: 8.0d
 			y: 6.0d
 		}
+		{
+			dependencies: ["4F35D04721DFC9FF"]
+			id: "7B574DD5CC5ACAE3"
+			tasks: [{
+				id: "6B57473B652B8AAB"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["30C5B597610F4AFB"]
+			icon: {
+				id: "occultism:ritual_dummy/custom_ritual_summon"
+			}
+			id: "2A6FE386DF0E1D98"
+			min_width: 300
+			optional: true
+			require_sequential_tasks: false
+			rewards: [{
+				id: "2180581F987CBEC9"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "631796E764CCDFA5"
+					item: { count: 1, id: "alltheores:iron_dust" }
+					type: "item"
+				}
+				{
+					id: "062F58C31F3FC333"
+					item: { count: 1, id: "alltheores:silver_dust" }
+					type: "item"
+				}
+				{
+					id: "704EF179EF37D3FC"
+					item: { count: 1, id: "alltheores:gold_dust" }
+					type: "item"
+				}
+				{
+					id: "21F6E22279AB5C54"
+					item: { count: 1, id: "alltheores:copper_dust" }
+					type: "item"
+				}
+			]
+			x: 13.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["0BD6365534BF04D5"]
+			id: "0FE3094B22412BD3"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "792A5686DFB47101"
+				table_id: 6355363837720688303L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4138379B795804C0"
+				item: { count: 1, id: "ars_ocultas:altar" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["4F35D04721DFC9FF"]
+			icon: {
+				id: "ars_nouveau:mob_jar"
+			}
+			id: "2A3D132CDBDC8174"
+			optional: true
+			tasks: [
+				{
+					id: "1AE221770AD201BF"
+					item: { count: 1, id: "ars_nouveau:ritual_brazier" }
+					type: "item"
+				}
+				{
+					id: "428A5882C1CA9CB5"
+					item: { count: 1, id: "ars_nouveau:ritual_containment" }
+					type: "item"
+				}
+				{
+					id: "399D5750E709BA96"
+					item: { count: 1, id: "ars_nouveau:mob_jar" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 11.5d
+		}
 	]
 }
-

@@ -35,7 +35,7 @@
 	quest.12469CC0CCFBA1C5.title: "Chaotic Staff"
 	quest.129E09C03E40BA57.quest_desc: ["The Reactor takes Awakened Draconium as Fuel, don't worry its efficient! Fuel Conversion determines when the Awakened Draconium will change to Chaos. It can take only 8 BLocks at a time and can only be Fueled or Refueled when the Reactor is shut off. SAS mode helps to make that easier! Also Fuel goes into the bottom right Slots."]
 	quest.129E09C03E40BA57.title: "Fuel for our Reactor"
-	quest.12BDE512C734D19A.quest_desc: ["Draconium Cores are a vital Ingrediant in many recipes in Draconic Evolution. Especially for Basic Tier items."]
+	quest.12BDE512C734D19A.quest_desc: ["Draconium Cores are a vital Ingredient in many recipes in Draconic Evolution. Especially for Basic Tier items."]
 	quest.12BDE512C734D19A.title: "Basic (Draconium) Core"
 	quest.131AA933D59D3017.quest_desc: [
 		"Tier 5 needs 90 Draconium Ingot Blocks and 80 Redstone Blocks, along with 4 Advanced Stabilizers or 36 Stabilizers."
@@ -211,7 +211,6 @@
 	quest.5895B7FA5497BD68.quest_desc: ["Upgraded version of the Wyvern Axe."]
 	quest.5895B7FA5497BD68.title: "Draconic Axe"
 	quest.594BBD31461F212D.title: "Draconic Shield Recovery Module"
-	quest.5ADFC45B03BAB852.quest_desc: ["This is what Draconic Cores are for."]
 	quest.5ADFC45B03BAB852.title: "Draconic Tier"
 	quest.5BC6CC3C09F512A7.quest_desc: [
 		"The Reactor Core is the most important part of the Reactor, IE the Core! Place it 5 blocks or more from the Injector and Stabilizers, and you can right click it to see it's GUI here you'll find a few bars, a ball, buttons, and slots. The Bars go from left to right: Heat, Containment Field, Energy Saturation, and Fuel Conversion. You already learned about the Field and Energy and you will learn about the Fuel in a next quest. So the Heat is pretty important as when warming up it will raise to 2000C before being ready to activate. Make sure it doesn't get too high or else... meltdown! The Ball is the image of your Core, right now I have a bug where the Core doesn't have a texture so I can't explain much. The Buttons change the appearance of GUI, to activate or shutdown the Reactor, and charge it."
@@ -227,7 +226,7 @@
 	quest.5C2CF51D28F84CBE.title: "Kill the Chaos Guardian"
 	quest.5D87088E8D71DB9B.quest_desc: ["The IO Crystals work as blocks that can connect to each other and move power from one another. To link them Shift Right Click with a Crystal Binder to set one and then right click whichever Crystal you want connected. When you look at the Crystal it will say either Input from block or Output to block. Input is the one you want to take OP from and Output to where you want it to go."]
 	quest.5D87088E8D71DB9B.title: "Moving OP"
-	quest.5E0D78B7B2CF1729.quest_desc: ["I know it's Wyvern Tier so why is a Draconic item in here? In order to get to Draconic Tier you need Draconic Injectors. To get Draconic Injectors you'll need Draconic Cores. See why they are here now?"]
+	quest.5E0D78B7B2CF1729.quest_desc: ["I know it's Wyvern Tier so why is a Draconic item in here?"]
 	quest.5E0D78B7B2CF1729.title: "Draconic Core"
 	quest.5E671F1F370DDE43.title: "Draconic Auto Feed Module"
 	quest.5E8D527DE9D7DD46.quest_desc: ["With this on your Chestplate you can Glide! As if you were using an Elytra (But without cost of Armor). I don't like to call it flying, rather 'falling with style'."]
@@ -311,4 +310,3 @@
 	task.664130FB28E419EF.title: "I/O Crystals"
 	task.6EAC5BBFAA0184BC.title: "Preparation"
 }
-
