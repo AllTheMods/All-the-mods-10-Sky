@@ -65,7 +65,7 @@ ServerEvents.recipes((allthemods) => {
     })
     .id("allthemods:energizing/ae2_creative_energy_cell")
 
-  //Ars Noveau
+  //Ars Nouveau
 
   allthemods.recipes.kubejs.shaped("allthearcanistgear:creative_spell_book", ["BSG", "GGE", "EER"], {
     B: "allthearcanistgear:unobtainium_spell_book",

@@ -41,8 +41,6 @@
 	quest.2094D1CE4BA66091.quest_desc: ["Light is a very important part of any Base. \\n\\nIt keeps Monsters from Spawning, helps to see, and even adds more Color and life to your Builds! \\n\\nOr you can just use Night Vision but where's the fun in that!"]
 	quest.22D2CFDDB06C720C.quest_desc: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks that same pickaxe/axe/shovel tier can!"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
-	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r, along with Trains, adds some Stones for Decoration! \\n\\nQuarried and Abyssal Stone can be crafted together to make Polished, Chiseled, or Brick versions! \\n\\nAlso don't forget Stairs and Slabs! "]
-	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
 	quest.23631A4A743D4F0C.quest_desc: ["Don't even complain about this one. \\n\\nThere are dozens of ways of getting Iron and it's needed for even just normal progression. \\n\\nYou will get Iron, you will make it into a Block, and you will make it pretty!"]
 	quest.23631A4A743D4F0C.title: "&l&bChipped&r Metals"
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r is a Mod that adds a few very helpful Items. \\n\\nAll for of course, building! \\n\\nEach requires &cEnergy&r to work and has a Menu which is pulled up by default &lG&r."]
@@ -96,6 +94,19 @@
 	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r Glass"
 	quest.5AD09CCEEDC0B50F.quest_desc: ["Now these are super helpful, you should definitely check them out! \\n\\nThe actual Light Source is the Feral Flare Lantern. It will place invisible Light Sources around 20 Blocks or more around it. \\n\\nThe Mega Torch is different: it doesn't emit Light but it does Block all Hostile Mob spawns with 64 Blocks of it! Useful for those using Night Vision. \\n\\nThe Dread Lamp does the opposite, it blocks Passive Mob spawns in the same area."]
 	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
+	quest.5C0588F5B9B65AFD.quest_desc: [
+		"&d&lCamol&r is the answer to camouflaging &lEVERYTHING.&r From Pipez to Mekanism Cables to ATM Stars, and everything but the- no, wait, the Kitchen Sink, too."
+		""
+		"Craft the &d&lCamo Block&r together with the block you want to use for the camo, then right click it on the block you want to camouflage, like some kind of cable or something."
+		""
+		"By default the &d&lCamo Block&r will take on the collision shape of the camoed block. You can change this to the Shape Retaining version by putting it into a crafting grid by itself. This will make it take on the shape of the camoing block."
+		""
+		"If you want to remove a &d&lCamo Block&r, right click the camoed block with another Camo Block."
+		""
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.5C0588F5B9B65AFD.title: "&d&lCamol"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r is all about Farming and Cooking Food Items! We can also use those same Items for Decoration and usage! \\n\\nThe Stove, Pots, and Pans are perfect for a Kitchen. \\n\\nThe Food Barrels are great for a Pantry. \\n\\nThe Farm stuff is great for outdoor decor and the Cabinets are perfect for anywhere!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
 	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adds plenty of Glasses with it's &lWorld Core&r! \\n\\nFrom ones you can walk through, to glowing ones, to stronger ones!"]
@@ -132,12 +143,15 @@
 	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r is a very fun magic Mod and with it brings its own set of Wood! \\n\\nArchwood comes in 5 different colors of trees that spawn in most Biomes but mostly in their Archwood Biome!"]
 	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Logs"
 	task.00A904FBEDE80712.title: "Macaw's Roofs"
+	task.0138936FB4DD8A88.title: "Chipped Utilities"
+	task.022D9FAD58AEE2C8.title: "Luminax"
 	task.064B1841F9288CC3.title: "Blocks"
 	task.06F2EC3901908BF1.title: "Plastic Construction Bricks"
 	task.074BDA389D0FB989.title: "Chipped Copper"
 	task.0896EE64F92CCD86.title: "Macaw's Doors"
 	task.0BAEC53DD32C9870.title: "Productive Trees Logs"
 	task.0EBE231AB868C868.title: "Blocks"
+	task.0ED255BCB75ECCF1.title: "Crystalix Glass"
 	task.104E1A4BF3520D67.title: "Reactor Glass"
 	task.16EF7FF802D5A2BB.title: "Framed Blocks"
 	task.195338A3977C682E.title: "Mystical Agriculture Blocks"
@@ -156,6 +170,7 @@
 	task.32CB6A7BC1AB644E.title: "Simply Light"
 	task.36E85C17C558F436.title: "Torchmaster"
 	task.389B5B0F35B89FC8.title: "Chipped Concrete"
+	task.3BE936F7D054FDDA.title: "Construction Sticks"
 	task.3C16167530BEC231.title: "AllRightsReserved"
 	task.3C18AB7133946682.title: "Paxels"
 	task.3C4997133CCECBE0.title: "Handcrafted"
@@ -163,12 +178,12 @@
 	task.41602F0D9097E74F.title: "Chipped Terracotta"
 	task.41FF171C7D97B574.title: "Chipped Gem Blocks"
 	task.436475D6C527A458.title: "Macaw's Paths and Pavings"
+	task.46803BBAC2069773.title: "Changing Blocks"
 	task.46905D1E23255397.title: "Macaw's Windows"
 	task.49F387C7EAD579A2.title: "Completed Macaw"
 	task.4B13D48FF9D2530E.title: "XyCraft Lights"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "Chipped Lights"
-	task.50BED71A6677392E.title: "Railcraft Stones"
 	task.53A682560123F9B6.title: "Glassential"
 	task.5936B8B8EDE0AE55.title: "Metal and Gem Blocks"
 	task.5DEABD15EDE5736F.title: "XyCraft Glass"

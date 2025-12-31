@@ -1,5 +1,5 @@
 {
-	quest.0000A88BB40B2149.quest_desc: ["Now before you get to the Chaos Island I recommend preparing, he may look like the Ender Dragon but this one is much more difficult. You'll want Draconic Weapons or Tools that do a lot of damage as those will make it easier. He will also do a crap-ton of damage good Armor like Unobtainium or Meka-Suit will be recommeneded. (Also effects of Regeneration, Absorption, and Resistance will help you survive}. Don't worry you can always come back to fight another day if you aren't ready."]
+	quest.0000A88BB40B2149.quest_desc: ["Now before you get to the Chaos Island I recommend preparing, he may look like the Ender Dragon but this one is much more difficult. You'll want Draconic Weapons or Tools that do a lot of damage as those will make it easier. He will also do a crap-ton of damage good Armor like Unobtainium or Meka-Suit will be recommended. (Also effects of Regeneration, Absorption, and Resistance will help you survive}. Don't worry you can always come back to fight another day if you aren't ready."]
 	quest.0000A88BB40B2149.title: "It's tough you'll need to prepare"
 	quest.01612963DBBAC9A1.quest_desc: ["Hopefully this should protect you."]
 	quest.01612963DBBAC9A1.title: "Chaotic Chestplate"
@@ -35,7 +35,7 @@
 	quest.12469CC0CCFBA1C5.title: "Chaotic Staff"
 	quest.129E09C03E40BA57.quest_desc: ["The Reactor takes Awakened Draconium as Fuel, don't worry its efficient! Fuel Conversion determines when the Awakened Draconium will change to Chaos. It can take only 8 BLocks at a time and can only be Fueled or Refueled when the Reactor is shut off. SAS mode helps to make that easier! Also Fuel goes into the bottom right Slots."]
 	quest.129E09C03E40BA57.title: "Fuel for our Reactor"
-	quest.12BDE512C734D19A.quest_desc: ["Draconium Cores are a vital Ingrediant in many recipes in Draconic Evolution. Especially for Basic Tier items."]
+	quest.12BDE512C734D19A.quest_desc: ["Draconium Cores are a vital Ingredient in many recipes in Draconic Evolution. Especially for Basic Tier items."]
 	quest.12BDE512C734D19A.title: "Basic (Draconium) Core"
 	quest.131AA933D59D3017.quest_desc: [
 		"Tier 5 needs 90 Draconium Ingot Blocks and 80 Redstone Blocks, along with 4 Advanced Stabilizers or 36 Stabilizers."
@@ -58,7 +58,7 @@
 	quest.1A53B6544782442E.title: "Wyvern Shield Control Module"
 	quest.1C8210712349A2E3.quest_desc: ["Pretty simple premise, Axes and Swords can do more Damage. Yes, it stacks!"]
 	quest.1C8210712349A2E3.title: "Basic Damage Module"
-	quest.1D3E2363CFD4C5E0.quest_desc: ["Fusion Crafting has Tiers which is determined by the Injectors. The Tiers go in ascending order: Draconium (I refer to it as Basic to help differentiate), Wyvern, Draconic, and Chaotic. The Injectors need to be placed on the Left and Right of the Fusion Crafting Core, a few blocks away from it. They can be placed in a cross shape at a max of 5 on each side of the Crafting Core. To give them Energy putting Relay IO Crystals connected to them will work, check out Crystak Binding to learn more."]
+	quest.1D3E2363CFD4C5E0.quest_desc: ["Fusion Crafting has Tiers which is determined by the Injectors. The Tiers go in ascending order: Draconium (I refer to it as Basic to help differentiate), Wyvern, Draconic, and Chaotic. The Injectors need to be placed on the Left and Right of the Fusion Crafting Core, a few blocks away from it. They can be placed in a cross shape at a max of 5 on each side of the Crafting Core. To give them Energy putting Relay IO Crystals connected to them will work, check out Crystal Binding to learn more."]
 	quest.1D3E2363CFD4C5E0.title: "Basic Tier"
 	quest.1E41A5071854DEC8.title: "Wyvern Damage Module"
 	quest.1F7D147C9AF6A4FC.quest_desc: [
@@ -84,7 +84,7 @@
 	quest.295EB6CFEC029AE2.title: "Adding OP to items"
 	quest.2A5C5B44E9643A5D.title: "Chaotic Speed Module"
 	quest.2AA08313F927981E.title: "Wyvern Speed Module"
-	quest.2AAE61752728EA8D.quest_desc: ["When 'falling' your Mining is slowed down. That includes when creative flying or even bouncing in water. Thankfully you can use Air Affinty Enchantment to negate that! Not a vanilla Enchantment but still helpful! Oh wait I was supposed to talk about the Module... same thing!"]
+	quest.2AAE61752728EA8D.quest_desc: ["When 'falling' your Mining is slowed down. That includes when creative flying or even bouncing in water. Thankfully you can use Air Affinity Enchantment to negate that! Not a vanilla Enchantment but still helpful! Oh wait I was supposed to talk about the Module... same thing!"]
 	quest.2AAE61752728EA8D.title: "Mining Stabilizer Module"
 	quest.2B6D71DAF72EAFA4.quest_desc: ["The Capacitors act as the Batteries for Draconic Evolution. They need Energy Modules to actually hold Energy and remember, 'The more the merrier!'."]
 	quest.2B6D71DAF72EAFA4.title: "Wyvern Capacitor"
@@ -184,7 +184,7 @@
 	quest.4ABEF61DADBD0640.title: "Auto Fire Module"
 	quest.4B7840F1A8CF1378.quest_desc: ["Fusion Crafting is how most (atleast the fun items) will be made. To get started you need a Fusion Crafting Core, place it down about a block above the ground. The Core is where recipes can be autoplaced in from JEI, where the middle item goes, and where the end item will be put. It will need the Injectors put a few blocks away from it looking toward the Core on two sides of it. Check next Quest to find more on those. The Injectors will also need Energy which will be explained more in the Crystal Binding Quest."]
 	quest.4B7840F1A8CF1378.title: "Fusion Crafting"
-	quest.4B9FF9E972B0E530.quest_desc: ["The better the Energy Link or Tunnel obviously the more OP it can transfer, but also you might have noticed sonething missing with the Energy Link. It doesn't work between Dimensions! Thankfully the better ones can, just make sure the other side is chunkloaded."]
+	quest.4B9FF9E972B0E530.quest_desc: ["The better the Energy Link or Tunnel obviously the more OP it can transfer, but also you might have noticed something missing with the Energy Link. It doesn't work between Dimensions! Thankfully the better ones can, just make sure the other side is chunkloaded."]
 	quest.4B9FF9E972B0E530.title: "Quantum Energy Tunnel"
 	quest.4CD2ADD3601B8191.quest_desc: ["Want your Shield to come back and not just when you almost die? Then, you'll need Recovery Modules. The more Modules the faster it recovers."]
 	quest.4CD2ADD3601B8191.title: "Wyvern Shield Recovery Module"
@@ -245,7 +245,7 @@
 	quest.6616A62426ED4D15.title: "Reactor Energy Injector"
 	quest.69396F87A09FBD85.quest_desc: ["All Pickaxes mine at the same Mining Tier so the only need to upgrade is to be faster and get the Staffs."]
 	quest.69396F87A09FBD85.title: "Chaotic Pickaxe"
-	quest.69986817D58AC8BE.quest_desc: ["Stabilizers are what form the Containment Field (Force Shield around the Reactor Core). Once Containment Shield is down to 0 while Reactor is turned on it will begin a Meltdown. All 4 Stabilizers need to be a few blocks away (5 or more) from the Core and need to be around same Axis as the Core to work. These are also where you will pipe out OP from the Reactor, just not too mcuh!"]
+	quest.69986817D58AC8BE.quest_desc: ["Stabilizers are what form the Containment Field (Force Shield around the Reactor Core). Once Containment Shield is down to 0 while Reactor is turned on it will begin a Meltdown. All 4 Stabilizers need to be a few blocks away (5 or more) from the Core and need to be around same Axis as the Core to work. These are also where you will pipe out OP from the Reactor, just not too much!"]
 	quest.69986817D58AC8BE.title: "Reactor Stabilizers"
 	quest.6B0CD6732BE0E819.quest_desc: ["Legit just Jump Boost."]
 	quest.6B0CD6732BE0E819.title: "Basic Jump Module"
@@ -285,7 +285,7 @@
 	quest.79886D63280DBBF3.quest_desc: ["Filtering isn't enough?!?! You want the items destroyed?!?! You monster!"]
 	quest.79886D63280DBBF3.title: "Selective Incineration Module"
 	quest.79FC674836B6340E.title: "Draconic Jump Module"
-	quest.7A4ABFCD12202A91.quest_desc: ["Operational Potentional is the Energy source of Draconic Evolution. The main way (not the only way) of moving OP is with IO Relay Crystals. To actually get OP into items you'll need an Energy Transfer."]
+	quest.7A4ABFCD12202A91.quest_desc: ["Operational Potential is the Energy source of Draconic Evolution. The main way (not the only way) of moving OP is with IO Relay Crystals. To actually get OP into items you'll need an Energy Transfer."]
 	quest.7A4ABFCD12202A91.title: "What is Energy or as we call it, OP?"
 	quest.7B9F5EEC76FDD0D4.title: "Draconic Damage Module"
 	quest.7C54581562D2EA75.quest_desc: ["Speed Modules are fun, they work in just about everything and make them faster! Swords swing faster, Pickaxes mine faster, Axes chop faster, Bows shoot faster, and Chestplate makes you faster. The better the Speed Module the faster they go! (BTW good time to mention most stats stack up. 2 Basic Speed Modules increase Speed by 20%% then!)"]
@@ -311,3 +311,4 @@
 	task.664130FB28E419EF.title: "I/O Crystals"
 	task.6EAC5BBFAA0184BC.title: "Preparation"
 }
+

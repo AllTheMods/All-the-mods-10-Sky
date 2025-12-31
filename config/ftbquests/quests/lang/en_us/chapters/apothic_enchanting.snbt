@@ -29,7 +29,7 @@
 	quest.224716A537F2FFA0.quest_desc: ["&8Armor Tomes&r are used to get &5Enchantments&r which are only used on Armor. All of the &8Tomes&r can get &5Protection&f, &5Blast Protection&f, and &5Fire Protection&r. \\n\\nEach also gives ones reserved for a certain part of the Armor. Boots will give &5Depth Strider&r and Helmets will give &5Aqua Affinity&r. \\n\\nIf you want the best chance for just &5Protection&r try the &8Chestplate Tome&r!"]
 	quest.224716A537F2FFA0.title: "&8Armor Tomes"
 	quest.235E3C386E8D36A3.quest_desc: [
-		"This is where the seperation of &4Hellshelves&r and &bSeashelves&r end! \\n\\nFirst, we'll need to Craft a &9Dormant Deepshelf&r. These are just 6 &8Cracked Deepslate Tiles&r and 3 &7Books&r. \\n\\nThen, we'll need &a60 Eterna&r, &c40% Quanta&r, and &540% Arcana&r. We can get that with 12 &bCrystalline Seashelves&r or 12 &4Glowing Hellshelves&r! \\n\\nFinally, we can &d&lInfuse&r our &9Dormant Deepshelves&r into regular &9Deepshelves&r!"
+		"This is where the separation of &4Hellshelves&r and &bSeashelves&r end! \\n\\nFirst, we'll need to Craft a &9Dormant Deepshelf&r. These are just 6 &8Cracked Deepslate Tiles&r and 3 &7Books&r. \\n\\nThen, we'll need &a60 Eterna&r, &c40% Quanta&r, and &540% Arcana&r. We can get that with 12 &bCrystalline Seashelves&r or 12 &4Glowing Hellshelves&r! \\n\\nFinally, we can &d&lInfuse&r our &9Dormant Deepshelves&r into regular &9Deepshelves&r!"
 		"{image:atm:textures/questpics/apothic/enchant_deepshelf.png width:100 height:100 align:center}"
 	]
 	quest.235E3C386E8D36A3.title: "&9Deepshelf"
@@ -73,7 +73,7 @@
 	quest.5C73247A48E72FB3.title: "Remove &5Enchantments&r from Pool"
 	quest.5DE45BC0258D1B0B.quest_desc: ["The &dPearlescent Endshelf&r is an alright &7Shelf&r especially for the price. \\n\\nIt is created by combining an &dEndshelf&r with 4 &7End Rods&r and 2 &3Ender Pearls&r. \\n\\nIt will give us max &aEterna 90&r, but this isn't what we want for max &5Enchanting&r."]
 	quest.5DE45BC0258D1B0B.title: "&dPearlescent Endshelf"
-	quest.60850E717C747A78.quest_desc: ["You ever spend 3 months studying &oGalatic Code&r to finally understand &5Enchantment Table&r language just for it to be gibberish? \\n\\nNo? \\n\\nMe either, but &9Enchanting Clues&r are your actual translator for it! \\n\\nEach &9Enchanting Clue&r will tell you 1 &5Enchantment&r before you actually use it."]
+	quest.60850E717C747A78.quest_desc: ["You ever spend 3 months studying &oGalactic Code&r to finally understand &5Enchantment Table&r language just for it to be gibberish? \\n\\nNo? \\n\\nMe either, but &9Enchanting Clues&r are your actual translator for it! \\n\\nEach &9Enchanting Clue&r will tell you 1 &5Enchantment&r before you actually use it."]
 	quest.60850E717C747A78.title: "&3Enchanting Clues"
 	quest.61217D80BFF8A858.quest_desc: ["The third and final tier of &5Ender Lead&r is here! This one is unbreakable and can even bind mobs to Spawners. It will require a considerably more tricky &d&lInfusion&r setup. We'll need at least &a75 Eterna&r, &c85% Quanta&r, and between &560-85% Arcana&r.\\n\\nYou can get this with 4 &9Soul-Touched Sculkshelves&r, 4 &9Echoing Sculkshelves&r, 2 &7Stoneshelves&r, and a vanilla Bookshelf. Oh, and you also need a Witch in the Ender Lead used for this &d&lInfusion&r."]
 	quest.61217D80BFF8A858.quest_subtitle: "Nothing to do with Occultism I swear"

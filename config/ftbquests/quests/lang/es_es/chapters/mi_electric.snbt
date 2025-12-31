@@ -89,7 +89,7 @@
 	quest.6647A9652EFDDCDF.quest_desc: ["To cool down the &#ADF0EEHot Stainless Steel Ingot&r simply put it into a &#56E3DFVacuum Freezer&r to turn it into usable &#ADF0EEStainless Steel Ingot&r."]
 	quest.66D4256F79D5B30B.quest_subtitle: "Same as steam as one"
 	quest.6A25ED4059E224D2.quest_desc: [
-		"The &#ED5585Distillery&r is used to distill certain fluids to recieve better more fitting outputs for our use. "
+		"The &#ED5585Distillery&r is used to distill certain fluids to receive better more fitting outputs for our use. "
 		""
 		"You must lock the recipe in order to get what you want if a singular input produces many outputs. First click on the lock icon in the GUI, click on the arrow and then &7'+'&r icon on your desired recipe. "
 	]

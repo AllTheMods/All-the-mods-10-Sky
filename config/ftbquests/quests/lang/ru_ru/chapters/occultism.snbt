@@ -8,6 +8,7 @@
 		""
 		"Yes, the Eldritch Chalice makes it so that all rituals complete instantly!"
 	]
+	quest.08697EB269B011FD.title: "Eldritch Chalice"
 	quest.0A25276925EB0CBA.quest_desc: [
 		"Once you've gathered every single colored Chalk and Foundation Chalk, you can perform the second &dDemon-less&r type ritual, &dRonaza's Contact&r. This is the ultimate ritual, using everything you've learned so far!"
 		""
@@ -22,7 +23,7 @@
 	]
 	quest.0B3EA604C5172D98.title: "&bBooks of &dBinding"
 	quest.0BD6365534BF04D5.quest_desc: [
-		"With Lime Chalk, it's time to delve into &5Possesion Rituals&r. These rituals are slightly different from the others because they all require a live sacrifice, usually small mobs such as Chickens, Bees, Bats, etc. However, as rituals get more complicated, they will require larger and larger sacrifices. "
+		"With Lime Chalk, it's time to delve into &5Possession Rituals&r. These rituals are slightly different from the others because they all require a live sacrifice, usually small mobs such as Chickens, Bees, Bats, etc. However, as rituals get more complicated, they will require larger and larger sacrifices. "
 		""
 		"Even if you've placed all of the items needed and the Book of Binding into the Golden Sacrificial Bowl, the Ritual will not begin until you kill the sacrifice on top of the runes."
 		""
@@ -33,7 +34,7 @@
 	quest.0BD6365534BF04D5.quest_subtitle: "Who you gonna call?"
 	quest.0BD6365534BF04D5.title: "&aIhagan's Enthrallment"
 	quest.0C554FD9A150D2CD.quest_desc: [
-		"You can also use &cCopper Sacrificial Bowls&r and &cSilver Sacrifical Bowls!&r"
+		"You can also use &cCopper Sacrificial Bowls&r and &cSilver Sacrificial Bowls!&r"
 		""
 		"While these are purely for decoration and change nothing functionally, they do look much nicer!"
 	]
@@ -94,12 +95,6 @@
 		"There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!"
 	]
 	quest.29C83B00AC4AFC23.title: "What's Next?"
-	quest.2A3683BF7E50EF83.quest_desc: [
-		"Most of the items we've needed from the &3Otherworld&r so far just needed some Spiritfire. However, we will need to use the help of the &3Third Eye&r to find the Ore of the &3Otherworld&r."
-		""
-		"We'll also need a special pickaxe to be able to mine it. For this, we'll need to Infuse a Demon into a &dSpirit Attuned Pickaxe Head&r to create a pickaxe that can break this new kind of ore."
-	]
-	quest.2A3683BF7E50EF83.title: "Tools of the Trade: Infused Pickaxe"
 	quest.2A5004EB99AE4F96.quest_desc: [
 		"There are more Otherworld items you will need to gather, and eating &cDemon's Dream Fruit&r every time you need the &7Third Eye&r effect gets annoying."
 		""
@@ -115,7 +110,7 @@
 	quest.2AD68066C1948C90.quest_subtitle: "Maximum Summon"
 	quest.2AD68066C1948C90.title: "&9Fatma's Incentivized Attraction"
 	quest.2CF96A264EB5522C.quest_desc: [
-		"&9Uphyxes' Inverted Tower&r is the maximum tier of &6Infusion Rituals&r. It doesn't have as many uses as the other three tiers, but it's still nessecary for the \"endgame\" of Occultism. "
+		"&9Uphyxes' Inverted Tower&r is the maximum tier of &6Infusion Rituals&r. It doesn't have as many uses as the other three tiers, but it's still necessary for the \"endgame\" of Occultism. "
 		""
 		"Mainly, it's used to create Dragonyst Dust, which is the main ingredient for Magenta Chalk."
 	]
@@ -132,12 +127,12 @@
 		""
 		"Normally, you would have to go spelunking in the Nether, but this is a Skyblock modpack!"
 		""
-		"Instead, try sieving some &eCrushed Blackstone&c."
+		"Instead, try using an Atomic Reconstructor on Ancient Debris."
 	]
 	quest.33106E24A3B5DDD8.title: "&cIesnium: Ore of the Otherworld"
 	quest.3543563DF036D461.quest_desc: ["To create Dragonyst Dust, you'll need to perform &9Uphyxes' Inverted Tower&r. However, to create Magenta Chalk, you'll also need some materials that you can only get through the &9Marid Crusher&r."]
 	quest.3543563DF036D461.title: "&#AD00C8Magenta Chalk"
-	quest.367E891A50991436.quest_desc: ["Using &cSevira's Permanent Confinement&r, we can combine several different Wither materials and some Netherite to create three Witherite Dust. With these, we can create ourselfs the highest form of Foundation Chalk, Black Chalk."]
+	quest.367E891A50991436.quest_desc: ["Using &cSevira's Permanent Confinement&r, we can combine several different Wither materials and some Netherite to create three Witherite Dust. With these, we can create ourselves the highest form of Foundation Chalk, Black Chalk."]
 	quest.367E891A50991436.title: "Black Chalk"
 	quest.38A1295878B68F83.quest_desc: [
 		"No, not that kind."
@@ -208,9 +203,9 @@
 	]
 	quest.4C873491F6F0FFAF.title: "&dSpiritfire&r Conversions"
 	quest.4CE571F942461909.quest_desc: [
-		"The Ritual Satchel is nice, but it takes a long time to place all the blocks. Now that you can perform the &cSevira's Permenant Confinement&r ritual, you can create the Artisanal Ritual Satchel!"
+		"The Ritual Satchel is nice, but it takes a long time to place all the blocks. Now that you can perform the &cSevira's Permanent Confinement&r ritual, you can create the Artisanal Ritual Satchel!"
 		""
-		"The Artisanal Ritual Satchel functions nearly identically to the regular Ritual Satchel, except it instantly places all the nessecary items for the ritual, and has the added ability to right-click on Golden Bowl to erase all the Chalk Runes and collect all the other items (Skulls, Candles, and Crystals) and return them to the Satchel."
+		"The Artisanal Ritual Satchel functions nearly identically to the regular Ritual Satchel, except it instantly places all the necessary items for the ritual, and has the added ability to right-click on Golden Bowl to erase all the Chalk Runes and collect all the other items (Skulls, Candles, and Crystals) and return them to the Satchel."
 		""
 		"No, it doesn't restore the durability of the Chalk."
 	]
@@ -237,7 +232,7 @@
 	]
 	quest.4F35D04721DFC9FF.quest_subtitle: "Aviar's Circle"
 	quest.4F35D04721DFC9FF.title: "&bOur First &dRitual"
-	quest.5316DF321B45D2CA.quest_desc: ["Welcome to &dOccultism&r!\\n\\nThis mod aims to help the player in many different ways by enlisting the help of &c&mDemons&r &bSpirits&r! Don't worry, most of them are friendly. &oMost&r.\\n\\nTo get started, you'll need to get some &aDemon's Fruit Seeds&r."]
+	quest.5316DF321B45D2CA.quest_desc: ["Welcome to &dOccultism&r!\\n\\nThis mod aims to help the player in many different ways by enlisting the help of &c&mDemons&r &bSpirits&r! Don't worry, most of them are friendly. &oMost&r.\\n\\nTo get started, you'll need to get some &aDemon's Dream Seeds&r. Break some grass to get it."]
 	quest.5316DF321B45D2CA.title: "&dDreaming of &cDemons"
 	quest.53DEA3DFEDC4809E.quest_desc: [
 		"Don't worry, this is the last of the Abras series of rituals. It is used to summon a &9Marid&r demon, but even though it uses Red Chalk, it's not powerful enough to &9bind&r the Demon. This means that, unfortunately, you're going to have to fight it."
@@ -249,7 +244,7 @@
 	quest.54378277B8D28B1D.quest_desc: [
 		"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
 		""
-		"Has the same function as the Rainbow Chalk, except all the runes will show up as white."
+		"Has the same function as the Rainbow Chalk, except all the runes will show up as white, and it now works with Foundation Chalk too."
 	]
 	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r is the maximum tier of &5Possession Rituals&r. It only has two uses: creating Cruelty Essence, the main ingredient in Brown Chalk, and creating an Iesnium Golem, which is basically just an Iron Golem that's immortal and does more damage."]
 	quest.56EC79AF11B0869E.quest_subtitle: "Maximum Possession"
@@ -287,7 +282,7 @@
 		""
 		"Foundation chalks are used in every single ritual, and each tier higher gets a shade darker, starting with White Chalk and ending with Black Chalk. "
 		""
-		"Colored Chalks are the most commonly used, but the color of the Chalk doesn't directly corelate to its power the same as Foundation Chalks."
+		"Colored Chalks are the most commonly used, but the color of the Chalk doesn't directly correlate to its power the same as Foundation Chalks."
 	]
 	quest.5ACE97EE75813006.title: "The Basics of Rituals"
 	quest.5AE80FF518B1BBA6.quest_desc: [
@@ -297,7 +292,7 @@
 		""
 		"Once you've loaded up the Satchel, simply right-click any preview block to begin (slowly) automatically placing all the runes for the selected ritual. "
 		""
-		"If a piece of chalk inside the bag falls under 40% durability, the enchantment glint on this item will dissapear to signal that it may be time to repair or replace some of your Chalks."
+		"If a piece of chalk inside the bag falls under 40% durability, the enchantment glint on this item will disappear to signal that it may be time to repair or replace some of your Chalks."
 	]
 	quest.5AE80FF518B1BBA6.quest_subtitle: "Pocket Ritual!"
 	quest.5AE80FF518B1BBA6.title: "Tools of the Trade: Ritual Satchel"
@@ -308,7 +303,7 @@
 		""
 		"Using the power of a &aDijinni&r, you can repair any color of Chalk to it's maximum!"
 		""
-		"Alternatively, you could use something like the &aEternal Stella&r from the Forbidden Arcanus mod to permenantly preserve your Chalks!"
+		"Alternatively, you could use something like the &aEternal Stella&r from the Forbidden Arcanus mod to permanently preserve your Chalks!"
 	]
 	quest.61999669BDE127F9.quest_subtitle: "You break it, &mwe&r Demons fix it!"
 	quest.61999669BDE127F9.title: "Chalk Repair"
@@ -324,11 +319,11 @@
 	quest.67884BFA27870CCE.quest_subtitle: "For the less trial-chamber-inclined of us"
 	quest.67884BFA27870CCE.title: "&dOsorin's Unbound Calling"
 	quest.690B89D23134B624.quest_desc: [
-		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK!"
+		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK*!"
 		""
-		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them! "
+		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them (except for Foundation Chalk, look for Void Chalk to add those to the mix)! "
 	]
-	quest.690B89D23134B624.title: "&cR&6a&ei&an&9b&5o&dw&r Chalk"
+	quest.690B89D23134B624.title: "&zRainbow&r Chalk"
 	quest.6C1BBA559963B3DF.quest_desc: [
 		"The &aDictionary Of Spirits&r serves as the Guide Book for &dOccultism&r. You'll absolutely need to make this if you want to continue with the mod!"
 		""
@@ -356,6 +351,7 @@
 		"When using this in place of a Golden Ritual Bowl, it greatly reduces how long it takes to perform a ritual, taking it down to one fourth of its original time!"
 	]
 	quest.6FFFAE334DFAAAAB.quest_subtitle: "Super-speed Rituals!"
+	quest.6FFFAE334DFAAAAB.title: "Iesnium Sacrificial Bowl"
 	quest.74130EB1E4B8586D.quest_desc: ["Using &aIhagan's Enthrallment&r, you can sacrifice an Allay, Bat, Bee, or Parrot to summon a &6Possessed Bee&r. Upon defeating one, it will drop Cursed Honey, the main ingredient for making Orange Chalk!"]
 	quest.74130EB1E4B8586D.title: "&6Orange Chalk"
 	quest.78ECC28DD4BA9696.quest_desc: [
@@ -372,7 +368,7 @@
 	quest.7BCD4A425CF6199B.quest_desc: ["After slaying the Goat of Mercy summoned from &9Xeovrenth Adjure&r, you'll find yourself one Cruelty Essence richer. Combine this with some Cocao Beans to create Brown Chalk."]
 	quest.7BCD4A425CF6199B.title: "&#4E2C00Brown Chalk"
 	quest.7F09F8F98C13F11B.quest_desc: [
-		"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrifical Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
+		"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrificial Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
 		""
 		"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Sacrificial Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
 	]
@@ -386,13 +382,18 @@
 	]
 	quest.7F59941D62E672B0.title: "&dFamiliars"
 	task.036759CF4EEFFC7D.title: "AllRightsReserved"
+	task.05A43D4098C30ED1.title: "Eldritch Chalices"
 	task.0EE813C344409F59.title: "Candles"
+	task.10037D5225C2D20E.title: "Iesnium Sacrificial Bowls"
 	task.1709A45C149125F1.title: "AllRightsReserved"
 	task.2C5C6F411E2F0CAF.title: "Any #c:dusts/netherite"
 	task.348A7E3E3A3D324E.title: "Yes, I've read this and totally won't forget it!"
 	task.3621D48E2CFAF2C2.title: "Any #c:wools"
+	task.51F520BF7DA37873.title: "Storage Stabilizers"
 	task.523951BF097BA61F.title: "Any #c:dusts/emerald"
 	task.53DE943DF951696B.title: "Demon Miner"
+	task.55DE27AB2EDB306E.title: "Sacrificial Bowls"
 	task.57108C994437F25B.title: "Any #ae2:all_nether_quartz"
+	task.6A5F16B79D587128.title: "Golden Bowls"
 	task.6C3887D42B6B2122.title: "Familiars"
 }
