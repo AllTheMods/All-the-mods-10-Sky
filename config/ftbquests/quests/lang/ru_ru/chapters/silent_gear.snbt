@@ -1,75 +1,80 @@
 {
-	quest.002D65E4D7E8F62B.title: "Tier 2 Grader Catalyst"
-	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
-	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
-	quest.047F3F99035CE623.quest_subtitle: "I yearn for the Mines"
-	quest.061A51A0EC13CA0F.quest_desc: ["Now that we have a &aController&r, &bDrains&r, and &4Tanks&r, we'll need a few more Blocks. \\n\\nFirst, is &6Liquid Heating Coils&r. These will make up the floor of the &c&lFoundry&r, and are needed to Heat up the &c&lFoundry&r. \\n\\nLast is either &c&lFoundry&r Windows or &cFire Bricks&r. These are what we'll use for the rest of the structure! The building blocks, quite literally. \\n\\nThe &c&lFoundry&r will not need the frame built out, so every corner can remain empty; but it must have 4 Walls and a Floor to be completed. The &aController&r will tell you where a Block is missing, if there is one. \\n\\nThe &c&lFoundry&r can be as small as 1x1 on the inside, as long as it has a &aController&r, &6Liquid Heating Coils&r, and the other Walls filled! \\n\\nI don't recommend making one so small though, as the bigger the &c&lFoundry&r, the more space it has in it! \\n\\nYou'll know the &c&lFoundry&r is built, when the &aController&r lights up like a Furnace, and the &6Liquid Heating Coils&r turn &6Orange&r."]
-	quest.061A51A0EC13CA0F.title: "Building the &c&lFoundry&r"
-	quest.083ABBA1C45FF960.quest_subtitle: "Just a Lawn Mower"
-	quest.0947B4ED95B0267E.quest_desc: ["Coats an items and tools.\\n\\nNetherite makes a great coating material."]
-	quest.0947B4ED95B0267E.quest_subtitle: "Totally not just for Netherite"
-	quest.0D26E5EF6CFCFDBF.quest_desc: ["Higher Durability than a Dagger, but lower damage and speed."]
-	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Stabby"
-	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Cast, you can make the basic sword! Reliable damage and reliable speed."]
-	quest.0DF4B01CC5B49E4E.quest_subtitle: "Good ol' Reliable"
-	quest.0FEAD3CA2CC4A8B1.title: "Tier 3 Starlight Charger Catalyst"
-	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear gear can be repaired using a &9Repair Kit&r.\\n\\nTo repair an item, place the Repair Kit into a crafting grid, then place the materials needed to repair the tool in with it. This will \"fill\" the Repair Kit.\\n\\nTo repair the tool, combine the filled Repair Kit with the tool you'd like to repair in a crafting grid."]
-	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils required"
-	quest.158B24939A269D83.quest_desc: ["The Tip Upgrade is used to increase the mining level of a tool.\\n\\nFor example: If you have an Iron Pickaxe, with 1 Diamond, you can make a Diamond Tip Upgrade, and place it on your pickaxe. This will allow it to mine Obsidian, as well as give it a stat boost."]
-	quest.158B24939A269D83.quest_subtitle: "For when you don't find 3 Diamonds"
-	quest.2156C00E30424844.quest_desc: ["&4Tanks&r are made for adding Liquids into our &c&lFoundry&r. \\n\\nMostly Fuel. \\n\\nMostly &cLava&r! \\n\\nThat appears to be one of the only ways to actually Fuel the &c&lFoundry&r."]
-	quest.2156C00E30424844.title: "&l&cFoundry&r &4Tanks"
-	quest.222D08F43B995FED.quest_subtitle: "Try and dent this"
-	quest.22A0A9C81A5C85A1.quest_subtitle: "Holding everything together"
-	quest.262036FE8E87F50A.quest_subtitle: "3x3 Mining"
-	quest.26F9DB31A835B69C.quest_desc: ["&nFoundry&r: &aCheck&r \\n&nLiquid Metal in Foundry&r: &aCheck&r \\n\\nNow how do we get it out? \\n\\nRemember our friend from earlier? The &c&lFoundry&r &bDrain&r? We'll need to acquaint him with our new friend, the &c&lFoundry&r &7Tap&r. \\n\\nPlace the &c&lFoundry&r &7Tap&r on the &bDrain&r, now we can place Blocks beneath it to drain the &7Liquid Metal&r into... \\n\\nBlocks like the &8Casting Bin&r, which will turn about 900mB of &7Liquid Metal&r, into the full &7Metal Block&r. \\n\\nOr the &8Casting Table&r which is what we'll need in order to make..."]
-	quest.26F9DB31A835B69C.title: "Casting Items"
-	quest.29131C3532610ADF.quest_desc: ["This is a Tier 2 Pillar Cap for the Starlight Charger."]
-	quest.29131C3532610ADF.title: "Tier 2 Starlight Charger Pillar Cap"
-	quest.2BF119DD5D977409.title: "Tier 2 Starlight Charger Catalyst"
-	quest.2EB96FF06627FD9A.quest_desc: ["The Salvager allows you to break down gear into the items they from.\\n\\nFor example: If you put in some Diamond Boots you will get 4 Diamonds back."]
-	quest.2EB96FF06627FD9A.quest_subtitle: "Breaking down (some) items!"
-	quest.2EB96FF06627FD9A.title: "Salvager"
-	quest.3722B43822F80470.quest_desc: ["More damage than a Sword, but slower."]
-	quest.3722B43822F80470.quest_subtitle: "Release Your Inner Samurai"
-	quest.3930404D5C8B44EB.quest_desc: ["This is used to create custom alloys.\\n\\nIt is also the only way to get Tyrian Steel!"]
-	quest.3930404D5C8B44EB.quest_subtitle: "Combines Materials"
-	quest.39B85DB54B1037FE.quest_desc: ["Slightly faster than a Sword, but lower damage."]
-	quest.39B85DB54B1037FE.quest_subtitle: "Thicc Sword"
-	quest.3AC03D1FA5C341A7.quest_desc: ["The Recrystallizer allows you to combine together different crystals to make new crystals to use to make weapons, tools and armor."]
-	quest.3B560B2ECE331CAF.quest_desc: ["This is a Tier 3 Pillar Cap for the Starlight Charger."]
-	quest.3B560B2ECE331CAF.title: "Tier 3 Starlight Charger Pillar Cap"
-	quest.3D2C6FF462B17205.quest_desc: ["Low damage, very high attack speed. Reduces the invincibility time of the target."]
-	quest.3D2C6FF462B17205.quest_subtitle: "Stabby Stab"
-	quest.3F39BEB788175CEF.quest_subtitle: "3x3 Digging!"
-	quest.405DCD3E36232EEA.quest_desc: ["Less damage than a Sword, but longer reach."]
-	quest.405DCD3E36232EEA.quest_subtitle: "Release Your Inner Spartan"
-	quest.427516AA3E8C9442.quest_subtitle: "Versatile Hoe"
-	quest.45899579D9B92D91.quest_desc: ["The &aController&r is the heart of the &c&lFoundry&r. \\n\\nEach &c&lFoundry&r will need atleast 1, to be made. \\n\\nWe can use the &c&lFoundry&r to view the GUI of the &c&lFoundry&r. Here we can see the amounts of Liquids within the &c&lFoundry&r. \\n\\nWe can also use it to put and take Items in and out of the &c&lFoundry&r."]
-	quest.45899579D9B92D91.title: "&c&lFoundry&r &aController"
-	quest.462C1F75A2FB9F02.quest_subtitle: "Where's Willy?"
-	quest.48D358470A019E7A.title: "Tier 1 Starlight Charger Catalyst"
-	quest.52CDB46F6CBF007B.quest_subtitle: "Are you digging this?"
-	quest.63CAD77A4488F2CE.quest_subtitle: "Pickaxe + Axe + Shovel"
-	quest.657B3116A6419420.quest_subtitle: "Your own Handle!"
-	quest.67216EC5274F08B9.quest_subtitle: "Used by Shear-perds"
-	quest.69383DA579901E7E.quest_subtitle: "Let me Axe you this"
-	quest.6A393C7A24899E3E.quest_desc: ["Placing an ingot in the Grader with a Grader Catalyst will give the material a grade.\\n\\nThe better the grade, the better the stats are on the material.\\n\\nThe best grade is \"MAX\"."]
-	quest.6A393C7A24899E3E.quest_subtitle: "The Material Tester"
-	quest.6B78378BC8036227.title: "Tier 1 Grader Catalyst"
-	quest.6BBC440BD0AD0E93.quest_desc: ["Some people like &9&lSilent Gear&r, while some like &7&lTinker's Construct&r. \\n\\nInstead of choosing between them, we've decided to take the best of both worlds by using &9&lSilent Gear&r and &c&lProductive Metalworks&r! \\n\\n&c&lProductive Metalworks&r will change how we obtain our &9&lSilent&r Items. Instead of using &9Blueprints&r, we'll now need &8Casts&r and a &c&lFoundry&r. \\n\\nTo start making the &c&lFoundry&r, start with &cFire Clay&r."]
-	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r and &c&lProductive Metalworks"
-	quest.6BFD7854F078BF16.quest_subtitle: "Get a Grip on this"
-	quest.711826BBCA832EE2.quest_desc: ["All &8Casts&r are made equal. In another sense I mean they are made the same way. \\n\\nBy Pouring &8Steel&r onto an Item in a &8Casting Table&r! \\n\\nHow do we make &8Steel&r you ask? Simply Melt down any &8Steel&r Items or Ingots. Or you can Alloy 9 &7Iron&r to 10 &0Coal&r. \\n\\nAlloying will happen when the &c&lFoundry&r is &6Heated&r and the right amounts of different &7Liquid Metals&r are in it. These two &7Liquid Metals&r will combine into one &7Liquid Metal&r!"]
-	quest.711826BBCA832EE2.title: "&8Casts"
-	quest.766C80E5D7B7A916.quest_subtitle: "Pick one!"
-	quest.769D5DE66D13B256.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.7C3D763CF22D167A.quest_desc: ["The Starlight Charger can \"enchant\" materials with the \"Star Charged\" enchantment.\\n\\nA structure must be built with the Starlight Charger in the middle in view of the night sky. It only gains Starlight Power during the night.\\n\\nThe Charger must be placed in the middle of a 7x7 structure, with a Pillar in each corner. Each pillar must have a \"Starlight Charger Cap\".\\n\\nIt also requires a charger catalyst per material."]
-	quest.7C3D763CF22D167A.quest_subtitle: "\"Enchanting\" Materials"
-	quest.7C3D763CF22D167A.title: "&dStarlight Charger"
-	quest.7D690A7D0FF6E328.title: "Tier 3 Grader Catalyst"
-	quest.7E13007340A818C5.quest_desc: ["This is a Tier 1 Pillar Cap for the Starlight Charger."]
-	quest.7E13007340A818C5.title: "Tier 1 Starlight Charger Pillar Cap"
+	quest.002D65E4D7E8F62B.title: "Катализатор грейдера 2-го уровня"
+	quest.036D5767E07005BC.quest_desc: ["&bСливы&r используются для извлечения &7жидких металлов&r. К сожалению, они слишком горячие для рук или ведер. \\n\\nПодсоедините &7кран&r &c&lлитейной&r к &bсливу&r, чтобы сливать &7жидкие металлы&r при нажатии правой кнопкой мыши по крану. \\n\\nВы также можете просматривать количество жидкостей в &c&lлитейной&r, глядя на &bслив&r!"]
+	quest.036D5767E07005BC.title: "&bСливы&r &c&lлитейной&r"
+	quest.047F3F99035CE623.quest_subtitle: "Я жажду копать"
+	quest.061A51A0EC13CA0F.quest_desc: ["Теперь, когда у нас есть &aконтроллер&r, &bсливы&r и &4резервуары&r, нам понадобится еще несколько блоков. \\n\\nВо-первых, это &6жидкостные нагревательные катушки&r. Они составляют пол &c&lлитейной&r и необходимы для её разогрева. \\n\\nНаконец, вам понадобятся либо окна &c&lлитейной&r, либо &cогнеупорные кирпичи&r. Они используются для остальной части структуры! Это буквально строительные блоки. \\n\\nДля &c&lлитейной&r не обязательно строить каркас, поэтому углы можно оставить пустыми, но у неё должны быть 4 стены и пол. &aКонтроллер&r подскажет, если какого-то блока не хватает. \\n\\n&c&lЛитейная&r может быть размером всего 1x1 внутри, если в ней есть &aконтроллер&r, &6нагревательные катушки&r и заполнены остальные стены! \\n\\nОднако я не рекомендую делать её такой маленькой, так как чем больше &c&lлитейная&r, тем больше в ней места! \\n\\nВы поймете, что &c&lлитейная&r построена, когда &aконтроллер&r загорится, как печь, а &6нагревательные катушки&r станут &6оранжевыми&r."]
+	quest.061A51A0EC13CA0F.title: "Строительство &c&lлитейной&r"
+	quest.083ABBA1C45FF960.quest_subtitle: "Просто газонокосилка"
+	quest.0947B4ED95B0267E.quest_desc: ["Покрывает предметы и инструменты.\\n\\nНезерит — отличный материал для покрытия."]
+	quest.0947B4ED95B0267E.quest_subtitle: "Совсем не только для незерита"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Прочность выше, чем у кинжала, но урон и скорость ниже."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Колющий"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["С помощью этой формы вы сможете сделать базовый меч! Надежный урон и надежная скорость."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Старая добрая классика"
+	quest.0FEAD3CA2CC4A8B1.title: "Катализатор звездного зарядника 3-го уровня"
+	quest.11B0B93D725ABE43.quest_desc: ["Снаряжение Silent Gear можно починить с помощью &9ремонтного комплекта&r.\\n\\nЧтобы починить предмет, поместите ремонтный комплект в сетку крафта вместе с материалами, необходимыми для ремонта инструмента. Это «заполнит» ремонтный комплект.\\n\\nЗатем объедините заполненный комплект с инструментом, который хотите починить, в сетке крафта."]
+	quest.11B0B93D725ABE43.quest_subtitle: "Наковальни не нужны"
+	quest.158B24939A269D83.quest_desc: ["Апгрейд наконечника используется для повышения уровня добычи инструмента.\\n\\nНапример: если у вас есть железная кирка и 1 алмаз, вы можете сделать алмазный наконечник и установить его на кирку. Это позволит ей добывать обсидиан, а также даст прибавку к характеристикам."]
+	quest.158B24939A269D83.quest_subtitle: "Когда не нашлось трех алмазов"
+	quest.2156C00E30424844.quest_desc: ["&4Резервуары&r предназначены для добавления жидкостей в нашу &c&lлитейную&r. \\n\\nВ основном топлива. \\n\\nВ основном &cлавы&r! \\n\\nПохоже, это один из единственных способов заправить &c&lлитейную&r."]
+	quest.2156C00E30424844.title: "&4Резервуары&r &l&cлитейной&r"
+	quest.222D08F43B995FED.quest_subtitle: "Попробуй поцарапай"
+	quest.22A0A9C81A5C85A1.quest_subtitle: "Скрепляя всё воедино"
+	quest.262036FE8E87F50A.quest_subtitle: "Копание 3x3"
+	quest.26F9DB31A835B69C.quest_desc: ["&nЛитейная&r: &aЕсть&r \\n&nЖидкий металл в литейной&r: &aЕсть&r \\n\\nТеперь как нам его достать? \\n\\nПомните нашего старого знакомого? &bСлив&r &c&lлитейной&r? Нам нужно познакомить его с новым другом — &7краном&r &c&lлитейной&r. \\n\\nРазместите &7кран&r на &bсливе&r. Теперь мы можем ставить блоки под него, чтобы сливать &7жидкий металл&r в... \\n\\nБлоки вроде &8емкости для литья&r, которая превратит около 900 мБ &7жидкого металла&r в целый &7металлический блок&r. \\n\\nИли &8стол для литья&r, который понадобится нам для создания..."]
+	quest.26F9DB31A835B69C.title: "Литье предметов"
+	quest.29131C3532610ADF.quest_desc: ["Это колпак колонны 2-го уровня для звездного зарядника."]
+	quest.29131C3532610ADF.title: "Колпак колонны звездного зарядника 2-го уровня"
+	quest.2BF119DD5D977409.title: "Катализатор звездного зарядника 2-го уровня"
+	quest.2EB96FF06627FD9A.quest_desc: ["Переработчик (Salvager) позволяет разбирать снаряжение на составные части.\\n\\nНапример: если вы положите в него алмазные ботинки, вы получите обратно 4 алмаза."]
+	quest.2EB96FF06627FD9A.quest_subtitle: "Разбор (некоторых) предметов!"
+	quest.2EB96FF06627FD9A.title: "Переработчик"
+	quest.3722B43822F80470.quest_desc: ["Урона больше, чем у меча, но скорость ниже."]
+	quest.3722B43822F80470.quest_subtitle: "Пробуди в себе самурая"
+	quest.3930404D5C8B44EB.quest_desc: ["Используется для создания кастомных сплавов.\\n\\nЭто также единственный способ получить тирианскую сталь!"]
+	quest.3930404D5C8B44EB.quest_subtitle: "Объединяет материалы"
+	quest.39B85DB54B1037FE.quest_desc: ["Немного быстрее меча, но урон ниже."]
+	quest.39B85DB54B1037FE.quest_subtitle: "Толстый меч"
+	quest.3AC03D1FA5C341A7.quest_desc: ["Рекристаллизатор позволяет объединять различные кристаллы для создания новых, которые можно использовать в оружии, инструментах и броне."]
+	quest.3B560B2ECE331CAF.quest_desc: ["Это колпак колонны 3-го уровня для звездного зарядника."]
+	quest.3B560B2ECE331CAF.title: "Колпак колонны звездного зарядника 3-го уровня"
+	quest.3D2C6FF462B17205.quest_desc: ["Низкий урон, очень высокая скорость атаки. Сокращает время неуязвимости цели."]
+	quest.3D2C6FF462B17205.quest_subtitle: "Быстрые уколы"
+	quest.3F39BEB788175CEF.quest_subtitle: "Копание 3x3!"
+	quest.405DCD3E36232EEA.quest_desc: ["Меньше урона, чем у меча, но выше дальность атаки."]
+	quest.405DCD3E36232EEA.quest_subtitle: "Пробуди в себе спартанца"
+	quest.427516AA3E8C9442.quest_subtitle: "Универсальная мотыга"
+	quest.45899579D9B92D91.quest_desc: ["&aКонтроллер&r — это сердце &c&lлитейной&r. \\n\\nВ каждой &c&lлитейной&r должен быть хотя бы один. \\n\\nЧерез него можно открыть интерфейс &c&lлитейной&r. Там вы увидите количество жидкостей внутри. \\n\\nТакже его можно использовать для загрузки и выгрузки предметов."]
+	quest.45899579D9B92D91.title: "&aКонтроллер&r &c&lлитейной&r"
+	quest.462C1F75A2FB9F02.quest_subtitle: "Где Вилли?"
+	quest.48D358470A019E7A.title: "Катализатор звездного зарядника 1-го уровня"
+	quest.52CDB46F6CBF007B.quest_subtitle: "Тебе это по душе?"
+	quest.63CAD77A4488F2CE.quest_subtitle: "Кирка + Топор + Лопата"
+	quest.657B3116A6419420.quest_subtitle: "Твоя собственная рукоять!"
+	quest.67216EC5274F08B9.quest_subtitle: "Для настоящих пастухов"
+	quest.69383DA579901E7E.quest_subtitle: "Позвольте мне спросить"
+	quest.6A393C7A24899E3E.quest_desc: ["Помещение слитка в грейдер вместе с катализатором присваивает материалу класс качества.\\n\\nЧем выше класс, тем лучше характеристики материала.\\n\\nЛучший класс — «MAX»."]
+	quest.6A393C7A24899E3E.quest_subtitle: "Тестер материалов"
+	quest.6B78378BC8036227.title: "Катализатор грейдера 1-го уровня"
+	quest.6BBC440BD0AD0E93.quest_desc: ["Кому-то нравится &9&lSilent Gear&r, а кому-то — &7&lTinkers' Construct&r. \\n\\nВместо того чтобы выбирать между ними, мы решили взять лучшее от обоих миров, используя &9&lSilent Gear&r и &c&lProductive Metalworks&r! \\n\\n&c&lProductive Metalworks&r изменит способ получения предметов &9&lSilent Gear&r. Вместо использования &9чертежей&r нам теперь понадобятся &8формы&r и &c&lлитейная&r. \\n\\nЧтобы начать создание &c&lлитейной&r, начните с &cогнеупорной глины&r."]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r и &c&lProductive Metalworks"
+	quest.6BFD7854F078BF16.quest_subtitle: "Держи крепче"
+	quest.711826BBCA832EE2.quest_desc: ["Все &8формы&r создаются одинаково. \\n\\nПутем заливки &8стали&r на предмет в &8столе для литья&r! \\n\\nКак сделать &8сталь&r, спросите вы? Просто расплавьте любые стальные предметы или слитки. Или вы можете сплавить 9 единиц &7железа&r с 10 единицами &0угля&r. \\n\\nСплавление происходит, когда &c&lлитейная&r &6разогрета&r и в ней находится нужное количество различных &7жидких металлов&r. Эти металлы объединятся в один!"]
+	quest.711826BBCA832EE2.title: "&8Формы"
+	quest.766C80E5D7B7A916.quest_subtitle: "Выбирай любую!"
+	quest.769D5DE66D13B256.quest_desc: ["Этот квест был написан сотрудниками &6AllTheMods&r или &2участником сообщества&r для использования в модпаках AllTheMods.\\n\\nПоскольку все наборы &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот квест не разрешено использовать в любых публичных наборах, не выпущенных &6командой AllTheMods&r, без явного разрешения.\\n\\nЭтот квест намеренно скрыт; если вы его видите, значит, вы находитесь в режиме редактирования."]
+	quest.7C3D763CF22D167A.quest_desc: ["Звездный зарядник может «зачаровывать» материалы чарами «Звездный заряд» (Star Charged).\\n\\nДля этого нужно построить структуру, в центре которой будет зарядник с видом на ночное небо. Он накапливает энергию только ночью.\\n\\nЗарядик должен стоять в центре структуры 7x7 с колоннами по углам. У каждой колонны должен быть свой колпак.\\n\\nТакже для каждого материала требуется катализатор."]
+	quest.7C3D763CF22D167A.quest_subtitle: "«Зачарование» материалов"
+	quest.7C3D763CF22D167A.title: "&dЗвездный зарядник"
+	quest.7D690A7D0FF6E328.title: "Катализатор грейдера 3-го уровня"
+	quest.7E13007340A818C5.quest_desc: ["Это колпак колонны 1-го уровня для звездного зарядника."]
+	quest.7E13007340A818C5.title: "Колпак колонны звездного зарядника 1-го уровня"
+	task.0EF203AF0BA514F7.title: "Ремонтные комплекты"
+	task.155D4ED18738E127.title: "Резервуары литейной"
+	task.2AE89914A34BF3AD.title: "Стены литейной"
+	task.54EF988F476C9208.title: "Сливы литейной"
 	task.55E0635973A828B0.title: "AllRightsReserved"
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
+	task.7D9F2C8E7C65B654.title: "Контроллеры литейной"
 }

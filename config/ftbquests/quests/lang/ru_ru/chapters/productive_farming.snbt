@@ -1,0 +1,97 @@
+{
+	quest.01B7B66FAAAAEAE5.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_anemone.png width:100 height:150 align:center}"]
+	quest.01B7B66FAAAAEAE5.quest_subtitle: "Белый"
+	quest.06B197EB778C17AC.quest_desc: ["Подобно &6скрещиванию&r &dцветов&r, мы можем делать то же самое с &2культурами&r! \\n\\nКогда &6пчелы опыляют&r область с определенными &2культурами&r, некоторые из них могут &6мутировать&r. \\n\\nПроверьте &lJEI&r, чтобы увидеть, какие &2культуры&r вам нужно скрещивать."]
+	quest.06B197EB778C17AC.title: "&6Мутации"
+	quest.095024BF19ABA326.quest_desc: ["Сочетание оранжевого и зеленого сладкого перца."]
+	quest.0D04BCF5940E2AF1.quest_desc: ["Сочетание кукурузы Blue Jade и Black Aztec дает нам кукурузу Sugar Pearl."]
+	quest.126CCC6B187C0B18.quest_desc: ["Наконец, смешивание кукурузы Black Aztec и Sugar Pearl даст нам радужную кукурузу."]
+	quest.15474BAF1997CD27.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_balloon.png width:100 height:150 align:center}"]
+	quest.15474BAF1997CD27.quest_subtitle: "Фиолетовый"
+	quest.15474BAF1997CD27.title: "&5Платикодон"
+	quest.158978D35BDA805D.quest_desc: ["Это смесь малины... и томатов Sungold? \\n\\nНо одно — это ягода, а другое — помидор? В этом вообще нет никакого смысла!"]
+	quest.167554E0A562B60A.quest_desc: ["Смесь красного и желтого сладкого перца! \\n\\nЭто должно быть довольно очевидно... он оранжевый..."]
+	quest.1699BD1B8B348B7C.quest_desc: ["Сочетание кукурузы Blue Jade и Yellow Dent — это кукуруза Black Aztec."]
+	quest.2117CE8C21A9EE98.quest_desc: ["Сочетание красного и черного сладкого перца."]
+	quest.223F47BDD763F306.quest_desc: ["Помидоры черри имеют шанс случайно мутировать в шоколадные грушевидные помидоры. \\n\\nЯ не знаю, откуда взялись шоколад или груши, но ладно!"]
+	quest.244B10862943A802.quest_subtitle: "Безумный мир"
+	quest.2AFB12E742596864.quest_desc: ["&aКонтроллер фермы&r — это сердце &a&lавтофермы&r, многоблочной машины, идеально подходящей для любых ферм! \\n\\nЯ объясню, как её построить, в следующем квесте, а здесь просто расскажу, как ею пользоваться. \\n\\nЭта &a&lавтоферма&r будет выращивать, собирать урожай и пересаживать все &2культуры&r, растущие внутри структуры. В ней можно выращивать всё: от культур &a&lProductive Farming&r до &2&lMystical Agriculture&r и &2&lванильных&r растений! \\n\\nОна будет собирать весь дроп в контроллер, откуда его можно забрать вручную или с помощью труб."]
+	quest.2AFB12E742596864.title: "&a&lАвтоферма"
+	quest.2BFC97460B4B49F1.quest_desc: ["Смесь шоколадных и желтых грушевидных помидоров даст нам помидоры Sungold."]
+	quest.2CFD0DF119CC5E85.quest_desc: [
+		"Теперь перейдем к строительству. Первое — это выбор блоков. \\n\\nВы можете увидеть огромный список блоков, которые можно использовать для завершения квеста — это все блоки, из которых может состоять &a&lструктура&r. \\n\\n(В основном любые кирпичи и стекло). Вы также можете смешивать любые из этих блоков, машина не привередлива! \\n\\nСама &a&lструктура&r — это просто стены и внутреннее пространство. Стены должны быть сделаны из этих блоков, а внутренний объем должен быть меньше определенного значения. \\n\\nМинимальный размер &a&lавтофермы&r — 2x2. Максимальный — такой, при котором внутренний объем составляет 200 блоков. Я говорю «объем», потому что область считается высотой в 2 блока, чтобы включать сами культуры. Это означает, что если у вас внутренняя площадь 10x10, это будет максимальный размер. \\n\\nВнутри будет располагаться ваша &2пашня&r, &9вода&r или что угодно для посадки растений. &2Пашне&r по-прежнему нужна &9вода&r для увлажнения (я рекомендую &9блок воды&r из XyCraft). \\n\\nВы всё еще можете использовать удобрения или ускорители роста рядом с &2культурами&r или на &2пашне&r, чтобы ускорить их рост!"
+		"{image:atm:textures/questpics/pro_farming/farm_autofarm.png width:150 height:100 align:center}"
+	]
+	quest.2CFD0DF119CC5E85.title: "Строительство"
+	quest.2DB404AA2832F81D.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_holly.png width:100 height:150 align:center}"]
+	quest.2DB404AA2832F81D.quest_subtitle: "Синий"
+	quest.2DB404AA2832F81D.title: "&9Синеголовник"
+	quest.2F1B74D45E50A079.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_lobelia.png width:100 height:150 align:center}"]
+	quest.2F1B74D45E50A079.quest_subtitle: "Ультрамарин"
+	quest.2F1B74D45E50A079.title: "&9Лобелия сифонная"
+	quest.3111C0CA63A82E7A.quest_desc: ["Кукуруза Blue Jade получается из кукурузы Yellow Dent и васильков. \\n\\nТак вот почему их называют Cornflowers (кукурузные цветы)!"]
+	quest.33C3C334981AF72E.quest_desc: ["Помидоры черри и их вторая эволюция (я уже использовал эту шутку?) шоколадный грушевидный помидор могут объединиться в желтый грушевидный помидор. \\n\\nОткуда взялся желтый цвет? И снова груша?"]
+	quest.383EDBE9AAAF4C99.quest_subtitle: "Раз, два... Раз, два"
+	quest.3BB39CC4E8F40B67.quest_subtitle: "Проверка микрофона"
+	quest.3CBF4D703AA17199.quest_desc: ["&a&lProductive Farming&r — это (на момент создания этого текста) новейший мод из серии Productive. \\n\\nЭтот мод добавляет многоблочную структуру автофермы, новые культуры, а также больше цветов и оттенков красителей для них! \\n\\nОн также тесно работает с &6&lProductive Bees&r и &l&cD&6y&ee&an&ba&dm&ci&6c&es&r!"]
+	quest.3CBF4D703AA17199.quest_subtitle: "Сколько еще модов он сделает?"
+	quest.3CBF4D703AA17199.title: "&a&lProductive Farming"
+	quest.3E57854E27545581.quest_desc: ["Смесь оранжевого и желтого сладкого перца."]
+	quest.42AE629EBAA3AA94.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_skullcap.png width:100 height:150 align:center}"]
+	quest.42AE629EBAA3AA94.quest_subtitle: "Фиолетовый"
+	quest.42AE629EBAA3AA94.title: "&5Шлемник"
+	quest.439705A42B6DC4D1.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_cattail.png width:100 height:150 align:center}"]
+	quest.439705A42B6DC4D1.quest_subtitle: "Коричневый"
+	quest.439705A42B6DC4D1.title: "&8Рогоз"
+	quest.44DA8B6C651B3456.quest_desc: ["Смесь ягод годжи и золотистой малины даст нам чудо-ягоды. \\n\\nЧудо-ягоды обладают удивительной способностью изменять ваши вкусовые рецепторы так, что они перестают чувствовать кислое. Так что всё, что должно быть кислым, кажется просто сладким! \\n\\nПопробуйте сами!"]
+	quest.46932B57EF21D346.quest_desc: ["&9Поилка&r — еще один блок, который поможет с животными. \\n\\nВместо &cкорма для животных&r, однако, в неё нужно заливать &9ведра воды&r! \\n\\nКогда детеныши животных находятся рядом с &9поилкой&r, они будут расти быстрее тех, кто находится вдали от неё. \\n\\nНе забывайте наполнять её &9водой&r!"]
+	quest.46932B57EF21D346.title: "&9Поилка"
+	quest.48323FABB7E3D31E.quest_desc: ["Объединив помидор Рома с его второй эволюцией, помидором Бифштекс, мы получим помидор Blue Beauty. \\n\\nОднако есть шанс получить один из двух других помидоров."]
+	quest.4B2754CD11FFE247.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_amaryllis.png width:100 height:150 align:center}"]
+	quest.4B2754CD11FFE247.quest_subtitle: "Темно-бордовый"
+	quest.4B2754CD11FFE247.title: "&4Амариллис"
+	quest.507821D8F9C064CF.quest_desc: ["Смешивание зеленого и красного винограда дает нам виноград Конкорд. \\n\\nТакже известный как фиолетовый виноград!"]
+	quest.512A525B513DA118.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_chrysanthemum.png width:100 height:150 align:center}"]
+	quest.512A525B513DA118.quest_subtitle: "Пурпурный"
+	quest.512A525B513DA118.title: "&dХризантема"
+	 quest.523AD3D448DE58A6.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hellebore.png width:100 height:150 align:center}"]
+	quest.523AD3D448DE58A6.quest_subtitle: "Серый"
+	quest.523AD3D448DE58A6.title: "&7Морозник"
+	quest.53CD2E3D27601F3F.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_cape.png width:100 height:150 align:center}"]
+	quest.53CD2E3D27601F3F.quest_subtitle: "Ледяной синий"
+	quest.53CD2E3D27601F3F.title: "&bПлюмбаго капское"
+	quest.540F3CA118762DDB.quest_desc: ["&cКормушка&r — это блок, добавленный &a&lProductive Farming&r. \\n\\nУ неё есть 9 слотов инвентаря, каждый из которых может вместить стак &cкорма для животных&r, который нужно подавать по трубам. \\n\\nКакой &cкорм&r? \\n\\nВсё, что используется для разведения двух животных (одного вида), подойдет! Пшеница? Да! Бамбук? Да! Только убедитесь, что бамбук посажен рядом с ними."]
+	quest.540F3CA118762DDB.title: "&cКормушка"
+	quest.5854DA8F791AD71F.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_nettle.png width:100 height:150 align:center}"]
+	quest.5854DA8F791AD71F.quest_subtitle: "Зеленый"
+	quest.5854DA8F791AD71F.title: "&2Жгучая крапива"
+	quest.5969AEE09A61EC16.quest_desc: ["Объединив помидор Рома с его второй эволюцией, помидором Бифштекс, мы получим помидор White Wonder. \\n\\nОднако есть шанс получить один из двух других помидоров."]
+	quest.5B21A7A5ED1DDABB.quest_desc: ["Помидоры Бифштекс могут появиться в результате случайной мутации помидоров Рома."]
+	quest.5E4DE1FFA8A45C6D.quest_desc: ["&dЦветы&r! Во-первых, как же нам получить эти новые прекрасные &dцветы&r! \\n\\nОни добываются так же, как и другие &dцветы&r — использованием костной муки на &2траве&r. Извините, &dцветочные поля&r в &bскайблоке&r мало чем помогут. \\n\\nВы можете увидеть, как выглядят все эти &dцветы&r, в их индивидуальных квестах! \\n\\nНо цвет может измениться. Это потому, что у нас есть новый метод &6скрещивания&r. \\n\\nЕсли в &6ульях&r есть &6пчелы&r с &aулучшениями «Пыльца»&r, они будут &6скрещивать&r виды и цвета &dцветов&r там, где они &aопыляют&r. \\n\\nНовые &dцветы&r появятся на &2траве&r рядом со старыми: они будут либо того же типа, но другого цвета, либо комбинацией двух цветов. \\n\\nЭто значит, что вы можете получить &9синие маки&r, &4бордовый рогоз&r или даже белые тюльпаны! Ой, подождите, это &2&lванильный&r &dцветок&r..."]
+	quest.5E4DE1FFA8A45C6D.title: "&dЦВЕТЫ"
+	quest.60521AAE8BAA32C5.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hydrangea.png width:100 height:150 align:center}"]
+	quest.60521AAE8BAA32C5.quest_subtitle: "Розовый"
+	quest.60521AAE8BAA32C5.title: "&dГортензия"
+	quest.6479A38086A43E49.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_zinnia.png width:100 height:150 align:center}"]
+	quest.6479A38086A43E49.quest_subtitle: "Янтарный"
+	quest.6479A38086A43E49.title: "&eЦинния"
+	quest.66D27708343F9DB4.quest_desc: ["Смесь зеленого винограда и винограда Конкорд даст нам виноград со вкусом сахарной ваты. \\n\\nНа вкус он больше похож на виноград со вкусом праздничного торта, чем на сахарную вату... но всё равно очень вкусно!"]
+	quest.699F91BC5CA58FE2.quest_desc: ["Чтобы получить эти &2культуры&r, нам нужно будет купить их &2семена&r у деревенских жителей-фермеров. \\n\\nНе спрашивайте, откуда они их взяли... \\n\\nФермеры будут продавать вам &2семена&r за &aизумруды&r вплоть до 5-го уровня, на котором новых семян уже нет. \\n\\nРазве это не совершенно случайно, какие именно &2семена&r продаст фермер? Да! Так что удачи с перестановкой компостеров! \\n\\nСамое время для Village Artifacts."]
+	quest.699F91BC5CA58FE2.title: "&2Культуры"
+	quest.6AF7427DCA9D66D2.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_dahlia.png width:100 height:150 align:center}"]
+	quest.6AF7427DCA9D66D2.quest_subtitle: "Черный"
+	quest.6AF7427DCA9D66D2.title: "&0Георгина"
+	quest.6C31A50068FBA0EE.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_bearded.png width:100 height:150 align:center}"]
+	quest.6C31A50068FBA0EE.quest_subtitle: "Серый"
+	quest.6C31A50068FBA0EE.title: "&8Черный ирис"
+	quest.7264CC40170E461A.quest_desc: ["Объединив помидор Рома с его второй эволюцией, помидором Бифштекс, мы получим помидор Black Beauty. \\n\\nОднако есть шанс получить один из двух других помидоров."]
+	quest.739C0DB291B1563C.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_valerian.png width:100 height:150 align:center}"]
+	quest.739C0DB291B1563C.quest_subtitle: "Белый"
+	quest.7514CF65A077985E.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_himalayan.png width:100 height:150 align:center}"]
+	quest.7514CF65A077985E.quest_subtitle: "Светло-синий"
+	quest.7514CF65A077985E.title: "&bГималайский мак"
+	quest.7EF3DB8B5258FA34.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_motherwort.png width:100 height:150 align:center}"]
+	quest.7EF3DB8B5258FA34.quest_subtitle: "Персиковый"
+	quest.7EF3DB8B5258FA34.title: "&6Пустырник"
+	task.0A074866CCBD8FD5.title: "Блоки фермы"
+}

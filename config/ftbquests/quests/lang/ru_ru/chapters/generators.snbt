@@ -1,85 +1,86 @@
 {
-	quest.062AA943A1629A86.quest_desc: ["You blew up the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&3a&5l&r? Coal that lasts forever? Actually that's pretty worth it."]
-	quest.062AA943A1629A86.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
+	quest.062AA943A1629A86.quest_desc: ["Вы взорвали &zРадужную Печь&r?!?! Просто зажгли TNT прямо рядом с ней? Вы сумасшедшие? Это стоило столько Печей и ресурсов, а вы просто взорвали его!!! Хотя бы получили что-то хорошее от этого? &zРадужный Уголь&r? Уголь, который длится &mвечно&r долгое время? На самом деле это довольно того стоит."]
+	quest.062AA943A1629A86.title: "&zРадужный Уголь"
 	quest.07753C5D94312A50.quest_desc: [
-		"&3Augment&r: Generator is the opposite of the &3Augment&r: Factory, instead of using Energy to Smelt, it Smelts for Energy. You will no longer smelt items in it, every Fuel used will be made into Energy!"
+		"&3Усиление&r: Генератор - это противоположность &3Усилению&r: Фабрика, вместо использования Энергии для Плавки, он Плавит для Энергии. Вы больше не будете плавить предметы в ней, каждое Топливо, используемое, будет превращено в Энергию!"
 		""
-		"(I wonder if it's better to connect a Generator and Factory Furnaces instead of just using Fuel in one)"
+		"(Интересно, лучше ли подключить Генератор и Фабрику Печей вместо того, чтобы просто использовать Топливо в одной)"
 	]
-	quest.07753C5D94312A50.title: "&3Augment&r: Generator"
-	quest.0AD2B11565B484E7.quest_desc: ["You'll need every Furnace before &5Netherite&r for these. Yes all, even the &6Copper&r! Even the &7Silver&r! Even the &3Crystal&r!"]
-	quest.0AD2B11565B484E7.title: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
-	quest.0ADBE90B33ACC9FB.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
-	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&co&6r"
-	quest.20EC8001A05CE2C8.quest_desc: ["Wireless Heat is a fun and easy way of powering Furnaces. First place the Wireless Heat Transmitter and put Energy into it. Then put the Receiver into the Transmitter to bind it. Finally put the Receiver into the Furnace Fuel section to start powering it!"]
-	quest.21EA29A8C7F950CE.quest_desc: ["&bDiamonds&r the staple of &2Minecraft&r, and of upgraded Furnaces apparently...\\n \\nThese work even faster only taking 80 Ticks or 4 Seconds to smelt items. That's even faster than a Blast Furnace! \\n \\nThese are only crafted by &eGold Furnaces&r and can be crafted into &3Crystal&r or &aEmerald Furnaces&r."]
-	quest.21EA29A8C7F950CE.title: "&bDiamond Furnace"
-	quest.2354BC5330350DF6.quest_desc: ["If &aEmeralds&r aren't your thing the &3Crystal Furnace&r might be what you want! \\n \\nWorks the same as an &aEmerald Furnace&r at 40 Tick. \\n \\nMade with a &bDiamond Furnace&r and can be made into an &dObsidian Furnace&r. \\n \\n(No you can't see the Items smelting inside it, it's just transparent)"]
-	quest.2354BC5330350DF6.title: "&3Crystal Furnace"
-	quest.25080E3295B1DF01.quest_desc: ["The &5Unobtainium Furnace&r smelts items faster than any other Furnace in the pack!"]
-	quest.25080E3295B1DF01.title: "&5Unobtainium Furnace"
-	quest.2748ACEAB96A5F60.quest_desc: ["Iron Furnaces (Don't be confused with each of the titles with &lIron Furnaces&r being the mod name and an Item name) work even faster than Normal and Copper Furnaces. They take 160 Ticks to work, or 8 seconds.\\n\\nThese can be crafted from either a normal Furnace or &6Copper Furnace&r! And they can be made into either a &7Silver Furnace&r or &eGold Furnace&r."]
-	quest.2748ACEAB96A5F60.title: "&fIron Furnace"
-	quest.2E85D6E2CFCC356E.quest_desc: ["The &3Vibranium Furnace&r is even better than the &6Allthemodium Furnace&r!"]
-	quest.2E85D6E2CFCC356E.title: "&3Vibranium Furnace"
+	quest.07753C5D94312A50.title: "&3Усиление&r: Генератор"
+	quest.0AD2B11565B484E7.quest_desc: ["Вам понадобится каждая Печь до &5Незерита&r для этого. Да, все, даже &6Медная&r! Даже &7Серебряная&r! Даже &3Кристальная&r!"]
+	quest.0AD2B11565B484E7.title: "&zРадужная Обшивка"
+	quest.0ADBE90B33ACC9FB.quest_desc: ["&zРадужный Генератор&r - это усиление для &zРадужной Печи&r при использовании &3Усиления&r: Генератор. Если все остальные 9 Печей (не считая Печей AllTheModium и выше) находятся вокруг &zРадужной Печи&r, имеют &3Усиление&r: Генератор, и активно производят Энергию (заправлены и не заполнены), они дадут усиление для &zРадужной Печи&r, которая имеет &3Усиление&r: Генератор и работает. Это даст 2kFE за тик больше!"]
+	quest.0ADBE90B33ACC9FB.title: "&zРадужный Генератор"
+	quest.20EC8001A05CE2C8.quest_desc: ["Беспроводное Тепло - это веселый и легкий способ питания Печей. Сначала разместите Передатчик Беспроводного Тепла и поместите в него Энергию. Затем поместите Приемник в Передатчик, чтобы связать его. Наконец, поместите Приемник в секцию Топлива Печи, чтобы начать питать ее!"]
+	quest.21EA29A8C7F950CE.quest_desc: ["&bАлмазы&r - основа &2Minecraft&r и улучшенных Печей, очевидно...\\n \\nОни работают еще быстрее, занимая только 80 Тиков или 4 Секунды, чтобы расплавить предметы. Это даже быстрее, чем Плавильная Печь! \\n \\nОни создаются только из &eЗолотых Печей&r и могут быть созданы в &3Кристальные&r или &aИзумрудные Печи&r."]
+	quest.21EA29A8C7F950CE.title: "&bАлмазная Печь"
+	quest.2354BC5330350DF6.quest_desc: ["Если &aИзумруды&r вам не по душе, &3Кристальная Печь&r может быть тем, что вы хотите! \\n \\nРаботает так же, как &aИзумрудная Печь&r за 40 Тиков. \\n \\nСделана с &bАлмазной Печью&r и может быть сделана в &dОбсидиановую Печь&r. \\n \\n(Нет, вы не можете видеть предметы, плавящиеся внутри, это просто прозрачно)"]
+	quest.2354BC5330350DF6.title: "&3Кристальная Печь"
+	quest.25080E3295B1DF01.quest_desc: ["&5Печь Анобтейниума&r плавит предметы быстрее, чем любая другая Печь в паке!"]
+	quest.25080E3295B1DF01.title: "&5Печь Анобтейниума"
+	quest.2748ACEAB96A5F60.quest_desc: ["Печи Iron Furnaces (Не путайте с каждым из названий, где &lIron Furnaces&r - это название мода и название предмета) работают еще быстрее, чем Обычные и Медные Печи. Им требуется 160 Тиков для работы, или 8 секунд.\\n\\nОни могут быть созданы либо из обычной Печи, либо из &6Медной Печи&r! И они могут быть сделаны либо в &7Серебряную Печь&r, либо в &eЗолотую Печь&r."]
+	quest.2748ACEAB96A5F60.title: "&fЖелезная Печь"
+	quest.2E85D6E2CFCC356E.quest_desc: ["&3Печь Вибраниума&r еще лучше, чем &6Печь Allthemodium&r!"]
+	quest.2E85D6E2CFCC356E.title: "&3Печь Вибраниума"
 	quest.2EE8FCB63A338BC4.quest_desc: [
-		"The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r needs quite literally every other Furnace to Craft. 8 &cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g&r and 1 &cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e&r gives us the best Furnace we could imagine!"
+		"&zРадужная Печь&r требует буквально каждую другую Печь для создания. 8 &zРадужных Обшивок&r и 1 &zРадужное Ядро&r дают нам лучшую Печь, которую мы можем себе представить!"
 		""
-		"Yes it takes 20 Ticks to smelt or 1 Second to smelt, but it doesn't smelt 1 item. How many items you ask? How many are in a stack of items?"
+		"Да, требуется 20 Тиков для плавки или 1 Секунда для плавки, но она плавит не 1 предмет. Сколько предметов, спросите вы? Сколько их в стаке предметов?"
 	]
-	quest.2EE8FCB63A338BC4.title: "&cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e"
+	quest.2EE8FCB63A338BC4.title: "&zРадужная Печь"
 	quest.32C7D8AE859BF89E.quest_desc: [
-		"It may be &dObsidian&r but don't worry you don't need a &bDiamond Pickaxe&r to pick it up, just to craft it."
+		"Это может быть &dОбсидиан&r, но не волнуйтесь, вам не нужна &bАлмазная Кирка&r, чтобы поднять ее, только чтобы создать."
 		""
-		"It works every 20 Ticks or every Second. Yeah not Seconds just Second."
+		"Она работает каждые 20 Тиков или каждую Секунду. Да, не Секунды, просто Секунду."
 		""
-		"It can be crafted with a &3Crystal Furnace&r or &aEmerald Furnace&r, and can be crafted into a &5Netherite Furnace&r!"
+		"Она может быть создана с &3Кристальной Печью&r или &aИзумрудной Печью&r, и может быть создана в &5Незеритовую Печь&r!"
 	]
-	quest.32C7D8AE859BF89E.title: "&dObsidian Furnace"
-	quest.33436ED0D9F128BD.quest_desc: ["&4Augment&r: Smoking transforms your Iron Furnace into an Iron Smoker. Now it will only smoke Food items but twice as fast! Like &4Augment&r: Blasting this one also stacks with other upgrades!"]
-	quest.33436ED0D9F128BD.title: "&4Augment&r: Smoking"
-	quest.39605F1FEB1A5A1C.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.32C7D8AE859BF89E.title: "&dОбсидиановая Печь"
+	quest.33436ED0D9F128BD.quest_desc: ["&4Усиление&r: Копчение превращает вашу Железную Печь в Железную Коптильню. Теперь она будет только коптить Пищевые предметы, но в два раза быстрее! Как &4Усиление&r: Взрывное, это также складывается с другими улучшениями!"]
+	quest.33436ED0D9F128BD.title: "&4Усиление&r: Копчение"
+	quest.39605F1FEB1A5A1C.quest_desc: ["Этот Квест был создан &6AllTheMods Staff&r, или &2Контрибьютором Сообщества&r для использования в модпаках AllTheMods. \\n\\nТак как все сборки &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот Квест запрещено использовать в любых публичных сборках, не выпущенных &6AllTheMods Team&r, без явного разрешения. \\n\\nЭтот квест намеренно скрыт, если вы видите это, вы в режиме редактирования."]
 	quest.39605F1FEB1A5A1C.title: "AllRightsReserved"
-	quest.3A4C17878FC8315B.quest_desc: ["The &6Allthemodium Furnace&r is pretty much the same as the Netherite Furnace. You will need this to craft the &3Vibranium Furnace&r."]
-	quest.3A4C17878FC8315B.title: "&6Allthemodium Furnace"
-	quest.420FE84DEE12CCE0.quest_desc: ["The &eGold Furnace&r is better than the Iron ones with a Cooktime of 120 Ticks.\\n\\nIt can be crafted with &7Silver&r or Iron Furnace and is crafted into a &bDiamond one&r!"]
-	quest.420FE84DEE12CCE0.title: "&eGolden Furnace"
-	quest.49F08DE190AAD0D8.quest_desc: ["&3Augment&r: Factory makes your Furnace more like the Smelting Factory from Mekanism. Instead of using Fuel it will now use Energy! Pipe in some Energy and it will start Smelting."]
-	quest.49F08DE190AAD0D8.title: "&3Augment&r: Factory"
-	quest.538821E23E39BE97.quest_desc: ["&2Augment&r: Fuel Efficiency is for all you Earth-Loving, Tree-Hugging, Captain Planet Embracing, Hippies. The Furnace consumes half of the amount of Fuel at the cost of half the time. Coal will not Smelt 8 items but rather 16!"]
-	quest.538821E23E39BE97.title: "&2Augment&r: Fuel Efficiency"
-	quest.553220A2CD7CAFE4.quest_desc: ["During Christmas all the Chests look like Presents... but the Furnaces just stick out like a sore thumb! Now that can be changed with the Wrapping Paper! You can Right Click it onto any &lIron Furnace&r and it'll be all set for the holiday season! And after the season is over you can Shift Right Click it to unwrap it!"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "All Wrapped up"
-	quest.61847F47CCA225D9.quest_desc: ["Following the same pattern, these ones smelt at 140 Ticks or 7 Seconds.\\n\\nThey can be crafted with &6Copper&r or Iron Furnaces and can be used to craft a &eGold Furnace&r."]
-	quest.61847F47CCA225D9.title: "Silver Furnace"
+	quest.3A4C17878FC8315B.quest_desc: ["&6Печь Allthemodium&r практически такая же, как Незеритовая Печь. Вам понадобится это для создания &3Печи Вибраниума&r."]
+	quest.3A4C17878FC8315B.title: "&6Печь Allthemodium"
+	quest.420FE84DEE12CCE0.quest_desc: ["&eЗолотая Печь&r лучше железных с временем готовки 120 Тиков.\\n\\nОна может быть создана с &7Серебряной&r или Железной Печью и создана в &bАлмазную&r!"]
+	quest.420FE84DEE12CCE0.title: "&eЗолотая Печь"
+	quest.49F08DE190AAD0D8.quest_desc: ["&3Усиление&r: Фабрика делает вашу Печь более похожей на Плавильную Фабрику из Mekanism. Вместо использования Топлива она теперь будет использовать Энергию! Подведите немного Энергии, и она начнет Плавку."]
+	quest.49F08DE190AAD0D8.title: "&3Усиление&r: Фабрика"
+	quest.538821E23E39BE97.quest_desc: ["&2Усиление&r: Топливная Эффективность для всех вас, Землелюбивых, Обнимающих Деревья, Принимающих Капитана Планету, Хиппи. Печь потребляет половину количества Топлива за счет половины времени. Уголь будет плавить не 8 предметов, а 16!"]
+	quest.538821E23E39BE97.title: "&2Усиление&r: Топливная Эффективность"
+	quest.553220A2CD7CAFE4.quest_desc: ["Во время Рождества все Сундуки выглядят как Подарки... но Печи просто выделяются как больной палец! Теперь это можно изменить с помощью Оберточной Бумаги! Вы можете Правый клик на нее на любую &lЖелезную Печь&r, и она будет готова к праздничному сезону! А после окончания сезона вы можете Shift Правый клик на нее, чтобы развернуть!"]
+	quest.553220A2CD7CAFE4.quest_subtitle: "Все упаковано"
+	quest.61847F47CCA225D9.quest_desc: ["Следуя той же схеме, они плавят за 140 Тиков или 7 Секунд.\\n\\nОни могут быть созданы с &6Медными&r или Железными Печами и могут быть использованы для создания &eЗолотой Печи&r."]
+	quest.61847F47CCA225D9.title: "Серебряная Печь"
 	quest.661C072E48F8D41F.quest_desc: [
-		"&6Copper&r is one if not the most common Ore you can find, so why not use a bunch of spare &6Copper&r to upgrade your furnace!"
+		"&6Медь&r - это одна, если не самая распространенная Руда, которую вы можете найти, так почему бы не использовать кучу запасной &6Меди&r для улучшения вашей печи!"
 		""
-		"Normal Furnaces take 200 Ticks to smelt 1 Item, (20 Ticks = 1 Second) while &6Copper Furnaces&r take 180 Ticks."
+		"Обычные Печи занимают 200 Тиков, чтобы расплавить 1 Предмет, (20 Тиков = 1 Секунда), в то время как &6Медные Печи&r занимают 180 Тиков."
 		""
-		"They can be crafted into either &7Silver&r or &fIron Furnaces&r."
+		"Они могут быть созданы либо в &7Серебряные&r, либо в &fЖелезные Печи&r."
 	]
-	quest.661C072E48F8D41F.title: "&6Copper Furnace"
-	quest.686B25F2E9D8CC97.quest_desc: ["At the time of writing this it's the end of July so I've got about 3 months until Halloween. But it's never to early to start getting Spooky! Just like Spirit Halloween we can get Spooky 3 months before it actually starts. This time by Right Clicking a Furnace with the Spook-alator! Once it's time to start getting ready for Thanksgiving Shift Right Click them to Un-Spook-Alate!"]
-	quest.686B25F2E9D8CC97.quest_subtitle: "\"This is Halloween\""
-	quest.711DDD55CEC439E5.quest_desc: ["The &aEmerald Furnace&r, I wonder if Villagers will trade for it? \\n \\nIt works at 40 Ticks or only 2 Seconds to smelt! Blink and you might miss it. \\n \\nThese are crafted by &bDiamond Furnace&r and can be made into an &dObsidian Furnace&r."]
-	quest.711DDD55CEC439E5.title: "&aEmerald Furnace"
-	quest.73FF01D830A669AA.quest_desc: ["&4Augment&r: Blasting transforms your Iron Furnace to an Iron Blast Furnace! It will now only smelt Ores but at twice the speed! Yes this stacks with the effects of other Augments and different Tiers of Furnace."]
-	quest.73FF01D830A669AA.title: "&4Augment&r: Blasting"
-	quest.757B14D08A9A03C4.quest_desc: [" Like most Modded machines, Iron Furnaces has Configurations. Configs can be found by clicking the Top Left. There will be the Inputs, Outputs, and Redstone activation. The Redstone activation changes when the Furnace will smelt. The top buttons determine if it auto Inputs or Outputs, which means it will automatically move to and from connected Inventories. The boxes are each side of the Furnace and determine whether it Inputs, Outputs, does both, Inputs Fuel, or does nothing. This matters for Items being Piped in or out. The Furnace Settings Linker will copy all of these settings to other Furnaces!"]
-	quest.757B14D08A9A03C4.title: "Configurations"
+	quest.661C072E48F8D41F.title: "&6Медная Печь"
+	quest.686B25F2E9D8CC97.quest_desc: ["На момент написания этого конец июля, так что у меня осталось около 3 месяцев до Хэллоуина. Но никогда не рано начать становиться Жутким! Как Spirit Halloween, мы можем стать Жуткими за 3 месяца до того, как это действительно начнется. На этот раз Правым кликом на Печь с Жутко-латором! Как только придет время начать готовиться к Дню Благодарения, Shift Правый клик на них, чтобы Раз-Жутко-лировать!"]
+	quest.686B25F2E9D8CC97.quest_subtitle: "\"Это Хэллоуин\""
+	quest.711DDD55CEC439E5.quest_desc: ["&aИзумрудная Печь&r, интересно, будут ли Жители торговать за нее? \\n \\nОна работает за 40 Тиков или только 2 Секунды для плавки! Моргните, и вы можете пропустить это. \\n \\nОни создаются из &bАлмазной Печи&r и могут быть сделаны в &dОбсидиановую Печь&r."]
+	quest.711DDD55CEC439E5.title: "&aИзумрудная Печь"
+	quest.73FF01D830A669AA.quest_desc: ["&4Усиление&r: Взрывное превращает вашу Железную Печь в Железную Плавильную Печь! Теперь она будет плавить только Руды, но в два раза быстрее! Да, это складывается с эффектами других Усилений и разных Тиров Печей."]
+	quest.73FF01D830A669AA.title: "&4Усиление&r: Взрывное"
+	quest.757B14D08A9A03C4.quest_desc: [" Как и большинство Модовых машин, Iron Furnaces имеет Конфигурации. Конфиги можно найти, кликнув на Верхний Левый. Там будут Входы, Выходы и Активация редстоуна. Активация редстоуна изменяет, когда Печь будет плавить. Верхние кнопки определяют, авто-вводит она или авто-выводит, что означает, что она автоматически перемещает в подключенные Инвентари и из них. Квадраты - это каждая сторона Печи и определяют, вводит ли она, выводит, делает и то, и другое, вводит Топливо, или ничего не делает. Это важно для предметов, которые подаются по трубам или выкачиваются. Связующий Настройки Печи скопирует все эти настройки на другие Печи!"]
+	quest.757B14D08A9A03C4.title: "Конфигурации"
 	quest.78D1C97A542133D8.quest_desc: [
-		"Augments are Upgrades to Iron Furnace Furnaces!"
+		"Усиления - это Улучшения для Печей Iron Furnace!"
 		""
-		"In the Top Right of the Furnace GUI will be the button to look at the Augment Section. There will be a Red, Green, and Blue spot, each can hold 1 of their colored Augments. "
+		"В Верхнем Правом углу GUI Печи будет кнопка, чтобы посмотреть на секцию Усилений. Там будет Красное, Зеленое и Синее место, каждое может удерживать 1 усиление своего цвета. "
 	]
-	quest.78D1C97A542133D8.title: "&lAugments"
-	quest.79C4CF8D7312FC28.quest_desc: ["The best Vanilla gets! &5Netherite&r! Don't worry you won't need Smithing Template for it, just a lotta &5Netherite&r. \\n \\nIt smelts an item every 5 Ticks which means 4 Items Smelted every Second. Yes it's no longer S.P.S. (Seconds per Smelt) it's now S.P.S. (Smelts per Seconds). \\n \\nCrafted from &dObsidian Furnace&r... wait this isn't the final Furnace?"]
-	quest.79C4CF8D7312FC28.title: "&5Netherite Furnace&r"
-	quest.7A615E2A152917AD.quest_desc: ["For this you need 2 &5Netherite Furnaces&r and 7 pieces of glass which are each the color of the Rainbow. &cRed&r, &6Orange&r, &eYellow&r, &2Green&r, &3Blue&r, &9Indig&r- &5Purple&r, and &5Vi&r-&dMagenta&r. Yep! The whole Roy G. Bpm!"]
-	quest.7A615E2A152917AD.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e"
-	quest.7F67849DE9F700D8.quest_desc: ["&2Augment&r: Speed makes it so your Furnace is faster! &bDiamond Furnace&r will instead smelt every 40 Ticks instead of 80 Ticks. At the cost of twice the Fuel usage."]
-	quest.7F67849DE9F700D8.title: "&2Augment&r: Speed"
+	quest.78D1C97A542133D8.title: "&lУсиления"
+	quest.79C4CF8D7312FC28.quest_desc: ["Лучшее, что получает Ванилла! &5Незерит&r! Не волнуйтесь, вам не понадобится Шаблон Кузницы для этого, просто много &5Незерита&r. \\n \\nОна плавит предмет за 5 Тиков, что означает 4 Предмета Расплавлено каждую Секунду. Да, это больше не S.P.S. (Секунды за Плавку), теперь это S.P.S. (Плавки за Секунды). \\n \\nСоздана из &dОбсидиановой Печи&r... подождите, это не финальная Печь?"]
+	quest.79C4CF8D7312FC28.title: "&5Незеритовая Печь&r"
+	quest.7A615E2A152917AD.quest_desc: ["Для этого вам нужно 2 &5Незеритовых Печи&r и 7 кусков стекла, каждый из которых имеет цвет Радуги. &cКрасный&r, &6Оранжевый&r, &eЖелтый&r, &2Зеленый&r, &3Синий&r, &9Индиго&r- &5Фиолетовый&r, и &5Ви&r-&dПурпурный&r. Да! Весь Roy G. Bpm!"]
+	quest.7A615E2A152917AD.title: "&zРадужное Ядро"
+	quest.7F67849DE9F700D8.quest_desc: ["&2Усиление&r: Скорость делает так, чтобы ваша Печь была быстрее! &bАлмазная Печь&r вместо этого будет плавить каждые 40 Тиков вместо 80 Тиков. За счет двойного использования Топлива."]
+	quest.7F67849DE9F700D8.title: "&2Усиление&r: Скорость"
 	task.38B6F45109CB033A.title: "AllRightsReserved"
 	task.5DB7A437BEC3E2D4.title: "AllRightsReserved"
 }
+

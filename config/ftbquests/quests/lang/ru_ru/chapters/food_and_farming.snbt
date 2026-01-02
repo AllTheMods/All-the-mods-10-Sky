@@ -1,88 +1,142 @@
 {
-	quest.04D0543FE2820F64.quest_desc: ["Time to Grow some string! Some of these allow you to grow it directly, whilst others give you an alternative that works in recipes."]
-	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
-	quest.04D0543FE2820F64.title: "Flax String"
-	quest.0893EFCAC7031FEA.quest_desc: ["Time to bake a cake, if you've got some milk and eggs ready."]
-	quest.0893EFCAC7031FEA.quest_subtitle: "Have your Cake and Eat it too"
-	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Love this Stuff"
-	quest.0A1C2A7A8617D3E4.title: "Wheat"
-	quest.0EFF1AA37772156B.quest_desc: ["This block provides water to the multi-block kitchen.\\n\\nIt can also provide infinite water by pumping water out via cables or pipes."]
-	quest.0EFF1AA37772156B.quest_subtitle: "1 Block does the trick!"
-	quest.0EFF1AA37772156B.title: "The Sink = Infinite Water"
-	quest.13AFCD3B6F62B986.quest_desc: ["Provides Ice and Snow recipes!"]
-	quest.13AFCD3B6F62B986.quest_subtitle: "Ice, Ice, Baby!"
-	quest.13AFCD3B6F62B986.title: "Ice Upgrade"
-	quest.1515B32545F51266.quest_desc: ["Allows you to attach power to the Stove."]
-	quest.1515B32545F51266.title: "Heating Upgrade"
-	quest.1697CC05D08B388D.quest_subtitle: "Yummy Fried Chicken!"
-	quest.1697CC05D08B388D.title: "The Chickens Must Go"
-	quest.1827DEEA2DF1B144.quest_desc: ["Welcome to the Food and Farming chapter!\\n\\nHere, you'll find different ways for you to grow and make food!"]
-	quest.1827DEEA2DF1B144.title: "Food and Farming"
-	quest.18EADBAFC932F864.quest_desc: ["To shear Sheep you need Shears, you wouldn't get Wool any other way...right?"]
-	quest.18EADBAFC932F864.quest_subtitle: "Pacifist Run"
-	quest.18EADBAFC932F864.title: "It's Clippin' Time"
-	quest.1D2EF12FD7FDD217.quest_desc: ["Chickens will lay these naturally. I guess it's not really considered naturally...\\n\\nI guess the chickens are just getting... &oEggs-ercise!!!&r."]
-	quest.1D2EF12FD7FDD217.quest_subtitle: "...or am I?"
-	quest.1D2EF12FD7FDD217.title: "I'm not gonna make an Egg pun"
-	quest.1D48298525EEADC9.quest_desc: ["You should have everything you need already."]
-	quest.1D48298525EEADC9.quest_subtitle: "Pour some Sugar on me!"
-	quest.1D48298525EEADC9.title: "You're so sweet"
-	quest.1DCAA0310AA55F1C.quest_desc: ["But he usually closes by 5, so who cares?"]
-	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Would be Proud"
-	quest.1DCAA0310AA55F1C.title: "The Start of a Fisher"
-	quest.1F114EB0AAB86DB4.quest_desc: ["Markets provide you with a villager than can sell you anything if you have the right amount of emeralds.\\n\\nSpoiler: It's usually just 1 Emerald per item, luckily, they have EVERYTHING."]
-	quest.1F114EB0AAB86DB4.quest_subtitle: "The Villager has more than one way to Spawn"
-	quest.1F114EB0AAB86DB4.title: "Purchasing Farm Supplies"
-	quest.2786D5AC19163524.quest_desc: ["This block enables smelting recipes in your kitchen multi-block!"]
-	quest.2786D5AC19163524.quest_subtitle: "No Timer Needed"
-	quest.2786D5AC19163524.title: "Honey, there's a Furnace in the Kitchen"
-	quest.28C9EDBF6607E180.quest_desc: ["This block is part of a multi-block kitchen.\\n\\nThis will show you every recipe that is available to you with the food you have in your inventory, or stored in the kitchen multi-block.\\n\\nYou can finally create a nice kitchen in Minecraft."]
-	quest.28C9EDBF6607E180.quest_subtitle: "Betty White was born before Sliced Bread"
-	quest.28C9EDBF6607E180.title: "THE BEST THING SINCE SLICED BREAD"
-	quest.2E9C035EEE7E5C34.quest_desc: ["The classic Lead. Use this to get animals into your farm area.\\n\\nThis isn't the same thing as the ore."]
-	quest.2E9C035EEE7E5C34.quest_subtitle: "Get along little Doggy"
-	quest.2E9C035EEE7E5C34.title: "We're doing this the Old Fashioned way"
-	quest.361DFDB1E1352D6B.quest_desc: ["Find some Sugar Cane near some water."]
-	quest.361DFDB1E1352D6B.title: "Sugar Sugar"
-	quest.37CA6F9F0226F10E.quest_desc: ["This block stores items for cooking.\\n\\nYou can also place other kitchen multi-block items on it, like toasters and a Cow in a Jar."]
-	quest.37CA6F9F0226F10E.quest_subtitle: "We need more cooking space"
-	quest.37CA6F9F0226F10E.title: "Need more cooking space?"
-	quest.3EA883C0BB7BD38F.quest_desc: ["Let's gather some pieces of Wool!"]
-	quest.3EA883C0BB7BD38F.quest_subtitle: "Whose Fleece was....Rainbow?"
-	quest.3EA883C0BB7BD38F.title: "Mary had a Little Lamb"
-	quest.43021923E220CF68.quest_desc: ["To till Dirt into Farmland you'll need a Hoe."]
-	quest.43021923E220CF68.quest_subtitle: "Wait until you get Machines for this..."
-	quest.43021923E220CF68.title: "The Planter"
-	quest.45F83C2750F70F9B.quest_desc: ["Go ahead, put a Book in a Furnace and smelt it."]
-	quest.45F83C2750F70F9B.quest_subtitle: "Totally won't catch on fire..."
-	quest.45F83C2750F70F9B.title: "Making a Kitchen, with a Book"
-	quest.47764EFC822E462A.quest_desc: ["This block produces milk over time, and enables milk recipes for the kitchen multi-block.\\n\\nTo get a cow in the jar, place the jar in a hole. Lure the cow to fall in said hole above the jar, then drop an anvil on it.\\n\\nI have no clue what this glass is made of, but it's stronger than my relationship with Chicken."]
-	quest.47764EFC822E462A.quest_subtitle: "Phenomenal Milking Powers....Itty bitty living space"
-	quest.47764EFC822E462A.title: "A Cow in a Jar"
-	quest.55C4824DAD905512.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.58495CFBF4F20CE9.quest_desc: ["This works just like the kitchen counter, except in the air.\\n\\nAnd you can't put things on top of it."]
-	quest.58495CFBF4F20CE9.quest_subtitle: "So much room for activities!"
-	quest.58495CFBF4F20CE9.title: "Even More Storage"
-	quest.58D5BD3106BFD94A.quest_desc: ["Craft the next version of the book. I promise you, it's worth it.\\n\\nI'll even give you a Diamond back."]
-	quest.58D5BD3106BFD94A.quest_subtitle: "This is totally worth it"
-	quest.58D5BD3106BFD94A.title: "Cooking with the power of Diamonds"
-	quest.635620A03E3505BF.quest_desc: ["I don't wanna know how you got these."]
-	quest.635620A03E3505BF.quest_subtitle: "But....Cows can't be sheared..."
-	quest.635620A03E3505BF.title: "Leather"
-	quest.659A903F97F93BE2.quest_subtitle: "Quick and Simple"
-	quest.659A903F97F93BE2.title: "The Bread of Life"
-	quest.72717D1135486D7F.quest_desc: ["Let's gather some seeds."]
-	quest.72717D1135486D7F.quest_subtitle: "Block Hand 1, Block Grass 0"
-	quest.72717D1135486D7F.title: "Punch the Grass"
-	quest.73B8A70240E6070E.quest_desc: ["Find a Cow and Right Click it with a Bucket.\\n\\nSeriously, why no Bulls?"]
-	quest.73B8A70240E6070E.quest_subtitle: "Why aren't there Bulls in the game?"
-	quest.73B8A70240E6070E.title: "Milk a Cow - Profit"
-	quest.791AE62ACACBD5BA.quest_subtitle: "You'll open it, close it, then open it again, just because you're bored"
+	quest.04D0543FE2820F64.quest_desc: ["Время вырастить немного нити! Некоторые из них позволяют выращивать ее напрямую, в то время как другие дают альтернативу, которая работает в рецептах."]
+	quest.04D0543FE2820F64.quest_subtitle: "Кому нужны Пауки в любом случае?"
+	quest.04D0543FE2820F64.title: "Льняная Нить"
+	quest.0500DA5C4D383DC6.quest_desc: ["Получите их, убивая зомби или просеивая землю."]
+	quest.0500DA5C4D383DC6.quest_subtitle: "Ешьте свои овощи"
+	quest.083309154A8974DA.quest_desc: ["Самое базовое из улучшений"]
+	quest.083309154A8974DA.quest_subtitle: "Легкое усиление"
+	quest.083309154A8974DA.title: "Позолоченная Еда"
+	quest.0893EFCAC7031FEA.quest_desc: ["Время испечь торт, если у вас есть молоко и яйца."]
+	quest.0893EFCAC7031FEA.quest_subtitle: "Иметь свой торт и съесть его"
+	quest.0A1C2A7A8617D3E4.quest_subtitle: "Спидраннеры любят это"
+	quest.0A1C2A7A8617D3E4.title: "Пшеница"
+	quest.0A7F53BFE6A4DFDC.quest_desc: ["Устали видеть только рецепты, которые вы можете сделать? С этим вы можете посмотреть, как сделать каждую еду в игре."]
+	quest.0A7F53BFE6A4DFDC.quest_subtitle: "Энциклопедия готовки"
+	quest.0A7F53BFE6A4DFDC.title: "Кулинарная Книга Без Фильтра"
+	quest.0AC713AEEBCF2CD2.quest_desc: ["Или вы можете использовать MA... но кто это делает?"]
+	quest.0AC713AEEBCF2CD2.quest_subtitle: "Гуманный сбор яиц"
+	quest.0AC713AEEBCF2CD2.title: "Автоматизация Яиц"
+	quest.0CB4CF33BD96D730.quest_desc: ["Productive Farming позволяет увеличить урожайность культур, изменяя их характеристики! (Квесты скоро)"]
+	quest.0EFF1AA37772156B.quest_desc: ["Этот блок обеспечивает водой много-блочную кухню.\\n\\nОн также может обеспечивать бесконечную воду, выкачивая воду через кабели или трубы."]
+	quest.0EFF1AA37772156B.quest_subtitle: "1 блок решает проблему!"
+	quest.0EFF1AA37772156B.title: "Раковина = Бесконечная Вода"
+	quest.0FE88A567578C720.quest_desc: ["Это суперфуды, которые дают широкий спектр баффов, в зависимости от яблока."]
+	quest.0FE88A567578C720.quest_subtitle: "Кристаллизованные яблоки"
+	quest.12139F09C0F1361D.quest_desc: ["Увеличивает скорость роста, конфликтует с зеленым удобрением."]
+	quest.12139F09C0F1361D.quest_subtitle: "Продуктивные грибы"
+	quest.13AFCD3B6F62B986.quest_desc: ["Предоставляет рецепты Льда и Снега!"]
+	quest.13AFCD3B6F62B986.quest_subtitle: "Лед, Лед, Малыш!"
+	quest.13AFCD3B6F62B986.title: "Ледяное Улучшение"
+	quest.1515B32545F51266.quest_desc: ["Позволяет подключить энергию к Плите."]
+	quest.1515B32545F51266.title: "Нагревательное Улучшение"
+	quest.1697CC05D08B388D.quest_subtitle: "Вкусная Жареная Курица!"
+	quest.1697CC05D08B388D.title: "Курицы Должны Уйти"
+	quest.1827DEEA2DF1B144.quest_desc: ["Добро пожаловать в главу Еда и Фермерство!\\n\\nЗдесь вы найдете разные способы выращивания и приготовления еды!"]
+	quest.1827DEEA2DF1B144.title: "Еда и Фермерство"
+	quest.18EADBAFC932F864.quest_desc: ["Чтобы стричь овец, вам нужны Ножницы, вы не получите Шерсть другим способом... верно?"]
+	quest.18EADBAFC932F864.quest_subtitle: "Пацифистский прогон"
+	quest.18EADBAFC932F864.title: "Время Стрижки"
+	quest.1B4A74D744F39516.quest_desc: ["Сломайте несколько дубовых листьев."]
+	quest.1B4A74D744F39516.quest_subtitle: "Любой инструмент работает (включая ваш кулак)"
+	quest.1B4A74D744F39516.title: "Сломать Листья"
+	quest.1D2EF12FD7FDD217.quest_desc: ["Курицы будут откладывать их естественно. Я думаю, это не совсем естественно...\\n\\nЯ думаю, курицы просто делают... &oЯйц-зарядку!!!&r."]
+	quest.1D2EF12FD7FDD217.quest_subtitle: "...или я?"
+	quest.1D2EF12FD7FDD217.title: "Я не буду делать каламбур с яйцом"
+	quest.1D48298525EEADC9.quest_desc: ["У вас уже должно быть все необходимое."]
+	quest.1D48298525EEADC9.quest_subtitle: "Насыпь на меня немного сахара!"
+	quest.1D48298525EEADC9.title: "Ты такой сладкий"
+	quest.1DCAA0310AA55F1C.quest_desc: ["Но он обычно закрывается в 5, так что кому какое дело?"]
+	quest.1DCAA0310AA55F1C.quest_subtitle: "Вилли был бы горд"
+	quest.1DCAA0310AA55F1C.title: "Начало Рыбака"
+	quest.1E7A4F84CEDBE2AF.quest_desc: ["Костная мука - самый базовый способ усилить урожай."]
+	quest.1E7A4F84CEDBE2AF.quest_subtitle: "Нужно использовать эти кости"
+	quest.1E7A4F84CEDBE2AF.title: "Улучшение Роста"
+	quest.1F114EB0AAB86DB4.quest_desc: ["Рынки предоставляют вам жителя, который может продать вам что угодно, если у вас есть правильное количество изумрудов.\\n\\nСпойлер: Обычно это просто 1 Изумруд за предмет, к счастью, у них есть ВСЕ."]
+	quest.1F114EB0AAB86DB4.quest_subtitle: "У жителя есть больше одного способа заспавниться"
+	quest.1F114EB0AAB86DB4.title: "Покупка Фермерских Принадлежностей"
+	quest.2786D5AC19163524.quest_desc: ["Этот блок включает рецепты плавки в вашей много-блочной кухне!"]
+	quest.2786D5AC19163524.quest_subtitle: "Таймер не нужен"
+	quest.2786D5AC19163524.title: "Дорогая, в кухне Печь"
+	quest.28C9EDBF6607E180.quest_desc: ["Этот блок является частью много-блочной кухни.\\n\\nОн покажет вам каждый рецепт, доступный вам с едой, которая у вас есть в инвентаре, или хранится в много-блочной кухне.\\n\\nВы наконец можете создать красивую кухню в Minecraft."]
+	quest.28C9EDBF6607E180.quest_subtitle: "Бетти Уайт родилась до Нарезанного Хлеба"
+	quest.28C9EDBF6607E180.title: "ЛУЧШЕЕ С НАРЕЗАННОГО ХЛЕБА"
+	quest.2E9C035EEE7E5C34.quest_desc: ["Классический Поводок. Используйте это, чтобы завести животных на вашу ферму.\\n\\nЭто не то же самое, что руда."]
+	quest.2E9C035EEE7E5C34.quest_subtitle: "Иди, маленькая Собачка"
+	quest.2E9C035EEE7E5C34.title: "Мы делаем это по-старому"
+	quest.2FBF54AC8273E8DF.quest_desc: ["Productive Trees добавляет много новых деревьев, у каждого из которых есть свои вкусности. Вы можете собрать эти фрукты, сломав листья."]
+	quest.2FBF54AC8273E8DF.quest_subtitle: "Фрукты и фрукты и фрукты"
+	quest.2FBF54AC8273E8DF.title: "Productive Trees"
+	quest.34F29677E6B5E40C.quest_desc: ["Увеличивает выход за урожай, конфликтует с красным удобрением."]
+	quest.34F29677E6B5E40C.quest_subtitle: "Продуктивная плесень"
+	quest.361DFDB1E1352D6B.quest_desc: ["Найдите немного Сахарного Тростника рядом с водой."]
+	quest.361DFDB1E1352D6B.title: "Сахар Сахар"
+	quest.37CA6F9F0226F10E.quest_desc: ["Этот блок хранит предметы для готовки.\\n\\nВы также можете разместить другие предметы много-блочной кухни на нем, такие как тостеры и Корова в Банке."]
+	quest.37CA6F9F0226F10E.quest_subtitle: "Нам нужно больше места для готовки"
+	quest.37CA6F9F0226F10E.title: "Нужно больше места для готовки?"
+	quest.3EA883C0BB7BD38F.quest_desc: ["Давайте соберем несколько кусков шерсти!"]
+	quest.3EA883C0BB7BD38F.quest_subtitle: "Чья шерсть была....Радужной?"
+	quest.3EA883C0BB7BD38F.title: "У Мэри был Маленький Ягненок"
+	quest.43021923E220CF68.quest_desc: ["Чтобы вспахать Землю в Грядку, вам понадобится Мотыга."]
+	quest.43021923E220CF68.quest_subtitle: "Подождите, пока вы получите Машины для этого..."
+	quest.43021923E220CF68.title: "Посадчик"
+	quest.45F83C2750F70F9B.quest_desc: ["Давайте, положите Книгу в Печь и расплавьте ее."]
+	quest.45F83C2750F70F9B.quest_subtitle: "Точно не загорится..."
+	quest.45F83C2750F70F9B.title: "Создание Кухни с Книгой"
+	quest.460969C070B5C8E5.quest_desc: [
+		"Я бы сказал, что создание это самое простое..."
+		"Нам не нужно останавливаться здесь!"
+	]
+	quest.460969C070B5C8E5.quest_subtitle: "Предел Ваниллы..."
+	quest.460969C070B5C8E5.title: "\"Notch\" яблоко"
+	quest.47764EFC822E462A.quest_desc: ["Этот блок производит молоко со временем и включает рецепты молока для много-блочной кухни.\\n\\nЧтобы получить корову в банке, поместите банку в яму. Заманите корову упасть в эту яму над банкой, затем уроните наковальню на нее.\\n\\nЯ понятия не имею, из чего сделано это стекло, но оно прочнее моих отношений с Курицей."]
+	quest.47764EFC822E462A.quest_subtitle: "Феноменальные Доильные Способности....Крошечное жилое пространство"
+	quest.47764EFC822E462A.title: "Корова в Банке"
+	quest.528304AA09EA8C23.quest_desc: ["Нужно поймать их всех!"]
+	quest.528304AA09EA8C23.quest_subtitle: "Рыбалка днями"
+	quest.528304AA09EA8C23.title: "Ушли на Рыбалку"
+	quest.55C4824DAD905512.quest_desc: ["Этот Квест был создан &6AllTheMods Staff&r, или &2Контрибьютором Сообщества&r для использования в модпаках AllTheMods.\\n\\nТак как все сборки &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот Квест запрещено использовать в любых публичных сборках, не выпущенных &6AllTheMods Team&r, без явного разрешения.\\n\\nЭтот квест намеренно скрыт, если вы видите это, вы в режиме редактирования."]
+	quest.58495CFBF4F20CE9.quest_desc: ["Это работает так же, как кухонная столешница, только в воздухе.\\n\\nИ вы не можете класть вещи сверху."]
+	quest.58495CFBF4F20CE9.quest_subtitle: "Столько места для деятельности!"
+	quest.58495CFBF4F20CE9.title: "Еще Больше Хранения"
+	quest.58D5BD3106BFD94A.quest_desc: ["Создайте следующую версию книги. Я обещаю вам, это того стоит.\\n\\nЯ даже верну вам Алмаз."]
+	quest.58D5BD3106BFD94A.quest_subtitle: "Это определенно того стоит"
+	quest.58D5BD3106BFD94A.title: "Готовка с силой Алмазов"
+	quest.60053279577A59C1.quest_desc: ["Устали уничтожать свои урожаи при прыжке? Что ж, вам повезло! Можно использовать с двумя другими типами."]
+	quest.60053279577A59C1.quest_subtitle: "Продуктивное золото"
+	quest.63050A2CACD6ADC9.quest_subtitle: "или нет?"
+	quest.63050A2CACD6ADC9.title: "Максимальная Удочка"
+	quest.635620A03E3505BF.quest_desc: ["Я не хочу знать, как вы их получили."]
+	quest.635620A03E3505BF.quest_subtitle: "Но....Коров нельзя стричь..."
+	quest.635620A03E3505BF.title: "Кожа"
+	quest.659A903F97F93BE2.quest_subtitle: "Быстро и Просто"
+	quest.659A903F97F93BE2.title: "Хлеб Жизни"
+	quest.72717D1135486D7F.quest_desc: ["Давайте соберем немного семян."]
+	quest.72717D1135486D7F.quest_subtitle: "Блок Рука 1, Блок Трава 0"
+	quest.72717D1135486D7F.title: "Ударь Траву"
+	quest.73B8A70240E6070E.quest_desc: ["Найдите корову и Правый клик на нее с Ведром.\\n\\nСерьезно, почему нет Быков?"]
+	quest.73B8A70240E6070E.quest_subtitle: "Почему в игре нет Быков?"
+	quest.73B8A70240E6070E.title: "Подоить Корову - Прибыль"
+	quest.791AE62ACACBD5BA.quest_subtitle: "Вы будете открывать его, закрывать, затем снова открывать, просто потому что вам скучно"
+	quest.79DD2C115A5FC23B.quest_desc: ["Каждый тир дает новый положительный эффект. Безопасно сказать, что они довольно ОП..."]
+	quest.79DD2C115A5FC23B.quest_subtitle: "Тированные яблоки"
+	quest.79DD2C115A5FC23B.title: "MA Яблоки"
+	quest.7FB5AFB3A30830D4.quest_desc: ["Вырастите этот саженец, чтобы получить доступ к самым базовым фруктам."]
+	quest.7FB5AFB3A30830D4.title: "Фрукты с Деревьев"
+	task.003A07A0E816B302.title: "Productive Farming"
 	task.1D8904E53906D972.title: "AllRightsReserved"
-	task.2725700B5EA1CD75.title: "Shears"
-	task.323A434E1AF54408.title: "Hoes"
+	task.2725700B5EA1CD75.title: "Ножницы"
+	task.323A434E1AF54408.title: "Мотыги"
+	task.32791AD78C17C814.title: "Farmer's Delight Tools"
+	task.3824DC29D8790DAB.title: "Gem Apples"
+	task.3DA0D9582AEFCBCF.title: "Flax Seeds"
 	task.5805158E69C05AED.title: "AllRightsReserved"
-	task.669DEA201002793D.title: "Fridges"
-	task.78D7794707E4BD83.title: "Crops"
-	task.7F08D4E77359BF4A.title: "Wool"
+	task.669DEA201002793D.title: "Холодильники"
+	task.690D9E03BB024BCF.title: "Allthemodium metal"
+	task.6DF92BBEC7E3EC10.title: "Allthemodium food"
+	task.73E843FE4FCCEA33.title: "MA Apples"
+	task.78D7794707E4BD83.title: "Урожаи"
+	task.7C686DA23151A0F3.title: "Golden food"
+	task.7F08D4E77359BF4A.title: "Шерсть"
 }
+

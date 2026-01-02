@@ -1,190 +1,204 @@
 {
 	quest.0052E5592A6BBEC1.quest_desc: [
-		"This is &2&lMinecraft&r, I can't tell you how to build..."
+		"Это &2&lMinecraft&r, я не могу указывать вам, как строить..."
 		"{@pagebreak}"
-		"But I can give you tips for it!"
+		"Но я могу дать вам советы для этого!"
 	]
-	quest.0052E5592A6BBEC1.title: "&lBuilding Tips!&r"
-	quest.01516BC726013B7C.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r is a built in-house mod made to help unify ores.\\n\\nWith that comes a ton of very useful decorative blocks!\\n\\n&dFluorite&r and &9Sapphire&r both look very cool!"]
-	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r Blocks"
-	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw's Doors&r adds all sorts of different Doors and variants of Doors. \\nYou want the Birch design but with Spruce Wood? You can have it! \\n\\nHeck it even has Hospital Doors!"]
+	quest.0052E5592A6BBEC1.title: "&lСоветы по Строительству!&r"
+	quest.01516BC726013B7C.quest_desc: ["Этот Квест был создан &6AllTheMods Staff&r, или &2Контрибьютором Сообщества&r для использования в модпаках AllTheMods.\\n\\nТак как все сборки &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот Квест запрещено использовать в любых публичных сборках, не выпущенных &6AllTheMods Team&r, без явного разрешения.\\n\\nЭтот квест намеренно скрыт, если вы видите это, вы в режиме редактирования."]
+	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r - это встроенный мод, созданный для помощи в унификации руд.\\n\\nС ним поставляется тонна очень полезных декоративных блоков!\\n\\n&dФлюорит&r и &9Сапфир&r, оба выглядят очень круто!"]
+	quest.034DB3C64F24C7B7.title: "Блоки &l&6AllTheOres&r"
+	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw's Doors&r добавляет всевозможные различные Двери и варианты Дверей. \\nВы хотите Березовый дизайн, но из Еловой Древесины? Вы можете получить это! \\n\\nЧерт, там даже есть Больничные Двери!"]
 	quest.04F5846E2468E807.title: "&b&lMacaw's Doors"
-	quest.0539AF15A10B2859.quest_desc: ["&lCompact Machines&r allow you to enter a compacted dimension. After placing a &lCompact Machine&r, you can enter it using the Personal Shrinking Device.\\n\\nThe size of the &lCompact Machine&r is dependent on the recipe, ranging from 5x5x5 to 45x45x45!\\n\\nYou can't break the &lCompact Machine&r's walls, and you can exit by Right Clicking the Personal Shrinking Device."]
+	quest.0539AF15A10B2859.quest_desc: ["&lCompact Machines&r позволяют вам войти в сжатое измерение. После размещения &lCompact Machine&r, вы можете войти в нее, используя Персональное Уменьшающее Устройство.\\n\\nРазмер &lCompact Machine&r зависит от рецепта, варьируясь от 5x5x5 до 45x45x45!\\n\\nВы не можете сломать стены &lCompact Machine&r, и вы можете выйти, нажав ПКМ Персональным Уменьшающим Устройством."]
 	quest.0539AF15A10B2859.title: "&lCompact Machines"
-	quest.0596F6C70758EEC0.quest_desc: ["While being the most expensive, they also are the prettiest! \\n\\nAnd that is what matters for Builds!"]
-	quest.06FFBB12CFA87815.quest_desc: ["The Logs from &2Vanilla &lMinecraft&r, found in the different &2Vanilla&r Biomes! \\n\\nI shouldn't have to explain anymore than that!"]
-	quest.06FFBB12CFA87815.title: "&2Vanilla&r Logs"
-	quest.08C66BCA3AAE765B.quest_desc: ["This one adds Non-&2&lMinecraft&r Blocks so I'd rather not discuss it."]
+	quest.0596F6C70758EEC0.quest_desc: ["Хотя они самые дорогие, они также самые красивые! \\n\\nИ это то, что имеет значение для Построек!"]
+	quest.06FFBB12CFA87815.quest_desc: ["Бревна из &2Vanilla &lMinecraft&r, найденные в различных &2Ванильных&r Биомах! \\n\\nЯ не должен объяснять больше, чем это!"]
+	quest.06FFBB12CFA87815.title: "&2Ванильные&r Бревна"
+	quest.08C66BCA3AAE765B.quest_desc: ["Этот добавляет не-&2&lMinecraft&r Блоки, так что я предпочел бы не обсуждать это."]
 	quest.08C66BCA3AAE765B.title: "&b&lMacaw's Roofs"
-	quest.09955CF85F579E0F.quest_desc: ["You'll get this eventually, it's quite literally the most abundant Block in &2&lMinecraft&r."]
-	quest.09955CF85F579E0F.title: "Stone Blocks"
-	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r is another Mod based off of &lChiseled&r. \\n\\nThe essence of the Mod is using the Chisel Tool to change the designs of some Blocks. \\n\\nYou can Right Click with the Chisel to open its GUI, there you can put up to a stack of Blocks into it, then choose a design you want, and take it out. Or you can keep it in the Chisel, I don't see why you would want to though. \\n\\nYou can also Left Click a Block with the Chisel to change its design without opening the Chisel GUI! \\n\\nDon't worry this one doesn't have Durability."]
+	quest.09955CF85F579E0F.quest_desc: ["Вы получите это в конечном итоге, это буквально самый распространенный Блок в &2&lMinecraft&r."]
+	quest.09955CF85F579E0F.title: "Каменные Блоки"
+	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r - еще один Мод, основанный на &lChiseled&r. \\n\\nСуть Мода в использовании Инструмента Стамески для изменения дизайна некоторых Блоков. \\n\\nВы можете нажать ПКМ со Стамеской, чтобы открыть ее GUI, там вы можете положить до стака Блоков в нее, затем выбрать дизайн, который вы хотите, и забрать его. Или вы можете оставить его в Стамеске, я не вижу, зачем вам этого хотеть, но все же. \\n\\nВы также можете нажать ЛКМ по Блоку Стамеской, чтобы изменить его дизайн, не открывая GUI Стамески! \\n\\nНе волнуйтесь, у этой нет Прочности."]
 	quest.09F49ED309152E24.title: "&l&cChisel Reborn"
-	quest.0A21773B773F34F8.quest_desc: ["Color is one of the most important parts of making a Build more lively! \\n\\nIt gives it life, personality, and color! \\n\\nStart with the Dyes!"]
-	quest.0A21773B773F34F8.title: "Colored Blocks"
-	quest.0EB6ED88895366D0.quest_desc: ["Remember when it was just Stone and Cobblestone?"]
-	quest.0EB6ED88895366D0.title: "&2Vanilla&r Stones"
-	quest.0FE30548F25FEDB1.quest_desc: ["If you're like me and don't like living in a Box (it reminds me too much of School), then you'll like to have Glass in your Builds to see outside. \\n\\nWhile the normal Vanilla ones are nice of course we can do much better! \\n\\nWe can even get some use out of it!"]
-	quest.106884349C9FF3BA.quest_desc: ["Man some Light Sources are just so butt ugly! \\n\\nLets change that!"]
-	quest.106884349C9FF3BA.title: "&l&bChipped&r Lights"
-	quest.11C43962B06D5092.quest_desc: ["Is this necessary?"]
-	quest.11C43962B06D5092.title: "Now you're just showing off"
-	quest.156605859D553276.quest_desc: ["Windows, Windows Panes, Winder Shutters, Curtains, Blinds, to even Parapets! \\n\\nI don't even know what that is!"]
+	quest.0A21773B773F34F8.quest_desc: ["Цвет - одна из самых важных частей создания Постройки более живой! \\n\\nОн дает ей жизнь, индивидуальность и цвет! \\n\\nНачните с Красителей!"]
+	quest.0A21773B773F34F8.title: "Цветные Блоки"
+	quest.0EB6ED88895366D0.quest_desc: ["Помните, когда были только Камень и Булыжник?"]
+	quest.0EB6ED88895366D0.title: "&2Ванильные&r Камни"
+	quest.0FE30548F25FEDB1.quest_desc: ["Если вы похожи на меня и не любите жить в Коробке (это слишком напоминает мне Школу), то вам понравится иметь Стекло в ваших Постройках, чтобы видеть улицу. \\n\\nХотя обычные Ванильные, конечно, хороши, мы можем сделать намного лучше! \\n\\nМы даже можем извлечь из этого пользу!"]
+	quest.106884349C9FF3BA.quest_desc: ["Чувак, некоторые Источники Света просто чертовски уродливы! \\n\\nДавайте изменим это!"]
+	quest.106884349C9FF3BA.title: "Светильники &l&bChipped&r"
+	quest.11C43962B06D5092.quest_desc: ["Это необходимо?"]
+	quest.11C43962B06D5092.title: "Теперь ты просто выпендриваешься"
+	quest.156605859D553276.quest_desc: ["Окна, Оконные Панели, Оконные Ставни, Занавески, Жалюзи, даже Парапеты! \\n\\nЯ даже не знаю, что это такое!"]
 	quest.156605859D553276.title: "&l&bMacaw's Windows&r"
-	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r is all about making the Kitchen your home. \\n\\nI recommend using everything it gives as every Item has a use and looks amazing!"]
+	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r - это все о том, чтобы сделать Кухню вашим домом. \\n\\nЯ рекомендую использовать все, что он дает, так как каждый Предмет имеет применение и выглядит потрясающе!"]
 	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
-	quest.1972B36F72808D55.quest_desc: ["Only some of theses stones are chipped though."]
-	quest.1972B36F72808D55.title: "&l&bChipped&r Stones"
-	quest.1FD60B7448CED1EB.quest_desc: ["This &b&lMacaw&r Mod adds new types of Fences, Gates, and Walls. \\n\\nYes, the barbed wire will hurt you. \\n\\nNo, you can't jump over any of them normally."]
-	quest.1FD60B7448CED1EB.title: "&b&lMacaw's Fences and Walls"
-	quest.2094D1CE4BA66091.quest_desc: ["Light is a very important part of any Base. \\n\\nIt keeps Monsters from Spawning, helps to see, and even adds more Color and life to your Builds! \\n\\nOr you can just use Night Vision but where's the fun in that!"]
-	quest.22D2CFDDB06C720C.quest_desc: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks that same pickaxe/axe/shovel tier can!"]
-	quest.22D2CFDDB06C720C.title: "Paxel"
-	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r, along with Trains, adds some Stones for Decoration! \\n\\nQuarried and Abyssal Stone can be crafted together to make Polished, Chiseled, or Brick versions! \\n\\nAlso don't forget Stairs and Slabs! "]
-	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
-	quest.23631A4A743D4F0C.quest_desc: ["Don't even complain about this one. \\n\\nThere are dozens of ways of getting Iron and it's needed for even just normal progression. \\n\\nYou will get Iron, you will make it into a Block, and you will make it pretty!"]
-	quest.23631A4A743D4F0C.title: "&l&bChipped&r Metals"
-	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r is a Mod that adds a few very helpful Items. \\n\\nAll for of course, building! \\n\\nEach requires &cEnergy&r to work and has a Menu which is pulled up by default &lG&r."]
+	quest.1972B36F72808D55.quest_desc: ["Только некоторые из этих камней отбиты (chipped), впрочем."]
+	quest.1972B36F72808D55.title: "Камни &l&bChipped&r"
+	quest.1FD60B7448CED1EB.quest_desc: ["Этот Мод &b&lMacaw&r добавляет новые типы Заборов, Ворот и Стен. \\n\\nДа, колючая проволока поранит вас. \\n\\nНет, вы не можете перепрыгнуть через любой из них обычным способом."]
+	quest.1FD60B7448CED1EB.title: "Заборы и Стены &b&lMacaw"
+	quest.2094D1CE4BA66091.quest_desc: ["Свет - очень важная часть любой Базы. \\n\\nОн предотвращает спавн Монстров, помогает видеть и даже добавляет больше Цвета и жизни вашим Постройкам! \\n\\nИли вы можете просто использовать Ночное Зрение, но где в этом веселье!"]
+	quest.22D2CFDDB06C720C.quest_desc: ["Инструменты очень важны в &2&lMinecraft&r, но также важно место в инвентаре. Так почему бы не освободить немного места, сделав Паксель! \\nПаксели - это комбинация Кирок (Pickaxes), Топоров (Axes) и Лопат (Shovels). \\n\\nОни могут обтесывать дерево, делать тропинки и добывать любые блоки, которые может добыть кирка/топор/лопата того же тира!"]
+	quest.22D2CFDDB06C720C.title: "Паксель"
+	quest.23631A4A743D4F0C.quest_desc: ["Даже не жалуйтесь на это. \\n\\nСуществуют десятки способов получить Железо, и оно необходимо даже для нормального прогресса. \\n\\nВы получите Железо, вы сделаете его в Блок, и вы сделаете его красивым!"]
+	quest.23631A4A743D4F0C.title: "Металлы &l&bChipped&r"
+	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r - это Мод, который добавляет несколько очень полезных Предметов. \\n\\nВсе для, конечно же, строительства! \\n\\nКаждый требует &cЭнергии&r для работы и имеет Меню, которое вызывается по умолчанию &lG&r."]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
-	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r is similar to Chisels Mods as it changes the designs of Blocks, but &b&lChipped&r has their own way of doing so! \\n\\n&b&lChipped&r instead uses Stations you'll need to go to, to change Blocks. \\n\\nThere's 7 different Stations each change different Blocks: Carpenters Table changes Wood, Glassblower changes Glass. \\n\\nAnd 6 of those Stations can be changed into a handheld Item for easier access. \\n\\nThere's even Backpack Upgrades for them!"]
+	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r похож на Моды про Стамески, так как он меняет дизайн Блоков, но у &b&lChipped&r есть свой способ делать это! \\n\\n&b&lChipped&r вместо этого использует Станции, к которым вам нужно подойти, чтобы изменить Блоки. \\n\\nЕсть 7 различных Станций: Стол Плотника меняет Дерево, Стеклодувная меняет Стекло и т.д. \\n\\nИ 6 из этих Станций можно превратить в ручной Предмет для более легкого доступа. \\n\\nДля них даже есть Улучшения Рюкзака!"]
 	quest.28FDB2D13D0DDE8E.title: "&l&bChipped&r"
-	quest.2B4801CD3E90BD40.quest_desc: ["&l&3Handcrafted&r is for everything Decoration wise. \\n\\nThere's Beds (that look good enough to sleep in, and I'm a picky sleeper!) and Nightstands for the Bedrooms. \\n\\nThere's Chairs and Tables for Living Room. \\n\\nThere's an Oven, Plates, and Bowls for the Kitchen. \\n\\nHeck there's even Statues just for showing off!"]
+	quest.2B4801CD3E90BD40.quest_desc: ["&l&3Handcrafted&r предназначен для всего в плане Декораций. \\n\\nЕсть Кровати (которые выглядят достаточно хорошо, чтобы спать в них, а я придирчивый спящий!) и Тумбочки для Спален. \\n\\nЕсть Стулья и Столы для Гостиной. \\n\\nЕсть Печь, Тарелки и Миски для Кухни. \\n\\nЧерт, там даже есть Статуи просто для хвастовства!"]
 	quest.2B4801CD3E90BD40.title: "&l&3Handcrafted&r"
-	quest.2B864D741F7C7549.quest_desc: ["&lProductive Trees&r is all about Trees and Breeding Trees to make more Trees. \\n\\nSo you are safe to guess it brings more Wood types to &2&lMinecraft&r! \\n\\nHeck even some specialty Wood!"]
+	quest.2B864D741F7C7549.quest_desc: ["&lProductive Trees&r - это все о Деревьях и Разведении Деревьев, чтобы сделать больше Деревьев. \\n\\nТак что можно смело предположить, что он привносит больше типов Древесины в &2&lMinecraft&r! \\n\\nЧерт, даже некоторые специальные виды Древесины!"]
 	quest.2B864D741F7C7549.title: "&lProductive Trees"
-	quest.2BA0E5D48E234FE9.quest_desc: ["The magical realm of &d&lArs Nouveau&r brings us Magelights! Light Sources of pure magic! \\n\\nThey can either be placed normally using Spells or you can craft a Magelight Lantern and place that instead."]
-	quest.2BA0E5D48E234FE9.title: "&d&lArs Nouveau&r Lights"
-	quest.30B3BC91460C9B19.quest_desc: ["&bMacaw Sketch&r is a very popular Mod Developer. He is known for Decor Mods. \\nFrom Windows, to Pathways, to Drawers. He makes just about everything. \\n\\nCan you craft it all?"]
-	quest.30B3BC91460C9B19.title: "&bMacaw's Mods"
-	quest.318A2CC03D1D0B04.quest_desc: ["Ever miss &lConstruction Wands&r? \\n\\nWell I did, and so did &9Mrbysco&r! So he made &l&6Construction Sticks&r! \\n\\nThere's a few different Tier of &6Construction Stick&r. The more expensive they are, the more Durability they have and the more Blocks they can place. \\n\\nThey will start by just placing Blocks to fill a space, but their options can be changed by opening their GUI. You'll need to set a Keybind yourself to do it. \\n\\nOnce you open it, you can change everything about them. Where they place Blocks, in what pattern, and even what Blocks to place down! \\n\\nThey also have their own Upgrades you can Craft. To use them, combine the Upgrade with your &6Construction Stick&r in a Smithing Table. "]
+	quest.2BA0E5D48E234FE9.quest_desc: ["Магическое царство &d&lArs Nouveau&r приносит нам Магосветы! Источники Света из чистой магии! \\n\\nИх можно либо разместить нормально с помощью Заклинаний, либо вы можете скрафтить Фонарь Магосвета и разместить его вместо этого."]
+	quest.2BA0E5D48E234FE9.title: "Огни &d&lArs Nouveau&r"
+	quest.30B3BC91460C9B19.quest_desc: ["&bMacaw Sketch&r - очень популярный Разработчик Модов. Он известен Модами на Декор. \\nОт Окон, до Дорожек, до Ящиков. Он делает практически все. \\n\\nСможете ли вы скрафтить это все?"]
+	quest.30B3BC91460C9B19.title: "Моды &bMacaw"
+	quest.318A2CC03D1D0B04.quest_desc: ["Когда-нибудь скучали по &lConstruction Wands&r? \\n\\nНу, я скучал, и &9Mrbysco&r тоже! Так что он сделал &l&6Construction Sticks&r! \\n\\nЕсть несколько разных Тиров &6Construction Stick&r. Чем они дороже, тем больше у них Прочности и тем больше Блоков они могут разместить. \\n\\nОни начнут с простого размещения Блоков для заполнения пространства, но их опции можно изменить, открыв их GUI. Вам нужно будет установить клавишу самостоятельно, чтобы сделать это. \\n\\nКак только вы откроете его, вы можете изменить в них все. Где они размещают Блоки, в каком шаблоне, и даже какие Блоки размещать! \\n\\nУ них также есть свои Улучшения, которые вы можете Скрафтить. Чтобы использовать их, объедините Улучшение с вашим &6Construction Stick&r в Столе Кузнеца."]
 	quest.318A2CC03D1D0B04.title: "&l&6Construction Sticks"
-	quest.3497C2E05DF5A87C.quest_desc: ["&cRedstone&r, &9Lapis&r, Quartz, &5Amethyst&r, &aEmerald&r, and &bDiamonds&r are all precious Gems. \\n\\nSo of course we are turning them into Blocks, very pretty precious Blocks to be exact!"]
-	quest.3497C2E05DF5A87C.title: "&l&bChipped&r Gem Blocks"
-	quest.35C46E6E27C9CB1A.quest_desc: ["The 10 &2Vanilla&r Logs are wonderful, but they only have so many designs! \\n\\nSo of course &l&bChipped&r, chipped in by adding dozens of new designs for those Logs!"]
-	quest.35C46E6E27C9CB1A.title: "&l&bChipped&r Logs"
-	quest.3889D0255074CE85.quest_desc: ["&bMacaw&r decided the furniture wasn't enough, he needed his Macaw home to have more than just natural lighting from his &b&lMacaw Windows&r. \\n\\nSo now we have &b&lMacaw's Lights and Lamps&r which adds all sorts of Light Sources. \\n\\nFrom Lamps to Lanterns to Chanderliers!"]
+	quest.3497C2E05DF5A87C.quest_desc: ["&cРедстоун&r, &9Лазурит&r, Кварц, &5Аметист&r, &aИзумруд&r и &bАлмазы&r - все это драгоценные Камни. \\n\\nТак что, конечно, мы превращаем их в Блоки, очень красивые драгоценные Блоки, если быть точным!"]
+	quest.3497C2E05DF5A87C.title: "Блоки Драгоценных Камней &l&bChipped&r"
+	quest.35C46E6E27C9CB1A.quest_desc: ["10 &2Ванильных&r Бревен прекрасны, но у них только так много дизайнов! \\n\\nТак что, конечно, &l&bChipped&r, вмешался, добавив десятки новых дизайнов для этих Бревен!"]
+	quest.35C46E6E27C9CB1A.title: "Бревна &l&bChipped&r"
+	quest.3889D0255074CE85.quest_desc: ["&bMacaw&r решил, что мебели недостаточно, ему нужно было, чтобы в его доме Macaw было больше, чем просто естественное освещение от его &b&lMacaw Windows&r. \\n\\nТак что теперь у нас есть &b&lMacaw's Lights and Lamps&r, который добавляет всевозможные Источники Света. \\n\\nОт Ламп до Фонарей и Люстр!"]
 	quest.3889D0255074CE85.title: "&l&bMacaw's Lights and Lamps&r"
-	quest.392F34FD4FCC794A.quest_desc: ["While they can be expensive they're also plenty stylish!"]
-	quest.392F34FD4FCC794A.title: "&2&lMystical Agriculture&r Blocks"
-	quest.3BA4504DEFB87264.quest_desc: ["Works similar to the &lSimply Lights&r, Inverted will Light when no Redstone is applied to it while normal will only work with Redstone. \\n\\nThese need to be attached to a Wall to be placed though."]
-	quest.3BA4504DEFB87264.title: "Wall Lamps"
-	quest.3D1D5CB45D81A6E4.quest_desc: ["Similar to &b&lMacaw's Doors&r this one adds different types and versions of Trapdoors. \\n\\nYou want a Jungle Trapdoor with the Spruce Pattern? Well now you can! "]
+	quest.392F34FD4FCC794A.quest_desc: ["Хотя они могут быть дорогими, они также довольно стильные!"]
+	quest.392F34FD4FCC794A.title: "Блоки &2&lMystical Agriculture&r"
+	quest.3BA4504DEFB87264.quest_desc: ["Работает аналогично &lSimply Lights&r, Инвертированная будет светиться, когда к ней не подведен Редстоун, в то время как нормальная будет работать только с Редстоуном. \\n\\nОднако они должны быть прикреплены к Стене, чтобы быть размещенными."]
+	quest.3BA4504DEFB87264.title: "Настенные Лампы"
+	quest.3D1D5CB45D81A6E4.quest_desc: ["Похожий на &b&lMacaw's Doors&r, этот добавляет различные типы и версии Люков. \\n\\nВы хотите Люк из Джунглей с Еловым Узором? Ну теперь вы можете!"]
 	quest.3D1D5CB45D81A6E4.title: "&b&lMacaw's Trapdoors"
-	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r is the single most important Building Mod. Infact if you give me a Modpack and &l&6Framed Blocks&r is not in it, I won't play. It is that important! \\n\\n&l&6Framed Blocks&r gives us mock Blocks that can be filled in with any Block that isn't a Block Entity (Block Entities are Blocks like Crafting Table, Furnace, or Enrichment Chamber). \\n\\nThese Frames can be just about any shape or anything! From vertical Slabs, to slopes, even quarter blocks! \\n\\nYou want &5Netherite&r Stairs? Then use Framed Blocks! You want a Haybale Crafting Table? You can get it! You want perfect angles in your build? Then start making &l&6Framed Blocks&r!"]
+	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r - это самый важный Строительный Мод. На самом деле, если вы дадите мне Модпак и в нем не будет &l&6Framed Blocks&r, я не буду играть. Это настолько важно! \\n\\n&l&6Framed Blocks&r дает нам макеты Блоков, которые могут быть заполнены любым Блоком, который не является Сущностью Блока (Сущности Блока - это Блоки, такие как Верстак, Печь или Обогатительная Камера). \\n\\nЭти Рамки могут быть практически любой формы или чем угодно! От вертикальных Плит, до склонов, даже четверть блоков! \\n\\nВы хотите Ступени из &5Незерита&r? Тогда используйте Framed Blocks! Вы хотите Верстак из Сена? Вы можете получить это! Вы хотите идеальные углы в вашей постройке? Тогда начните делать &l&6Framed Blocks&r!"]
 	quest.3E4B27759C973006.title: "&l&6Framed Blocks&r"
-	quest.3ED8365BAD406CC5.quest_desc: ["These are Mods that I've found perfect for decorating your house or base! \\n\\nFeel free to check out even more than what's shown here!"]
-	quest.3ED8365BAD406CC5.title: "Decor Mods!"
-	quest.3EEF17C57375CC39.quest_desc: ["&lSimply Lights&r adds very simple to make and easy to use lights.\\n\\nWhen inverted they will work without Redstone and will turn off when the Redstone signal goes activates it.\\n\\nThere are plenty of different colors and shapes of it!"]
+	quest.3ED8365BAD406CC5.quest_desc: ["Это Моды, которые я нашел идеальными для украшения вашего дома или базы! \\n\\nНе стесняйтесь проверить даже больше, чем показано здесь!"]
+	quest.3ED8365BAD406CC5.title: "Моды на Декор!"
+	quest.3EEF17C57375CC39.quest_desc: ["&lSimply Lights&r добавляет очень простые в создании и легкие в использовании светильники.\\n\\nКогда они инвертированы, они будут работать без Редстоуна и выключаться, когда сигнал Редстоуна активирует их.\\n\\nЕсть множество разных цветов и форм!"]
 	quest.3EEF17C57375CC39.title: "&lSimply Light&r"
-	quest.3F185554793CCE54.quest_desc: ["To build you will need Tools. And you will want Tools. \\n\\nTools that can help you get Blocks, Tools to help you get different versions of those Blocks, and Tools to help you place Blocks! \\n\\nYou'll need to start with a Stick!"]
-	quest.3F185554793CCE54.title: "Tools!"
-	quest.3FD9DC6B7844A79C.quest_desc: ["I've always hated how boring Concrete is, especially in real life. \\n\\nWell atleast in &2&lMinecraft&r with the &l&bChipped&r Mod we can get different designs with it!"]
-	quest.3FD9DC6B7844A79C.title: "&l&bChipped&r Concrete"
-	quest.40C068B2B8AC0F33.quest_desc: ["Terraforming is an important part to even the simplest of Builds. But we &2&lMinecraft&r Players just simply don't have the time or effort to do so. \\n\\nSo why not let Machines do it for us? \\n\\nQuarries are very easy ways of doing so but they all start with Block Breakers. The Simple Block Breaker will only break what is in front of it, not the most helpful... \\n\\nBut the Advanced Block Breaker will Mine a set Area! Much better for Terraforming!"]
-	quest.40C068B2B8AC0F33.title: "Quarries and Mines"
-	quest.44688FC2E34FF09F.quest_desc: ["Minecraft already adds hundreds of Blocks, and Mods add hundreds more! But sometimes it is still not enough. \\n\\nWith some Mods we can change the Blocks we already have into ones with different shapes, designs, and even into entirely new Blocks!"]
-	quest.44688FC2E34FF09F.title: "Changing Blocks"
-	quest.48971CE964CF037F.quest_desc: ["While protecting our Nuclear Reactors are important and viewing the contents of them relate to the safety of it. \\n\\nThe Glass can also be used to make our bases look better! \\n\\nAnd really what's more important: safety and protection of our nuclear reactors? Or making our bases look better!"]
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r is all about the 5 different Colors, this includes using them for Blocks! \\n\\n&aGreen&r, &cRed&r, &9Blue&r, &8Dark&r, and Light Blocks of all sorts!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lWorld"
-	quest.55160BAFFD9E2988.quest_desc: ["The quintessential &9Macaw&r Mod, &9&lMacaw's Furniture&r! \\n\\nIt adds everything you need! Chairs, Tables, Bookshelves, and even Drawers!"]
+	quest.3F185554793CCE54.quest_desc: ["Чтобы строить, вам понадобятся Инструменты. И вы захотите Инструменты. \\n\\nИнструменты, которые помогут вам получить Блоки, Инструменты, которые помогут вам получить разные версии этих Блоков, и Инструменты, которые помогут вам размещать Блоки! \\n\\nВам нужно будет начать с Палки!"]
+	quest.3F185554793CCE54.title: "Инструменты!"
+	quest.3FD9DC6B7844A79C.quest_desc: ["Я всегда ненавидел, насколько скучен Бетон, особенно в реальной жизни. \\n\\nНу, по крайней мере, в &2&lMinecraft&r с Модом &l&bChipped&r мы можем получить разные дизайны с ним!"]
+	quest.3FD9DC6B7844A79C.title: "Бетон &l&bChipped&r"
+	quest.40C068B2B8AC0F33.quest_desc: ["Терраформирование - важная часть даже самых простых Построек. Но у нас, Игроков &2&lMinecraft&r, просто нет на это времени или сил. \\n\\nТак почему бы не позволить Машинам сделать это за нас? \\n\\nКарьеры - очень простые способы сделать это, но все они начинаются с Разрушителей Блоков. Простой Разрушитель Блоков сломает только то, что перед ним, не самый полезный... \\n\\nНо Продвинутый Разрушитель Блоков будет Копать заданную Область! Намного лучше для Терраформирования!"]
+	quest.40C068B2B8AC0F33.title: "Карьеры и Шахты"
+	quest.44688FC2E34FF09F.quest_desc: ["Minecraft уже добавляет сотни Блоков, а Моды добавляют еще сотни! Но иногда этого все равно недостаточно. \\n\\nС некоторыми Модами мы можем изменить Блоки, которые у нас уже есть, на те, что имеют разные формы, дизайны и даже на совершенно новые Блоки!"]
+	quest.44688FC2E34FF09F.title: "Изменение Блоков"
+	quest.48971CE964CF037F.quest_desc: ["Хотя защита наших Ядерных Реакторов важна, и просмотр их содержимого относится к их безопасности. \\n\\nСтекло также можно использовать, чтобы наши базы выглядели лучше! \\n\\nИ на самом деле, что важнее: безопасность и защита наших ядерных реакторов? Или чтобы наши базы выглядели лучше!"]
+	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r - это всё о 5 разных Цветах, это включает использование их для Блоков! \\n\\n&aЗеленые&r, &cКрасные&r, &9Синие&r, &8Темные&r и Светлые Блоки всех сортов!"]
+	quest.4B552E9D05FF5415.title: "Мир &l&9X&cy&aC&8r&aa&cf&9t&r"
+	quest.55160BAFFD9E2988.quest_desc: ["Квинтэссенция Мода &9Macaw&r, &9&lMacaw's Furniture&r! \\n\\nОн добавляет все, что вам нужно! Стулья, Столы, Книжные Полки и даже Ящики!"]
 	quest.55160BAFFD9E2988.title: "&l&9Macaw's Furniture&r"
-	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks are Blocks made through &l&7PneumaticCraft: Repressurized&r. \\n\\nJust like their real life counter parts they hurt to step on! \\n\\nSo either wear Shoes or smooth down the Bricks."]
-	quest.5716E84828EC0C23.title: "Plastic Construction Bricks"
-	quest.59B6C6BF0550D13D.quest_desc: ["New types of Glass that can be used with your Trains! Or bases, \\n\\nI can't make you use it for anything specific."]
-	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r Glass"
-	quest.5AD09CCEEDC0B50F.quest_desc: ["Now these are super helpful, you should definitely check them out! \\n\\nThe actual Light Source is the Feral Flare Lantern. It will place invisible Light Sources around 20 Blocks or more around it. \\n\\nThe Mega Torch is different: it doesn't emit Light but it does Block all Hostile Mob spawns with 64 Blocks of it! Useful for those using Night Vision. \\n\\nThe Dread Lamp does the opposite, it blocks Passive Mob spawns in the same area."]
+	quest.5716E84828EC0C23.quest_desc: ["Пластиковые Строительные Кирпичи - это Блоки, сделанные с помощью &l&7PneumaticCraft: Repressurized&r. \\n\\nТак же, как и их реальные аналоги, на них больно наступать! \\n\\nТак что либо носите Обувь, либо сгладьте Кирпичи."]
+	quest.5716E84828EC0C23.title: "Пластиковые Строительные Кирпичи"
+	quest.59B6C6BF0550D13D.quest_desc: ["Новые типы Стекла, которые можно использовать с вашими Поездами! Или базами, \\n\\nЯ не могу заставить вас использовать это для чего-то конкретного."]
+	quest.59B6C6BF0550D13D.title: "Стекло &7&lRailcraft&r"
+	quest.5AD09CCEEDC0B50F.quest_desc: ["Вот эти супер полезны, вам определенно стоит их проверить! \\n\\nФактическим Источником Света является Фонарь Дикой Вспышки. Он разместит невидимые Источники Света примерно на 20 Блоков или более вокруг себя. \\n\\nМега Факел другой: он не излучает Свет, но он Блокирует спавн всех Враждебных Мобов в радиусе 64 Блоков от него! Полезно для тех, кто использует Ночное Зрение. \\n\\nЛампа Страха делает противоположное, она блокирует спавн Пассивных Мобов в той же области."]
 	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
-	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r is all about Farming and Cooking Food Items! We can also use those same Items for Decoration and usage! \\n\\nThe Stove, Pots, and Pans are perfect for a Kitchen. \\n\\nThe Food Barrels are great for a Pantry. \\n\\nThe Farm stuff is great for outdoor decor and the Cabinets are perfect for anywhere!"]
+	quest.5C0588F5B9B65AFD.quest_desc: [
+		"&d&lCamol&r - это ответ на камуфляж &lВСЕГО.&r От Pipez до Кабелей Mekanism до Звезд ATM, и всего, кроме... нет, подождите, Кухонной Раковины тоже."
+		""
+		"Скрафтите &d&lКамуфляжный Блок&r вместе с блоком, который вы хотите использовать для камуфляжа, затем нажмите ПКМ им по блоку, который вы хотите замаскировать, например, по какому-то кабелю или чему-то еще."
+		""
+		"По умолчанию &d&lКамуфляжный Блок&r примет форму коллизии замаскированного блока. Вы можете изменить это на версию с Сохранением Формы, положив его в сетку крафта одного. Это заставит его принять форму камуфлирующего блока."
+		""
+		"Если вы хотите удалить &d&lКамуфляжный Блок&r, нажмите ПКМ по замаскированному блоку другим Камуфляжным Блоком."
+		""
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.5C0588F5B9B65AFD.title: "&d&lCamol"
+	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r - это все о Фермерстве и Приготовлении Еды! Мы также можем использовать те же Предметы для Декорации и использования! \\n\\nПлита, Кастрюли и Сковороды идеально подходят для Кухни. \\n\\nБочки для Еды отлично подходят для Кладовой. \\n\\nФермерские штуки отлично подходят для наружного декора, а Шкафы идеальны для любого места!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adds plenty of Glasses with it's &lWorld Core&r! \\n\\nFrom ones you can walk through, to glowing ones, to stronger ones!"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Glass"
-	quest.5EB488C393B084C4.quest_desc: ["A continuation of &lChiseled&r, &4&lRechiseled&r! \\n\\nAll of this Mod works within the Chisel Tool, Right Click with it to pull up its GUI. \\nOn the Left is where you choose the design and the Bottom Right is where you put the Blocks. \\n\\nAbove it you can view the design in set patterns: just the 1 Block, 3x1 Blocks, or 3x3 Wall of that Block. You can also set the image to either spin or not spin by clicking the button! \\n\\nNext to where the Blocks go, you can click the Chisel, doing this will set the selected design, to every Block in your Inventory that can be changed. \\n\\nAlso does not have Durability!"]
+	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r добавляет множество Стекол с его &lЯдром Мира&r! \\n\\nОт тех, через которые можно пройти, до светящихся, до более прочных!"]
+	quest.5E5D5D28D82F6891.title: "Стекло &l&9X&cy&aC&8r&aa&cf&9t&r"
+	quest.5EB488C393B084C4.quest_desc: ["Продолжение &lChiseled&r, &4&lRechiseled&r! \\n\\nВесь этот Мод работает внутри Инструмента Стамески, Нажмите ПКМ с ним, чтобы вызвать его GUI. \\nСлева вы выбираете дизайн, а Справа Внизу кладете Блоки. \\n\\nНад ним вы можете просмотреть дизайн в заданных шаблонах: только 1 Блок, 3x1 Блоки или 3x3 Стена из этого Блока. Вы также можете установить изображение вращаться или не вращаться, нажав кнопку! \\n\\nРядом с местом, куда идут Блоки, вы можете нажать на Стамеску, делая это, вы установите выбранный дизайн для каждого Блока в вашем Инвентаре, который может быть изменен. \\n\\nТакже не имеет Прочности!"]
 	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
-	quest.5F7F753FD72BFBBF.quest_desc: ["More Blocks added by &l&7Railcraft&r? I'm starting to doubt if it's even about Trains!"]
-	quest.5F7F753FD72BFBBF.title: "&l&7Railcraft&r Colored Blocks"
-	quest.616ED6C49C37EB91.quest_desc: ["&b&lPaths and Pathways&r adds tons of different Carpet like Blocks (and full Blocks and Slab versions). \\n\\nThese are obviously used as Paths, they just look much nicer than the &2&lMinecraft&r Path Block. "]
+	quest.5F7F753FD72BFBBF.quest_desc: ["Больше Блоков добавлено &l&7Railcraft&r? Я начинаю сомневаться, что это вообще про Поезда!"]
+	quest.5F7F753FD72BFBBF.title: "Цветные Блоки &l&7Railcraft&r"
+	quest.616ED6C49C37EB91.quest_desc: ["&b&lPaths and Pathways&r добавляет тонны различных Блоков типа Ковра (и полные Блоки и версии Плит). \\n\\nОни очевидно используются как Дорожки, они просто выглядят намного лучше, чем Блок Тропинки &2&lMinecraft&r."]
 	quest.616ED6C49C37EB91.title: "&b&lMacaw's Paths and Pavings"
-	quest.61BE7882EE0E6FAF.quest_desc: ["What rolls down stairs \\nAlone or in pairs... \\nRolls over your neighbor's dog \\nWhat's great for a snack \\nAnd fits on your back? \\nIt's Log! Log! Log!"]
-	quest.6258F26293B9C1C1.quest_desc: ["What does &9&lCrystalix&r give us you ask? \\nIt gives Glass! All different types of Glass! There is Normal, Clear, and Bordered. \\n\\nBordered is the normal &2&lMinecraft&r Glass pattern. It has borders and pixels near corner to let you know it is Glass. Clear has the borders but no pixels near the corners, so the inside is all clear. Normal has no borders or pixels, it is entirely 100% clear and one color. \\n\\nEach &9&lCrystalix&r Glass has its own properties as well: Shadeless, Reinforced, Light, and Ghost. \\n\\nShadeless will affect how it reacts to Shaders and even &2&lMinecraft&r lighting. Reinforced will affect Blast Resistance. Light will affect whether it gives Light, ignores Light, or acts like normal Glass, letting Light in. Ghost will be able to change who can walk through the Glass, this one has the most settings."]
+	quest.61BE7882EE0E6FAF.quest_desc: ["Жил на свете кусок бревна, \\nНе любил он, когда тишина. \\nПел он песни и был он везде, \\nНа суше и даже в воде. \\nДля закуски он просто класс, \\nНа спине он сидит у вас! \\nБревно! Бревно! Бревно!"]
+	quest.6258F26293B9C1C1.quest_desc: ["Что &9&lCrystalix&r дает нам, спросите вы? \\nОн дает Стекло! Все разные типы Стекла! Есть Нормальное, Чистое и Окаймленное. \\n\\nОкаймленное - это нормальный узор Стекла &2&lMinecraft&r. У него есть границы и пиксели возле угла, чтобы вы знали, что это Стекло. Чистое имеет границы, но не пиксели возле углов, поэтому внутри оно полностью чистое. Нормальное не имеет границ или пикселей, оно полностью 100% чистое и одного цвета. \\n\\nКаждое Стекло &9&lCrystalix&r также имеет свои свойства: Без Тени, Усиленное, Светлое и Призрачное. \\n\\nБез Тени влияет на то, как оно реагирует на Шейдеры и даже освещение &2&lMinecraft&r. Усиленное влияет на Взрывоустойчивость. Светлое влияет на то, излучает ли оно Свет, игнорирует Свет или действует как нормальное Стекло, пропуская Свет. Призрачное сможет изменить, кто может проходить через Стекло, у этого больше всего настроек."]
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
-	quest.6607E5CDB3D17D67.quest_desc: ["Don't worry, these won't set on fire!"]
-	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wool"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r of course with being all around Colors, the Lights are also based on Color. \\n\\nThe RGB Lights will be whatever Dye they are made with. \\n\\nThe Dye specifically not the Gem."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lights"
-	quest.6AC85C203E7C3482.quest_desc: ["You got one of everything from &b&lMacaw's Mods&r. I think you've earned it. \\n\\nAnd by it I mean you're own &bMacaw&r!"]
-	quest.6AC85C203E7C3482.title: "Completed &bMacaw&r"
-	quest.6BC78AF7C9D93F11.quest_desc: ["Even Glazed versions!"]
-	quest.6BC78AF7C9D93F11.title: "&l&bChipped&r Terracotta"
-	quest.6F65216B13E9FFA9.quest_desc: ["Get a Block. Literally any Block. \\n\\nEvery Player should know Blocks are the building Blocks of building. To actually build something you will need Blocks."]
-	quest.6F65216B13E9FFA9.title: "Blocks!"
-	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r is very important Mod for building, even for builds with purposes! \\nIt's not just normal Glass, these have abilities which can be read while hovering over the Item! \\n\\nLike Ethereal Glass which you can walk through but Mobs can't. (I used that for my Bee Dome in 9sky!)"]
+	quest.6607E5CDB3D17D67.quest_desc: ["Не волнуйтесь, эти не загорятся!"]
+	quest.6607E5CDB3D17D67.title: "Шерсть &l&bChipped&r"
+	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r, конечно, будучи полностью о Цветах, Огни также основаны на Цвете. \\n\\nRGB Огни будут любого Красителя, из которого они сделаны. \\n\\nИменно Краситель, а не Кристалл."]
+	quest.667CD7C6E87A05F4.title: "Огни &l&9X&cy&aC&8r&aa&cf&9t&r"
+	quest.6AC85C203E7C3482.quest_desc: ["Вы получили по одному от всего из &b&lMacaw's Mods&r. Я думаю, вы заслужили это. \\n\\nИ под 'этим' я имею в виду вашего собственного &bMacaw&r!"]
+	quest.6AC85C203E7C3482.title: "Завершенный &bMacaw&r"
+	quest.6BC78AF7C9D93F11.quest_desc: ["Даже Глазурованные версии!"]
+	quest.6BC78AF7C9D93F11.title: "Терракота &l&bChipped&r"
+	quest.6F65216B13E9FFA9.quest_desc: ["Получите Блок. Буквально любой Блок. \\n\\nКаждый Игрок должен знать, что Блоки - это строительные Блоки строительства. Чтобы действительно построить что-то, вам понадобятся Блоки."]
+	quest.6F65216B13E9FFA9.title: "Блоки!"
+	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r - очень важный Мод для строительства, даже для функциональных построек! \\nЭто не просто обычное Стекло, у них есть способности, которые можно прочитать, наведя курсор на Предмет! \\n\\nКак Эфирное Стекло, через которое вы можете пройти, а Мобы нет. (Я использовал это для моего Купола Пчел в 9sky!)"]
 	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
-	quest.7C2ED69E07988DF4.quest_desc: ["The original &2&lMinecraft&r Chair, the stairs. \\n\\nWelcome to Modded &2&lMinecraft&r, we have much more than just stairs for decoration. \\n\\nThere are dozens of mods that add decoration and even more that add items that can be used for decoration!"]
-	quest.7C2ED69E07988DF4.title: "Decoration!"
-	quest.7CF13A4941F608E5.quest_desc: ["From normal Glass, to Glass with Panes, to even Mosaics!"]
-	quest.7CF13A4941F608E5.title: "&l&bChipped&r Glass"
-	quest.7DA8ACE06DE8097F.quest_desc: ["&6Copper&r is the most abundant Ore in &2&lMinecraft&r and its main use is for decoration. \\n\\nThere's already plenty of different variants added by &2&lMinecraft&r but &l&bChipped&r didn't think it was good enough! So we got more! \\n\\nEven variants for the oxidized versions. \\n\\nYou can make faux &aEmerald Blocks&r."]
-	quest.7DA8ACE06DE8097F.title: "&l&bChipped &6Copper"
-	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r is a very simple Mod. You like Colored Lights? You can have Colored Lights. \\n\\nThey are all one color with no Texturing and can come in different Shapes like Stairs or Slabs or even Pressure Plates! \\n\\nThey even work with &l&cDy&6en&ea&ami&bcs&r!"]
+	quest.7C2ED69E07988DF4.quest_desc: ["Оригинальный Стул &2&lMinecraft&r, ступеньки. \\n\\nДобро пожаловать в Моддированный &2&lMinecraft&r, у нас есть намного больше, чем просто ступеньки для декорации. \\n\\nЕсть десятки модов, которые добавляют декорации, и еще больше, которые добавляют предметы, которые можно использовать для декорации!"]
+	quest.7C2ED69E07988DF4.title: "Декорация!"
+	quest.7CF13A4941F608E5.quest_desc: ["От обычного Стекла, до Стекла с Панелями, даже до Мозаики!"]
+	quest.7CF13A4941F608E5.title: "Стекло &l&bChipped&r"
+	quest.7DA8ACE06DE8097F.quest_desc: ["&6Медь&r - самая распространенная Руда в &2&lMinecraft&r, и ее основное использование - для декорации. \\n\\nУже есть множество разных вариантов, добавленных &2&lMinecraft&r, но &l&bChipped&r не думал, что этого достаточно! Так что мы получили больше! \\n\\nДаже варианты для окисленных версий. \\n\\nВы можете сделать фальшивые &aИзумрудные Блоки&r."]
+	quest.7DA8ACE06DE8097F.title: "&6Медь &l&bChipped"
+	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r - очень простой Мод. Вам нравятся Цветные Огни? Вы можете получить Цветные Огни. \\n\\nОни все одного цвета без Текстурирования и могут быть разных Форм, таких как Ступени или Плиты или даже Нажимные Пластины! \\n\\nОни даже работают с &l&cDy&6en&ea&ami&bcs&r!"]
 	quest.7DABD82393713B5A.title: "&l&cLuminax"
-	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r is a very fun magic Mod and with it brings its own set of Wood! \\n\\nArchwood comes in 5 different colors of trees that spawn in most Biomes but mostly in their Archwood Biome!"]
-	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Logs"
+	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r - очень веселый магический Мод, и с ним приходит свой собственный набор Древесины! \\n\\nАрквуд бывает 5 разных цветов деревьев, которые спавнятся в большинстве Биомов, но в основном в их Биоме Арквуда!"]
+	quest.7E49C985A0433B20.title: "Бревна &d&lArs Nouveau&r"
 	task.00A904FBEDE80712.title: "Macaw's Roofs"
-	task.064B1841F9288CC3.title: "Blocks"
-	task.06F2EC3901908BF1.title: "Plastic Construction Bricks"
-	task.074BDA389D0FB989.title: "Chipped Copper"
+	task.0138936FB4DD8A88.title: "Утилиты Chipped"
+	task.022D9FAD58AEE2C8.title: "Luminax"
+	task.064B1841F9288CC3.title: "Блоки"
+	task.06F2EC3901908BF1.title: "Пластиковые Строительные Кирпичи"
+	task.074BDA389D0FB989.title: "Chipped Медь"
 	task.0896EE64F92CCD86.title: "Macaw's Doors"
-	task.0BAEC53DD32C9870.title: "Productive Trees Logs"
-	task.0EBE231AB868C868.title: "Blocks"
-	task.104E1A4BF3520D67.title: "Reactor Glass"
+	task.0BAEC53DD32C9870.title: "Бревна Productive Trees"
+	task.0EBE231AB868C868.title: "Блоки"
+	task.0ED255BCB75ECCF1.title: "Стекло Crystalix"
+	task.104E1A4BF3520D67.title: "Стекло Реактора"
 	task.16EF7FF802D5A2BB.title: "Framed Blocks"
-	task.195338A3977C682E.title: "Mystical Agriculture Blocks"
-	task.1A66B7FFB4E2163E.title: "Vanilla Logs"
-	task.1A7078C3984DD910.title: "Netherite BLocks"
+	task.195338A3977C682E.title: "Блоки Mystical Agriculture"
+	task.1A66B7FFB4E2163E.title: "Ванильные Бревна"
+	task.1A7078C3984DD910.title: "Незеритовые Блоки"
 	task.1BA8C5F08A824C08.title: "Macaw's Lights and Lamps"
-	task.1E7A57902EA62332.title: "Light Sources"
+	task.1E7A57902EA62332.title: "Источники Света"
 	task.20374000F8ADE952.title: "Macaw's Trapdoors"
 	task.225F53F8A0E9E822.title: "Cooking for Blockheads"
-	task.238F4D40E6D9238E.title: "Dyes"
-	task.27BABC4910038807.title: "Vanilla Stones"
-	task.27DF6EE4B85F1792.title: "AllTheOres Blocks"
-	task.2BECEC3EFA8F6DA3.title: "Chipped Stones"
-	task.2E92D23F149C142D.title: "Chipped Metals"
+	task.238F4D40E6D9238E.title: "Красители"
+	task.27BABC4910038807.title: "Ванильные Камни"
+	task.27DF6EE4B85F1792.title: "Блоки AllTheOres"
+	task.2BECEC3EFA8F6DA3.title: "Камни Chipped"
+	task.2E92D23F149C142D.title: "Металлы Chipped"
 	task.30933620783092A5.title: "Macaw's Furniture"
 	task.32CB6A7BC1AB644E.title: "Simply Light"
 	task.36E85C17C558F436.title: "Torchmaster"
-	task.389B5B0F35B89FC8.title: "Chipped Concrete"
+	task.389B5B0F35B89FC8.title: "Бетон Chipped"
+	task.3BE936F7D054FDDA.title: "Construction Sticks"
 	task.3C16167530BEC231.title: "AllRightsReserved"
-	task.3C18AB7133946682.title: "Paxels"
+	task.3C18AB7133946682.title: "Паксели"
 	task.3C4997133CCECBE0.title: "Handcrafted"
-	task.40B245AFD0DAB3A0.title: "Railcraft Glass"
-	task.41602F0D9097E74F.title: "Chipped Terracotta"
-	task.41FF171C7D97B574.title: "Chipped Gem Blocks"
+	task.40B245AFD0DAB3A0.title: "Стекло Railcraft"
+	task.41602F0D9097E74F.title: "Терракота Chipped"
+	task.41FF171C7D97B574.title: "Блоки Драгоценных Камней Chipped"
 	task.436475D6C527A458.title: "Macaw's Paths and Pavings"
+	task.46803BBAC2069773.title: "Изменение Блоков"
 	task.46905D1E23255397.title: "Macaw's Windows"
-	task.49F387C7EAD579A2.title: "Completed Macaw"
-	task.4B13D48FF9D2530E.title: "XyCraft Lights"
+	task.49F387C7EAD579A2.title: "Завершенный Macaw"
+	task.4B13D48FF9D2530E.title: "Огни XyCraft"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
-	task.4E28970476CABACD.title: "Chipped Lights"
-	task.50BED71A6677392E.title: "Railcraft Stones"
+	task.4E28970476CABACD.title: "Огни Chipped"
 	task.53A682560123F9B6.title: "Glassential"
-	task.5936B8B8EDE0AE55.title: "Metal and Gem Blocks"
-	task.5DEABD15EDE5736F.title: "XyCraft Glass"
-	task.5FB27C61053F7FB5.title: "Ars Nouveau Lights"
-	task.624ADD79136376C0.title: "XyCraft World Items"
+	task.5936B8B8EDE0AE55.title: "Металлические и Драгоценные Блоки"
+	task.5DEABD15EDE5736F.title: "Стекло XyCraft"
+	task.5FB27C61053F7FB5.title: "Огни Ars Nouveau"
+	task.624ADD79136376C0.title: "Предметы Мира XyCraft"
 	task.6AA335ED81844F9F.title: "AllRightsReserved"
-	task.6BD970777103D55D.title: "Stairs"
-	task.6D2E8755BB3463FF.title: "Railcraft Colored Blocks"
-	task.6F475689ED4EDF59.title: "Macaw's mods items"
-	task.70367F545A9CB4D0.title: "Beds"
-	task.712552C459B5BD54.title: "Ars Nouveau Wood"
-	task.720CE629EA4E37D0.title: "Chipped Logs"
-	task.7213278CEE1B25A3.title: "Logs"
-	task.74CA4DE423248784.title: "Wall Lamps"
-	task.76C92D826994D92B.title: "Chipped Glass"
-	task.773B7F8C77B21B28.title: "Chipped Wool"
-	task.78ECC6C98CA985D7.title: "Macaw's Fences and Walls"
+	task.6BD970777103D55D.title: "Ступени"
+	task.6D2E8755BB3463FF.title: "Цветные Блоки Railcraft"
+	task.6F475689ED4EDF59.title: "Предметы модов Macaw"
+	task.70367F545A9CB4D0.title: "Кровати"
+	task.712552C459B5BD54.title: "Древесина Ars Nouveau"
+	task.720CE629EA4E37D0.title: "Бревна Chipped"
+	task.7213278CEE1B25A3.title: "Бревна"
+	task.74CA4DE423248784.title: "Настенные Лампы"
+	task.76C92D826994D92B.title: "Стекло Chipped"
+	task.773B7F8C77B21B28.title: "Шерсть Chipped"
+	task.78ECC6C98CA985D7.title: "Заборы и Стены Macaw"
 	task.79400615E3A7401D.title: "Building Gadgets"
 }

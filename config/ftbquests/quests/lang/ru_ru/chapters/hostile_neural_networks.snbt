@@ -1,27 +1,29 @@
 {
-	quest.104EBBC08B4733F5.quest_desc: ["The &dSimulation Chamber&r is the main machine within HNN.\\n\\nWhen given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the Data Model placed inside, and can be seen within the Model's tooltip. \\n\\nThe machine also requires at least one &9Prediction Matrix&r to run a simulation.\\n\\nThe result of the simulation will be output onto the Matrix. Simulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model.\\n\\nIf the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation."]
-	quest.104EBBC08B4733F5.title: "&aSimulating Deaths"
-	quest.10E8BC20D406D9FB.quest_subtitle: "Makes various Nether Materials"
-	quest.12AE2856444996F6.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.14B3542ECB59869C.quest_desc: ["The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions.\\n\\nWhen given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated.\\n\\nExamples of Mob Predictions:\\n\\n- &dEnder Dragons&r for &dDragon Eggs\\n - &2Zombies&r for Iron\\n - &0Withers&r for &5Nether Stars"]
-	quest.14B3542ECB59869C.title: "Creating &dLoot"
-	quest.14F7F256DA863280.quest_subtitle: "Makes various Twilight Forest Materials"
-	quest.2559201BCF5D497C.quest_subtitle: "Makes various Overworld Materials"
-	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
-	quest.34CD54347E9821B5.title: "Leveling Up Data Models"
+	quest.104EBBC08B4733F5.quest_desc: ["&dSimulation Chamber&r (Камера симуляции) — это основной механизм в HNN.\\n\\nПри подаче энергии она будет запускать симуляции на основе помещенной внутрь &bData Model&r (Модели данных). Требуемая энергия также зависит от модели данных и указана в её описании. \\n\\nМашине также требуется как минимум одна &9Prediction Matrix&r (Матрица предсказания) для запуска симуляции.\\n\\nРезультат симуляции будет выведен на матрицу. Симуляции всегда производят своего рода &eGeneralized Prediction&r (Обобщенное предсказание), которое можно использовать в различных рецептах крафта. Они также различаются в зависимости от происхождения моба в модели данных.\\n\\nЕсли симуляция пройдет успешно, вы получите &dMob Prediction&r (Предсказание моба) на основе модели. Чем выше уровень используемой модели данных, тем выше шанс успеха симуляции."]
+	quest.104EBBC08B4733F5.title: "&aСимуляция смертей"
+	quest.10E8BC20D406D9FB.quest_subtitle: "Создает различные материалы Незера"
+	quest.12AE2856444996F6.quest_desc: ["Этот квест был написан персоналом &6AllTheMods&r или &2участником сообщества&r специально для использования в модпаках AllTheMods.\\n\\nПоскольку все сборки &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот квест не разрешено использовать в любых публичных сборках, не выпущенных командой &6AllTheMods&r, без явного разрешения.\\n\\nЭтот квест намеренно скрыт; если вы его видите, значит, вы находитесь в режиме редактирования."]
+	quest.14B3542ECB59869C.quest_desc: ["&5Loot Fabricator&r (Фабрикатор лута) — это машина, которая позволяет получать тот самый сладкий лут из предсказаний мобов.\\n\\nПри наличии энергии и успешного предсказания моба вы сможете выбрать, какой предмет вы хотите получить из модели данных этого моба. Машина запомнит ваш выбор, так что процесс можно автоматизировать.\\n\\nПримеры предсказаний мобов:\\n\\n- &dEnder Dragons&r для &dDragon Eggs\\n - &2Zombies&r для железа\\n - &0Withers&r для &5Nether Stars"]
+	quest.14B3542ECB59869C.title: "Создание &dлута"
+	quest.2559201BCF5D497C.quest_subtitle: "Создает различные материалы Обычного мира"
+	quest.34CD54347E9821B5.quest_desc: ["Как только вы создадите свою первую модель данных, вам нужно будет повысить её уровень, чтобы она стала полезной.\\n\\nData Models начинают с первого уровня: &7Faulty&r (Неисправная). Вам нужно поднять её хотя бы до уровня &aBasic&r (Базовая), если вы хотите запускать на ней симуляции!\\n\\nПосле помещения внутрь Deep Learner интерфейс подскажет вам, сколько убийств требуется для повышения уровня. Вы также можете увидеть эту информацию в описании самой модели."]
+	quest.34CD54347E9821B5.title: "Повышение уровня моделей данных"
 	quest.37EBB8E0D6E5F821.quest_desc: [
-		"&6Hostile Neural Networks&r (HNN for short) is a mod based around simulating mob kills for loot!\\n\\nTo do this, you will be collecting \"data\" on mobs, then running simulations from the data to create their drops!\\n"
+		"&6Hostile Neural Networks&r (сокращенно HNN) — это мод, основанный на симуляции убийств мобов для получения лута!\\n\\nДля этого вы будете собирать «данные» о мобах, а затем запускать симуляции на основе этих данных для создания их дропа!\\n"
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
-	quest.37EBB8E0D6E5F821.title: "Welcome to &9Hostile Neural Networks&r!"
-	quest.3E3CBDCEAB0FF28F.quest_desc: ["The &9Deep Learner&r is one of the core components of HNN.\\n\\nWith this item, you can right click to open up a HUD and store &6Data Models&r to gather data while killing mobs.\\n\\nEach Learner can hold 4 Data Models, and as long as you have the Learner anywhere in your inventory, it will collect data for the models placed inside!\\n\\nNote: You can have multiple Deep Learners in your inventory, and it will count the kills for all Data Models inside all of the Learners."]
-	quest.3E3CBDCEAB0FF28F.quest_subtitle: "The Learning HUD"
-	quest.3E3CBDCEAB0FF28F.title: "&aLearning Mobs"
-	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r are the starting point for creating Data Models.\\n\\nTo start collecting data on a specific mob, you'll want to make one of these then &9right click&r the mob you'd like to gather data on. When done properly, the Model Framework will turn into the Data Model of the mob you clicked on.\\n\\nTo gather data for that mob, place the newly created Data Model inside of a &aDeep Learner&r, then start killing that specific mob with the Deep Learner in your inventory."]
-	quest.58C2ABED43B2EA61.quest_subtitle: "\"Gathering Data\""
-	quest.58C2ABED43B2EA61.title: "&9Modeling Mobs"
-	quest.5A23107C363A209E.quest_subtitle: "Makes various End Materials"
+	quest.37EBB8E0D6E5F821.title: "Добро пожаловать в &9Hostile Neural Networks&r!"
+	quest.3E3CBDCEAB0FF28F.quest_desc: ["&9Deep Learner&r (Глубокий ученик) — это один из основных компонентов HNN.\\n\\nС помощью этого предмета вы можете нажать правую кнопку мыши, чтобы открыть интерфейс и сохранить &6Data Models&r (Модели данных) для сбора данных во время убийства мобов.\\n\\nКаждый ученик может вмещать до 4 моделей данных, и пока ученик находится где угодно в вашем инвентаре, он будет собирать данные для моделей, помещенных внутрь!\\n\\nПримечание: в вашем инвентаре может быть несколько Deep Learners, и убийства будут засчитываться для всех моделей данных во всех учениках."]
+	quest.3E3CBDCEAB0FF28F.quest_subtitle: "Обучающий интерфейс"
+	quest.3E3CBDCEAB0FF28F.title: "&aИзучение мобов"
+	quest.54E7ABFDFAA024E5.quest_desc: [ ]
+	quest.54E7ABFDFAA024E5.quest_subtitle: ""
+	quest.54E7ABFDFAA024E5.title: ""
+	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r (Заготовки моделей) — это отправная точка для создания моделей данных.\\n\\nЧтобы начать сбор данных о конкретном мобе, вам нужно создать одну из них, а затем нажать &9правой кнопкой мыши&r по мобу, о котором вы хотите собрать данные. Если всё сделано правильно, заготовка превратится в модель данных того моба, по которому вы щелкнули.\\n\\nЧтобы собрать данные для этого моба, поместите созданную модель данных внутрь &aDeep Learner&r, а затем начните убивать этого конкретного моба, держа Deep Learner в инвентаре."]
+	quest.58C2ABED43B2EA61.quest_subtitle: "«Сбор данных»"
+	quest.58C2ABED43B2EA61.title: "&9Моделирование мобов"
+	quest.5A23107C363A209E.quest_subtitle: "Создает различные материалы Края"
 	task.15D2A03410859443.title: "AllRightsReserved"
 	task.6B580F95A2E5A465.title: "AllRightsReserved"
-	task.7F17E48ACE65C84E.title: "Data Models"
+	task.7F17E48ACE65C84E.title: "Модели данных"
 }

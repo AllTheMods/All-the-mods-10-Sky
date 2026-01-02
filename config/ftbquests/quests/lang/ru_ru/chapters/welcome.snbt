@@ -1,11 +1,12 @@
 {
-	quest.3708A4780ACEB34E.quest_desc: ["В этой сборке квесты не обязательны. Никакие моды не закрыты прогрессом в квестах!\\n\\nМножество квестовых линий вне основной ветки служат гайдом к модам. Если хочешь следовать основной прогрессии, не забуть проверить основную ветку квестов!"]
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 To the Sky это сборка которая позволяет изучать моды в своём тэмпе!\\n\\nЕсли есть какието вопросы или проблмы, присоединяйся к ATM discord!"]
-	quest.3BC0A50886A3222B.title: "&dДобро пожаловать в All The Mods 10, Теперь в небе! (снова)"
-	quest.49EDAA2F57D3BF1D.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.5AC1BE754210429E.quest_desc: ["Если хочешь создать команду для игры с друзьями, используй команду &a/ftbteams party create (название команды)&r для создания команды!"]
+	quest.3708A4780ACEB34E.quest_desc: ["В этом модпаке квесты опциональны. Моды не заблокированы за прохождение квестов!\\n\\nМногие отдельные квестовые линии вне основной линии служат руководствами по модам. Если вы хотите следовать прогрессии, обязательно проверьте основную квестовую линию!"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 To the Sky - это кухонная раковина, которая позволяет исследовать различные моды по-своему!\\n\\nЕсли у вас есть вопросы или проблемы, присоединяйтесь к Discord ATM!"]
+	quest.3BC0A50886A3222B.title: "&dДобро пожаловать в All The Mods 10, Теперь в Небе (снова)"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["Этот Квест был создан &6AllTheMods Staff&r, или &2Контрибьютором Сообщества&r для использования в модпаках AllTheMods. \\n\\nТак как все сборки &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот Квест запрещено использовать в любых публичных сборках, не выпущенных &6AllTheMods Team&r, без явного разрешения. \\n\\nЭтот квест намеренно скрыт, если вы видите это, вы в режиме редактирования."]
+	quest.5AC1BE754210429E.quest_desc: ["Если вы хотите создать команду для себя и друзей, используйте команду &a/ftbteams party create (название команды)&r для создания команды!"]
 	task.201F519941A2C7F4.title: "AllRightsReserved"
 	task.2C816285392535F0.title: "AllRightsReserved"
-	task.4F13A02FB0055A62.title: "Создание команды"
+	task.4F13A02FB0055A62.title: "Создание Команды"
 	task.52BB142F044075B4.title: "Квесты"
 }
+

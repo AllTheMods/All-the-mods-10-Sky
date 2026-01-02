@@ -1,360 +1,361 @@
 {
-	quest.00075A5F9AC120ED.quest_desc: ["This will take the items out of your input chest."]
-	quest.00075A5F9AC120ED.quest_subtitle: "Always Required"
+	quest.00075A5F9AC120ED.quest_desc: ["Это будет извлекать предметы из вашего входного сундука."]
+	quest.00075A5F9AC120ED.quest_subtitle: "Требуется всегда"
 	quest.002163B909070CF8.quest_desc: [
-		"Allows you to see details about certain blocks/fluid, even through walls.\\n"
+		"Позволяет видеть детали определенных блоков/жидкостей, даже сквозь стены.\\n"
 		"{image:atm:textures/questpics/pneumaticcraft/block_tracker.png width:150 height:150 align:center}"
 	]
-	quest.002163B909070CF8.quest_subtitle: "Max: 1"
-	quest.00D7BCC68D971A53.quest_desc: ["Living creatures nearby will be automatically tracked, even through walls. If it's an aggressive mob you'll get a warning when it targets you."]
-	quest.00D7BCC68D971A53.quest_subtitle: "Max: 1"
-	quest.02643BAD1AE747C6.quest_desc: ["The &3Advanced Liquid Compressor&r works the same as the Liquid Compressor, only way better!"]
-	quest.04BE9F63E6003475.quest_desc: ["&3LPG&r can be used to make Molten Plastic."]
-	quest.04BE9F63E6003475.quest_subtitle: "The one we need"
-	quest.04BE9F63E6003475.title: "LPG"
-	quest.0672462DA3599484.quest_subtitle: "512,000mb"
-	quest.09BA45CBBFB4AE26.quest_desc: ["The next stage of this mod requires you to set up &3Assembly Lines&r. The main component of an &3Assembly Line&r is the &3Assembly Controller&r.\\n\\nThis is where the pressure will go."]
-	quest.09BA45CBBFB4AE26.quest_subtitle: "Always Required"
+	quest.002163B909070CF8.quest_subtitle: "Максимум: 1"
+	quest.00D7BCC68D971A53.quest_desc: ["Живые существа поблизости будут автоматически отслеживаться, даже сквозь стены. Если это агрессивный моб, вы получите предупреждение, когда он выберет вас своей целью."]
+	quest.00D7BCC68D971A53.quest_subtitle: "Максимум: 1"
+	quest.02643BAD1AE747C6.quest_desc: ["&3Улучшенный жидкостный компрессор&r работает так же, как жидкостный компрессор, только намного лучше!"]
+	quest.04BE9F63E6003475.quest_desc: ["&3ПНГ (попутный нефтяной газ)&r можно использовать для производства жидкого пластика."]
+	quest.04BE9F63E6003475.quest_subtitle: "То, что нам нужно"
+	quest.04BE9F63E6003475.title: "ПНГ"
+	quest.0672462DA3599484.quest_subtitle: "512 000 мБ"
+	quest.09BA45CBBFB4AE26.quest_desc: ["Для следующего этапа этого мода вам потребуется настроить &3сборочные линии&r. Основным компонентом &3сборочной линии&r является &3контроллер сборки&r.\\n\\nИменно сюда будет подаваться давление."]
+	quest.09BA45CBBFB4AE26.quest_subtitle: "Требуется всегда"
 	quest.0A912B2E2BE34920.quest_desc: [
-		"Although you can find Crude Oil on the surface, drilling is a great way to obtain a bunch of oil. First use a &3Seismic Sensor&r until you find oil underneath you, then use your &3Gas Lift&r filled with drill pipes to drill for oil. (This requires pressure to work).\\n"
+		"Хотя сырую нефть можно найти на поверхности, бурение — отличный способ получить большое количество нефти. Сначала используйте &3сейсмический датчик&r, пока не найдете нефть под собой, затем используйте &3газовый подъемник&r, заполненный бурильными трубами, чтобы пробурить скважину. (Для работы требуется давление).\\n"
 		"{image:pneumaticcraft:textures/patchouli/oil_pumping.png width:200 height:200 align:right fit:true}"
 	]
-	quest.0A912B2E2BE34920.quest_subtitle: "Drilling for Oil"
-	quest.0AEAEA976ED0C470.quest_desc: ["The &3Charging Station&r is used to charge various tools and gadgets in &aPneumaticCraft&r using pressure."]
-	quest.0AEAEA976ED0C470.quest_subtitle: "Where's the cord?"
-	quest.0CC48C2AA553A314.quest_desc: ["&3Drill Bits&r can be used in a Pneumatic Jackhammer."]
-	quest.0D2F5CC96269F9E3.quest_desc: ["The next step of making PCBs involves using the &3Etching Tank&r with Etching Acid. Requires heat to run."]
-	quest.0D2F5CC96269F9E3.quest_subtitle: "It's Etching Time!"
-	quest.0D31CD79BE6CC8D2.quest_desc: ["Why doesn't regular Bread need Yeast?"]
-	quest.0D31CD79BE6CC8D2.quest_subtitle: "The Yeast of your Problems"
-	quest.0D31CD79BE6CC8D2.title: "Yeast"
+	quest.0A912B2E2BE34920.quest_subtitle: "Бурение нефтяных скважин"
+	quest.0AEAEA976ED0C470.quest_desc: ["&3Зарядная станция&r используется для зарядки различных инструментов и гаджетов в &aPneumaticCraft&r с помощью давления."]
+	quest.0AEAEA976ED0C470.quest_subtitle: "А где шнур?"
+	quest.0CC48C2AA553A314.quest_desc: ["&3Буровые коронки&r можно использовать в пневматическом отбойном молотке."]
+	quest.0D2F5CC96269F9E3.quest_desc: ["Следующий этап изготовления печатных плат включает использование &3травяной ванны&r с травильной кислотой. Для работы требуется нагрев."]
+	quest.0D2F5CC96269F9E3.quest_subtitle: "Время травления!"
+	quest.0D31CD79BE6CC8D2.quest_desc: ["Почему обычному хлебу не нужны дрожжи?"]
+	quest.0D31CD79BE6CC8D2.quest_subtitle: "Дрожжи — корень всех бед"
+	quest.0D31CD79BE6CC8D2.title: "Дрожжи"
 	quest.0D5015B8FF482D0A.quest_desc: [
-		"We will need to order some stuff off of &3Amadron&r using the &3Amadron Tablet&r in order to continue progression. To use it, shift-right click a Chest and a Fluid tank, put your currency in a linked container (Emeralds, etc) and order something. You'll see an Amadrone come down to take your money and another Amadrone come to drop off what you ordered."
+		"Чтобы продолжить прогресс, нам нужно заказать кое-что на &3Amadron&r, используя &3планшет Амадрон&r. Чтобы использовать его, щелкните правой кнопкой мыши с зажатым Shift по сундуку и резервуару с жидкостью, положите свою валюту в привязанный контейнер (изумруды и т. д.) и закажите товар. Вы увидите, как прилетит дрон Амадрон, заберет ваши деньги, а затем другой дрон доставит заказ."
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/amadron_drone.png width:300 height:150 align:center}"
 	]
-	quest.0D5015B8FF482D0A.quest_subtitle: "I wonder if they have 1 day delivery?"
-	quest.0D5015B8FF482D0A.title: "Amadron"
-	quest.0D50BDEFA0319EA1.quest_desc: ["This will drop the finished product into your output chest."]
-	quest.0D50BDEFA0319EA1.quest_subtitle: "Always Required"
-	quest.0D9560C8E247F9E7.quest_desc: ["Right-click somewhere and you will be able to pathfind your way back. If you're close enough and have a direct route, a path will appear."]
-	quest.0D9560C8E247F9E7.quest_subtitle: "Max: 1"
+	quest.0D5015B8FF482D0A.quest_subtitle: "Интересно, у них есть доставка за один день?"
+	quest.0D5015B8FF482D0A.title: "Амадрон"
+	quest.0D50BDEFA0319EA1.quest_desc: ["Это сбросит готовый продукт в ваш выходной сундук."]
+	quest.0D50BDEFA0319EA1.quest_subtitle: "Требуется всегда"
+	quest.0D9560C8E247F9E7.quest_desc: ["Кликните правой кнопкой мыши где-нибудь, и вы сможете проложить путь обратно. Если вы достаточно близко и есть прямой путь, появится тропинка."]
+	quest.0D9560C8E247F9E7.quest_subtitle: "Максимум: 1"
 	quest.0E65BE9460B74000.quest_desc: [
-		"The Logistic Frames need to connect to a &3Logistics Module&r to work."
+		"Логистические рамы должны быть подключены к &3логистическому модулю&r, чтобы работать."
 		""
 		"{image:pneumaticcraft:textures/patchouli/logistics_module.png width:100 height:100 align:left fit:true}"
 	]
-	quest.0F49E9167B5E97C9.quest_desc: ["Any damage you take when falling (ignoring armor) will also be dealt to nearby mobs."]
-	quest.0F49E9167B5E97C9.quest_subtitle: "Max: 1"
-	quest.0FF050EC1EA6EAED.quest_desc: ["The &3Liquid Hopper&r is a Hopper, but for liquids. Not a replacement for pipes."]
-	quest.0FF050EC1EA6EAED.quest_subtitle: "Who needs pipes?"
-	quest.122EDEC12C9A05D2.quest_desc: ["Did I forget to mention everything can blow up? ...\\n\\nLuckily there's an easy solution! The &3Security Upgrade&r when placed in a machine makes sure they don't explode, put these into any machines they can go into."]
-	quest.122EDEC12C9A05D2.quest_subtitle: "If only there was an easy Solution..."
-	quest.122EDEC12C9A05D2.title: "Preventing Explosions?"
-	quest.132DF9ECEFFB3B71.quest_desc: ["The &3Module Expansion Card&r makes the Charging Module even better."]
-	quest.13F68CA518CD287C.quest_desc: ["&3Diesel&r can be used to make more Kerosene or to make Lubricant."]
-	quest.13F68CA518CD287C.quest_subtitle: "Poor Sel"
-	quest.13F68CA518CD287C.title: "Diesel"
-	quest.1427B3AB09510D20.quest_desc: ["Craft together your Unassmbled PCB with 2 Capacitors and 2 Transistors to get yourself a &3Finished PCB&r."]
-	quest.1427B3AB09510D20.quest_subtitle: "You did it!"
-	quest.142C67218BD16867.quest_desc: ["Load up your Minigun with this &3Minigun Ammo&r to use it."]
-	quest.15007DCAF701B361.quest_desc: ["Charges other pressurizable items in your inventory from the chestplate's storage."]
-	quest.15007DCAF701B361.quest_subtitle: "Max: 6"
-	quest.15D355EB164EBE68.quest_subtitle: "Needed for Finished PCBs"
-	quest.15D355EB164EBE68.title: "Capacitors"
-	quest.187816477B732517.quest_desc: ["The &3Transfer Gadget&r acts like a Hopper that can be placed inbetween blocks."]
-	quest.187816477B732517.quest_subtitle: "Smaller Hopper"
+	quest.0F49E9167B5E97C9.quest_desc: ["Любой урон, который вы получаете при падении (игнорируя броню), также будет нанесен ближайшим мобам."]
+	quest.0F49E9167B5E97C9.quest_subtitle: "Максимум: 1"
+	quest.0FF050EC1EA6EAED.quest_desc: ["&3Жидкостная воронка&r — это воронка, но для жидкостей. Не является заменой труб."]
+	quest.0FF050EC1EA6EAED.quest_subtitle: "Кому нужны трубы?"
+	quest.122EDEC12C9A05D2.quest_desc: ["Я забыл упомянуть, что здесь всё может взорваться? ...\\n\\nК счастью, есть простое решение! &3Улучшение безопасности&r, помещенное в механизм, гарантирует, что он не взорвется. Ставьте их во все механизмы, в которые их можно вставить."]
+	quest.122EDEC12C9A05D2.quest_subtitle: "Если бы только существовало простое решение..."
+	quest.122EDEC12C9A05D2.title: "Как предотвратить взрывы?"
+	quest.132DF9ECEFFB3B71.quest_desc: ["&3Карта расширения модуля&r делает зарядный модуль еще лучше."]
+	quest.13F68CA518CD287C.quest_desc: ["&3Дизельное топливо&r можно использовать для производства керосина или смазки."]
+	quest.13F68CA518CD287C.quest_subtitle: "Бедный Сель"
+	quest.13F68CA518CD287C.title: "Дизельное топливо"
+	quest.1427B3AB09510D20.quest_desc: ["Соедините вашу несобранную ПП с двумя конденсаторами и двумя транзисторами, чтобы получить &3готовую печатную плату&r."]
+	quest.1427B3AB09510D20.quest_subtitle: "У вас получилось!"
+	quest.142C67218BD16867.quest_desc: ["Зарядите свой миниган этими &3боеприпасами для минигана&r, чтобы использовать его."]
+	quest.15007DCAF701B361.quest_desc: ["Заряжает другие находящиеся под давлением предметы в вашем инвентаре из хранилища нагрудника."]
+	quest.15007DCAF701B361.quest_subtitle: "Максимум: 6"
+	quest.15D355EB164EBE68.quest_subtitle: "Необходимы для готовых печатных плат"
+	quest.15D355EB164EBE68.title: "Конденсаторы"
+	quest.187816477B732517.quest_desc: ["&3Гаджет перемещения&r действует как воронка, которую можно разместить между блоками."]
+	quest.187816477B732517.quest_subtitle: "Воронка поменьше"
 	quest.21624A6500545C42.quest_desc: [
-		"&3Crop Supports&r can be placed over your crops to make them grow faster."
+		"&3Опоры для культур&r можно разместить над посевами, чтобы они росли быстрее."
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/crop_support.png width:200 height:100 align:center}"
 	]
-	quest.21624A6500545C42.quest_subtitle: "Faster Crops"
-	quest.22572456571C3F8D.quest_desc: ["The &3Charging Module&r depressurizes any pressurizable things in containers it points at."]
-	quest.230463E830D6FFEB.quest_desc: ["Now that we have plastic, the next step is getting some finished PCBs, first make some &3Empty PCBs&r in the Pressure Chamber."]
-	quest.230463E830D6FFEB.quest_subtitle: "The path to PCBs"
-	quest.2338E5269CA23C91.quest_desc: ["The &3Netherite Drill Bit&r is the best Drill Bit, it's even better than the Diamond Drill Bit."]
-	quest.2338E5269CA23C91.quest_subtitle: "This is the Best Bit"
-	quest.23737103592776C2.quest_desc: ["The &3Kerosene Lamp&r is a great light source that uses fuel (Kerosene being the best) to produce light."]
-	quest.23737103592776C2.quest_subtitle: "Mega Torches are nothing!"
-	quest.24042326B4632DD4.quest_desc: ["To start with Logistics craft a &3Logistics Core&r, I recommend reading the PNC:R Manual for a full tutorial on how to use these items."]
-	quest.24042326B4632DD4.quest_subtitle: "Transporting Items/Fluids"
-	quest.24042326B4632DD4.title: "Logistics"
-	quest.26BEA64C80ECE1A6.quest_desc: ["Each &3Logistic Frame&r can be used for different types of automation."]
-	quest.2745297337E13E9E.quest_desc: ["The &3Advanced Air Compressor&r works the same way as the Air Compressor, only way better!"]
-	quest.2745297337E13E9E.quest_subtitle: "No need for boring old Air Compressors now!"
-	quest.2801B7B6BF61E978.quest_desc: ["&3Kerosene&r can be used to make Gasoline or it can be used as fuel in a Kerosene Lamp."]
-	quest.2801B7B6BF61E978.quest_subtitle: "Have you Kero-seen this?"
-	quest.2801B7B6BF61E978.title: "Kerosene"
+	quest.21624A6500545C42.quest_subtitle: "Быстрый рост"
+	quest.22572456571C3F8D.quest_desc: ["&3Зарядный модуль&r сбрасывает давление из любых предметов, находящихся в контейнерах, на которые он направлен."]
+	quest.230463E830D6FFEB.quest_desc: ["Теперь, когда у нас есть пластик, следующим шагом будет получение готовых печатных плат. Сначала сделайте &3пустые печатные платы&r в камере давления."]
+	quest.230463E830D6FFEB.quest_subtitle: "Путь к печатным платам"
+	quest.2338E5269CA23C91.quest_desc: ["&3Нетеритовая буровая коронка&r — лучшая коронка, она даже лучше алмазной."]
+	quest.2338E5269CA23C91.quest_subtitle: "Это самая лучшая коронка"
+	quest.23737103592776C2.quest_desc: ["&3Керосиновая лампа&r — отличный источник света, использующий топливо (керосин — лучший вариант) для освещения."]
+	quest.23737103592776C2.quest_subtitle: "Мега-факелы — ничто!"
+	quest.24042326B4632DD4.quest_desc: ["Чтобы начать работу с логистикой, скрафтите &3логистическое ядро&r. Рекомендую прочитать руководство PNC:R для получения полной информации о том, как использовать эти предметы."]
+	quest.24042326B4632DD4.quest_subtitle: "Транспортировка предметов/жидкостей"
+	quest.24042326B4632DD4.title: "Логистика"
+	quest.26BEA64C80ECE1A6.quest_desc: ["Каждую &3логистическую раму&r можно использовать для различных типов автоматизации."]
+	quest.2745297337E13E9E.quest_desc: ["&3Улучшенный воздушный компрессор&r работает так же, как и обычный, но гораздо лучше!"]
+	quest.2745297337E13E9E.quest_subtitle: "Скучные старые компрессоры больше не нужны!"
+	quest.2801B7B6BF61E978.quest_desc: ["&3Керосин&r можно использовать для производства бензина или в качестве топлива в керосиновой лампе."]
+	quest.2801B7B6BF61E978.quest_subtitle: "Вы Керо-видели это?"
+	quest.2801B7B6BF61E978.title: "Керосин"
 	quest.2AED15E3AC0346FE.quest_desc: [
-		"Below are some &3Upgrades&r you can use early on in this mod. Shift while hovering over an &3Upgrade&r to see what it can be used in, or shift while hovering over something to see what upgrades it can use."
+		"Ниже приведены некоторые &3улучшения&r, которые вы можете использовать на ранних этапах освоения этого мода. Зажмите Shift, наведя курсор на &3улучшение&r, чтобы увидеть, где оно применяется, или зажмите Shift, наведя курсор на предмет, чтобы увидеть, какие улучшения он поддерживает."
 		""
-		"Note: The subtitle will tell you the max amount of that &3Upgrade&r that can be put in something."
+		"Примечание: В подзаголовке указано максимальное количество данного &3улучшения&r, которое можно вставить в предмет."
 	]
-	quest.2AED15E3AC0346FE.quest_subtitle: "Very useful stuff"
-	quest.2AED15E3AC0346FE.title: "Simple Upgrades"
-	quest.2C5D78630C7AD57F.quest_desc: ["Increases range, does different things when used in different things."]
-	quest.2C5D78630C7AD57F.quest_subtitle: "Come Closer!"
+	quest.2AED15E3AC0346FE.quest_subtitle: "Очень полезные вещи"
+	quest.2AED15E3AC0346FE.title: "Простые улучшения"
+	quest.2C5D78630C7AD57F.quest_desc: ["Увеличивает дальность, выполняет разные функции в зависимости от того, где используется."]
+	quest.2C5D78630C7AD57F.quest_subtitle: "Подойди ближе!"
 	quest.2CC56A4F06E53307.quest_desc: [
-		"Place your Empty PCBs in a &3UV Light Box&r to charge them. Needs pressure and access to sunlight."
+		"Поместите пустые печатные платы в &3УФ-облучатель&r, чтобы зарядить их. Требуется давление и доступ к солнечному свету."
 		"{image:atm:textures/questpics/pneumaticcraft/uv_charging.png width:300 height:150 align:center}"
 	]
-	quest.2CC56A4F06E53307.quest_subtitle: "I hope you have some Sunglasses!"
-	quest.2CC56A4F06E53307.title: "Charging with UVs"
-	quest.2DE7CC686B56881F.quest_desc: ["Protects you from Mekanism radiation."]
-	quest.2DE7CC686B56881F.quest_subtitle: "Max: 1"
+	quest.2CC56A4F06E53307.quest_subtitle: "Надеюсь, у вас есть солнцезащитные очки!"
+	quest.2CC56A4F06E53307.title: "Зарядка ультрафиолетом"
+	quest.2DE7CC686B56881F.quest_desc: ["Защищает вас от радиации из Mekanism."]
+	quest.2DE7CC686B56881F.quest_subtitle: "Максимум: 1"
 	quest.2E8F851A4E98F741.quest_desc: [
-		"The &3Pneumatic Armor&r by itself is pretty great, however if you want to make this armor amazing, you'll need to install upgrades. Press 'U' by default to open the Upgrade GUI, some upgrades use pressure, some don't."
+		"&3Пневматическая броня&r сама по себе довольно хороша, однако если вы хотите сделать её потрясающей, вам нужно установить улучшения. Нажмите «U» (по умолчанию), чтобы открыть интерфейс улучшений. Некоторые улучшения расходуют давление, некоторые — нет."
 		""
-		"Just like upgrading other tools in PneumaticCraft, to upgrade &3Pneumatic Armor&r you will need a Charging Station with pressure."
+		"Как и в случае с другими инструментами в PneumaticCraft, для улучшения &3пневматической брони&r вам понадобится зарядная станция под давлением."
 		""
-		"Note: The subtitle will tell you the max amount of that upgrade that can be put in something."
+		"Примечание: В подзаголовке указано максимальное количество этого улучшения, которое можно вставить в предмет."
 	]
-	quest.2E8F851A4E98F741.quest_subtitle: "Compressed Iron Man"
-	quest.2E8F851A4E98F741.title: "Pneumatic Armor"
-	quest.30AD7B15682E4D0E.quest_desc: ["A smart Sign which can store and display arbitrary amounts of text, scaled so the text always fits.\\n\\nRight-click with any Dye to recolor the tile, you can color the border and the background independentrly."]
-	quest.30AD7B15682E4D0E.quest_subtitle: "Signs? Never heard of them!"
-	quest.312331F6DB0CE5F4.quest_desc: ["Goes faster than Tier I."]
-	quest.312331F6DB0CE5F4.quest_subtitle: "Max: 1"
-	quest.31BCE63F5E016323.quest_desc: ["The &3Solar Compressor&r generates Pressure by using sunlight, the warmer it gets, the more Pressure it will produce.\\n\\nHowever, be careful, if it gets too hot it will malfunction and you will need to repair it."]
-	quest.31BCE63F5E016323.quest_subtitle: "In the palm of my hand..."
-	quest.31BCE63F5E016323.title: "Pressure from the Sun"
-	quest.325483DEB0C602F8.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.32C3E14578D48E6C.quest_desc: ["Just like regular &3Pressure Tubes&r only these can hold 10 bars of pressure."]
-	quest.32C3E14578D48E6C.quest_subtitle: "Upgraded Pressure Tubes"
-	quest.3334D15766A47A46.quest_desc: ["Using a Laser Assembly Program you can speed up the production of &3Unassembled PCBs&r. Just put an Empty PCB in the input chest, pump in some pressure and wait."]
-	quest.3334D15766A47A46.title: "Automating PCBs"
-	quest.36D72D759C4E8823.quest_desc: ["Maybe a little too fast even."]
-	quest.36D72D759C4E8823.quest_subtitle: "Max: 1"
-	quest.371A34B297C8A8EF.quest_desc: ["PneumaticCraft is all about Pressure! These quests won't go over everything the mod has, but will still go over a lot! Please remember to check JEI, read the tooltips and read the PCB:R, they are all very useful.\\n\\nTo get started, you'll need to craft some &3Compressed Iron Ingots&r! The easiest way to do this is to make a hole in the ground, throw in some iron ingots (or blocks) and then blow it up with some TNT!\\n\\nSome might get lost in the explosion, but that's a risk we'll have to take!"]
-	quest.371A34B297C8A8EF.quest_subtitle: "The Power of Air"
+	quest.2E8F851A4E98F741.quest_subtitle: "Железный человек на сжатом воздухе"
+	quest.2E8F851A4E98F741.title: "Пневматическая броня"
+	quest.30AD7B15682E4D0E.quest_desc: ["Умная табличка, которая может хранить и отображать произвольное количество текста, масштабируя его так, чтобы он всегда помещался.\\n\\nНажмите правой кнопкой мыши с любым красителем, чтобы перекрасить плитку; вы можете раскрасить рамку и фон независимо друг от друга."]
+	quest.30AD7B15682E4D0E.quest_subtitle: "Таблички? Никогда о них не слышал!"
+	quest.312331F6DB0CE5F4.quest_desc: ["Работает быстрее, чем уровень I."]
+	quest.312331F6DB0CE5F4.quest_subtitle: "Максимум: 1"
+	quest.31BCE63F5E016323.quest_desc: ["&3Солнечный компрессор&r вырабатывает давление, используя солнечный свет. Чем сильнее он нагревается, тем больше давления производит.\\n\\nОднако будьте осторожны: если он станет слишком горячим, он выйдет из строя, и вам придется его чинить."]
+	quest.31BCE63F5E016323.quest_subtitle: "В ладонях моих..."
+	quest.31BCE63F5E016323.title: "Давление от солнца"
+	quest.325483DEB0C602F8.quest_desc: ["Этот квест был написан персоналом &6AllTheMods&r или &2участником сообщества&r для использования в модпаках AllTheMods.\\n\\nПоскольку все наборы &6AllTheMods&r лицензированы под &eAll Rights Reserved&r, этот квест не разрешается использовать в каких-либо публичных наборах, не выпущенных командой &6AllTheMods&r, без явного разрешения.\\n\\nЭтот квест намеренно скрыт; если вы это видите, значит, вы находитесь в режиме редактирования."]
+	quest.32C3E14578D48E6C.quest_desc: ["Такие же, как обычные &3трубы давления&r, только эти выдерживают 10 бар."]
+	quest.32C3E14578D48E6C.quest_subtitle: "Улучшенные трубы давления"
+	quest.3334D15766A47A46.quest_desc: ["Используя программу лазерной сборки, вы можете ускорить производство &3несобранных печатных плат&r. Просто положите пустую ПП во входной сундук, накачайте давление и ждите."]
+	quest.3334D15766A47A46.title: "Автоматизация ПП"
+	quest.36D72D759C4E8823.quest_desc: ["Возможно, даже слишком быстро."]
+	quest.36D72D759C4E8823.quest_subtitle: "Максимум: 1"
+	quest.371A34B297C8A8EF.quest_desc: ["Весь PneumaticCraft построен на давлении! Эти квесты не охватывают абсолютно всё, что есть в моде, но всё же затронут многое! Не забывайте проверять JEI, читать всплывающие подсказки и руководство PNC:R — они очень полезны.\\n\\nДля начала вам нужно изготовить несколько &3слитков сжатого железа&r! Самый простой способ сделать это — выкопать яму в земле, бросить туда железные слитки (или блоки) и взорвать их с помощью ТНТ!\\n\\nЧасть слитков может потеряться при взрыве, но на этот риск придется пойти!"]
+	quest.371A34B297C8A8EF.quest_subtitle: "Сила воздуха"
 	quest.371A34B297C8A8EF.title: "PneumaticCraft: Repressurized"
-	quest.39F142224D5210A9.quest_desc: ["&3Biodeisel&r can be used to make &3Lubricant&r and &3Molten Plastic&r."]
-	quest.39F142224D5210A9.quest_subtitle: "Bio/Diesel"
-	quest.39F142224D5210A9.title: "Biodeisel"
-	quest.3A9AC6AB4407DC32.quest_desc: ["Although not every recipe requires the same components, you can set up your &3Assembly Lines&r with everything installed. A simple &3Assembly Line&r setup that can be used for everything is shown in the image below. Read the quests for each component for some important information about them.\\n\\nSpeed Upgrades make this so much quicker!"]
-	quest.3A9AC6AB4407DC32.quest_subtitle: "Some Assembly Required"
-	quest.3A9AC6AB4407DC32.title: "Using Assembly Lines"
+	quest.39F142224D5210A9.quest_desc: ["&3Биодизель&r можно использовать для производства &3смазки&r и &3жидкого пластика&r."]
+	quest.39F142224D5210A9.quest_subtitle: "Био/Дизель"
+	quest.39F142224D5210A9.title: "Биодизель"
+	quest.3A9AC6AB4407DC32.quest_desc: ["Хотя не каждый рецепт требует одних и тех же компонентов, вы можете настроить свои &3сборочные линии&r так, чтобы всё было установлено сразу. Простая схема &3сборочной линии&r, которую можно использовать для всего, показана на изображении ниже. Прочитайте описания каждого компонента, чтобы узнать важную информацию о них.\\n\\nУлучшения скорости делают процесс намного быстрее!"]
+	quest.3A9AC6AB4407DC32.quest_subtitle: "Требуется сборка"
+	quest.3A9AC6AB4407DC32.title: "Использование сборочных линий"
 	quest.3CFE522A4B7CC2EC.quest_desc: [
-		"The &3Reinforced Chest&r is a blast-proof Chest with 36 slots. Not Double Chest-able. Also works like a Shulker Box."
+		"&3Укрепленный сундук&r — это взрывоустойчивый сундук на 36 слотов. Его нельзя сделать двойным. Также работает как шалкеровый ящик."
 		"{image:atm:textures/questpics/pneumaticcraft/reinforced_chest_ui.png width:200 height:100 align:center}"
 	]
-	quest.3CFE522A4B7CC2EC.quest_subtitle: "Better than your Everyday Chest"
-	quest.3D819550074CA376.quest_desc: ["The item will need to be placed here before getting picked back up."]
-	quest.3D819550074CA376.quest_subtitle: "Always Required"
-	quest.3E16CF590C911129.quest_desc: ["The &3Air Compressor&r is an easy way of making pressure, simply put some burnable items into it, and watch the magic happen! (I recommend making at least 3 of these to start off with)."]
-	quest.3E16CF590C911129.quest_subtitle: "Feeling the Pressure"
-	quest.3E16CF590C911129.title: "Generating Pressure"
-	quest.3F9CCCFEF4E84166.quest_desc: ["To increase your heat production, place a &3Heat Sink&r on the cold side of your Vortex Tube."]
-	quest.3F9CCCFEF4E84166.quest_subtitle: "More Heat"
-	quest.3F9CCCFEF4E84166.title: "Better Heat Production"
-	quest.40924F0D64253A38.quest_desc: ["Makes things able to dispense items."]
-	quest.40924F0D64253A38.quest_subtitle: "Gone!"
-	quest.40F634AC38F42B88.quest_desc: ["To move pressure you will need to obtain &3Pressure Tubes&r. What pressure you may be asking? Continue the questline to see what these are used for."]
-	quest.40F634AC38F42B88.quest_subtitle: "What Pressure?"
-	quest.40F634AC38F42B88.title: "Moving Pressure"
-	quest.423B8DA485C1308C.quest_desc: ["&3Gasoline&r can be used to make LPG."]
-	quest.423B8DA485C1308C.quest_subtitle: "Gas, gas, gas"
-	quest.423B8DA485C1308C.title: "Gasoline"
-	quest.42951D14ADCD9332.quest_desc: ["Could I get that with some Mashed Peas with a side of Beans on Toast please Governor?"]
-	quest.42951D14ADCD9332.quest_subtitle: "Fancy some Fish \\& Chips?"
-	quest.42951D14ADCD9332.title: "Fish \\& Chips!"
-	quest.43CDC28DC56BB3E2.quest_subtitle: "128,000mb"
-	quest.43EF5513A1C52A37.quest_desc: ["The &3Thermopneumatic Processing Plant&r will be used to make Molten Plastic, simply pump in some LPG, Coal and some heat."]
-	quest.43EF5513A1C52A37.quest_subtitle: "The longer the name, the better"
-	quest.43EF5513A1C52A37.title: "Thermopneumatic Processing"
+	quest.3CFE522A4B7CC2EC.quest_subtitle: "Лучше вашего обычного сундука"
+	quest.3D819550074CA376.quest_desc: ["Предмет нужно будет положить сюда, прежде чем его заберут."]
+	quest.3D819550074CA376.quest_subtitle: "Требуется всегда"
+	quest.3E16CF590C911129.quest_desc: ["&3Воздушный компрессор&r — это простой способ создания давления. Просто положите в него сгораемые предметы и наблюдайте за магией! (Рекомендую сделать как минимум 3 таких для начала)."]
+	quest.3E16CF590C911129.quest_subtitle: "Чувствуете давление?"
+	quest.3E16CF590C911129.title: "Генерация давления"
+	quest.3F9CCCFEF4E84166.quest_desc: ["Чтобы увеличить производство тепла, установите &3радиатор&r на холодную сторону вихревой трубки."]
+	quest.3F9CCCFEF4E84166.quest_subtitle: "Больше тепла"
+	quest.3F9CCCFEF4E84166.title: "Улучшенное производство тепла"
+	quest.40924F0D64253A38.quest_desc: ["Позволяет устройствам выдавать предметы."]
+	quest.40924F0D64253A38.quest_subtitle: "Ушло!"
+	quest.40F634AC38F42B88.quest_desc: ["Для перемещения давления вам понадобятся &3трубы давления&r. Вы можете спросить: а какое давление? Продолжайте цепочку квестов, чтобы увидеть, для чего они используются."]
+	quest.40F634AC38F42B88.quest_subtitle: "Какое давление?"
+	quest.40F634AC38F42B88.title: "Перемещение давления"
+	quest.423B8DA485C1308C.quest_desc: ["&3Бензин&r можно использовать для производства ПНГ."]
+	quest.423B8DA485C1308C.quest_subtitle: "Газ, газ, газ"
+	quest.423B8DA485C1308C.title: "Бензин"
+	quest.42951D14ADCD9332.quest_desc: ["Можно мне это с гороховым пюре и фасолью на тосте, пожалуйста, сэр?"]
+	quest.42951D14ADCD9332.quest_subtitle: "Хотите рыбу с картошкой?"
+	quest.42951D14ADCD9332.title: "Рыба и картошка!"
+	quest.43CDC28DC56BB3E2.quest_subtitle: "128 000 мБ"
+	quest.43EF5513A1C52A37.quest_desc: ["&3Термопневматическая перерабатывающая установка&r будет использоваться для производства жидкого пластика. Просто закачайте ПНГ, уголь и подайте тепло."]
+	quest.43EF5513A1C52A37.quest_subtitle: "Чем длиннее название, тем лучше"
+	quest.43EF5513A1C52A37.title: "Термопневматическая переработка"
 	quest.440B1E1D4951F808.quest_desc: [
-		"The &3Smart Chest&r is a blast-proof Chest with 72 slots, includes a built in, fully configuarble Omnidirectional Hopper and has upgrade slots. Not Double Chest-able. Also works like a Shulker Box."
+		"&3Умный сундук&r — это взрывоустойчивый сундук на 72 слота, включающий встроенную, полностью настраиваемую всенаправленную воронку и слоты для улучшений. Его нельзя сделать двойным. Также работает как шалкеровый ящик."
 		"{image:atm:textures/questpics/pneumaticcraft/smart_chest_ui.png width:200 height:100 align:center}"
 	]
-	quest.440B1E1D4951F808.quest_subtitle: "The Nerds of Chests"
-	quest.456B9DD108CF340F.quest_desc: ["Makes things faster."]
-	quest.456B9DD108CF340F.quest_subtitle: "Speedy!"
+	quest.440B1E1D4951F808.quest_subtitle: "Гений среди сундуков"
+	quest.456B9DD108CF340F.quest_desc: ["Делает вещи быстрее."]
+	quest.456B9DD108CF340F.quest_subtitle: "Скоростной!"
 	quest.461C8F1E88AA58D9.quest_desc: [
-		"These can be used in recipes using the bucketed version of PneumaticCraft liquids.\\n\\nWhen a &3Fluid Tank&r is put on top of another &3Fluid Tank&r and wrenched together they become one big tank.\\n"
+		"Их можно использовать в рецептах с ведрами жидкостей PneumaticCraft.\\n\\nЕсли поставить &3резервуар для жидкости&r поверх другого и соединить их гаечным ключом, они станут одним большим резервуаром.\\n"
 		"{image:pneumaticcraft:textures/patchouli/small_tanks.png width:250 height:250 align:center fit:true}"
 	]
-	quest.461C8F1E88AA58D9.quest_subtitle: "32,000mb"
-	quest.46BE62C20C720D10.quest_desc: ["Makes Endermen not get angry at you like Carved Pumpkins."]
-	quest.46BE62C20C720D10.quest_subtitle: "Max: 1"
-	quest.482E558BCFEE6B7E.quest_desc: ["&3Construction Bricks&r are cool building blocks, be careful they hurt. Craft them again to make them smooth."]
-	quest.482E558BCFEE6B7E.quest_subtitle: "There's no pain worse than stepping on these"
-	quest.495DCA49B4E80852.quest_desc: ["The &3Minigun&r is a gun that needs pressure and ammo to work. Read the tooltip for more info."]
-	quest.495DCA49B4E80852.quest_subtitle: "Pew Pew!"
+	quest.461C8F1E88AA58D9.quest_subtitle: "32 000 мБ"
+	quest.46BE62C20C720D10.quest_desc: ["Делает так, чтобы эндермены не злились на вас, как при ношении вырезанной тыквы."]
+	quest.46BE62C20C720D10.quest_subtitle: "Максимум: 1"
+	quest.482E558BCFEE6B7E.quest_desc: ["&3Строительные кирпичи&r — крутые строительные блоки, будьте осторожны, они причиняют боль. Скрафтите их снова, чтобы сделать гладкими."]
+	quest.482E558BCFEE6B7E.quest_subtitle: "Нет боли хуже, чем наступить на них"
+	quest.495DCA49B4E80852.quest_desc: ["&3Миниган&r — это пушка, для работы которой требуется давление и боеприпасы. Читайте всплывающую подсказку для получения дополнительной информации."]
+	quest.495DCA49B4E80852.quest_subtitle: "Пиу-пиу!"
 	quest.4A076530297F4A97.quest_desc: [
-		"With these 3 components you can create some amazing &3Elevators&r.\\n"
+		"С помощью этих трех компонентов вы можете создавать потрясающие &3лифты&r.\\n"
 		"{image:pneumaticcraft:textures/patchouli/elevator.png width:1 height:1 align:left fit:true}"
 	]
-	quest.4A076530297F4A97.title: "Elevators"
-	quest.4B4F5341D6DBDD19.quest_desc: ["Keep your breathing underwater, once your bubbles go down to 5 they will be refilled! It also allows you to see much more easily underwater!"]
-	quest.4B4F5341D6DBDD19.quest_subtitle: "Max: 1"
+	quest.4A076530297F4A97.title: "Лифты"
+	quest.4B4F5341D6DBDD19.quest_desc: ["Позволяет дышать под водой: как только уровень пузырьков упадет до 5, они будут восполнены! Также значительно улучшает видимость под водой!"]
+	quest.4B4F5341D6DBDD19.quest_subtitle: "Максимум: 1"
 	quest.4C0D00B5305117A1.quest_desc: [
-		"The &3Sentry Turret&r can be placed somewhere and set to attack mobs or players when they are in range. It just needs some Minigun Ammo."
+		"&3Сторожевую турель&r можно разместить где-нибудь и настроить на атаку мобов или игроков в радиусе действия. Ей просто нужны боеприпасы для минигана."
 		""
 		"{image:pneumaticcraft:textures/patchouli/sentry_turret.png width:100 height:100 align:left fit:true}"
 	]
-	quest.4C0D00B5305117A1.quest_subtitle: "Pew Pew (Without you)"
-	quest.4CA17B0A80020B2F.quest_desc: ["The &3Manometer&r is used to show extra information about a machine."]
-	quest.4CA17B0A80020B2F.quest_subtitle: "I need more Info!"
-	quest.4E1E31EDD544EE10.quest_subtitle: "64,000mb"
-	quest.4F5348D0C83C3B0D.quest_desc: ["&3Solar Cells&r are used to make Solar Compressors."]
-	quest.4F5348D0C83C3B0D.quest_subtitle: "The Sun's Cells"
-	quest.4F5348D0C83C3B0D.title: "Solar Cells"
-	quest.4FCC20D9F8F87B2F.quest_desc: ["The &3Pneumatic Wrench&r is used to move around or break your machines and tubes."]
-	quest.4FCC20D9F8F87B2F.quest_subtitle: "Torque-ing about Tools!"
-	quest.5103C817381181DE.quest_desc: ["Allows you to use an Elytra while still having your Pneumatic Chestplate on."]
-	quest.5103C817381181DE.quest_subtitle: "Max: 1"
-	quest.520EFA7F446AFBF2.quest_desc: ["&3Lubricant&r can be used to make Drill Bits."]
-	quest.520EFA7F446AFBF2.quest_subtitle: "Producing Lube!"
-	quest.520EFA7F446AFBF2.title: "Lubricant"
-	quest.521656D425E2FDBA.quest_desc: ["Goes even faster than Tier II."]
-	quest.521656D425E2FDBA.quest_subtitle: "Max: 1"
-	quest.52D3697F1F5625C7.quest_desc: ["&3Etching Acid&r is made in the Pressure Chamber with Molten Plastic...and some other stuff. Used in the Etching Tank."]
-	quest.52D3697F1F5625C7.quest_subtitle: "Don't Ask..."
-	quest.5303509A1C2B1CCD.quest_desc: ["The &3Pneumatic Jackhammer&r uses pressure to mine, it can be upgraded to be amazing!"]
-	quest.5303509A1C2B1CCD.quest_subtitle: "Sorry Jack!"
-	quest.53518D4ED99A242F.quest_desc: ["The &3Camouflage Applicator&r can be used to hide PneumaticCraft machinery inside of other blocks."]
-	quest.53518D4ED99A242F.quest_subtitle: "Want to make your setup look cool?"
-	quest.54169B69725C49DF.quest_desc: ["Place your Liquid Plastic onto the ground or store some in a Chest with a Heat Frame attached and there's your &3Plastic Sheet&r!"]
-	quest.54169B69725C49DF.quest_subtitle: "Finally!"
-	quest.54169B69725C49DF.title: "&fPlastic"
-	quest.5A0860631323B5E3.quest_desc: ["Made with &3Wheat Flour&r. Can be used to make Salmon Tempura and Sourdough Bread."]
-	quest.5A0860631323B5E3.quest_subtitle: "You knead this"
-	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
-	quest.5A9D6672385D3D82.quest_subtitle: "Saving Lapis"
-	quest.5AEE86EB39FD4087.quest_desc: ["The &3Vortex Tube&r seperates pressure into hot and cold air. The cold air goes to the blue side and the hot air goes to the red side."]
-	quest.5AEE86EB39FD4087.quest_subtitle: "Still not RF..."
-	quest.5AEE86EB39FD4087.title: "Heat Production"
-	quest.5B9F933ECD6B24FD.quest_desc: ["Allows you to jump higher than with Tier II."]
-	quest.5B9F933ECD6B24FD.quest_subtitle: "Max: 1"
-	quest.5C7D9BCDF19B86BD.quest_desc: ["Prevents things from exploding."]
-	quest.5C7D9BCDF19B86BD.quest_subtitle: "Secure!"
-	quest.5D64250B940BC8FD.quest_desc: ["Compressed Iron can be used to craft &3Compressed Iron Armor&r, it's the same as Iron Armor but with better Armor Toughness and Knockback Resistance.\\n\\nThe armor can be crafted or can be found commonly in loot chests."]
-	quest.5D64250B940BC8FD.quest_subtitle: "Great Knockback Resistance"
-	quest.5D64250B940BC8FD.title: "Compressed Iron Armor"
-	quest.5D71ED16FD4E725A.quest_desc: ["Makes Piglins Passive (same as wearing Gold Armor), you only need to put the Upgrade on one piece."]
-	quest.5D71ED16FD4E725A.quest_subtitle: "Max: 1"
+	quest.4C0D00B5305117A1.quest_subtitle: "Пиу-пиу (без вашего участия)"
+	quest.4CA17B0A80020B2F.quest_desc: ["&3Манометр&r используется для отображения дополнительной информации о механизме."]
+	quest.4CA17B0A80020B2F.quest_subtitle: "Мне нужно больше информации!"
+	quest.4E1E31EDD544EE10.quest_subtitle: "64 000 мБ"
+	quest.4F5348D0C83C3B0D.quest_desc: ["&3Солнечные элементы&r используются для изготовления солнечных компрессоров."]
+	quest.4F5348D0C83C3B0D.quest_subtitle: "Элементы солнца"
+	quest.4F5348D0C83C3B0D.title: "Солнечные элементы"
+	quest.4FCC20D9F8F87B2F.quest_desc: ["&3Пневматический ключ&r используется для перемещения или демонтажа ваших машин и труб."]
+	quest.4FCC20D9F8F87B2F.quest_subtitle: "Крутящий момент для инструментов!"
+	quest.5103C817381181DE.quest_desc: ["Позволяет использовать элитры, не снимая пневматический нагрудник."]
+	quest.5103C817381181DE.quest_subtitle: "Максимум: 1"
+	quest.520EFA7F446AFBF2.quest_desc: ["&3Смазку&r можно использовать для изготовления буровых коронок."]
+	quest.520EFA7F446AFBF2.quest_subtitle: "Производство смазки!"
+	quest.520EFA7F446AFBF2.title: "Смазка"
+	quest.521656D425E2FDBA.quest_desc: ["Работает еще быстрее, чем уровень II."]
+	quest.521656D425E2FDBA.quest_subtitle: "Максимум: 1"
+	quest.52D3697F1F5625C7.quest_desc: ["&3Травильная кислота&r изготавливается в камере давления из жидкого пластика... и некоторых других вещей. Используется в травяной ванне."]
+	quest.52D3697F1F5625C7.quest_subtitle: "Не спрашивайте..."
+	quest.5303509A1C2B1CCD.quest_desc: ["&3Пневматический отбойный молоток&r использует давление для добычи, его можно улучшить до потрясающего состояния!"]
+	quest.5303509A1C2B1CCD.quest_subtitle: "Прости, Джек!"
+	quest.53518D4ED99A242F.quest_desc: ["&3Аппликатор камуфляжа&r можно использовать, чтобы спрятать механизмы PneumaticCraft внутри других блоков."]
+	quest.53518D4ED99A242F.quest_subtitle: "Хотите, чтобы ваша установка выглядела круто?"
+	quest.54169B69725C49DF.quest_desc: ["Разлейте жидкий пластик на землю или поместите его в сундук с прикрепленной тепловой рамкой, и вот он — ваш &3пластиковый лист&r!"]
+	quest.54169B69725C49DF.quest_subtitle: "Наконец-то!"
+	quest.54169B69725C49DF.title: "&fПластик"
+	quest.5A0860631323B5E3.quest_desc: ["Изготавливается из &3пшеничной муки&r. Можно использовать для приготовления темпуры из лосося и хлеба на закваске."]
+	quest.5A0860631323B5E3.quest_subtitle: "Вам это нужно"
+	quest.5A9D6672385D3D82.quest_desc: ["Используйте только 1 лазурит для улучшения вместо 4."]
+	quest.5A9D6672385D3D82.quest_subtitle: "Экономия лазурита"
+	quest.5AEE86EB39FD4087.quest_desc: ["&3Вихревая трубка&r разделяет давление на горячий и холодный воздух. Холодный воздух идет к синей стороне, а горячий — к красной."]
+	quest.5AEE86EB39FD4087.quest_subtitle: "Всё еще не RF..."
+	quest.5AEE86EB39FD4087.title: "Производство тепла"
+	quest.5B9F933ECD6B24FD.quest_desc: ["Позволяет прыгать выше, чем с уровнем II."]
+	quest.5B9F933ECD6B24FD.quest_subtitle: "Максимум: 1"
+	quest.5C7D9BCDF19B86BD.quest_desc: ["Предотвращает взрывы."]
+	quest.5C7D9BCDF19B86BD.quest_subtitle: "Безопасно!"
+	quest.5D64250B940BC8FD.quest_desc: ["Сжатое железо можно использовать для создания &3брони из сжатого железа&r. Она такая же, как железная броня, но с лучшей стойкостью и сопротивлением отбрасыванию.\\n\\nБроню можно скрафтить или часто найти в сундуках со строительным лутом."]
+	quest.5D64250B940BC8FD.quest_subtitle: "Отличное сопротивление отбрасыванию"
+	quest.5D64250B940BC8FD.title: "Броня из сжатого железа"
+	quest.5D71ED16FD4E725A.quest_desc: ["Делает пиглинов пассивными (так же, как при ношении золотой брони), вам нужно установить это улучшение только на один предмет."]
+	quest.5D71ED16FD4E725A.quest_subtitle: "Максимум: 1"
 	quest.5D7B34761E8FD212.quest_desc: [
-		"The &3Electrostatic Compressor&r generates a lot of pressure from Lightning Strikes.\\n\\nFor more info check out the \"Information\" tab in JEI.\\n"
+		"&3Электростатический компрессор&r вырабатывает много давления от ударов молнии.\\n\\nДля получения дополнительной информации загляните во вкладку «Информация» в JEI.\\n"
 		"{image:pneumaticcraft:textures/patchouli/electrostatic_compressor.png width:100 height:100 align:left fit:true}"
 	]
-	quest.5D7B34761E8FD212.title: "Pressure from Lightning"
-	quest.5E71F8A046C60346.quest_desc: ["Whoever told you PneumaticCraft wasn't about generating power?\\n\\nThe &3Pneumatic Dynamo&r allows you to turn your pressure in FE. Read the tooltip or read about it in the PNC:R to learn how it works."]
-	quest.5E71F8A046C60346.quest_subtitle: "Pressure = Power"
-	quest.5E71F8A046C60346.title: "Generating Power"
-	quest.602C3E88D96F8843.quest_desc: ["Put a Charged Empty PCB into the Etching Tank with some Etching Acid and some heat and you'll get an &3Unassembled PCBs&r."]
-	quest.602C3E88D96F8843.quest_subtitle: "Almost there!"
-	quest.61AD2207E770CD7F.quest_desc: ["Allows you to pickup items and experience from furthur away."]
-	quest.61AD2207E770CD7F.quest_subtitle: "Max: 6"
-	quest.61B479079DC1C69C.quest_desc: ["Allows you to jump higher than with Tier I."]
-	quest.61B479079DC1C69C.quest_subtitle: "Max: 1"
-	quest.61BA2932EC86DA2E.quest_desc: ["Allows you to jump VERY high."]
-	quest.61BA2932EC86DA2E.quest_subtitle: "Max: 1"
-	quest.63F6F4EBCEB914B0.quest_desc: ["The &3Pressure Chamber&r is an important multiblock structure made up of &3Pressure Chamber Walls&r (The faces can be replaced with &3Pressure Chamber Glass&r). The Pressure Chamber can be as small as a 3x3x3 multiblock, or as big as a 5x5x5 multiblock. The blocks required for the 5x5x5 is what's needed to complete this quest.\\n\\nTo use the Pressure Chamber you will need to pipe pressure into a &3Pressure Chamber Valve&r using the &3Pressure Tubes&r you made earlier, remember to put a Security Upgrade into the Pressure Valve. &lDifferent recipes require different amounts of pressure&r.\\n\\nYou'll need to be able to input and output items to and from the Pressure Chamber, this is where &3Pressure Chamber Interfaces&r come into it. Blue on the outside means it's for importing items, while if gold is on the outside it's for outputing items, place one of each on any face."]
-	quest.63F6F4EBCEB914B0.quest_subtitle: "Pressurizing!"
-	quest.63F6F4EBCEB914B0.title: "The Pressure Chamber"
-	quest.649167FC31EB916E.quest_desc: ["&3Vegetable Oil&r can be made by putting either crops or seeds into a &3Thermopneumatic Processing Plant&r."]
-	quest.649167FC31EB916E.quest_subtitle: "Better Oil"
-	quest.649167FC31EB916E.title: "Vegetable Oil"
-	quest.64D34A6C3487C5DF.quest_desc: ["The &3Aerial Interface&r can be used to refill your pressurizable things with pressure. Now you can use your Pneumatic Armor without needing to recharge!\\n\\nYou will need one of these in order to craft the &6ATM Star&r."]
-	quest.64D34A6C3487C5DF.quest_subtitle: "Wireless Pressure!"
-	quest.64E2E05B228EA53E.quest_desc: ["&3Advanced Pressure Tubes&r are the best Pressure Tubes available, being able to hold 20 bars of pressure!\\n\\nAlthough these are really cool on their own, they can also be used in some even cooler recipes."]
-	quest.64E2E05B228EA53E.quest_subtitle: "A Whole new Level!"
+	quest.5D7B34761E8FD212.title: "Давление от молнии"
+	quest.5E71F8A046C60346.quest_desc: ["Кто сказал вам, что PneumaticCraft не предназначен для выработки энергии?\\n\\n&3Пневматическое динамо&r позволяет преобразовывать ваше давление в FE. Читайте всплывающую подсказку или руководство PNC:R, чтобы узнать, как оно работает."]
+	quest.5E71F8A046C60346.quest_subtitle: "Давление = Энергия"
+	quest.5E71F8A046C60346.title: "Выработка энергии"
+	quest.602C3E88D96F8843.quest_desc: ["Поместите заряженную пустую ПП в травяную ванну с травильной кислотой и подайте тепло, и вы получите &3несобранную печатную плату&r."]
+	quest.602C3E88D96F8843.quest_subtitle: "Почти готово!"
+	quest.61AD2207E770CD7F.quest_desc: ["Позволяет подбирать предметы и опыт с большего расстояния."]
+	quest.61AD2207E770CD7F.quest_subtitle: "Максимум: 6"
+	quest.61B479079DC1C69C.quest_desc: ["Позволяет прыгать выше, чем с уровнем I."]
+	quest.61B479079DC1C69C.quest_subtitle: "Максимум: 1"
+	quest.61BA2932EC86DA2E.quest_desc: ["Позволяет прыгать ОЧЕНЬ высоко."]
+	quest.61BA2932EC86DA2E.quest_subtitle: "Максимум: 1"
+	quest.63F6F4EBCEB914B0.quest_desc: ["&3Камера давления&r — важная многоблочная структура, состоящая из &3стенок камеры давления&r (грани можно заменить на &3стекло камеры давления&r). Камера давления может быть как маленькой (3x3x3), так и большой (5x5x5). Блоки, необходимые для 5x5x5 — это то, что требуется для завершения этого квеста.\\n\\nЧтобы использовать камеру давления, вам нужно будет подать давление в &3клапан камеры давления&r с помощью &3труб давления&r, которые вы сделали ранее. Не забудьте вставить улучшение безопасности в клапан. &lРазные рецепты требуют разного уровня давления&r.\\n\\nВам нужно будет вводить и выводить предметы из камеры давления — именно здесь в игру вступают &3интерфейсы камеры давления&r. Синий цвет снаружи означает импорт предметов, а золотой — экспорт. Разместите по одному на любой грани."]
+	quest.63F6F4EBCEB914B0.quest_subtitle: "Под давлением!"
+	quest.63F6F4EBCEB914B0.title: "Камера давления"
+	quest.649167FC31EB916E.quest_desc: ["&3Растительное масло&r можно получить, поместив урожай или семена в &3термопневматическую перерабатывающую установку&r."]
+	quest.649167FC31EB916E.quest_subtitle: "Масло получше"
+	quest.649167FC31EB916E.title: "Растительное масло"
+	quest.64D34A6C3487C5DF.quest_desc: ["&3Антенный интерфейс&r можно использовать для восполнения давления в ваших предметах. Теперь вы можете использовать пневматическую броню без необходимости подзарядки!"]
+	quest.64D34A6C3487C5DF.quest_subtitle: "Беспроводное давление!"
+	quest.64E2E05B228EA53E.quest_desc: ["&3Улучшенные трубы давления&r — лучшие из доступных труб давления, они способны выдерживать 20 бар!\\n\\nХотя они очень круты сами по себе, их также можно использовать в некоторых еще более крутых рецептах."]
+	quest.64E2E05B228EA53E.quest_subtitle: "Совершенно новый уровень!"
 	quest.657DB994B029F61C.quest_desc: [
-		"When the &3Heat Frame&r is placed on a container containing certain fluids and made cold enough, it will turn said fluids into items."
+		"Когда &3тепловая рамка&r помещается на контейнер с определенными жидкостями и охлаждается достаточно сильно, она превращает эти жидкости в предметы."
 		""
-		"Turns Molten Plastic into Plastic."
-		"Turns Water into Ice."
-		"Turns Lava into Obsidian."
+		"Превращает жидкий пластик в пластик."
+		"Превращает воду в лед."
+		"Превращает лаву в обсидиан."
 	]
-	quest.65E2AF881709C896.quest_desc: ["One of the most important materials you'll be needing is &3Reinforced Stone&r, start by making 32 using Compressed Iron and some regular stone."]
-	quest.65E2AF881709C896.quest_subtitle: "You'll need a lot of this"
-	quest.65E2AF881709C896.title: "Reinforced Stone"
-	quest.6674270897997BF7.quest_desc: ["Allows you to jump higher than usual and makes you springy, making for faster travel.\\n\\nYou can only have one level of these Upgrades in the Leggings at a time."]
-	quest.6674270897997BF7.quest_subtitle: "Max: 1"
-	quest.681A3F31FB242555.quest_desc: ["&3Ethanol&r can be used to make Biodiesel."]
-	quest.681A3F31FB242555.title: "Ethanol"
-	quest.68F92455A9483AD6.quest_desc: ["You will only see this quest if you have used Jet Boots.\\n\\nThere's no way of using Jet Boots without taking damage, don't even try..."]
-	quest.68F92455A9483AD6.quest_subtitle: "You thought using an Elytra was hard?"
-	quest.68F92455A9483AD6.title: "Jet Boots"
-	quest.6B1C06C753C10E44.quest_desc: ["The &3Logistics Configurator&r can be used to configure Logistic Frames and Transfer Gadgets."]
-	quest.6CA01DCE1F4A0EC3.quest_desc: ["The next stage of the mod requires the collection of &3Crude Oil&r. This Oil can be found naturally on the surface of the overworld."]
-	quest.6CA01DCE1F4A0EC3.quest_subtitle: "The Path to Plastic"
-	quest.6CA01DCE1F4A0EC3.title: "Crude Oil"
-	quest.6D124ACF4AE80490.quest_desc: ["With Micromissiles you can shoot explosions from far away! Now nobody can escape!\\n\\nTheses are needed to craft the &6ATM Star&r."]
-	quest.6D124ACF4AE80490.quest_subtitle: "Firing Explosions from afar!"
+	quest.65E2AF881709C896.quest_desc: ["Одним из самых важных материалов, которые вам понадобятся, является &3укрепленный камень&r. Для начала сделайте 32 штуки, используя сжатое железо и обычный камень."]
+	quest.65E2AF881709C896.quest_subtitle: "Вам понадобится много этого материала"
+	quest.65E2AF881709C896.title: "Укрепленный камень"
+	quest.6674270897997BF7.quest_desc: ["Позволяет прыгать выше обычного и делает вас прыгучим, что ускоряет перемещение.\\n\\nВ поножах может быть установлен только один уровень этого улучшения одновременно."]
+	quest.6674270897997BF7.quest_subtitle: "Максимум: 1"
+	quest.681A3F31FB242555.quest_desc: ["&3Этанол&r можно использовать для производства биодизеля."]
+	quest.681A3F31FB242555.title: "Этанол"
+	quest.68F92455A9483AD6.quest_desc: ["Вы увидите этот квест только в том случае, если использовали реактивные сапоги.\\n\\nНевозможно использовать реактивные сапоги, не получая урона, даже не пытайтесь..."]
+	quest.68F92455A9483AD6.quest_subtitle: "Вы думали, что использовать элитры сложно?"
+	quest.68F92455A9483AD6.title: "Реактивные сапоги"
+	quest.6B1C06C753C10E44.quest_desc: ["&3Логистический конфигуратор&r можно использовать для настройки логистических рам и гаджетов перемещения."]
+	quest.6CA01DCE1F4A0EC3.quest_desc: ["Следующий этап мода требует сбора &3сырой нефти&r. Эту нефть можно найти в естественном виде на поверхности верхнего мира."]
+	quest.6CA01DCE1F4A0EC3.quest_subtitle: "Путь к пластику"
+	quest.6CA01DCE1F4A0EC3.title: "Сырая нефть"
+	quest.6D124ACF4AE80490.quest_desc: ["С помощью микроракет вы можете устраивать взрывы издалека! Теперь никто не уйдет!"]
+	quest.6D124ACF4AE80490.quest_subtitle: "Запуск взрывов издалека!"
 	quest.6EB53CDCB80D4B66.quest_desc: [
-		"The &3Pneumatic Door&r acts as automatic door that can be made to only open for you!"
+		"&3Пневматическая дверь&r действует как автоматическая дверь, которую можно настроить так, чтобы она открывалась только для вас!"
 		""
 		"{image:pneumaticcraft:textures/patchouli/pneumatic_door.png width:200 height:200 align:right fit:true}"
 	]
-	quest.6FD65139CD50A8C0.quest_desc: ["Is that even possible?\\n\\nIf you wish to automate this process you can use &eProductive Bees&r or &aMystical Agriculture&r. Or I guess you could automate it, with...explosions."]
-	quest.6FD65139CD50A8C0.quest_subtitle: "Tired of blowing stuff up?"
+	quest.6FD65139CD50A8C0.quest_desc: ["Это вообще возможно?\\n\\nЕсли вы хотите автоматизировать этот процесс, вы можете использовать &eProductive Bees&r или &aMystical Agriculture&r. Или, я полагаю, вы могли бы автоматизировать это с помощью... взрывов."]
+	quest.6FD65139CD50A8C0.quest_subtitle: "Устали что-то взрывать?"
 	quest.7040CA41C0A3C2F2.quest_desc: [
-		"&3PCB Blueprints&r ON SALE NOW for 8 Emeralds. (Only for a limited time)."
+		"&3Чертежи печатных плат (ПП)&r В ПРОДАЖЕ по цене 8 изумрудов. (Только в течение ограниченного времени)."
 		"{@pagebreak}"
-		"(new page placeholder text)"
+		"(заполнитель новой страницы)"
 	]
-	quest.7040CA41C0A3C2F2.quest_subtitle: "Thanks Amadron!"
-	quest.7040CA41C0A3C2F2.title: "&9PCB Blueprint"
+	quest.7040CA41C0A3C2F2.quest_subtitle: "Спасибо, Амадрон!"
+	quest.7040CA41C0A3C2F2.title: "&9Чертеж ПП"
 	quest.715B86DC82EA636B.quest_desc: [
-		"The &3Liquid Compressor&r creates pressure using certain liquids. You can put the fuel in by right-clicking the bucket onto the machine, pumping in the fluid, or by putting a bucket in the top slot in the GUI."
+		"&3Жидкостный компрессор&r создает давление, используя определенные жидкости. Вы можете залить топливо, щелкнув ведром по машине, закачав жидкость или поместив ведро в верхний слот интерфейса."
 		""
 		"{image:pneumaticcraft:textures/gui/gui_liquid_compressor.png width:200 height:200 align:center fit:true}"
 	]
-	quest.715B86DC82EA636B.title: "Pressure from Liquids"
+	quest.715B86DC82EA636B.title: "Давление от жидкостей"
 	quest.7177E49BF9ECA5CF.quest_desc: [
-		"The &3Thermal Compressor&r creates pressure using heat! Place somthing hot on one side and something cold on the other to create pressure."
+		"&3Тепловой компрессор&r создает давление, используя тепло! Поместите что-нибудь горячее с одной стороны и что-нибудь холодное с другой, чтобы создать давление."
 		""
 		"{image:pneumaticcraft:textures/patchouli/thermal_compressor.png width:100 height:100 align:left fit:true}"
 	]
-	quest.7177E49BF9ECA5CF.title: "Pressure from Heat"
-	quest.718DABA6C9E5982A.quest_desc: ["Grants the player Night Vision when worn."]
-	quest.718DABA6C9E5982A.quest_subtitle: "Max: 1"
+	quest.7177E49BF9ECA5CF.title: "Давление от тепла"
+	quest.718DABA6C9E5982A.quest_desc: ["Дает игроку ночное зрение при ношении."]
+	quest.718DABA6C9E5982A.quest_subtitle: "Максимум: 1"
 	quest.72C09FD89C28B1EC.quest_desc: [
-		"The &3Oil Refinery&r we'll be making is a 1x1x5 multiblock made up of 1 &3Refinery Controller&r (at the bottom) and four &3Refinery Outputs&r (on top). You will need to input Oil and heat for this to work. This will produce Diesel, Kerosene, Gasoline and LPG. Putting &3Thermal Laggings&r on the sides helps keep it warm."
+		"&3Нефтеперерабатывающий завод&r, который мы будем строить, представляет собой многоблочную структуру 1x1x5, состоящую из одного &3контроллера НПЗ&r (внизу) и четырех &3выходов НПЗ&r (сверху). Для работы вам потребуется подавать нефть и тепло. В результате будет производиться дизельное топливо, керосин, бензин и ПНГ. Установка &3тепловой изоляции&r по бокам помогает сохранять тепло."
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/oil_refinery.png width:300 height:150 align:center}"
 	]
-	quest.72C09FD89C28B1EC.quest_subtitle: "Now we're getting somewhere"
-	quest.72C09FD89C28B1EC.title: "Oil Refinery"
+	quest.72C09FD89C28B1EC.quest_subtitle: "Теперь мы чего-то добиваемся"
+	quest.72C09FD89C28B1EC.title: "Нефтеперерабатывающий завод"
 	quest.7386A8433698946C.quest_desc: [
-		"Select an item an this upgrade will search fo it nearby in chests or on the floor. To find it in chests it will need the Block Tracker Upgrade and to find it on the floor it will need the Entity Tracker Upgrade.\\n"
+		"Выберите предмет, и это улучшение будет искать его поблизости в сундуках или на земле. Чтобы найти его в сундуках, понадобится улучшение «Отслеживание блоков», а чтобы найти на земле — улучшение «Отслеживание сущностей».\\n"
 		"{image:atm:textures/questpics/pneumaticcraft/item_search_upgrade.png width:200 height:200 align:center}"
 	]
-	quest.7386A8433698946C.quest_subtitle: "Max: 1"
-	quest.7395B41685F4BC1A.quest_desc: ["The &3Flux Compressor&r can create a ton of pressure using power. Simply pump some FE in and it will start generating some. If you have enough FE to spare, this is probably the easiest way to generate pressure."]
-	quest.7395B41685F4BC1A.quest_subtitle: "Power = Pressure"
-	quest.7395B41685F4BC1A.title: "Pressure from Power"
-	quest.74015945716FD10A.quest_desc: ["Thie &3Omnidirectional Hopper&r can input items from any side, plus it can be upgraded to be way faster than a regular Hopper! Nice for when Pipes aren't needed."]
-	quest.74015945716FD10A.quest_subtitle: "A configurable hopper"
-	quest.74AE214747A3DB1A.quest_desc: ["Increases how much pressure things can hold."]
-	quest.74AE214747A3DB1A.quest_subtitle: "Turn it up!"
-	quest.75D3F3C1D4A3EAA2.quest_desc: ["To move the heat being made by the Vortex Tube, make some &3Heat Pipes&r."]
-	quest.75D3F3C1D4A3EAA2.quest_subtitle: "We have the heat to move :)"
-	quest.75D3F3C1D4A3EAA2.title: "Moving Heat"
-	quest.762B8309E1A31B99.quest_desc: ["Each upgrade adds +0.5 Armor Defence and +1 Armor Toughness."]
-	quest.762B8309E1A31B99.quest_subtitle: "Max: 4"
-	quest.7770F0D62457096D.quest_desc: ["Although these quests won't go over Drones, they are amazing! Look into using them if you want to."]
-	quest.7770F0D62457096D.title: "Programming Drones"
-	quest.795143471F31A64A.quest_subtitle: "Required for Laser recipes"
-	quest.7953C87C488A2AF7.quest_desc: ["Allows you to fly like Iron Man.\\n\\nYou can only have one level of these Upgrades in the Boots at a time. Each level will use more pressure than the previous.\\n\\nUse these upgrades, don't just craft them."]
-	quest.7953C87C488A2AF7.quest_subtitle: "Max: 1"
-	quest.7B2008977702D0C8.quest_desc: ["When making pressure in an Air Compressor, if you don't have anywhere for the pressure to go. it will just disappear. Make sure you have somewhere for the pressure to go before making some."]
-	quest.7B2008977702D0C8.quest_subtitle: "What happened to RF or FE?"
-	quest.7BFC24607189B6D0.quest_desc: ["Makes you swim faster."]
-	quest.7BFC24607189B6D0.quest_subtitle: "Max: 1"
-	quest.7BFE7DAF18981843.quest_subtitle: "Required for Drill recipes"
-	quest.7D6B4AEF806AF62E.quest_desc: ["100% way too fast! Try not to die!"]
-	quest.7D6B4AEF806AF62E.quest_subtitle: "Max: 1"
-	quest.7D81F2381516204D.quest_subtitle: "Needed for Finished PCBs"
-	quest.7D81F2381516204D.title: "Transistors"
-	quest.7FB12EC3A5888123.quest_desc: ["The &3Tube Junction&r gives you more control over the transportation of your pressure by allowing you to move your Pressure Tubes in more directions."]
-	quest.7FB12EC3A5888123.quest_subtitle: "No, go this way!"
-	task.0B54EDC9E21F2E77.title: "Logistics Frames"
+	quest.7386A8433698946C.quest_subtitle: "Максимум: 1"
+	quest.7395B41685F4BC1A.quest_desc: ["&3Потоковый компрессор&r может создавать огромное давление, используя энергию. Просто закачайте немного FE, и он начнет его вырабатывать. Если у вас достаточно лишней энергии FE, это, вероятно, самый простой способ создания давления."]
+	quest.7395B41685F4BC1A.quest_subtitle: "Энергия = Давление"
+	quest.7395B41685F4BC1A.title: "Давление из энергии"
+	quest.74015945716FD10A.quest_desc: ["Эта &3всенаправленная воронка&r может принимать предметы с любой стороны, к тому же её можно улучшить, чтобы она работала намного быстрее обычной воронки! Удобно, когда трубы не нужны."]
+	quest.74015945716FD10A.quest_subtitle: "Настраиваемая воронка"
+	quest.74AE214747A3DB1A.quest_desc: ["Увеличивает объем давления, который могут выдержать предметы."]
+	quest.74AE214747A3DB1A.quest_subtitle: "Прибавь жару!"
+	quest.75D3F3C1D4A3EAA2.quest_desc: ["Чтобы перемещать тепло, создаваемое вихревой трубкой, сделайте несколько &3тепловых труб&r."]
+	quest.75D3F3C1D4A3EAA2.quest_subtitle: "У нас есть тепло, которое нужно переместить :)"
+	quest.75D3F3C1D4A3EAA2.title: "Перемещение тепла"
+	quest.762B8309E1A31B99.quest_desc: ["Каждое улучшение добавляет +0,5 к защите брони и +1 к стойкости брони."]
+	quest.762B8309E1A31B99.quest_subtitle: "Максимум: 4"
+	quest.7770F0D62457096D.quest_desc: ["Хотя эти квесты не затрагивают дронов, они потрясающие! Изучите возможность их использования, если хотите."]
+	quest.7770F0D62457096D.title: "Программирование дронов"
+	quest.795143471F31A64A.quest_subtitle: "Требуется для лазерных рецептов"
+	quest.7953C87C488A2AF7.quest_desc: ["Позволяет летать как Железный человек.\\n\\nВ сапогах может быть установлен только один уровень этого улучшения одновременно. Каждый уровень будет расходовать больше давления, чем предыдущий.\\n\\nИспользуйте эти улучшения, а не просто создавайте их."]
+	quest.7953C87C488A2AF7.quest_subtitle: "Максимум: 1"
+	quest.7B2008977702D0C8.quest_desc: ["При создании давления в воздушном компрессоре, если ему некуда уходить, оно просто исчезнет. Убедитесь, что у вас есть место для хранения давления, прежде чем его вырабатывать."]
+	quest.7B2008977702D0C8.quest_subtitle: "Что случилось с RF или FE?"
+	quest.7BFC24607189B6D0.quest_desc: ["Заставляет вас плавать быстрее."]
+	quest.7BFC24607189B6D0.quest_subtitle: "Максимум: 1"
+	quest.7BFE7DAF18981843.quest_subtitle: "Требуется для рецептов бура"
+	quest.7D6B4AEF806AF62E.quest_desc: ["На 100% слишком быстро! Постарайтесь не умереть!"]
+	quest.7D6B4AEF806AF62E.quest_subtitle: "Максимум: 1"
+	quest.7D81F2381516204D.quest_subtitle: "Необходимы для готовых печатных плат"
+	quest.7D81F2381516204D.title: "Транзисторы"
+	quest.7FB12EC3A5888123.quest_desc: ["&3Развязка труб&r дает вам больше контроля над транспортировкой давления, позволяя перемещать трубы давления в большем количестве направлений."]
+	quest.7FB12EC3A5888123.quest_subtitle: "Нет, иди в ту сторону!"
+	task.0B54EDC9E21F2E77.title: "Логистические рамы"
 	task.13266875BDB5077D.title: "AllRightsReserved"
-	task.1EEC7B67E037F766.title: "Understanding Pressure"
-	task.25FF884779D98BAD.title: "Construction Bricks™"
+	task.1EEC7B67E037F766.title: "Понимание давления"
+	task.25FF884779D98BAD.title: "Строительные кирпичи™"
+	task.28A1D25CDDBF5163.title: "Сундуки"
 	task.2C268116DA162155.title: "AllRightsReserved"
-	task.49A8320F9EA7F4BD.title: "Compressed Iron Automation"
+	task.49A8320F9EA7F4BD.title: "Автоматизация сжатого железа"
 }
