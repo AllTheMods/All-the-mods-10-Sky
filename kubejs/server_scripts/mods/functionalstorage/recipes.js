@@ -21,7 +21,12 @@ ServerEvents.recipes((allthemods) => {
   compact(Item.of("utilitarian:tiny_charcoal", 8), Item.of("minecraft:charcoal"))
   compact(Item.of("utilitarian:tiny_coal", 8), Item.of("minecraft:coal"))
 
+  compact(Item.of("minecraft:pointed_dripstone", 4), Item.of("minecraft:dripstone_block"))
+
+  compact(Item.of("extendedae:entro_shard", 8), Item.of("extendedae:entro_crystal"))
   compact(Item.of("forbidden_arcanus:ender_pearl_fragment", 4), Item.of("minecraft:ender_pearl"))
+  compact(Item.of("productivebees:draconic_dust", 9), Item.of("productivebees:draconic_chunk"))
+  compact(Item.of("wstweaks:fragment", 9), Item.of("minecraft:wither_skeleton_skull"))
 
   compact(Item.of("exdeorum:stone_pebble", 4), Item.of("minecraft:cobblestone"))
   compact(Item.of("exdeorum:diorite_pebble", 4), Item.of("minecraft:diorite"))
