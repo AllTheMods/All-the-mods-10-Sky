@@ -1,4 +1,7 @@
 {
+	quest.0A0C5A2F8DDED257.quest_desc: ["The &eDyson Cube&r is the ultimate power source, producing up to an insane &l&a1GFE/t&r&r!\\n\\nSet up an &eEM Rail Ejector Controller&r to launch &bSolar Sails&r and &bBeams&r into orbit around the Sun. You can input items &bautomatically&r through the center of the bottom face (you’ll definitely need automation to reach maximum power output). Unfortunately, it &ocannot fire&r at midday, at night, or during rain.\\n\\nTo collect that glorious energy, build a &bRay Receiver Controller&r. It outputs power from the center of its bottom face but &ocannot receive power&r during &enight&r or &erain&r.\\n\\nYou can &epackage&r beams and sails into bundles for faster launches, which is much easier than sending them one by one.\\n\\nFor maximum output, you’ll need to send &c8,333,333&r beams and &c49,999,998&r sails into orbit, which is quite a lot.\\n\\nBefore you start scaling up to that level, make sure you’ve got some &arobust resource generation&r in place."]
+	quest.0A0C5A2F8DDED257.quest_subtitle: "The power of the Sun, in the palm of your hand"
+	quest.0A0C5A2F8DDED257.title: "&eDyson Cube"
 	quest.0BB42C5861B22D32.quest_desc: ["The &bMycelial Reactor&r consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchanting Mycelial Generator&r.\\n\\nBut after you get it all automated, you don't need to stop at one, you can make more reactors."]
 	quest.0BB42C5861B22D32.quest_subtitle: "It's not Yourcelial Reactor"
 	quest.0BB42C5861B22D32.title: "&9Industrial Foregoing: &bMycelial Reactor"
@@ -27,6 +30,12 @@
 	quest.35CC898E0E49FE58.title: "&8Flux Networks"
 	quest.36DEA17CBB696CC7.quest_desc: ["If you right-click on the Plug, you'll see the Flux Network UI. On the far top-right corner, click on the + button to create your first network. You'll need to set a password to create the network, but you can also set a color!\\n\\nFrom here, you can go to the Network Selection tab to activate your network on the Plug. If the Plug is attached to a power source, you can now harness that power anywhere in your system using a Flux Point!\\n\\nPro Tip: You can create multiple networks if you want to have different power sources powering different parts of your systems!"]
 	quest.36DEA17CBB696CC7.quest_subtitle: "Becoming a Network Admin!"
+	quest.3B3E12581F9F0482.quest_desc: [
+		"&bDraconic Evolution&r adds a multiblock called the &dEnergy Core&r.\\n\\nWhile it may seem confusing, the final tier can hold &m9,223,372,036,854,775,808 FE&r basically infinite power.\\n\\nFor more information, check out the Draconic Evolution Chapter!"
+		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
+	]
+	quest.3B3E12581F9F0482.quest_subtitle: "Basically Infinite Storage"
+	quest.3B3E12581F9F0482.title: "&9Draconic Evolution: &dEnergy Core"
 	quest.3BDB94F17765EE77.quest_desc: ["If you're looking to generate a ton of power, you can start by scaling up some of the options from the &9Mid Game Power&r section. Make your &aReactors&r bigger. Upgrade your &9Thermo Generators&r to Nitro. Go wild.\\n\\nHowever, you may need even more power."]
 	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
 	quest.3BDB94F17765EE77.title: "End Game Power Options"
@@ -57,7 +66,7 @@
 	quest.5F078A574A783B02.quest_subtitle: "Just plug it in!"
 	quest.5F078A574A783B02.title: "Starting Your Network"
 	quest.682034C680FDEDC2.quest_desc: [
-		"&9Mekanism's&r &aInduction Matrix&r is the ultimate way to store your power.\\n\\nIf you're looking for the best power storage in the game, check out the &aMekanism:&r &dReactors&r quest chapter.\\n"
+		"&9Mekanism's&r &aInduction Matrix&r is a powerful way to store your power.\\n\\nIf you're looking for the best power storage &aMekanism&r has to offer, check out the &9Mekanism:&r &dReactors&r quest chapter.\\n"
 		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
 	]
 	quest.682034C680FDEDC2.title: "More Power Storage"
