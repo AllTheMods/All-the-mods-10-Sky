@@ -288,8 +288,6 @@
 	quest.4D193D60A3CAF435.title: "&2&lDiesel Generator"
 	quest.4D8190E94851C546.quest_desc: ["Live &cWires&r (&cWires&r transporting &cEnergy&r are Live &cWires&r) will hurt you when using a &6&lSkyhook&r on them. \\n\\nUnless you Insulate your Grip!"]
 	quest.4E297778DCEEC963.quest_desc: ["Advanced Heatsinks are our only &5&lRailgun&r exclusive Upgrades. \\n\\nIt will make it so the &5&lRailgun&r charges up much faster!"]
-	quest.4E8860056D068610.quest_desc: ["These can't be Crafted, instead they are last Trades from a Machinist Villager. \\n\\n&0Graphite Electrodes&r are used as Fuel for the &8&lArc Furnace&r (also for Fluorescent Lights). \\n\\nTo get them we'll need this special &9Blueprint&r."]
-	quest.4E8860056D068610.title: "&9Arc Furnace Electrodes Blueprints "
 	quest.4F56BFE6E4716F6D.quest_desc: [
 		"The &8&lArc Furnace&r is a massive and helpful Machine. It makes most other Machines useless! \\n\\nTo start you'll need &cEnergy&r Input from the outlets in the Back of the &8&lArc Furnace&r. It'll then need Fuel which are &0Graphite Electrodes&r. These can only be placed into its GUI, they can't be automated. \\n\\nYou'll then need to &6Input&r the &eItems&r into the Top Ports, near where the &0Graphite Electrodes&r are. When fueled and powered it'll melt down, just about anything. From &7Iron Rods&r to &7Iron Ingots&r, to &bFroststeel Helmets&r to &bFroststeel&r, to &eGold Pickaxes&r to &eGold&r! \\n\\nThe melted down &eItems&r will be &6Output&r into the Back below the Power Outlets. \\n\\nIt can also make Alloys from Metals!"
 		"{@pagebreak}"

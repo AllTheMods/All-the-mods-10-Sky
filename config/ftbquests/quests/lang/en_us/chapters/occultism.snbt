@@ -1,7 +1,7 @@
 {
 	quest.00A6020BC979947F.quest_desc: ["With your freshly summoned &9Marid Crusher&r, you can break down an Echo Shard and an Iesnium Ingot, which when combined with a Glow Ink Sac creates Cyan Chalk."]
 	quest.00A6020BC979947F.title: "&3Cyan Chalk"
-	quest.03250A0202C25E80.quest_desc: ["After you've successfully slain the &9Unbound Marid&r Demon that you summoned with &4Abras' Fortified Conjure&r, you can use the &9Marid Essence&r that it drops to craft the \"highest\" colored Chalk, Blue Chalk."]
+	quest.03250A0202C25E80.quest_desc: ["After you've successfully slain the &9Unbound Marid&r Demon that you summoned with &4Tibira's Attraction&r, you can use the &9Marid Essence&r that it drops to craft the \"highest\" colored Chalk, Blue Chalk."]
 	quest.03250A0202C25E80.title: "&9Blue Chalk"
 	quest.08697EB269B011FD.quest_desc: [
 		"With &dRonaza's Contact&r, you can upgrade your &bIesnium Sacrificial Bowl&r to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. "
@@ -41,6 +41,8 @@
 	quest.0D18BBB04693885A.quest_desc: ["Strigeor's Higher Binding is the second tier of &6Infusion Rituals&r. It's used for many different things, but the main things we'll need are the Infused Pickaxe and Gray Paste."]
 	quest.0D18BBB04693885A.quest_subtitle: "The \"Everything\" Ritual"
 	quest.0D18BBB04693885A.title: "&aStrigeor's Higher Binding"
+	quest.0FE3094B22412BD3.quest_desc: ["The Sacrificial Altar is another tool Ars Ocultas offers, this time, focusing on the automation of Sacrifices.\\n\\nThis Altar goes under your central bowl, and will allow for Sacrifices to be substituted with Source from a nearby Source Jar, if a Containment Jar containing the would-be sacrifice is also nearby"]
+	quest.0FE3094B22412BD3.quest_subtitle: "Source Substitutes Sacrifice"
 	quest.11A0593C0E2E6A35.quest_desc: ["Using &eEziveus' Spectral Compulsion&r, we can imbue a myriad of different nature blocks to form some &2Nature Paste&r. Combine this Paste with some Impure White Chalk to create Green Chalk."]
 	quest.11A0593C0E2E6A35.title: "&2Green Chalk"
 	quest.145C8235BCCB9BA8.quest_desc: [
@@ -76,7 +78,7 @@
 	]
 	quest.1DE0F289821F55D1.quest_desc: ["Now that we have a Foliot Crusher, we can &muse&r politely ask it to crush down some &eEnd Stone&r, &9Obsidian&r and &7Calcite&r for us. We'll use these to make some new Chalk!"]
 	quest.1DE0F289821F55D1.title: "&aChalking It Up"
-	quest.1EB887F8072439A3.quest_desc: ["After using &9Fatma's Incentivized Attraction&r to summon a &9Marid Crusher&r, you can turn Ice, Packed Ice, and Blue Ice into their crushed forms, and use these to create Light Blue Chalk."]
+	quest.1EB887F8072439A3.quest_desc: ["After using either &9Fatma's Incentivized Attraction&r to summon a &9Marid Crusher&r or &aOphyx' Calling&r to summon a &aDjinni Crusher&r, you can turn Ice, Packed Ice, and Blue Ice into their crushed forms, and use these to create Light Blue Chalk."]
 	quest.1EB887F8072439A3.title: "&bLight Blue Chalk"
 	quest.2960FFE0C53DFEB1.quest_desc: [
 		"&cSevira's Permanent Confinement&r is the third tier of &6Infusion Rituals&r. It's mainly used to create the next level of foundation Chalk, Black Chalk."
@@ -95,6 +97,9 @@
 		"There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!"
 	]
 	quest.29C83B00AC4AFC23.title: "What's Next?"
+	quest.2A3D132CDBDC8174.quest_desc: ["You might be wondering: Why is an Ars Nouveau item in the Occultism chapter? That's because we have Ars Ocultas, to bridge the two mods. Particularly, Spirits, like our Foliot Crusher, can work in these jars. You can even pipe items into the jars for the spirits to interact with, and they will output it to adjacent inventories (I found the bottom side of the jar to be the most reliable place they output to). If they cannot output to an inventory, they'll output the items into the world."]
+	quest.2A3D132CDBDC8174.quest_subtitle: "Spirits can work in Containment Jars"
+	quest.2A3D132CDBDC8174.title: "Ars Ocultas: Spirit Jars"
 	quest.2A5004EB99AE4F96.quest_desc: [
 		"There are more Otherworld items you will need to gather, and eating &cDemon's Dream Fruit&r every time you need the &7Third Eye&r effect gets annoying."
 		""
@@ -102,6 +107,9 @@
 	]
 	quest.2A5004EB99AE4F96.quest_subtitle: "Quit eating that fruit!"
 	quest.2A5004EB99AE4F96.title: "Tools of the Trade: Spectral Goggles"
+	quest.2A6FE386DF0E1D98.quest_desc: ["Don't want to get a &9Marid Crusher&r for &bLight Blue Chalk&r? Then you can settle for a &aDjinni Crusher&r instead. &aOphyx' Calling&r is used for summoning &aDjinnis&r. This includes a Demonic Wife/Husband. &aDjinnis&r are able to crush ores more efficiently than Foliots, but not as efficiently as &cAfrits&r or &9Marids&r. They're also capable of crushing ice without melting it."]
+	quest.2A6FE386DF0E1D98.quest_subtitle: "An alternate path for light blue"
+	quest.2A6FE386DF0E1D98.title: "&aOphyx' Calling"
 	quest.2AD68066C1948C90.quest_desc: [
 		"That first &eFoliot Crusher&r was cool, but what if I told you that you could summon a demon that gives you 6 dusts per raw ore it crushes?"
 		""
@@ -142,7 +150,7 @@
 		"Because we don't have access to Red Chalk yet, all we can summon is an &9Unbound&r Demon, meaning it cannot be controlled and will be violent."
 	]
 	quest.38A1295878B68F83.quest_subtitle: "Hot Demons!"
-	quest.38A1295878B68F83.title: "&6Kandar's Open Conjure"
+	quest.38A1295878B68F83.title: "&6Kandar's Opened Conjure"
 	quest.39647A2473F6F7D7.quest_desc: [
 		"Our next step is a foray into &6Infusion Rituals&r. These rituals are used to imbue items with the magic of demons."
 		""
@@ -341,7 +349,7 @@
 		""
 		"If you aren't sure what items have NBT data on them, you can always check out the quest \"NBT and You\" in the Storage questline for more info on NBT!"
 	]
-	quest.6CC5FE34778F0DFA.title: "&c&mDemonir&r &dMagical Storage&r!"
+	quest.6CC5FE34778F0DFA.title: "&c&mDemonic&r &dMagical Storage&r!"
 	quest.6CCDEEDA2C99DA66.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.6FEED25FFAC4101F.quest_desc: ["Using &aStrigeor's Higher Binding&r, you can create Gray Paste. Smear this on a piece of Impure White Chalk to create Gray Chalk."]
 	quest.6FEED25FFAC4101F.title: "&8Gray Chalk"
@@ -351,7 +359,7 @@
 		"When using this in place of a Golden Ritual Bowl, it greatly reduces how long it takes to perform a ritual, taking it down to one fourth of its original time!"
 	]
 	quest.6FFFAE334DFAAAAB.quest_subtitle: "Super-speed Rituals!"
-	quest.6FFFAE334DFAAAAB.title: "Iesnium Sacrificial Bowl"
+	quest.6FFFAE334DFAAAAB.title: "Iesnium Ritual Bowl"
 	quest.74130EB1E4B8586D.quest_desc: ["Using &aIhagan's Enthrallment&r, you can sacrifice an Allay, Bat, Bee, or Parrot to summon a &6Possessed Bee&r. Upon defeating one, it will drop Cursed Honey, the main ingredient for making Orange Chalk!"]
 	quest.74130EB1E4B8586D.title: "&6Orange Chalk"
 	quest.78ECC28DD4BA9696.quest_desc: [
@@ -365,12 +373,14 @@
 	]
 	quest.78ECC28DD4BA9696.quest_subtitle: "Hunting for &dOtherworld&r Materials"
 	quest.78ECC28DD4BA9696.title: "Tools of the Trade: Divination Rod"
+	quest.7B574DD5CC5ACAE3.quest_desc: ["Before we proceed with &dOccultism&r, it's time we learn about upgrading each type of Pentacle. Each pentacle builds off of the previous of that type.\\n\\nThis means that rather than building separate Pentacles for each tier of Ritual (I.E. a separate pentacle for summoning &aDjinnis&r and for summoning &aFoliots&r), you can have one pentacle handle multiple tiers of Rituals. For example, &9Fatma's Incentivized Attraction&r builds off of all previous Summoning pentacles.\\n\\nBecause of this, I suggest setting up 4 19x19 areas for each Pentacle. One for Summoning, one for Infusion, one for Possession, one for the Miscellaneous rituals (Wild and Eldritch)."]
+	quest.7B574DD5CC5ACAE3.title: "Foreword on Pentacles"
 	quest.7BCD4A425CF6199B.quest_desc: ["After slaying the Goat of Mercy summoned from &9Xeovrenth Adjure&r, you'll find yourself one Cruelty Essence richer. Combine this with some Cocao Beans to create Brown Chalk."]
 	quest.7BCD4A425CF6199B.title: "&#4E2C00Brown Chalk"
 	quest.7F09F8F98C13F11B.quest_desc: [
 		"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrificial Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
 		""
-		"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Sacrificial Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
+		"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Ritual Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
 	]
 	quest.7F09F8F98C13F11B.title: "Preparing for a Ritual: &6Bowls"
 	quest.7F59941D62E672B0.quest_desc: [
@@ -393,7 +403,7 @@
 	task.523951BF097BA61F.title: "Any #c:dusts/emerald"
 	task.53DE943DF951696B.title: "Demon Miner"
 	task.55DE27AB2EDB306E.title: "Sacrificial Bowls"
-	task.57108C994437F25B.title: "Any #ae2:all_nether_quartz"
 	task.6A5F16B79D587128.title: "Golden Bowls"
+	task.6B57473B652B8AAB.title: "Understanding Pentacle Upgrades"
 	task.6C3887D42B6B2122.title: "Familiars"
 }
