@@ -73,7 +73,7 @@
 	quest.22572456571C3F8D.quest_desc: ["O &3Módulo de Carregamento&r despressuriza quaisquer coisas pressurizáveis em recipientes para os quais ele aponta."]
 	quest.230463E830D6FFEB.quest_desc: ["Agora que temos plástico, o próximo passo é obter alguns PCBs finalizados, primeiro faça alguns &3PCBs Vazios&r na Câmara de Pressão."]
 	quest.230463E830D6FFEB.quest_subtitle: "O caminho para os PCBs"
-	quest.2338E5269CA23C91.quest_desc: ["A &3Ponta de Broca de Netherite&r é a melhor Ponta de Broca, é ainda melhor que a Ponta de Broca de Diamante."]
+	quest.2338E5269CA23C91.quest_desc: ["A &3Ponta de Broca de Netherita&r é a melhor Ponta de Broca, é ainda melhor que a Ponta de Broca de Diamante."]
 	quest.2338E5269CA23C91.quest_subtitle: "Esta é a Melhor Ponta"
 	quest.23737103592776C2.quest_desc: ["A &3Lâmpada de Querosene&r é uma ótima fonte de luz que usa combustível (sendo o Querosene o melhor) para produzir luz."]
 	quest.23737103592776C2.quest_subtitle: "Mega Tochas não são nada!"
@@ -202,7 +202,7 @@
 	quest.4F5348D0C83C3B0D.title: "Células Solares"
 	quest.4FCC20D9F8F87B2F.quest_desc: ["A &3Chave Pneumática&r é usada para mover ou quebrar suas máquinas e tubos."]
 	quest.4FCC20D9F8F87B2F.quest_subtitle: "Falando sobre Ferramentas!"
-	quest.5103C817381181DE.quest_desc: ["Permite que você use uma Elytra enquanto ainda tem seu Peitoral Pneumático equipado."]
+	quest.5103C817381181DE.quest_desc: ["Permite que você use um Élitro enquanto ainda tem seu Peitoral Pneumático equipado."]
 	quest.5103C817381181DE.quest_subtitle: "Máx: 1"
 	quest.520EFA7F446AFBF2.quest_desc: ["&3Lubrificante&r pode ser usado para fazer Brocas."]
 	quest.520EFA7F446AFBF2.quest_subtitle: "Produzindo Lubrificante!"
@@ -275,7 +275,7 @@
 	quest.681A3F31FB242555.quest_desc: ["O &3Etanol&r pode ser usado para fazer Biodiesel."]
 	quest.681A3F31FB242555.title: "Etanol"
 	quest.68F92455A9483AD6.quest_desc: ["Você só verá esta missão se tiver usado as Botas a Jato.\\n\\nNão há como usar as Botas a Jato sem sofrer dano, nem tente..."]
-	quest.68F92455A9483AD6.quest_subtitle: "Você achou que usar uma Elytra era difícil?"
+	quest.68F92455A9483AD6.quest_subtitle: "Você achou que usar um Élitro era difícil?"
 	quest.68F92455A9483AD6.title: "Botas a Jato"
 	quest.6B1C06C753C10E44.quest_desc: ["O &3Configurador de Logística&r pode ser usado para configurar Estruturas de Logística e Dispositivos de Transferência."]
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["O próximo estágio do mod requer a coleta de &3Petróleo Bruto&r. Este Óleo pode ser encontrado naturalmente na superfície do mundo superior."]
