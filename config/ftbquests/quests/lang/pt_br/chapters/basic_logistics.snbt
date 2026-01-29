@@ -80,7 +80,7 @@
 		"{image:atm:textures/questpics/logistics/meka_tube.png width:200 height:50 align:center}"
 	]
 	quest.4BC2D7FCDD792DBA.quest_subtitle: "Gás+Mais"
-	quest.4C41FD926F31180B.quest_desc: ["Para mover &2Itens&r com o &c&lLaserIO&r, você precisará de algumas &2Placas de Item&r. \\n\\nDefina uma para Extrair e coloque-a no lado do &cNó de Laser&r de onde você quer Importar. Em seguida, defina a outra para Inserir e coloque-a no lado para onde você quer que os Itens sejam Exportados. \\n\\nExistem várias configurações que você pode alterar com a Extração para definir para onde os Itens devem ir se houver vários lugares para Extrair. Round Robin fará com que extraia itens em uma ordem em vez de do Inventário mais próximo primeiro."]
+	quest.4C41FD926F31180B.quest_desc: ["Para mover &2Itens&r com o &c&lLaserIO&r, você precisará de algumas &2Cartões de Item&r. \\n\\nDefina uma para Extrair e coloque-a no lado do &cNó de Laser&r de onde você quer Importar. Em seguida, defina a outra para Inserir e coloque-a no lado para onde você quer que os Itens sejam Exportados. \\n\\nExistem várias configurações que você pode alterar com a Extração para definir para onde os Itens devem ir se houver vários lugares para Extrair. Round Robin fará com que extraia itens em uma ordem em vez de do Inventário mais próximo primeiro."]
 	quest.4C41FD926F31180B.title: "&2Placa de Item"
 	quest.4FBAB3A0FBF8CE2F.quest_desc: [
 		"Por que se preocupar com o que está sendo movido quando você pode simplesmente mover tudo! Os &5Tubos Universais&r são ainda menos discriminatórios que os &cTubos de Energia&r. Eles podem mover &eItens&r, &bFluidos&r ou &cEnergia&r. "
