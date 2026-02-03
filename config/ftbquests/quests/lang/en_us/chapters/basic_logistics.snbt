@@ -5,7 +5,7 @@
 	]
 	quest.034F2CDF0830254B.title: "&eFluid Importing"
 	quest.03C40D6A5D722543.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them. \\n\\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card. \\n\\nIf you're like me just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
-	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extration can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \\n\\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \\n\\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
+	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extraction can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \\n\\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \\n\\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
 	quest.046C417B2ADF3AA7.quest_subtitle: "Max: 4"
 	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... there's a 4 somewhere as well. \\n\\nTo set a Number put the Item in then you can Left or Right Click to change the amount. Shift and do the same to go by 10s. Once you have a set Number through it into a Card! \\n\\nIt will then wait until that set Number of Items is there to start taking Items. It will also leave that amount in the first Inventory."]
 	quest.0BB562FB44B0AAA7.quest_desc: ["Cards aren't the only ones with limits, so they also aren't the only ones with Overclockers! \\n\\nThese go into the &cNode&r itself on bottom right and boost how fast it does Operations."]
@@ -80,7 +80,7 @@
 		"{image:atm:textures/questpics/logistics/meka_tube.png width:200 height:50 align:center}"
 	]
 	quest.4BC2D7FCDD792DBA.quest_subtitle: "Gas+More"
-	quest.4C41FD926F31180B.quest_desc: ["In order to move &2Items&r with &c&lLaserIO&r you'll need some &2Item Cards&r. \\n\\nSet one to Extract and put it on the side of the &cLaser Node&r you want to Import from. Then set the other to Insert and put it to the side you want the Items to Export to. \\n\\nThere are mutliple settings you can change with the Extract in order of where you want the Items to go if there's multiple places to Extract from. Round Robin will make it Extract items in an order instead of closest Inventory first."]
+	quest.4C41FD926F31180B.quest_desc: ["In order to move &2Items&r with &c&lLaserIO&r you'll need some &2Item Cards&r. \\n\\nSet one to Extract and put it on the side of the &cLaser Node&r you want to Import from. Then set the other to Insert and put it to the side you want the Items to Export to. \\n\\nThere are multiple settings you can change with the Extract in order of where you want the Items to go if there's multiple places to Extract from. Round Robin will make it Extract items in an order instead of closest Inventory first."]
 	quest.4C41FD926F31180B.title: "&2Item Card"
 	quest.4FBAB3A0FBF8CE2F.quest_desc: [
 		"Why worry about what's being moved when you can just move everything! &5Universal Pipez&r are even less discriminatory than &cEnergy Pipez&r. They can move &eItems&r, &bFluids&r, or &cEnergy&r. "

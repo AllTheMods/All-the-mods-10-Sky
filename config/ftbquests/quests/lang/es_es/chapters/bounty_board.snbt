@@ -10,10 +10,10 @@
 	quest.17F3AC15ADCFB175.title: "&l&9The End Bounty:&r&e Endermen"
 	quest.1F18B64C84C8809D.title: "&l&9Overworld Bounty:&r&e Spiders"
 	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&e Zombies"
-	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes. "]
+	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different variants that spawn in other Biomes. "]
 	quest.2BD077EFE77B8EBB.title: "Zombie Variants"
 	quest.3371F9248D403664.title: "&l&cThe Nether Bounty:&r&e Wither Skeletons"
-	quest.3813F5C1760C3A79.quest_desc: ["Piglin Brutes being here might cause controversey but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!"]
+	quest.3813F5C1760C3A79.quest_desc: ["Piglin Brutes being here might cause controversy but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!"]
 	quest.3813F5C1760C3A79.title: "Kill A Piglin Brute"
 	quest.41C0948CD9D50322.quest_desc: ["Here you'll find all of the rewards you can get by slaying enemies."]
 	quest.41C0948CD9D50322.quest_subtitle: "Killing All The Things"
@@ -23,7 +23,7 @@
 	quest.56DA46DC82F6665D.title: "Kill The Wilden Chimera"
 	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&e Witches"
 	quest.6141DE779232C8AA.title: "&l&cThe Nether Bounty:&r&e Blazes"
-	quest.6827836C8E675A94.quest_desc: ["Skeletons have different varients, like Zombies do!"]
+	quest.6827836C8E675A94.quest_desc: ["Skeletons have different variants, like Zombies do!"]
 	quest.6827836C8E675A94.title: "Skeleton Variants"
 	quest.728BE1816DA23DC0.quest_desc: ["The Ender Dragon is the Boss that guards The End. \\n\\nWhen you enter an End Portal you'll arrive at the End Island where she spawns. \\n\\nShe has 200 Hearts and can attack with Fireballs or ramming into you. \\n\\nYou'll have to break the End Crystals on the pillars as they heal her, in order to kill her! \\n\\nOnce you do kill her, she'll drop: Arcane Essence, Epic Shaderbags, Dragonskin, Dragon Scales from two different mods, and a bunch of experience! \\n\\nThen the Portal will open up so you can return to the Overworld, or you can find an End Gateway to explore the outer islands. You'll also find a Dragon Egg on the Portal."]
 	quest.728BE1816DA23DC0.title: "Kill The Ender Dragon"

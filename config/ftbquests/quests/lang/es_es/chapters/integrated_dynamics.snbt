@@ -11,7 +11,7 @@
 	quest.44DA091B53473723.quest_desc: ["The Mechanical Squeezer uses energy to squeeze."]
 	quest.450EDE68EC992A5A.quest_desc: ["Interfaces &cread&r whatever they're looking at. You can think of this like an &bAE2&r Storage Bus.\\n\\nYou don't know what that is? Well here's an example: A chest with 100 Cobblestone in it has an interface on it, this means your ID network has 100 Cobblestone in it's system, pretty simple, right?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Have GUIs!"
-	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics&r (ID) is a logistics mod that can be used for storage, item/power/fluid transfer and more!\\n\\nMenril trees can be found in Meneglin biomes.\\n\\nThese quests will cover some of the basic concepts of the mod, read the guidebook given as a reward for this quest if you want to go further in depth."]
+	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics&r (ID) is a logistics mod that can be used for storage, item/power/fluid transfer and more!\\n\\nMenril Saplings can be obtained by sieving Moss with an Iron+ Mesh.\\n\\nThe tree also requires a 3x3 area of dirt to grow.\\n\\nThese quests will cover some of the basic concepts of the mod, read the guidebook given as a reward for this quest if you want to go further in depth."]
 	quest.499CF9F39CED8899.quest_subtitle: "Growing Menril"
 	quest.499CF9F39CED8899.title: "&bIntegrated Dynamics"
 	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables are different from other cables. Other Cables act as Hoppers, the items move from 1 Inventory, into the cable, then into the 2nd inventory. Logic Cables just skip the middle man which also skips a lotta lag.\\n\\nThey are just for connecting Importers and Interfaces."]

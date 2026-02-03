@@ -116,7 +116,7 @@ ServerEvents.recipes((allthemods) => {
     "mekanism:pellet_polonium",
     "mekanism:enriched_gold"
   )
-  //Teleporation Unit
+  //Teleportation Unit
   allthemods.replaceInput(
     { output: "mekanism:module_teleportation_unit" },
     "mekanism:pellet_antimatter",

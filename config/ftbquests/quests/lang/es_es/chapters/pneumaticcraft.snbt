@@ -164,7 +164,7 @@
 	quest.43EF5513A1C52A37.quest_subtitle: "The longer the name, the better"
 	quest.43EF5513A1C52A37.title: "Thermopneumatic Processing"
 	quest.440B1E1D4951F808.quest_desc: [
-		"The &3Smart Chest&r is a blast-proof Chest with 72 slots, includes a built in, fully configuarble Omnidirectional Hopper and has upgrade slots. Not Double Chest-able. Also works like a Shulker Box."
+		"The &3Smart Chest&r is a blast-proof Chest with 72 slots, includes a built in, fully configurable Omnidirectional Hopper and has upgrade slots. Not Double Chest-able. Also works like a Shulker Box."
 		"{image:atm:textures/questpics/pneumaticcraft/smart_chest_ui.png width:200 height:100 align:center}"
 	]
 	quest.440B1E1D4951F808.quest_subtitle: "The Nerds of Chests"
@@ -222,7 +222,7 @@
 	quest.5A0860631323B5E3.quest_subtitle: "You knead this"
 	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
 	quest.5A9D6672385D3D82.quest_subtitle: "Saving Lapis"
-	quest.5AEE86EB39FD4087.quest_desc: ["The &3Vortex Tube&r seperates pressure into hot and cold air. The cold air goes to the blue side and the hot air goes to the red side."]
+	quest.5AEE86EB39FD4087.quest_desc: ["The &3Vortex Tube&r separates pressure into hot and cold air. The cold air goes to the blue side and the hot air goes to the red side."]
 	quest.5AEE86EB39FD4087.quest_subtitle: "Still not RF..."
 	quest.5AEE86EB39FD4087.title: "Heat Production"
 	quest.5B9F933ECD6B24FD.quest_desc: ["Allows you to jump higher than with Tier II."]
@@ -244,19 +244,19 @@
 	quest.5E71F8A046C60346.title: "Generating Power"
 	quest.602C3E88D96F8843.quest_desc: ["Put a Charged Empty PCB into the Etching Tank with some Etching Acid and some heat and you'll get an &3Unassembled PCBs&r."]
 	quest.602C3E88D96F8843.quest_subtitle: "Almost there!"
-	quest.61AD2207E770CD7F.quest_desc: ["Allows you to pickup items and experience from furthur away."]
+	quest.61AD2207E770CD7F.quest_desc: ["Allows you to pickup items and experience from further away."]
 	quest.61AD2207E770CD7F.quest_subtitle: "Max: 6"
 	quest.61B479079DC1C69C.quest_desc: ["Allows you to jump higher than with Tier I."]
 	quest.61B479079DC1C69C.quest_subtitle: "Max: 1"
 	quest.61BA2932EC86DA2E.quest_desc: ["Allows you to jump VERY high."]
 	quest.61BA2932EC86DA2E.quest_subtitle: "Max: 1"
-	quest.63F6F4EBCEB914B0.quest_desc: ["The &3Pressure Chamber&r is an important multiblock structure made up of &3Pressure Chamber Walls&r (The faces can be replaced with &3Pressure Chamber Glass&r). The Pressure Chamber can be as small as a 3x3x3 multiblock, or as big as a 5x5x5 multiblock. The blocks required for the 5x5x5 is what's needed to complete this quest.\\n\\nTo use the Pressure Chamber you will need to pipe pressure into a &3Pressure Chamber Valve&r using the &3Pressure Tubes&r you made earlier, remember to put a Security Upgrade into the Pressure Valve. &lDifferent recipes require different amounts of pressure&r.\\n\\nYou'll need to be able to input and output items to and from the Pressure Chamber, this is where &3Pressure Chamber Interfaces&r come into it. Blue on the outside means it's for importing items, while if gold is on the outside it's for outputing items, place one of each on any face."]
+	quest.63F6F4EBCEB914B0.quest_desc: ["The &3Pressure Chamber&r is an important multiblock structure made up of &3Pressure Chamber Walls&r (The faces can be replaced with &3Pressure Chamber Glass&r). The Pressure Chamber can be as small as a 3x3x3 multiblock, or as big as a 5x5x5 multiblock. The blocks required for the 5x5x5 is what's needed to complete this quest.\\n\\nTo use the Pressure Chamber you will need to pipe pressure into a &3Pressure Chamber Valve&r using the &3Pressure Tubes&r you made earlier, remember to put a Security Upgrade into the Pressure Valve. &lDifferent recipes require different amounts of pressure&r.\\n\\nYou'll need to be able to input and output items to and from the Pressure Chamber, this is where &3Pressure Chamber Interfaces&r come into it. Blue on the outside means it's for importing items, while if gold is on the outside it's for outputting items, place one of each on any face."]
 	quest.63F6F4EBCEB914B0.quest_subtitle: "Pressurizing!"
 	quest.63F6F4EBCEB914B0.title: "The Pressure Chamber"
 	quest.649167FC31EB916E.quest_desc: ["&3Vegetable Oil&r can be made by putting either crops or seeds into a &3Thermopneumatic Processing Plant&r."]
 	quest.649167FC31EB916E.quest_subtitle: "Better Oil"
 	quest.649167FC31EB916E.title: "Vegetable Oil"
-	quest.64D34A6C3487C5DF.quest_desc: ["The &3Aerial Interface&r can be used to refill your pressurizable things with pressure. Now you can use your Pneumatic Armor without needing to recharge!\\n\\nYou will need one of these in order to craft the &6ATM Star&r."]
+	quest.64D34A6C3487C5DF.quest_desc: ["The &3Aerial Interface&r can be used to refill your pressurizable things with pressure. Now you can use your Pneumatic Armor without needing to recharge!"]
 	quest.64D34A6C3487C5DF.quest_subtitle: "Wireless Pressure!"
 	quest.64E2E05B228EA53E.quest_desc: ["&3Advanced Pressure Tubes&r are the best Pressure Tubes available, being able to hold 20 bars of pressure!\\n\\nAlthough these are really cool on their own, they can also be used in some even cooler recipes."]
 	quest.64E2E05B228EA53E.quest_subtitle: "A Whole new Level!"
@@ -281,7 +281,7 @@
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["The next stage of the mod requires the collection of &3Crude Oil&r. This Oil can be found naturally on the surface of the overworld."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "The Path to Plastic"
 	quest.6CA01DCE1F4A0EC3.title: "Crude Oil"
-	quest.6D124ACF4AE80490.quest_desc: ["With Micromissiles you can shoot explosions from far away! Now nobody can escape!\\n\\nTheses are needed to craft the &6ATM Star&r."]
+	quest.6D124ACF4AE80490.quest_desc: ["With Micromissiles you can shoot explosions from far away! Now nobody can escape!"]
 	quest.6D124ACF4AE80490.quest_subtitle: "Firing Explosions from afar!"
 	quest.6EB53CDCB80D4B66.quest_desc: [
 		"The &3Pneumatic Door&r acts as automatic door that can be made to only open for you!"
@@ -304,7 +304,7 @@
 	]
 	quest.715B86DC82EA636B.title: "Pressure from Liquids"
 	quest.7177E49BF9ECA5CF.quest_desc: [
-		"The &3Thermal Compressor&r creates pressure using heat! Place somthing hot on one side and something cold on the other to create pressure."
+		"The &3Thermal Compressor&r creates pressure using heat! Place something hot on one side and something cold on the other to create pressure."
 		""
 		"{image:pneumaticcraft:textures/patchouli/thermal_compressor.png width:100 height:100 align:left fit:true}"
 	]

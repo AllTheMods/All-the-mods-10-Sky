@@ -19,7 +19,7 @@
 		}
 		{
 			height: 3.0d
-			image: "atm:textures/questpics/xycraft/extrator.png"
+			image: "atm:textures/questpics/xycraft/extractor.png"
 			rotation: 0.0d
 			width: 3.294117647058824d
 			x: 4.5d

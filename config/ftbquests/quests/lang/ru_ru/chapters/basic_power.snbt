@@ -4,7 +4,7 @@
 	quest.0BB42C5861B22D32.title: "&9Industrial Foregoing: &bMycelial Reactor"
 	quest.11D09E918015355C.quest_desc: ["Mekanism's &cHeat Generator&r is a different take on basic power production. It has two modes of creating power:\\n\\n&9Passive:&r Surrounding the generator with Lava source or flowing blocks creates passive power over time through heat. Place one Lava source block on top and let it flow over the sides. Make sure to have Pipes connected for energy first!\\n\\n&9Active:&r Placing combustible materials such as Coal or Wood into the generator will burn the fuel to create power. This is not very efficient."]
 	quest.11D09E918015355C.title: "&cHeat Generator"
-	quest.1409C17773B6A131.quest_desc: ["All Upgrades increase the amount the &e&lPipez&r move but each grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r.\\n\\nImproved Upgrade allows you to change distribution either:Closest First, Farthest First, Round-Robin, or Random.\\n\\nAdvanced Upgrade gives you option to add Filters.\\n\\nUltimate doesn't grant anything new it just moves a lot!"]
+	quest.1409C17773B6A131.quest_desc: ["All Upgrades increase the amount the &e&lPipez&r move and also grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r, to change distribution either:Closest First, Farthest First, Round-Robin, or Random, and to add Filters.\\n\\nImproved, Advanced, and Ultimate upgrades don't grant anything new they just move more!"]
 	quest.1409C17773B6A131.title: "&9Pipez: &aUpgrades"
 	quest.1BE26A00A420DAE3.quest_desc: ["In this mod, you'll need &aFlux Cores&r and &aFlux Blocks&r to craft the core parts of your network. Make a few of each!"]
 	quest.1BE26A00A420DAE3.quest_subtitle: "Of Cores you need these"
@@ -20,7 +20,7 @@
 		"Right clicking a functional Flux Network block will give you this UI.\\n\\nEach Plug or Point can be named, have a custom priority level, and have a custom power transfer limit. This allows complete control over all parts of your system.\\n\\n&aBypass Limit&r ignores the limit set.\\n\\nThere are several other tabs to check out, mostly for statistics on your network!\\n"
 		"{image:atm:textures/questpics/basic_power/flux_ui.png width:125 height:150 align:center}"
 	]
-	quest.35ABB0DEE70DF7FD.quest_desc: ["Believe it or not, the &aPowah&r mod has some great options for getting... powwe.\\n\\nMake sure to check out the &cPowah&r qyest chapter to learn more!"]
+	quest.35ABB0DEE70DF7FD.quest_desc: ["Believe it or not, the &aPowah&r mod has some great options for getting...power.\\n\\nMake sure to check out the &cPowah&r quest chapter to learn more!"]
 	quest.35ABB0DEE70DF7FD.title: "More &aPowah&r!"
 	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r is a mod that aims to be the solution to all of your wireless power needs.\\n\\nThe mod itself does not have a way to generate power, but it can store and wirelessly transmit power, even across dimensions. It can even charge your items in your inventory.\\n\\nYou can even charge your Jetpacks while you are flying with this mod.\\n\\nTo get started with the mod, you'll need some Flux Dust. Craft some Obsidian 1x Compressed (9 Obsidian in crafting table), place it down, then throw some Redstone on top of it. Place some Obsidian right above the floating Redstone (1 block above), then left click (punch) the Obsidian."]
 	quest.35CC898E0E49FE58.quest_subtitle: "The Ultimate Wireless Power Solution"

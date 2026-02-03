@@ -36,7 +36,7 @@
             "name": "state",
             "component": {
               "type": "kubejstweaks:codec",
-              "class": "net.minecraft.advancements.critereon.StatePropertiesPredicate"
+              "class": "net.minecraft.advancements.criterion.StatePropertiesPredicate"
             }
           }
         ]
