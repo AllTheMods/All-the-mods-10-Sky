@@ -8,7 +8,7 @@
 		"{image:atm:textures/questpics/apothic/enchant_hellshelf.png width:100 height:100 align:center}"
 	]
 	quest.0A3C464EF7CDD5F6.title: "&4Estante de Livro Infernal"
-	quest.0F3A0A4DC18E5E55.quest_desc: ["&aEterna&r define o &5Nível de Encantamento&r, que determina quais &5Encantamentos&r você pode ou irá obter!\\n\\nO padrão é &a0&r e o máximo é &a50&r.\\n\\nQuase todas as &7Estantes de Livros&r darão &aEterna&r, mas cada uma tem um máximo que pode definir."]
+	quest.0F3A0A4DC18E5E55.quest_desc: ["&aEterna&r define o &5Nível de Encantamento&r, que determina quais &5Encantamentos&r você pode ou irá obter!\\n\\nO padrão é &a0&r e o máximo é &a100&r.\\n\\nQuase todas as &7Estantes de Livros&r darão &aEterna&r, mas cada uma tem um máximo que pode definir."]
 	quest.0F3A0A4DC18E5E55.title: "&aEterna"
 	quest.105442DA79829777.quest_desc: ["Com 8 &7Livros&r e uma Bigorna, podemos fazer o &8Tomo da Desmontagem&r. Bem, na verdade, 8 deles, mas você entendeu!\\n\\nAo combinar um Item com o &8Tomo&r em uma Bigorna, podemos retirar metade dos &5Encantamentos&r do Item.\\n\\nIsso acabará quebrando e anulando o Item depois de concluído. Não recomendo usá-lo, mas sim melhorá-lo!"]
 	quest.105442DA79829777.quest_subtitle: "Metade dos Encantamentos, quebra Itens"
@@ -43,7 +43,7 @@
 	quest.2EC2FA680076C07D.title: "&9Estante de Sculk Ecoante"
 	quest.31E7F7464D79F881.quest_desc: ["Não são apenas &7Estantes&r que podem ser &d&lInfusionadas!&r"]
 	quest.31E7F7464D79F881.title: "Outros Itens de &d&lInfusão&r"
-	quest.377D6CF86BC1C64F.quest_desc: ["O &8Tomos de Desmontagem&r removerá apenas metade das &5Encantamentos&r, enquanto o &8Tomos de Desmontagem Superior&r removerá todos os &5Encantamentos&r do Item! \\n\\nAmbos os &8Tomos&r quebrarão o Item em uso, no entanto. \\n\\nPara &d&lInfundir&r nosso &8Tomo de Desmontagem&r em um &8Tomo de Desmontagem Superior&r, podemos usar 3 &9Estantes de Livro de Sculk Ecoantes&r e 15 Estantes de Livros, ou 4 Blocos de Draconium."]
+	quest.377D6CF86BC1C64F.quest_desc: ["O &8Tomos de Desmontagem&r removerá apenas metade das &5Encantamentos&r, enquanto o &8Tomos de Desmontagem Superior&r removerá todos os &5Encantamentos&r do Item! \\n\\nAmbos os &8Tomos&r quebrarão o Item em uso, no entanto. \\n\\nPara &d&lInfundir&r nosso &8Tomo de Desmontagem&r em um &8Tomo de Desmontagem Superior&r, podemos usar 3 &9Estantes de Livro de Sculk Ecoantes&r e 15 Estantes de Livros, ou 4 Blocos de Dracônio."]
 	quest.377D6CF86BC1C64F.quest_subtitle: "Todos os Encantamentos, quebra o Item"
 	quest.377D6CF86BC1C64F.title: "&8Tomo da Desmontagem Superior"
 	quest.3D31B94CC42BCE43.quest_desc: ["O &8Tomo de Extração&r é o &8Tomo&r que estamos procurando! Ele removerá todos os &5Encantamentos&r e deixará o Item intacto! \\n\\nPara criá-lo, precisaremos &d&lInfundir&r nosso &8Tomo de Desmontagem Superior&r. \\n\\nPodemos usar a configuração anterior para isso."]
