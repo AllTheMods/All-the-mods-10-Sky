@@ -51,7 +51,7 @@
 	]
 	quest.53A5F5E49EA8D5AF.title: "Routers for Mob Farms"
 	quest.53B58FC3958750E7.quest_desc: ["Did you play around with the Placer too much and need to Break those Blocks? \\n\\nIts Tier and Enchants are determined by the Pickaxe its Crafted with. \\n\\nNow set the area and hopefully put a Filter and let it run! \\n\\nCan be used with a Placer to do stuff like turning Ores into Items."]
-	quest.553C44F85E508DE3.quest_desc: ["This one is unique as it's not used for just 1 Router but for multiple. \\n\\nIf you want mutliple Routers working at the same time then each needs a Sync Upgrade. \\n\\nWill need to be tuned in its own GUI."]
+	quest.553C44F85E508DE3.quest_desc: ["This one is unique as it's not used for just 1 Router but for multiple. \\n\\nIf you want multiple Routers working at the same time then each needs a Sync Upgrade. \\n\\nWill need to be tuned in its own GUI."]
 	quest.5560F303C452E110.quest_desc: ["The Extruder pushes blocks and entities by why not push it some more! \\n\\nThe entities not the blocks."]
 	quest.5FB29F3F4DF17765.quest_desc: ["Sometimes you don't want every Module to move multiple stacks at a time, so when you just want 1 Modules to do so use an Augment! This does not stack with Upgrades though... infact it overrides them."]
 	quest.6063F4B7BE4D394C.quest_desc: ["The Sender Modules will move Items in the Router's Buffer Slot into another Inventory. \\n\\nMK1 will only move items into Inventories on the same XYZ axis as the Router and with direct line of sight. If there is a block in the way, the MK1 Sender will not send."]
@@ -62,7 +62,7 @@
 	quest.674F28BCA2E4A3C8.quest_desc: ["When moving items Routers can get pretty greedy, taking every single item they can get their grubby antennas on! \\n\\nWith Regulator Augment you can limit how much is moved."]
 	quest.6B747129A85AA768.quest_desc: ["Now even more like the Absorption Hopper! \\n\\nVacuum Module will now pickup XP Orbs as well as Items. Whatever you do with the XP is up to you!"]
 	quest.6E5954C257726F86.quest_desc: ["Filtering per mod can be very helpful.\\n\\nTo use it, put an item in from a certain mod, then it will show the mod name, and hit the Plus button to add it!"]
-	quest.71A1FD0772453B51.quest_desc: ["Don't you hate Right Clicking everything? From Sheeps with Shears to Cows with Buckets? It's the 21st Century we should have Robots to everything! Or atleast Routers do everything. \\n\\nWith Activator Module it will act as if it were you Right Clicking things. \\n\\nYou can set what it will Right Click, if it will Attack or Use the Mob or Block, if you Shift Right Click, and how close they need to be in the Module."]
+	quest.71A1FD0772453B51.quest_desc: ["Don't you hate Right Clicking everything? From Sheep with Shears to Cows with Buckets? It's the 21st Century we should have Robots to everything! Or atleast Routers do everything. \\n\\nWith Activator Module it will act as if it were you Right Clicking things. \\n\\nYou can set what it will Right Click, if it will Attack or Use the Mob or Block, if you Shift Right Click, and how close they need to be in the Module."]
 	quest.71FDF8CD953E46FC.quest_desc: ["HAHAHA did I scare you with the Creative item in the quests?\\n\\nDon't worry you won't need the item to finish this chapter, I just wanted to scare you\\n\\nI can have fun sometimes..."]
 	quest.72A71E1D6D8996FD.quest_desc: ["Is this code? I'm not a coder!? I just wanted to make these quests! \\n\\nHere you can type in a Regex into the Search Bar and click the Plus Button to add it to the Filter. Whenever that Regex comes up it will be filtered out."]
 	quest.73D60868024FF907.quest_desc: ["The Fluid MK2! \\n\\nAny Liquid Source nearby can be used with this one, not just adjacent."]
@@ -72,5 +72,6 @@
 	quest.7F8DEDD0A54D1E11.quest_desc: ["I wonder what Droppers do? \\nI think they drop things... \\n\\nAny item in the Buffer will be dropped on the ground. \\n\\nCould be helpful with something like Botania!"]
 	task.3007461CFCC0A013.title: "AllRightsReserved"
 	task.41EEE559F6402D81.title: "Creative Module"
+	task.631388151555159B.title: "Sender Modules"
 	task.76EEAE9313F68334.title: "AllRightsReserved"
 }

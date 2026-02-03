@@ -1,5 +1,5 @@
 {
-	quest.0B1DF8A040826D87.quest_desc: ["Now that you have &cRossinite&r, you can mix it with &aBenitoite&r to create &dInsanite&r ingots.\\n\\n&aBenitoite Ore&r can be found in the Nether."]
+	quest.0B1DF8A040826D87.quest_desc: ["Now that you have &cRossinite&r, you can mix it with &aBenitoite&r to create &dInsanite&r ingots.\\n\\n&aBenitoite&r can be obtained with the Ore Laser from Industrial Foregoing."]
 	quest.0B1DF8A040826D87.title: "Insanite"
 	quest.14E5349DD740D026.quest_desc: [
 		"To insert fuel into the reactor, you'll need to pick one of the sides that has a &9Reactor Solid Access Port&r and pump in &eUranium&r from an inventory.\\n\\nThe easiest way to do this is to use something like a &aStorage Drawer&r or even just a &aChest&r with an &9Item Pipe&r connected at the top, like the image shown below.\\n"
@@ -66,7 +66,7 @@
 	quest.5914D015D8543875.title: "Operational Modes"
 	quest.5A615BB74A5CD332.quest_desc: ["Using the &aReprocessor&r, we can combine everything we've made so far to make a few new ingots.\\n\\nNote: You might need a &9Fluidizer&r to complete this step!"]
 	quest.5A615BB74A5CD332.title: "Ludicrite \\& Ridiculite"
-	quest.5AD80D3242DD3F60.quest_desc: ["One of the hardest materials to get in the mod!\\n\\nThis is also used to create the &6ATM Star&r!"]
+	quest.5AD80D3242DD3F60.quest_desc: ["One of the hardest materials to get in the mod!\\n\\nThis is also the most powerful Turbine Coil available!"]
 	quest.5AD80D3242DD3F60.title: "&dInsanite Block"
 	quest.67AFCBCE7AAC3089.quest_desc: [
 		"To get a Turbine spinning, we'll need these &crequired&r components:\\n\\n- &9Rotor Bearings&r are placed at one end of the shaft of the turbine. This can be on any face, but dictates where the shaft extrude from. This is typically placed in the center of the bottom face.\\n\\n- &eRotor Shafts&r extend from one Rotor Bearing to the opposite side of the turbine, all the way to a single Turbine Housing block, creating the shaft for the Turbine.\\n\\n- &9Rotor Blades&r make the rotor spin. These are placed onto the Rotor Shafts and can be multiple blocks in length. Each Blade can handle a certain amount of vapor, and determines how many are needed based on your reactor's production rates.\\n\\nHere is an example of a Vertical Shaft setup for a Turbine, with the Turbine Coil of Lead on the top.\\n"

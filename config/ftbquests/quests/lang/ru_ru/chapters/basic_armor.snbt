@@ -1,24 +1,45 @@
 {
+	quest.001B195541AE0FA1.quest_desc: ["It's a fun armor that I use for &abouncing&r and &aclimbing&r everywhere all the time."]
+	quest.001B195541AE0FA1.quest_subtitle: "12"
+	quest.001B195541AE0FA1.title: "&aSlime Armor"
 	quest.004D61425172324F.quest_desc: ["&8Chainmail Armor&r is a little worse than Iron. Its main use in &l&2Minecraft&r was its elusive nature, only being obtained through Trades and Mob Drops. \\n\\nOf course this is modded though, so we can craft it now! Which takes away its purpose..."]
 	quest.004D61425172324F.quest_subtitle: "12"
 	quest.004D61425172324F.title: "&8Chainmail Armor"
+	quest.03C059DFF8F1BF41.quest_desc: ["The &aEmerald&r armor added by the &2&lPickle Tweaks&r mod provides an armor set with similar stats to diamond armor but basically for free, as &aemeralds&r are easy to get."]
+	quest.03C059DFF8F1BF41.quest_subtitle: "20"
+	quest.03C059DFF8F1BF41.title: "&aEmerald Armor"
 	quest.04B31A600004F7CB.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.06B8539B731FE4BA.quest_desc: ["The &4Eclipse Alloy&r armor from the &b&lJust Dire Things&r mod is the final and most powerful tier of &b&lJDT's&r armor. While it provides the protection of diamond armor, its real functions come from its energy capacity and many many many upgrades that can be applied to it. "]
+	quest.06B8539B731FE4BA.quest_subtitle: "20"
+	quest.06B8539B731FE4BA.title: "&4Eclipse Alloy Armor"
 	quest.074EC1E636CD6605.quest_desc: ["&cNetherite Armor&r is the best &l&2Vanilla&r can get. It has same Armor Points as &bDiamond&r but more Armor Toughness. \\n\\nProbably because you need &bDiamond&r to make it!"]
 	quest.074EC1E636CD6605.quest_subtitle: "20"
 	quest.074EC1E636CD6605.title: "&cNetherite Armor"
-	quest.0ABB2264CBB82470.quest_desc: ["Iron Armor of &d&lArs&r Armor."]
+	quest.0ABB2264CBB82470.quest_desc: [
+		"Iron Armor of &d&lArs&r Armor.\\n"
+		"The &5Arcanist&r set is one of three primary magical armor types in the base &5Ars Nouveau&r mod, alongside the &5Sorcerer&r and &cBattlemage&r sets.\\n\\nIt provides a moderate number of slots for magical threads, which grant special perks and abilities. It is more versatile than the &cBattlemage&r armor but has fewer, less powerful slots than the &5Sorcerer's&r armor. "
+	]
 	quest.0ABB2264CBB82470.quest_subtitle: "15"
 	quest.0ABB2264CBB82470.title: "&5Arcanist Outfit"
+	quest.0CE23DBBBFBCC372.quest_desc: ["The &6Mortem Armor&r from the &6Forbidden Arcanus&r mod is a basic, early-game armor set that offers slightly better protection than leather armor. It is notable for its low resource cost and cool look but is only a temporary set of gear to use.\\n\\n&4Note to those in Editing Mode: This quest was temporarily hidden as Mortem Armor lacks a recipe at the time of writing. When Mortem Armor becomes craftable, be it via Forbidden Arcanus or KubeJS, remove this note and unhide the quest."]
+	quest.0CE23DBBBFBCC372.quest_subtitle: "11"
+	quest.0CE23DBBBFBCC372.title: "&6Mortem Armor"
 	quest.0E2515424291BB59.quest_desc: ["&bDiamond&r version of &d&lArs&r Armors!"]
 	quest.0E2515424291BB59.quest_subtitle: "20"
 	quest.0E2515424291BB59.title: "&5Battlemages Outfit"
-	quest.0F1D6F4729CC38F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"]
+	quest.0F1D6F4729CC38F3.quest_desc: [
+		"Can also be obtained from Wild Hunt Wither Skeletons"
+		"{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"
+	]
 	quest.0F1D6F4729CC38F3.quest_subtitle: "Nether Fortress"
 	quest.0F1D6F4729CC38F3.title: "Rib Armor Trim"
 	quest.10AA2B20D86747F7.quest_desc: ["&bFerricore&r has same stats as Iron but has other abilities Iron wishes it had! \\n\\nCheck out the Item descriptions to learn more of what they can do!"]
 	quest.10AA2B20D86747F7.quest_subtitle: "15"
 	quest.10AA2B20D86747F7.title: "&bFerricore Amor"
-	quest.1245126B4338C019.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"]
+	quest.1245126B4338C019.quest_desc: [
+		"Can also be obtained from Wild Evokers"
+		"{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"
+	]
 	quest.1245126B4338C019.quest_subtitle: "Woodland Mansion"
 	quest.1245126B4338C019.title: "Vex Armor Trim"
 	quest.13517D17E6BF015F.quest_desc: ["With &bDiamond Armor&r and a few &aInferium Items&r we can craft &aInferium Armor&r! \\n\\nThey can also be upgraded with Tinkering!"]
@@ -27,16 +48,23 @@
 	quest.17A68C4E9E9EA2B7.quest_desc: ["&eGolden Armor&r is right between Iron and &7Leather&r. But its Durability is much closer to &7Leather&r. \\n\\nThere is not much use for it besides having Piglins Neutral towards you when wearing some &eGold Armor&r."]
 	quest.17A68C4E9E9EA2B7.quest_subtitle: "11"
 	quest.17A68C4E9E9EA2B7.title: "&eGolden Armor"
-	quest.19F58E291A543228.quest_desc: ["&eGold&r version of &d&lArs&r Armors!"]
+	quest.19F58E291A543228.quest_desc: [
+		"&eGold&r version of &d&lArs&r Armors!"
+		""
+		"It is a &5magic&r armor set with very low base defense but the greatest potential for &5magical&r upgrades. Unlike the other armor sets, it cannot resist much damage but in drastically increases your spell power.\\n\\nMaybe you don't even need mending for this one..."
+	]
 	quest.19F58E291A543228.quest_subtitle: "11"
-	quest.19F58E291A543228.title: "&5Sorceror's Outfit"
+	quest.19F58E291A543228.title: "&5Sorcerer's Outfit"
 	quest.1A8440C0048EEB02.quest_desc: ["&cBlazegold&r has same stats as Iron but has other abilities Iron wishes it had! \\n\\nCheck out the Item descriptions to learn more of what they can do!"]
 	quest.1A8440C0048EEB02.quest_subtitle: "15"
 	quest.1A8440C0048EEB02.title: "&cBlazegold Armor"
 	quest.1C27C74722A19FC1.quest_desc: ["With a ton of super expensive &l&5Mekanism&r Items you can upgrade &5Unobtainium Armor&r to the &aMekaSuit&r! \\n\\nNow it can hold Energy and instead of taking hearts from damage, it will take Energy. \\n\\nYou can use Upgrade Units to make it even better!"]
 	quest.1C27C74722A19FC1.quest_subtitle: "As much Energy you can supply"
 	quest.1C27C74722A19FC1.title: "&aMekaSuit"
-	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
+	quest.1CC627D3FB348C89.quest_desc: [
+		"Can also be obtained from Wild Horde Silverfish"
+		"{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"
+	]
 	quest.1CC627D3FB348C89.quest_subtitle: "Trail Ruins"
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
 	quest.1D27EE427ECFD6CE.quest_desc: ["Upgraded version of &cTertium&r."]
@@ -44,11 +72,17 @@
 	quest.1D27EE427ECFD6CE.title: "&9Imperium Armor"
 	quest.1D91E37BFD8CC911.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_emerald.png width:100 height:150 align:center}"]
 	quest.1D91E37BFD8CC911.title: "&2Emerald&r"
-	quest.1E3E688B3B52C4D2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"]
+	quest.1E3E688B3B52C4D2.quest_desc: [
+		"Can also be obtained from Wild Horde Silverfish"
+		"{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"
+	]
 	quest.1E3E688B3B52C4D2.quest_subtitle: "Trail Ruins"
 	quest.1E3E688B3B52C4D2.title: "Raiser Armor Trim"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8Netherite&r"
+	quest.1FAE4A884E083283.quest_desc: ["The &6Tyr&r armor from the &d&lForbidden and Arcanus&r mod is the best defensive gear from the mod, offering strong protection and durability. It is an upgrade to the &5Draco Arcanus&r armor and requires mod's late-game &6Forge&r."]
+	quest.1FAE4A884E083283.quest_subtitle: "37"
+	quest.1FAE4A884E083283.title: "&6Tyr Armor"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4Redstone&r"
 	quest.211FD55DEB635A98.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_copper.png width:100 height:150 align:center}"]
@@ -56,80 +90,148 @@
 	quest.2296CE4418AE62D4.quest_desc: ["&6Allthemodium Armor&r but with buffs to &d&lArs Nouveau&r Spells!"]
 	quest.2296CE4418AE62D4.quest_subtitle: "24"
 	quest.2296CE4418AE62D4.title: "&6Allthemodium Arcanist Gear"
-	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
+	quest.243008D4DCD789D0.quest_desc: [
+		"Can also be forged by Wild Spirits"
+		"{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"
+	]
 	quest.243008D4DCD789D0.quest_subtitle: "Jungle Temples"
 	quest.243008D4DCD789D0.title: "Wild Armor Trim"
-	quest.28408BFAA54E4FC6.quest_desc: ["&7Leather Armor&r is the worst Armor set you can get. \\n\\nThat is mostly because &c&lMojang&r expected you to get it before any other. \\n\\nI almost never get it though because I struggle to find that many &8C&fo&8w&fs&r, sorry &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["&7Leather Armor&r is the worst vanilla Armor set you can get. \\n\\nThat is mostly because &c&lMojang&r expected you to get it before any other. \\n\\nI almost never get it though because I struggle to find that many &8C&fo&8w&fs&r, sorry &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7Leather Armor"
 	quest.2A4FE9644F3B9DC1.quest_desc: ["Upgraded version of &2Prudentium&r."]
 	quest.2A4FE9644F3B9DC1.quest_subtitle: "26"
 	quest.2A4FE9644F3B9DC1.title: "&cTertium Armor"
-	quest.2E0F82F7E1B74033.quest_desc: ["&d&lArs Elemental&r &2Earth Armor&r!"]
+	quest.2AC0FE608759AD53.quest_desc: ["Diving armor from &e&lCreate&r not only provides armor, but also gives a multitude of buffs for building and working underwater."]
+	quest.2AC0FE608759AD53.quest_subtitle: "7 to 15"
+	quest.2AC0FE608759AD53.title: "&9Diving Armor"
+	quest.2E0F82F7E1B74033.quest_desc: [
+		"&d&lArs Elemental&r &2Earth Armor&r!\\n"
+		"It empowers &2Earth&r glyphs, increasing the effectiveness of earth and poison-based spells.\\n\\nIt reduces damage from &2Earth&r-based sources.\\n\\nIt also converts some incoming &2Earth&r-based damage into mana when the full set is worn."
+	]
 	quest.2E0F82F7E1B74033.quest_subtitle: "15"
 	quest.2E0F82F7E1B74033.title: "&2Geomancer Outfit"
-	quest.2EAA6BE598C83F24.quest_desc: ["&d&lArs Elemental&r &3Water Armor&r!"]
+	quest.2EAA6BE598C83F24.quest_desc: [
+		"&d&lArs Elemental&r &3Water Armor!\\n"
+		"This boosts &3Water&r glyphs.\\n\\nIt reduces damage from &3Water&r-based sources.\\n\\nConverts some incoming &3Water&r-based damage into mana when the full set is worn."
+	]
 	quest.2EAA6BE598C83F24.quest_subtitle: "15"
 	quest.2EAA6BE598C83F24.title: "&3Aquamancer Outfit"
-	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
+	quest.338BD467EBE6EE1F.quest_desc: [
+		"Can also be obtained from Wild Evokers"
+		"{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"
+	]
 	quest.338BD467EBE6EE1F.quest_subtitle: "Pillager Outpost"
 	quest.338BD467EBE6EE1F.title: "Sentry Armor Trim"
 	quest.3403D7502F7BC897.quest_desc: ["Quite literally invincible, nothing can hit you and do damage. \\n\\nCurrently you need to upgrade &cNetherite Armor&r with a &eQuantum &bUpgrade&r but your friends in the &6&lATM Team&r are working at making that recipe harder! \\n\\nAnd you can't do anything to stop it! &lBWAHAHAHAHA"]
 	quest.3403D7502F7BC897.quest_subtitle: "Invincible"
 	quest.3403D7502F7BC897.title: "&eQuantum &bArmor&r (&l&7MI&r)"
-	quest.34D14B807A2DAC0F.quest_desc: ["You think &5&lMekanism&r and &l&7Modern Industrialization&r can have all the fun? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no where you are. "]
+	quest.34D14B807A2DAC0F.quest_desc: ["You think &5&lMekanism&r and &l&7Modern Industrialization&r can have all the fun? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no matter where you are.\\n\\nFurthermore, wearing the full set can prevent &aRadiation&r from killing you."]
 	quest.34D14B807A2DAC0F.quest_subtitle: "As much Energy you can supply"
 	quest.34D14B807A2DAC0F.title: "&5Quantum Armor&r (&l&bAE2&r)"
-	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
-	quest.351159C55159C316.quest_subtitle: "End City and End Ships"
+	quest.351159C55159C316.quest_desc: [
+		"Can also be obtained from Possessed Shulkers"
+		"{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"
+	]
+	quest.351159C55159C316.quest_subtitle: "End City Chests"
 	quest.351159C55159C316.title: "Spire Armor Trim"
 	quest.3512F47DADC07EAE.quest_desc: ["&5Unobtainium Armor&r but with buffs to &d&lArs Nouveau&r Spells!"]
 	quest.3512F47DADC07EAE.quest_subtitle: "40"
 	quest.3512F47DADC07EAE.title: "&5Unobtainium Arcanist Gear"
 	quest.3685B52446DEC809.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_gold.png width:100 height:150 align:center}"]
 	quest.3685B52446DEC809.title: "&eGold&r"
-	quest.39796D8EE440F318.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"]
+	quest.39796D8EE440F318.quest_desc: [
+		"Can also be obtained from Wild Horde Husks"
+		"{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"
+	]
 	quest.39796D8EE440F318.quest_subtitle: "Desert Pyramids"
 	quest.39796D8EE440F318.title: "Dune Armor Trim"
+	quest.3A840658A11D16A5.quest_desc: ["The &7Pneumatic&r armor from &7PneumaticCraft&r is a powerful, endgame modular suit that runs on compressed air from your pressure network. The best part of this set is its upgrades. You can fly faster than quantum, jump incredibly high, and be safe from all sorts of things."]
+	quest.3A840658A11D16A5.quest_subtitle: "15+"
+	quest.3A840658A11D16A5.title: "&7Pneumatic Armor"
 	quest.3AA836E8EDB52097.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_lapis.png width:100 height:150 align:center}"]
 	quest.3AA836E8EDB52097.title: "&9Lapis Lazuli&r"
 	quest.3ABE7074E500494D.quest_desc: ["&7Steel&r is used for most Machines in &5&lMekanism&r... plus Armor which is nice!"]
 	quest.3ABE7074E500494D.quest_subtitle: "20"
-	quest.3ABE7074E500494D.title: "&7Steel Armor"
-	quest.3AE0198177A8E91B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"]
+	quest.3ABE7074E500494D.title: "&5&lMekanism&r &7Steel Armor"
+	quest.3AE0198177A8E91B.quest_desc: [
+		"Can also be obtained from Possessed Elder Guardians"
+		"{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"
+	]
 	quest.3AE0198177A8E91B.quest_subtitle: "Shipwrecks and Buried Treasure"
 	quest.3AE0198177A8E91B.title: "Coast Armor Trim"
-	quest.3EA3A6414AB8A39C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"]
+	quest.3C662D3A3537F514.quest_desc: ["The Exo Armor from the &6&lOritech&r mod is a set designed for utility and exploration, rather than combat. It offers cool benefits with each piece but provides very little base protection."]
+	quest.3C662D3A3537F514.quest_subtitle: "17"
+	quest.3C662D3A3537F514.title: "&7Exo Helmet"
+	quest.3EA3A6414AB8A39C.quest_desc: [
+		"Can also be obtained from Wild Strong Breezes"
+		"{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"
+	]
 	quest.3EA3A6414AB8A39C.quest_subtitle: "Trial Chambers"
 	quest.3EA3A6414AB8A39C.title: "Flow Armor Trim"
 	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
+	quest.44CC11E67ADD0556.quest_desc: ["The &5Draco Arcanus&r armor from the &d&lForbidden and Arcanus&r mod is a high-tier set that gives healthy protective stats. It is an upgrade of the mod's &5Obsidian&r armor; you need to go into the mod's &6Hephaestus Forge&r to acquire the necessary materials."]
+	quest.44CC11E67ADD0556.quest_subtitle: "30"
+	quest.44CC11E67ADD0556.title: "&5Draco Arcanus Armor"
 	quest.452DC5EB02D592B8.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_amethyst.png width:100 height:150 align:center}"]
 	quest.452DC5EB02D592B8.title: "&5Amethyst&r"
+	quest.4915960FBC94AD0E.quest_desc: ["&7Compressed Iron&r armor is a basic, early-game armor set that functions as a gateway to the rest of the mod. It is crafted from leather armor combined with &7compressed iron&r to introduce how to create compressed iron.\\n\\nIt offers a modest increase in protection over leather armor but is equal to iron and weaker than diamond."]
+	quest.4915960FBC94AD0E.quest_subtitle: "15"
+	quest.4915960FBC94AD0E.title: "&7Compressed Iron Armor"
 	quest.497D222F74A52DF5.quest_desc: ["Now this is what I like! Iron is very common and its Armor is incredible for early game. \\n\\nZombies and Skeletons stand just about no chance!"]
 	quest.497D222F74A52DF5.quest_subtitle: "15"
+	quest.49E13245EE169048.quest_desc: ["The &6Hazmat Suit&r might seem useless with no defensive value, but it is the only way of preventing &aRadiation&r from killing you (besides the &aMekaSuit&r's Radiation Shielding Unit and Advanced AE's &5Quantum Armor&r). \\n\\nYou need to wear the entire set to prevent &aRadiation Poisoning&r! \\n\\n&aRadiation&r will kill other Mobs and Players near it, the Players can be saved with &6Hazmat Suits&r... but Mobs aren't so lucky!\\n\\nFor more information about &aRadiation&r, check out the &5&lMekanism: Reactors&r quest page."]
+	quest.49E13245EE169048.quest_subtitle: "0"
+	quest.49E13245EE169048.title: "&6Hazmat Suit"
 	quest.4A9CB8778D37049F.quest_desc: ["You'll need to use an Awakening Ritual to get the Items to do another Awakening Ritual on &4Supremium Armor&r. \\n\\nI think it is worth it; it's the best Armor you can get from &2&lMystical&r!"]
 	quest.4A9CB8778D37049F.quest_subtitle: "36"
 	quest.4A9CB8778D37049F.title: "&6Awakened Supremium Armor"
-	quest.4B9C54DA5CB6D5C9.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"]
+	quest.4B9C54DA5CB6D5C9.quest_desc: [
+		"Can also be obtained from Wild Horde Silverfish"
+		"{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"
+	]
 	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Trail Ruins"
 	quest.4B9C54DA5CB6D5C9.title: "Host Armor Trim"
+	quest.4C2BB25A757CE834.quest_desc: ["&7Rubber&r armor is a very early-game set of protection. It is primarily a crafting component for mid-game tech rather than a serious piece of equipment. The &7rubber&r armor provides very little protection and is not meant for &4combat&r or &2exploration&r."]
+	quest.4C2BB25A757CE834.quest_subtitle: "+2"
+	quest.4C2BB25A757CE834.title: "&8Rubber Armor"
 	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
 	quest.4DF683461225690F.title: "&7Iron&r"
 	quest.5064D5F99E2C69C8.quest_desc: ["Upgraded version of &9Imperium&r."]
 	quest.5064D5F99E2C69C8.quest_subtitle: "29"
 	quest.5064D5F99E2C69C8.title: "&4Supremium Armor"
+	quest.5270883BF008AACE.quest_desc: ["This is just a gate so I don't have to label so many quests as One Completed with dependencies"]
+	quest.5270883BF008AACE.title: "Occultism OR Random Armor Trim"
 	quest.52AFABA08674B6A8.quest_desc: ["&3Vibranium Armor&r but with buffs to &d&lArs Nouveau&r Spells!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
 	quest.52AFABA08674B6A8.title: "&3Vibranium Arcanist Gear"
 	quest.52B61FB01D7C12A4.quest_desc: ["Upgraded version of &aInferium&r."]
 	quest.52B61FB01D7C12A4.quest_subtitle: "23"
 	quest.52B61FB01D7C12A4.title: "&2Prudentium Armor"
-	quest.5865951E4F81C91F.quest_desc: ["&7Osmium&r + &6Glowstone&r = &eRefined Glowstone&r!"]
+	quest.537CDA57EBECD176.quest_desc: ["We've lost all the armor trims to being in the sky...getting rid of the various structures you normally find them in. But, we have a solution. Good Ol' Sieves. Sieving Sand with a Golden Mesh has a chance to give you a Random Armor Trim."]
+	quest.56975E521D14BDC9.quest_desc: ["Occultism also offers a way to get Armor Trims from various Possessed and Wild Mobs. Check the Occultism Quest Page and the Dictionary of Spirits for more information."]
+	quest.56975E521D14BDC9.title: "Occult Rituals"
+	quest.57F3F5875F7CF80C.quest_desc: ["The &3Celestigem&r armor from the &b&lJust Dire Things&r mod is a tier-three, energy-powered armor set that offers diamond-level protection. The cool functions come from upgrades that you can install and power with energy."]
+	quest.57F3F5875F7CF80C.quest_subtitle: "20"
+	quest.57F3F5875F7CF80C.title: "&3Celestigem Armor"
+	quest.5865951E4F81C91F.quest_desc: [
+		"&7Osmium&r + &6Glowstone&r = &eRefined Glowstone&r!\\n"
+		"It's &7tougher&r."
+	]
 	quest.5865951E4F81C91F.quest_subtitle: "20"
 	quest.5865951E4F81C91F.title: "&eRefined Glowstone Armor"
+	quest.59771D9B8CAD80C5.quest_desc: ["Probably the &3first&r armor you're going to get in TTS, as &7flint&r is pretty easy to come by."]
+	quest.59771D9B8CAD80C5.quest_subtitle: "12"
+	quest.59771D9B8CAD80C5.title: "&7Flint Armor"
+	quest.5A21B16F7600561A.quest_desc: ["Cardboard Armor is a joke. It is THE worst armor in the entire modpack. Maybe it has some benefits for sneaking around though..."]
+	quest.5A21B16F7600561A.quest_subtitle: "4"
+	quest.5A21B16F7600561A.title: "&6Cardboard Armor"
 	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
 	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
-	quest.5C83D5CDD980FD9A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"]
+	quest.5C83D5CDD980FD9A.quest_desc: [
+		"Can also be obtained from Possessed Hoglins"
+		"{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"
+	]
 	quest.5C83D5CDD980FD9A.quest_subtitle: "Bastion Remnants"
 	quest.5C83D5CDD980FD9A.title: "Snout Armor Trim"
 	quest.5DDC15AAFD2CAF47.quest_desc: ["&bDiamond Armor&r is the next on the &l&2Vanilla&r chain, this is also usually where we start Enchanting it as well! \\n\\nI recommend Protection and its various forms, we don't have to be picky with modded!"]
@@ -137,19 +239,31 @@
 	quest.5DDC15AAFD2CAF47.title: "&bDiamond Armor"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
-	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
+	quest.62161BDE9AAAA4BF.quest_desc: [
+		"Can also be obtained from Wild Horde Silverfish"
+		"{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"
+	]
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Trail Ruins"
 	quest.62161BDE9AAAA4BF.title: "Wayfinder Armor Trim"
 	quest.65A529C8238E89F1.quest_desc: ["Thanks to &5&lMekanism&r we can now make Armor out of &9Lapis Lazuli&r! \\n\\nIt kinda blows though..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
 	quest.65A529C8238E89F1.title: "&9Lapis Lazuli Armor"
-	quest.65E733AACBE62EDB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"]
+	quest.65E733AACBE62EDB.quest_desc: [
+		"Can also be obtained from Possessed Wardens"
+		"{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"
+	]
 	quest.65E733AACBE62EDB.quest_subtitle: "Ancient Cities"
 	quest.65E733AACBE62EDB.title: "Ward Armor Trim"
-	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
+	quest.66C21934DAFFAC7F.quest_desc: [
+		"Can also be obtained from Possessed Elder Guardians"
+		"{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"
+	]
 	quest.66C21934DAFFAC7F.quest_subtitle: "Dropped from Elder Guardians"
 	quest.66C21934DAFFAC7F.title: "Tide Armor Trim"
-	quest.68DABFFB6B3E1A57.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"]
+	quest.68DABFFB6B3E1A57.quest_desc: [
+		"Can also be obtained from Possessed Endermen"
+		"{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"
+	]
 	quest.68DABFFB6B3E1A57.quest_subtitle: "Stronghold"
 	quest.68DABFFB6B3E1A57.title: "Eye Armor Trim"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
@@ -157,6 +271,9 @@
 	quest.6C5F9D0D447EFB9C.quest_desc: ["What you think &l&2Vanilla&r was all we got? \\n\\n&6Allthemodium Armor&r has more Armor Points and Armor Toughness, plus increased Protection against Magic and other buffs you can read about in &6&lAllthemodium&r Quest Page! \\n\\nBTW you will need &cNetherite&r to craft it."]
 	quest.6C5F9D0D447EFB9C.quest_subtitle: "24"
 	quest.6C5F9D0D447EFB9C.title: "&6Allthemodium Armor"
+	quest.6D45C78AD098AF87.quest_desc: ["This is highly specialized armor set designed to protect will from electrical hazards rather than for defense in &4combat&r. It functions as a \"Faraday cage,\" giving you immunity to &7wires&r and &etesla coils&r. "]
+	quest.6D45C78AD098AF87.quest_subtitle: "7"
+	quest.6D45C78AD098AF87.title: "&7Faraday Armor"
 	quest.6F76DA3BBAE8337B.quest_desc: ["The greatest Armor we can get from &6&lAllthemodium&r, &5Unobtainium&r! \\n\\nNow with 100% Knockback Resistance and higher stats everywhere! \\n\\nAlso needs &3Vibranium Armor&r to make it."]
 	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
 	quest.6F76DA3BBAE8337B.title: "&5Unobtainium Armor"
@@ -165,22 +282,34 @@
 	quest.71C552678A0F649F.title: "&7Osmium Armor"
 	quest.7279700A93E8630B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_unobtainium.png width:100 height:150 align:center}"]
 	quest.7279700A93E8630B.title: "&5Unobtainium&r"
-	quest.729DCB919A92B735.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"]
+	quest.729DCB919A92B735.quest_desc: [
+		"Can also be obtained from Wild Breezes"
+		"{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"
+	]
 	quest.729DCB919A92B735.quest_subtitle: "Trial Chambers"
 	quest.729DCB919A92B735.title: "Bolt Armor Trim"
 	quest.72DDA413D73E3235.quest_desc: ["Much higher stats in everything with the next in line for &6&lAllthemodium&r Armors, &3Vibranium&r! \\n\\nYou will need &6Allthemodium Armor&r to create it."]
 	quest.72DDA413D73E3235.quest_subtitle: "32"
 	quest.72DDA413D73E3235.title: "&3Vibranium Armor"
-	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
+	quest.76CDF08465700AA2.quest_desc: [
+		"Can also be obtained from Possessed Wardens"
+		"{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"
+	]
 	quest.76CDF08465700AA2.quest_subtitle: "Ancient Cities"
 	quest.76CDF08465700AA2.title: "Silence Armor Trim"
-	quest.79D3055DE0EEA6B0.quest_desc: ["&d&lArs Elemental&r &cFire Armor&r!"]
+	quest.79D3055DE0EEA6B0.quest_desc: [
+		"&d&lArs Elemental&r &cFire Armor&r!\\n"
+		"This set empowers &cFire&r glyphs, making fire-based spells more potent.\\n\\nIt provides resistance to &cFire&r damage, with a higher resistance when the full set is worn.\\n\\nIt also converts some incoming &cFire&r-based damage into mana when the full set is worn."
+	]
 	quest.79D3055DE0EEA6B0.quest_subtitle: "15"
 	quest.79D3055DE0EEA6B0.title: "&cPyromancer Outfit"
 	quest.7B500E0577BDFF8F.quest_desc: ["&6Bronze&r is a combination of &6Copper&r and Tin. \\n\\nThere is a dozen different ways to make the alloy, I won't tell you the right way to do so."]
 	quest.7B500E0577BDFF8F.quest_subtitle: "18"
 	quest.7B500E0577BDFF8F.title: "&6Bronze Armor"
-	quest.7C1D407CF67786F6.quest_desc: ["&d&lArs Elemental&r Air Armor!"]
+	quest.7C1D407CF67786F6.quest_desc: [
+		"&d&lArs Elemental&r &eAir Armor&r!\\n"
+		"Empowers &eAir&r glyphs, which can be useful for lightning and mobility spells like Leap.\\n\\nReduces damage from &eAir&r-based sources.Converts some incoming &eAir&r-based damage into mana when the full set is worn."
+	]
 	quest.7C1D407CF67786F6.quest_subtitle: "15"
 	quest.7C1D407CF67786F6.title: "&fAethermancer Outfit"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["Armor is a very important part of &l&2Minecraft&r, it is what protects you from harm. \\n\\nDifferent pieces of Armor give different Armor Points. These are what determine the effectiveness for your Armor, the more the merrier!\\n\\nMost armor can be changed for more decoration with Armor Trims, use a piece of Armor with an Armor Trim, and an Item for coloring to change the look!"]
@@ -188,6 +317,10 @@
 	quest.7FABB77A60E7962C.quest_desc: ["By infusing Obsidian with &bDiamonds&r we can get Refined Obsidian Dust! \\n\\nThen, we can compress &7Osmium&r into it to get it in Ingot form. \\n\\nAfter that, we can turn those Ingots into Armor with better stats than even &6Allthemodium Armor&r!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
 	quest.7FABB77A60E7962C.title: "&5Refined Obsidian Armor"
+	task.27B97C63DC58278E.title: "Diving Helmets"
+	task.337C841AD2B16764.title: "Diving Tanks"
 	task.4BDF268861CA744F.title: "AllRightsReserved"
 	task.57895147416291FE.title: "AllRightsReserved"
+	task.597120AD20EEBF1D.title: "Diving Boots"
+	task.73142F195D9B100C.title: "Exo Chestpieces"
 }

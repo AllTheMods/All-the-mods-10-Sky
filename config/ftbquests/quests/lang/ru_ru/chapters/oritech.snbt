@@ -17,6 +17,8 @@
 	quest.1831B35A3239B583.quest_subtitle: "Doing multiple recipes at once"
 	quest.1B2BD489D5173B40.quest_subtitle: "Loads of ways to get this"
 	quest.1D9A00C81C2A97F0.quest_subtitle: "Underwhelming"
+	quest.1DBF1D4061518B0B.quest_subtitle: "Turning one into more"
+	quest.1DBF1D4061518B0B.title: "Refining Ores"
 	quest.1F139091C1B4E50B.quest_subtitle: "A normal circuit"
 	quest.208F759905CF7744.quest_desc: [
 		"Drone ports are fairly fast but they require a minimum of &450 blocks&r distance to work."
@@ -66,9 +68,13 @@
 	quest.46EFCAE81C09368A.title: "Machine Cores"
 	quest.49D03933633D6A45.quest_subtitle: "It's AI"
 	quest.4CFA7EE8174E3FD8.quest_subtitle: "Increase energy input rate"
+	quest.4EAD06B0B3AD7D6E.quest_subtitle: "Fragment raw ores"
+	quest.4EAD06B0B3AD7D6E.title: "Clumps"
 	quest.4ED29ACF4A699E1B.quest_subtitle: "Its betterer"
-	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must charge &aUranite Crystals&r found around the world."]
-	quest.50243E5CF1B156ED.quest_subtitle: "Uranite crystal charging"
+	quest.4F89C04CEBF812F9.quest_subtitle: "Smelt gems into ingots"
+	quest.4F89C04CEBF812F9.title: "Ingots"
+	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must fragment &aRaw Uranium&r in the Fragment Forge to acquire &5Small Plutonium Dust&r. Don't mind this being from &#A0DE45Modern Industrialization&r, you'll still be able to use it for Oritech."]
+	quest.50243E5CF1B156ED.quest_subtitle: "From Uranite to Plutonium"
 	quest.5189D72ED3808DC6.quest_desc: [
 		"&aShift right-click&r your target designator on the amethyst cluster and then &ashift right-click&r the laser to set the target."
 		""
@@ -77,7 +83,7 @@
 	quest.5189D72ED3808DC6.quest_subtitle: "Charge amethyst with the laser"
 	quest.53880926982968FD.quest_subtitle: "Say my name"
 	quest.53D5A6F210DF199C.quest_subtitle: "Smoothly transfer 10k rf/t"
-	quest.53D5A6F210DF199C.title: "Transfering Energy"
+	quest.53D5A6F210DF199C.title: "Transferring Energy"
 	quest.55DCCC4035B8BB2A.quest_subtitle: "Mix netherite and platinum"
 	quest.58819CE09A648A43.quest_subtitle: "These will be used to make most machines"
 	quest.58819CE09A648A43.title: "Basic Building Components"
@@ -110,6 +116,11 @@
 	quest.7CBAD1047B087803.quest_subtitle: "Centrifuging a clump gives me gems....?"
 	quest.7CBAD1047B087803.title: "Spinning into gems"
 	quest.7D2F41DD9774DDA7.title: "Transporting items"
+	task.2687A493F6A78164.title: "Gems"
+	task.3CC9C741B461AD4B.title: "Clumps"
+	task.400E42F53FDE783C.title: "Ingots"
+	task.6CBC44DF8F1CD43F.title: ""
+	task.6E85FE06F0AA556A.title: "Gems"
 	task.7C454550A8F933AC.title: "Power Generation"
 	task.7C85CBE79E91F28B.title: "Addons"
 }

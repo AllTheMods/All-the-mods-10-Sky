@@ -5,7 +5,7 @@
 	minorrev = 0
 
 [discord]
-	#Enable Discord Rich Prescence
+	#Enable Discord Rich Presence
 	discord = true
 
 [packversionmin]

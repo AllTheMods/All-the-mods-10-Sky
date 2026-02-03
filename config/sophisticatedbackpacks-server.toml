@@ -448,7 +448,7 @@
 		# Default: 20
 		# Range: 1 ~ 100
 		autoFillDrainContainerCooldown = 20
-		#How much FE can be transfered in / out per operation. This is a base transfer rate and same as max capacity gets multiplied by number of rows in storage and stack multiplier.
+		#How much FE can be transferred in / out per operation. This is a base transfer rate and same as max capacity gets multiplied by number of rows in storage and stack multiplier.
 		# Default: 20
 		# Range: 1 ~ 1000
 		maxInputOutput = 20
@@ -463,7 +463,7 @@
 		# Default: 4
 		# Range: 1 ~ 20
 		filterSlots = 4
-		#How much mB can be transfered in / out per operation. This is a base transfer rate that gets multiplied by number of rows in storage and stack multiplier.
+		#How much mB can be transferred in / out per operation. This is a base transfer rate that gets multiplied by number of rows in storage and stack multiplier.
 		# Default: 20
 		# Range: 1 ~ 1000
 		maxInputOutput = 20

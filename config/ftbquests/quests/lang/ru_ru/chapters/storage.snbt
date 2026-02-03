@@ -28,7 +28,7 @@
 	quest.11D4EEAC61C7E530.quest_desc: ["The Collector Upgrade will make the Drawer vacuum items in from one of the sides."]
 	quest.11D57C768032E3F7.quest_subtitle: "More Filtering Options"
 	quest.11D57C768032E3F7.title: "&eAdvanced Magnet Upgrade"
-	quest.122FBF5110E4CFF2.quest_desc: ["The Iron Downgrade will downgrade the Drawer's max space to a stack. This can be usefull for keeping items on stock, but not too many."]
+	quest.122FBF5110E4CFF2.quest_desc: ["The Iron Downgrade will downgrade the Drawer's max space to a stack. This can be useful for keeping items on stock, but not too many."]
 	quest.1310C1E14C259807.quest_desc: ["Want to have custom Drawers? Look no further, these can mimic a block's texture on the outside, and a different one in the front.\\n\\nFollow the tooltip on how to do it."]
 	quest.134608BB2B04D96E.quest_desc: ["Chests have 27 slots and can be made into a double chest to store twice that amount."]
 	quest.134608BB2B04D96E.quest_subtitle: "The Chest"
@@ -49,7 +49,7 @@
 	quest.1A739D36D5E3B1AD.title: "&eAdvanced Feeding Upgrade"
 	quest.1B72E95569B07E18.quest_subtitle: "x24 Storage Upgrade"
 	quest.1B72E95569B07E18.title: "&bDiamond Upgrade"
-	quest.1CACE201C6AA0913.quest_desc: ["This upgrade will void extra items that come when Drawers are full.\\n\\nThis can be usefull to prevent overflow or to prevent a setup from backing up due to the storage being full."]
+	quest.1CACE201C6AA0913.quest_desc: ["This upgrade will void extra items that come when Drawers are full.\\n\\nThis can be useful to prevent overflow or to prevent a setup from backing up due to the storage being full."]
 	quest.1CD2C6AFD788C35E.quest_desc: ["Compacts items in the Backpack to their 2x2 recipe."]
 	quest.1E499F94A2A193E1.quest_desc: ["Adds a Blast Furnace GUI to the Backpack."]
 	quest.1FE052F643401232.quest_desc: ["You will need these to make Backpack Upgrades."]

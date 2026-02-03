@@ -128,7 +128,7 @@
 	quest.55D7CD0FA8F1AE48.quest_desc: ["The reason we're all here, &5Trains&r. The mod is called &l&7RailCraft&r don't act surprised. \\n\\nThere's 2 different main &5Trains&r and 1 special mining &5Train&r. \\n\\nThese &5Trains&r all by themselves can get a little boring, so why not attach &7Carts&r to them! Connecting &7Carts&r with &7Carts&r and with &5Trains&r is called Coupling, and to unconnect them is to Decouple. To Couple &5Trains&r and &7Carts&r use a &4Crowbar&r or a &6Track&r with the Coupling &cTrack Kit&r."]
 	quest.55D7CD0FA8F1AE48.title: "&7&lCarts&r 'N' &5&lTrains&r!"
 	quest.5820EDEF71340A1A.quest_desc: [
-		"&6Abandoned Tracks&r are good for the cheapskates and aesthetic. They can be used to bridge accross a few blocks without support. They can only be 2 blocks away from blocks going the same direction, or one block from the opposite direction. They come at the risk of derailment though, basically your &7Cart&r will be thrown off the &6rails&r."
+		"&6Abandoned Tracks&r are good for the cheapskates and aesthetic. They can be used to bridge across a few blocks without support. They can only be 2 blocks away from blocks going the same direction, or one block from the opposite direction. They come at the risk of derailment though, basically your &7Cart&r will be thrown off the &6rails&r."
 		"{image:atm:textures/questpics/railcraft/rail_abandoned.png width:150 height:100 align:center}"
 	]
 	quest.5820EDEF71340A1A.title: "&6Abandoned Tracks"

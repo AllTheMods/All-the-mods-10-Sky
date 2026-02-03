@@ -43,7 +43,7 @@
 	quest.0691BDE968724213.title: "Vibrant Alloy Bee"
 	quest.069247036385D7CF.quest_desc: ["Affects the time of day a bee can work. There are 3 levels of this: &aDiurnal&r, &dNocturnal&r, &cMetaturnal&r. &aDiurnal&r bees can only work during daytime, &dNocturnal&r bees can only work during nighttime, &cMetaturnal&r bees can work at any time of the day. &cMetaturnal&r is what we're after. BeeBee naturally has the &cMetaturnal&r trait, but, as mentioned earlier, is on vacation, so we'll need to look into some alternative measures. We will need to leash some bees to a fence during nighttime to make them &dNocturnal&r, then leaving those bees out on a fence during daytime to make them &cMetaturnal&r. We can skip one of these steps with a Ghostly Bee, which is naturally &dNocturnal&r."]
 	quest.069247036385D7CF.quest_subtitle: "Sleep is for the weak"
-	quest.069247036385D7CF.title: "&l&eBehavior"
+	quest.069247036385D7CF.title: "&l&eBeehavior"
 	quest.06B352AE90DD0D3E.quest_desc: ["A &8BlazBee&r pollinating an &4Obsidian Bee Spawn Egg&r will convert it into a &2Infinity Bee Spawn Egg&r."]
 	quest.06B352AE90DD0D3E.title: "Bee Of Infinity"
 	quest.08A3292277D2FDE2.quest_subtitle: "Crafted with Enchanting Apparatus"
@@ -149,6 +149,7 @@
 		"&9Bee Conversion&r requires you to feed a bee a specific item to convert it into a new Bee."
 	]
 	quest.17419401147B5C02.quest_subtitle: "The Bees and the Bees"
+	quest.176ACC61DC206E55.quest_desc: ["Its nest can also be obtained from growing Crimson Fungi, at a 2% chance."]
 	quest.176ACC61DC206E55.quest_subtitle: "Feed a Shroombee a Crimson Fungus"
 	quest.176ACC61DC206E55.title: "Crimson Shroombee"
 	quest.177199FED92C3B5B.quest_subtitle: "Feed an Infused Diamond to a Diamond Bee"
@@ -190,8 +191,6 @@
 	quest.1DF026030780AE96.quest_subtitle: "Extracts Genes from Bees in Hives"
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["To attract Bees to this nest, you'll need Popped Chorus Fruit instead of Honey Treats."]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Lures in Ender Bees when placed in the End"
-	quest.1EBD5E4410A6DF34.quest_subtitle: "Feed a Ghostly Bee a Soulium Dagger"
-	quest.1EBD5E4410A6DF34.title: "Soulium Bee"
 	quest.205DE46ABA1CCC8F.quest_subtitle: "Made in Alloy Smelter"
 	quest.205DE46ABA1CCC8F.title: "Conductive Alloy Bee"
 	quest.2086C73688C8BA51.quest_subtitle: "Feed a Bucket of Sulfuric Acid to Lava Bee"
@@ -223,6 +222,7 @@
 	quest.26FB7A789981BD3C.title: "Graphite Bee"
 	quest.28AE3B536D23E138.quest_subtitle: "Infusion Crafting"
 	quest.28AE3B536D23E138.title: "Inferium Bee"
+	quest.2982D38BD5EE6349.quest_desc: ["Its nest can also be obtained from growing Warped Fungi, at a 2% chance."]
 	quest.2982D38BD5EE6349.quest_subtitle: "Feed a Shroombee Warped Fungus"
 	quest.2982D38BD5EE6349.title: "Warped Shroombee"
 	quest.29A71E780923874E.quest_subtitle: "Nomad + Reed"
@@ -237,8 +237,6 @@
 	quest.29EE878BC8D3A742.title: "Capturing Bees!"
 	quest.2A559D527BC88DEC.quest_desc: ["If you throw a &9Spatial Bee Spawn Egg&r and a &8Sky Steel Block&r into Lava, you will create a Sky Steel Bee Spawn Egg."]
 	quest.2A559D527BC88DEC.title: "Sky Steel Bee"
-	quest.2AEC294578952BFD.quest_subtitle: "Lapis + Skeletal"
-	quest.2AEC294578952BFD.title: "Dye Bee"
 	quest.2AEEDCC6826CF4AB.quest_subtitle: "Fishy Business"
 	quest.2AEEDCC6826CF4AB.title: "Oily Bee"
 	quest.2BE538246C672689.quest_desc: ["Using a smeltery, pour &#9332D9Molten Unobtainium&r over an &#F2EB2EVibranium Bee Spawn Egg&r."]
@@ -319,8 +317,6 @@
 	quest.3B5095CEDD9FB323.title: "Energized Steel Bee"
 	quest.3CB7AB928D3E1CC6.quest_subtitle: "Made with Energizer"
 	quest.3CB7AB928D3E1CC6.title: "Blazing Crystal Bee"
-	quest.3D63868AC4393EBC.quest_subtitle: "Lapis + Emerald"
-	quest.3D63868AC4393EBC.title: "Experience Bee"
 	quest.3D7480E4F9063E93.quest_subtitle: "Lumber + Sweat"
 	quest.3D7480E4F9063E93.title: "Rancher Bee"
 	quest.3DA5F622E3266AE5.quest_subtitle: "Made in Reprocessor"
@@ -328,17 +324,13 @@
 	quest.3DB5874FA93FDA50.quest_subtitle: "Electrolyze 3 Emerald Bee Spawn Eggs into a Beryllium Bee Spawn Egg"
 	quest.3DB5874FA93FDA50.title: "Beryllium Bee"
 	quest.3E301F3EEC8C763A.quest_desc: [
-		"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs."
-		""
-		"Place a caged baby Bee with 20 Honey Treats to turn it into an adult."
-		""
-		"To create Spawn Eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg.\\n\\nGenes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an Egg to a Bee Spawn Egg."
+		"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs.\\n\\nPlace a caged baby Bee with 20 Honey Treats to turn it into an adult.\\n\\nTo create Spawn Eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg.\\n\\nGenes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an Egg to a Bee Spawn Egg."
+		"{@pagebreak}"
+		"You can even apply genes to a bee without taking it out of its cage with this. Put a Honey Treat with the gene samples of your choice into the incubator along with a bee cage holding the bee you want to apply genes to."
 	]
 	quest.3E301F3EEC8C763A.quest_subtitle: "Baby Bee Daycare"
 	quest.40E4F1172A164DD1.quest_subtitle: "Chance to Spawn when breaking Cocoa Pods in a Jungle"
 	quest.40E4F1172A164DD1.title: "Sugarbag Bee"
-	quest.40F8A44DF4D8DBD6.quest_subtitle: "Magmatic + Nomad"
-	quest.40F8A44DF4D8DBD6.title: "BlazBee"
 	quest.419DD6FE84B91749.quest_desc: ["When collecting genes, you'll get a percentage of a trait. You can combine them in a crafting table to add them together, or place them in a Gene Indexer to auto-combine. Does not require a redstone signal."]
 	quest.419DD6FE84B91749.quest_subtitle: "The Gene Combiner and Chest"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["When placed in the Nether and given Glowstone, the Glowstone Nest will lure in a Glowing Bee."]
@@ -535,8 +527,6 @@
 	quest.7AE1459B0B862737.title: "Time Bee"
 	quest.7B0CE182D3FE3035.quest_subtitle: "2 tall flowers can be crafted with MA Essence"
 	quest.7B0CE182D3FE3035.title: "Craftable flowers"
-	quest.7B40A9DAA119DE59.quest_subtitle: "Crystalline + Neon Cuckoo"
-	quest.7B40A9DAA119DE59.title: "Menril Bee"
 	quest.7B5A0BFD47D96BDE.quest_desc: ["Used to catch bees that are flying around it.\\n\\nYou can use a Filter Upgrade to filter out which bees you want to catch, as well as a BaBee Upgrade to only catch baby bees."]
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "Catches Bees"
 	quest.7B72CF322A3C985D.quest_desc: ["An &8Obsidian Bee&r pollinating a &4Redstone Bee Spawn Egg&r will convert it into a &2Flux Dust Bee Spawn Egg&r."]

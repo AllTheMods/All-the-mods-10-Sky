@@ -331,7 +331,7 @@
 
 	[building.sugar_cube]
 		enabled = true
-		#Duration in seconts of speed effect garanted to horses that eat a sugar cube
+		#Duration in seconds of speed effect garanted to horses that eat a sugar cube
 		# Default: 10
 		# Range: 0 ~ 1000
 		horse_speed_duration = 10
@@ -666,7 +666,7 @@
 		target_block = ""
 
 	[tweaks.map_tweaks]
-		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
+		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (chosen from a thought out preset list).
 		#Best kept disabled if you are adding custom adventurer maps with datapack (check the wiki for more)
 		random_adventurer_maps = true
 		#Select a random structure to look for instead of iterating through all of the ones in the tag returning the closest. Turning on will make ones that have diff structures (aka all different ruined portals) show up more. On could take much more time to compute
@@ -680,7 +680,7 @@
 		quill_adventurer_maps = true
 		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
 		quill_vanilla_maps = true
-		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
+		#Minimum search radius for quill. Used to increase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
 		# Default: 75
 		# Range: 10 ~ 600
 		min_search_radius = 75

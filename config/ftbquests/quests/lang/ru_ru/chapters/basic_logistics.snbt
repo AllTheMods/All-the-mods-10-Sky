@@ -5,7 +5,7 @@
 	]
 	quest.034F2CDF0830254B.title: "&eFluid Importing"
 	quest.03C40D6A5D722543.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them. \\n\\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card. \\n\\nIf you're like me just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
-	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extration can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \\n\\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \\n\\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
+	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extraction can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \\n\\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \\n\\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
 	quest.046C417B2ADF3AA7.quest_subtitle: "Max: 4"
 	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... there's a 4 somewhere as well. \\n\\nTo set a Number put the Item in then you can Left or Right Click to change the amount. Shift and do the same to go by 10s. Once you have a set Number through it into a Card! \\n\\nIt will then wait until that set Number of Items is there to start taking Items. It will also leave that amount in the first Inventory."]
 	quest.0BB562FB44B0AAA7.quest_desc: ["Cards aren't the only ones with limits, so they also aren't the only ones with Overclockers! \\n\\nThese go into the &cNode&r itself on bottom right and boost how fast it does Operations."]
@@ -80,7 +80,7 @@
 		"{image:atm:textures/questpics/logistics/meka_tube.png width:200 height:50 align:center}"
 	]
 	quest.4BC2D7FCDD792DBA.quest_subtitle: "Gas+More"
-	quest.4C41FD926F31180B.quest_desc: ["In order to move &2Items&r with &c&lLaserIO&r you'll need some &2Item Cards&r. \\n\\nSet one to Extract and put it on the side of the &cLaser Node&r you want to Import from. Then set the other to Insert and put it to the side you want the Items to Export to. \\n\\nThere are mutliple settings you can change with the Extract in order of where you want the Items to go if there's multiple places to Extract from. Round Robin will make it Extract items in an order instead of closest Inventory first."]
+	quest.4C41FD926F31180B.quest_desc: ["In order to move &2Items&r with &c&lLaserIO&r you'll need some &2Item Cards&r. \\n\\nSet one to Extract and put it on the side of the &cLaser Node&r you want to Import from. Then set the other to Insert and put it to the side you want the Items to Export to. \\n\\nThere are multiple settings you can change with the Extract in order of where you want the Items to go if there's multiple places to Extract from. Round Robin will make it Extract items in an order instead of closest Inventory first."]
 	quest.4C41FD926F31180B.title: "&2Item Card"
 	quest.4FBAB3A0FBF8CE2F.quest_desc: [
 		"Why worry about what's being moved when you can just move everything! &5Universal Pipez&r are even less discriminatory than &cEnergy Pipez&r. They can move &eItems&r, &bFluids&r, or &cEnergy&r. "
@@ -107,7 +107,10 @@
 	quest.617695A9CA45D88F.quest_desc: ["When using &c&lLaserIO&r for &lLogistics&r you might end up with MANY Cards. With each taking a slot in your Inventory it can get pretty crampt. I wish they had a storage for Cards... oh wait they do, it's the Card Holder! \\n\\nYou can store multiple Cards in it and when you open a Laser Node the Card Holder will open up as well like a second Inventory. Very helpful!"]
 	quest.6718043D0F2D1830.quest_desc: ["DireWolf was asked to make an addition of his Cards to work with &5&lMekanism&r and its... other states of matter. Everything Pressurized Tubes can move, these cards can. Gas, Infuse Types, and Pigments."]
 	quest.6718043D0F2D1830.title: "&5Chemical Card"
-	quest.6A962535CD68713E.quest_desc: ["&e&lPipez&r move more! \\n\\nAll Upgrades increase the amount the &e&lPipez&r move but each grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r.\\n\\nImproved Upgrade allows you to change distribution either:Closest First, Farthest First, Round-Robin, or Random.\\n\\nAdvanced Upgrade gives you option to add Filters.\\n\\nUltimate doesn't grant anything new it just moves a lot!"]
+	quest.67A0164D3A25BE73.quest_desc: ["Ever wanted to fit a pipe between blocks? Allow me to introduce you to &3Transfer Labels&r. &3Transfer Labels&r can be used for items and fluids.\\n\\n&lHow to use&r\\n\\nYou can place &3Labels&r on blocks by sneak right clicking onto blocks.\\nYou can interact with the &3Label&r by holding another &3Label&r or a &#FFAC3BLabel Accessor&r and right clicking the placed &3Label&r.\\nYou can remove the placed &3Label&r by left clicking the &3Label&r while holding another &3Label&r or a &#FFAC3BLabel Accessor&r.\\nYou can access &3Labels&r through blocks using the &#FFAC3BLabel Accessor&r.\\n\\n&lAcceleration&r\\n\\nYou can accelerate the &3Labels&r by adding the same type of &3Label&r in the amount or speed slots."]
+	quest.67A0164D3A25BE73.quest_subtitle: "When you gotta fit a pipe between your blocks"
+	quest.67A0164D3A25BE73.title: "Transfer Labels"
+	quest.6A962535CD68713E.quest_desc: ["&e&lPipez&r move more! \\n\\nAll Upgrades increase the amount the &e&lPipez&r move and also grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r, to change distribution either:Closest First, Farthest First, Round-Robin, or Random, and to add Filters.\\n\\nImproved, Advanced, and Ultimate upgrades don't grant anything new they just move more!"]
 	quest.6CD7D99AA102A5C3.quest_desc: ["&n&f&lLogistics&r: \\nA system of moving, managing, and storing items or resources. \\n\\nIn Modded Minecraft it's quite the same, moving items! With Modded you will need items and by the thousands, heck if you want the &6&lStar&r it gets in the millions! So you'll need to move items from factories, machines, farms, and especially chests. That's what &l&fLogistics&r is for."]
 	quest.6CD7D99AA102A5C3.title: "&lLogistics"
 	quest.6E05B62A40D5A891.quest_desc: [
@@ -133,6 +136,7 @@
 	quest.7AD6E01ED01E6F13.title: "Guess who's back?"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["These are just used to Connect &cLaser Nodes&r to each other and to Connectors. Not too important I just wanted to keep with the theme of Wrenches. \\n\\nIt does work as a Wrench for other Configs!"]
 	quest.7EE27C3908008E20.quest_desc: ["If you need to string your &cLaser Nodes&r a far distance try using Connectors! Just use the Wrench like normal."]
+	task.1807A230BA87899B.title: "Transfer Labels"
 	task.2BA7FC10243AA011.title: "Pressurized Tubes"
 	task.337725ECA2C04090.title: "Logical Transporters"
 	task.4448DE84ABA737BE.title: "Universal Cables"
