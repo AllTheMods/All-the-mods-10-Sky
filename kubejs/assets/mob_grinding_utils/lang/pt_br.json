@@ -29,7 +29,7 @@
   "mob_grinding_utils.jei.any_experience": "aceita qualquer: forge:experience",
 
   "_comment": "JEI Titles",
-  "mob_grinding_utiles.jei.solidifier" : "Receita do Solidificador",
+  "mob_grinding_utiles.jei.solidifier": "Receita do Solidificador",
 
   "_comment": "Jei Info Tabs",
   "block.mob_grinding_utils.jumbo_tank.jei.info": "Uma versão maior do Tanque de Singularidade, armazena o equivalente a 1024 baldes de qualquer líquido.",
@@ -139,7 +139,7 @@
   "block.mob_grinding_utils.xpsolidifier.tooltip_4": "A velocidade aumenta com Melhorias de Velocidade de XP.",
 
   "block.mob_grinding_utils.solid_xp_block.tooltip_1": "Saltitante.",
-  
+
   "block.mob_grinding_utils.entity_spawner.tooltip_1": "Pode Gerar Mobs em uma área 3x3x1.",
   "block.mob_grinding_utils.entity_spawner.tooltip_2": "Usa um Ovo de Geração no Slot Superior.",
   "block.mob_grinding_utils.entity_spawner.tooltip_3": "Alimentado por Jujubas de XP Sólido.",
@@ -173,7 +173,7 @@
 
   "tooltip.rotten_egg_1": "Cria uma área 5x5 de Terra Pavorosa.",
   "tooltip.rotten_egg_2": "Usado em Grama, Terra, Micélio ou Terra Arada.",
-  
+
   "tooltip.golden_egg_1": "Cria uma área 5x5 de Terra Deleitável.",
   "tooltip.golden_egg_2": "Usado em Grama, Terra, Micélio ou Terra Arada.",
 

@@ -1,5 +1,5 @@
 {
-  "tooltip.rarcompat.modified" : "Modificado por [Relics: Artifacts Compat]",
+  "tooltip.rarcompat.modified": "Modificado por [Relics: Artifacts Compat]",
 
   "tooltip.rarcompat.mimi_dust": "Quando usado em um baú, transforma-o em um mímico que larga tantas relíquias aleatórias quantas continha originalmente antes da transformação.",
 
@@ -269,7 +269,8 @@
 
   "tooltip.relics.helium_flamingo.description": "Temporariamente permite ao portador da relíquia planar pelo ar como faria na água.",
   "tooltip.relics.helium_flamingo.ability.flying": "Nadador Aéreo",
-  "tooltip.relics.helium_flamingo.ability.flying.description": "Ao realizar um pulo duplo, permite ao jogador flutuar no ar por até %1$s segundos. A velocidade de movimento no ar é proporcional à velocidade de nado do jogador com um bônus adicional de %2$s%%.",  "tooltip.relics.helium_flamingo.leveling_source.flying.title": "Nadador Aéreo",
+  "tooltip.relics.helium_flamingo.ability.flying.description": "Ao realizar um pulo duplo, permite ao jogador flutuar no ar por até %1$s segundos. A velocidade de movimento no ar é proporcional à velocidade de nado do jogador com um bônus adicional de %2$s%%.",
+  "tooltip.relics.helium_flamingo.leveling_source.flying.title": "Nadador Aéreo",
   "tooltip.relics.helium_flamingo.leveling_source.flying.description": "+%1$s pontos de experiência para cada segundo de nado aéreo usando a habilidade %2$s.",
 
   "tooltip.relics.pocket_piston.description": "Concede às mãos do portador da relíquia a força de mecanismos.",

@@ -80,12 +80,12 @@
   "tooltip.relics.relic.upgrade.description": "Subir de nível",
   "tooltip.relics.relic.upgrade.cost": "Custo: %1$s pontos de melhoria %2$s, %3$s pontos de experiência do jogador (%4$s níveis relativos) %5$s.",
   "tooltip.relics.relic.upgrade.locked": "A habilidade atingiu seu nível máximo.",
-  "tooltip.relics.relic.upgrade.quick":"Segure [Shift] para melhorar automaticamente para o nível mais alto possível.",
+  "tooltip.relics.relic.upgrade.quick": "Segure [Shift] para melhorar automaticamente para o nível mais alto possível.",
 
   "tooltip.relics.relic.reroll.description": "Rolar atributos aleatórios novamente",
   "tooltip.relics.relic.reroll.cost": "Custo: %1$s pontos de experiência do jogador (%2$s níveis relativos) %3$s.",
-  "tooltip.relics.relic.reroll.quick":"Segure [Shift] para rolar atributos aleatórios automaticamente até valores perfeitos.",
-  "tooltip.relics.relic.reroll.warning":"Segure [Shift] para confirmar a rolagem de atributos de valores perfeitos para outros aleatórios.",
+  "tooltip.relics.relic.reroll.quick": "Segure [Shift] para rolar atributos aleatórios automaticamente até valores perfeitos.",
+  "tooltip.relics.relic.reroll.warning": "Segure [Shift] para confirmar a rolagem de atributos de valores perfeitos para outros aleatórios.",
 
   "tooltip.relics.relic.reset.description": "Resetar pontos de melhoria",
   "tooltip.relics.relic.reset.cost": "Custo: %1$s pontos de experiência do jogador (%2$s níveis relativos) %3$s.",
