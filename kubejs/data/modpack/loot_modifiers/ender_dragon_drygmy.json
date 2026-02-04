@@ -1,0 +1,36 @@
+{
+  "type": "productivelib:ingredient_modifier",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/ender_dragon"
+    },
+    {
+      "condition": "productivelib:killed_by_uuid",
+      "uuid": [
+        1946194541,
+        268914259,
+        -2012236738,
+        1743961897
+      ]
+    }
+  ],
+  "chance": 0.5,
+  "addition": [
+    {
+      "item": "mysticalagriculture:cognizant_dust"
+    },
+    {
+      "item": "minecraft:dragon_egg"
+    },
+    {
+      "item": "minecraft:dragon_head"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "mysticalagradditions:dragon_scale"
+    }
+  ]
+}
