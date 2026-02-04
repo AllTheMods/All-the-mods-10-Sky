@@ -1,0 +1,202 @@
+{
+	quest.0043ED1E4EF2D4A1.quest_desc: ["Estes são úteis para aprimorar suas habilidades."]
+	quest.0043ED1E4EF2D4A1.quest_subtitle: "Os personagens de suporte"
+	quest.0043ED1E4EF2D4A1.title: "&5Outros Focos"
+	quest.04987E54ADC2C057.title: "&6Amuleto de Drygmy"
+	quest.04D9F6587EF8D9B7.quest_desc: ["O &9Jarro de Poções&r armazena até 100 poções. Você pode removê-las usando uma garrafa vazia ou um frasco de poção no jarro. \\n\\nWixies usarão esses jarros durante a Fabricação Automática de Poções."]
+	quest.04D9F6587EF8D9B7.quest_subtitle: "Armazenando Poções"
+	quest.088FCB5267CB7A89.quest_desc: ["Este cinto concederá efeitos de poção positivos aleatórios por um curto período. A força desses efeitos irá variar."]
+	quest.088FCB5267CB7A89.title: "&cCinto de Presentes Instáveis"
+	quest.0A1ABE9CF7740AAA.quest_desc: ["Os Anéis de Desconto fornecem um pequeno bônus de mana máxima e regeneração de mana. Eles também reduzem o custo total para lançar um feitiço."]
+	quest.0A1ABE9CF7740AAA.title: "&3Anéis de Desconto"
+	quest.0D330FAD6C993DBC.quest_desc: ["Esta é a próxima melhoria para o seu Livro de Feitiços! \\n\\nIsso aumentará sua mana total e regeneração de mana, além de permitir que você crie e use Glifos de Nível 2."]
+	quest.0D330FAD6C993DBC.quest_subtitle: "V2"
+	quest.0D330FAD6C993DBC.title: "&5Livro de Feitiços do Mago"
+	quest.0DA31E972F2DE8AB.quest_desc: ["Focos impulsionam a magia de um tipo específico de várias maneiras. Você pode ver de que tipo é um feitiço passando o mouse sobre o glifo e olhando no canto superior direito."]
+	quest.0DA31E972F2DE8AB.quest_subtitle: "\"Viés Menor\""
+	quest.0DA31E972F2DE8AB.title: "&9Focos Elementais Menores"
+	quest.0E2AD156E5EF263A.quest_desc: ["Usado para inscrever feitiços com a Mesa do Escriba."]
+	quest.0E2AD156E5EF263A.quest_subtitle: "Papel Chique"
+	quest.0E2AD156E5EF263A.title: "&dPergaminho de Feitiço"
+	quest.111649D7E16D869F.quest_desc: ["A &9Varinha de Encantador&r aceita apenas um único feitiço e é inscrita usando a Mesa do Escriba. \\n\\nOs feitiços da varinha sempre começam com Projétil > Acelerar, e DEVEM ser inscritos com um feitiço que não tenha outro método (como toque, em si, etc.). \\n\\nIsso permite que você lance feitiços além do limite de 10 feitiços. Se você quiser usar Quebrar, basta inscrever a varinha apenas com Quebrar."]
+	quest.111649D7E16D869F.title: "&dVarinha de Encantador"
+	quest.1322CDAC5D3007BA.quest_desc: ["Agora, este é complicado. Primeiro, obtenha um amuleto de drygmy negociando com um &5Mago Suspeito&r de Nv4 e crie-o a partir do token. Você pode clicar com o botão direito em um &2Pedregulho com Musgo&r com ele para criar um &2Henge de Drygmy&r, que gera um Drygmy.\\n\\nÉ aqui que seu jarro de contenção entra. Inicie o ritual de contenção e coloque o jarro de contenção e qualquer mob cujo saque você queira farmar. Você também precisará de um pouco de &dFonte&r. Isso deve colocar o mob no jarro.\\n\\nFinalmente, coloque o jarro a até 10 blocos do drygmy e coloque um &dJarro de Fonte&r cheio e um baú ao lado do &2Henge&r. Você deverá ver partículas verdes saindo do jarro, e eventualmente os drops do mob devem aparecer no baú.\\n\\nPara detalhes sobre como as taxas são calculadas, leia a wiki."]
+	quest.1322CDAC5D3007BA.quest_subtitle: "Funciona até com chefes"
+	quest.1322CDAC5D3007BA.title: "&6Farm de Drygmy"
+	quest.14DB8A515CA50932.quest_desc: ["A &9Espada do Encantador&r permite que você anexe um Feitiço de Toque à espada. \\n\\nTodos os feitiços na Espada ganham 1 aumento de Amplificar adicional ao último efeito do feitiço. \\n\\nPara aplicar um feitiço à espada, use uma Mesa do Escriba. Crie o feitiço sem usar uma forma."]
+	quest.14DB8A515CA50932.title: "&9Espada do Encantador"
+	quest.151648179684B088.quest_desc: ["O Giz Rúnico é usado para desenhar Runas permanentes no chão. Essas runas lançarão feitiços em entidades que passarem sobre elas. \\n\\nPara anexar um feitiço a uma runa, inscreva um &ePergaminho de Feitiço&r usando uma Mesa do Escriba.\\n\\nNota: A Runa precisará de Fonte para operar."]
+	quest.151648179684B088.quest_subtitle: "Feitiços Posicionáveis"
+	quest.151648179684B088.title: "&6Giz Rúnico"
+	quest.1631AD6036F80333.quest_desc: ["Você pode usar &6Abelhas Produtivas&r para economizar tempo e espaço preciosos! Obtenha-as assim que possível."]
+	quest.1631AD6036F80333.quest_subtitle: "Melhor que câmaras de imbuimento"
+	quest.1631AD6036F80333.title: "&5Automatizando Gemas de Fonte"
+	quest.17D7D34F519F7E5F.quest_desc: ["Para criar o último nível do seu Livro de Feitiços, você precisará ter matado a &6Quimera Wilden&r. \\n\\nEste é um Ritual que você precisará completar usando um &9Braseiro Ritualístico&r."]
+	quest.17D7D34F519F7E5F.quest_subtitle: "Não é para os fracos de coração"
+	quest.17D7D34F519F7E5F.title: "&6Livro de Feitiços do Arquimago"
+	quest.18A2FBE2D4133FA2.quest_desc: ["Pedestais Arcanos são necessários para o Braseiro Ritualístico e para criar itens com um Aparato de Encantamento. \\n\\nSiga em frente e faça 8 deles para você!"]
+	quest.18A2FBE2D4133FA2.quest_subtitle: "Mesas Elegantes"
+	quest.18A2FBE2D4133FA2.title: "Pedestais Arcanos"
+	quest.19D02325579F2AA8.quest_desc: ["O Vínculo de Fonte Vulcânico gera Fonte consumindo itens combustíveis. Troncos de Archwood gerarão Fonte bônus. \\n\\nÀ medida que queima itens, ele converterá pedra próxima em lava. \\n\\nIsso também gera Lírios de Lava."]
+	quest.19D02325579F2AA8.quest_subtitle: "Dano colateral"
+	quest.1A26E6650D007262.quest_desc: ["Fonte: JEI, aparentemente. (e sim, eu estava sendo sarcástico aí, VOCÊ NÃO vai receber nenhuma conversão de GeOre além de carvão com isso, JEI estava apenas enganando todos vocês. Existem caminhos diferentes para isso.)"]
+	quest.1A26E6650D007262.quest_subtitle: "Vai totalmente, absolutamente, 100% converter seus Blocos de Unobtainium em Drusa GeOre"
+	quest.1D86B2E553503E53.quest_desc: ["A &6Varinha de Domínio&r é usada para controlar as criaturas que você pode encontrar no mundo! Cada ser responde de forma diferente à varinha, então certifique-se de ler sobre isso no Caderno Gasto!"]
+	quest.1D86B2E553503E53.quest_subtitle: "Ajudantes amigáveis"
+	quest.1D86B2E553503E53.title: "&6Invocando Ajuda!"
+	quest.21B43DA96BAD42A6.quest_desc: ["O &5Jarro de Fonte de Unobtainum&r pode conter 100.000 de fonte, em vez dos míseros 10.000 fornecidos por um normal. Também é um ingrediente no &dJarro de Fonte Criativo."]
+	quest.21B43DA96BAD42A6.quest_subtitle: "Metais de terras raras são... mágicos"
+	quest.21B43DA96BAD42A6.title: "&5Jarro de Fonte de Unobtainum"
+	quest.227DBA8836021B0B.quest_desc: ["No Ars Nouveau, o sistema de energia para as máquinas é chamado de &9Fonte&r. \\n\\nPara começar a coletar um pouco de Fonte, precisaremos de um Jarro de Fonte. \\n\\nO Fonte também pode ser movido com baldes, ou quebrando e coletando os Jarros de Fonte."]
+	quest.227DBA8836021B0B.quest_subtitle: "Armazenando Fonte"
+	quest.252F320615FA2839.quest_desc: ["Tem feitiços que você quer que atinjam um lugar consistentemente? Aponte isto para onde quiser e os projéteis irão &arebate&r diretamente para lá."]
+	quest.252F320615FA2839.quest_subtitle: "Carta de reverso do Uno"
+	quest.25B98F334ECF79BD.quest_desc: ["Uma torreta que funciona com um relógio interno em vez de redstone."]
+	quest.25B98F334ECF79BD.quest_subtitle: "Feitiços automáticos"
+	quest.25B98F334ECF79BD.title: "&eTorreta de Feitiço com Temporizador"
+	quest.292A382E323B8A39.quest_desc: ["Os &6Amuletos&r do &d&lArs Additions&r são bugigangas mágicas que fornecem vários efeitos protetores e de utilidade. Eles podem ser recarregados com &dFonte&r e oferecem uma ampla gama de benefícios, como anular dano de fogo, prevenir a morte ou permitir que você respire debaixo d'água."]
+	quest.292A382E323B8A39.title: "&6Amuletos Funcionais"
+	quest.295C77EEC89000FC.quest_subtitle: "Gera Fonte a partir da Morte de Mobs e da Criação de Animais"
+	quest.2C47C9B566A63135.title: "&aAmuleto de Whirlsprig"
+	quest.2D0CF18C8B2ABB7D.quest_desc: ["Colocar isso perto de plantas ou mudas em crescimento fornecerá Fonte. Árvores de Archwood fornecem mais Fonte! \\n\\nNota: Adubar com farinha de osso não produz Fonte."]
+	quest.2D0CF18C8B2ABB7D.quest_subtitle: "Cria Fonte usando o crescimento de Plantas"
+	quest.3142A40E1EAEBAA3.quest_desc: ["A &6Varinha de Radiestesia&r concede Descoberta Mágica e Vidência quando usada. \\n\\nIsso permite que você veja criaturas mágicas próximas, além de ajudá-lo a encontrar ametista!"]
+	quest.3142A40E1EAEBAA3.quest_subtitle: "Localizador Mágico"
+	quest.3182E8AF755104E4.quest_desc: ["Ao bloquear dano, o &9Escudo do Encantador&r concederá ao usuário Regeneração de Mana e Dano de Feitiço por um curto período. \\n\\nAlém disso, o escudo se reparará ao longo do tempo usando a mana do portador."]
+	quest.3182E8AF755104E4.title: "&5Escudo do Encantador"
+	quest.33682F4B44950123.quest_desc: ["Para obter mais conhecimento sobre feitiços, precisaremos de um tipo específico de madeira mágica!"]
+	quest.33682F4B44950123.quest_subtitle: "Madeira Elegante"
+	quest.33682F4B44950123.title: "&9Archwood"
+	quest.34A173721735401B.title: "&dAmuleto de Wixie"
+	quest.36CDA39C23D3AA2B.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, você está no modo de edição."]
+	quest.3AE659C0C3850002.quest_desc: ["Drygmies farmam xp na forma de &agemas de experiência&r! Elas não têm muito uso, então sinta-se à vontade para usá-las!"]
+	quest.3AE659C0C3850002.quest_subtitle: "XP Solidificado"
+	quest.3AE659C0C3850002.title: "&aExperiência"
+	quest.3CAB80B2BB5C2C37.quest_desc: ["Glifos de Filtro permitem que você defina seus feitiços para tipos específicos de alvos."]
+	quest.3CAB80B2BB5C2C37.title: "&6Glifos de Filtro"
+	quest.3D4D88B8BE881351.quest_desc: ["Se você quer lançar feitiços melhores, precisará de uma &6Mesa do Escriba&r para desbloquear novos glifos para seu livro de feitiços. \\n\\nExistem 3 níveis de glifos para desbloquear, e cada um requer alguma experiência e itens. \\n\\nA Mesa do Escriba também é usada para anexar feitiços a Pergaminhos de Feitiço. Para fazer isso, coloque um Pergaminho de Feitiço na mesa, selecione o feitiço em seu Livro de Feitiços, então agache e clique com o botão direito do mouse com o livro na mesa. \\n\\nPara criar um Glifo, clique com o botão direito na Mesa do Escriba com seu livro de feitiços. Procure pelo glifo que você quer fazer, então clique em Selecionar na parte inferior. Clique com o botão direito na mesa com os itens necessários, e o glifo será criado. Use o glifo para aprendê-lo. \\n\\nNota: A mesa pode puxar itens de inventários próximos."]
+	quest.3D4D88B8BE881351.quest_subtitle: "Aprimorando Feitiços"
+	quest.3D4D88B8BE881351.title: "&6Mesa do Escriba"
+	quest.3D862A3D3F83CA26.quest_desc: [
+		"O &9Aparato de Encantamento&r é usado para criar vários itens dentro do mod. Ele requer Fonte para funcionar.\\n\\nTambém é uma estrutura multiblock que utiliza Pedestais Arcanos para a criação.\\n\\nComece colocando um Núcleo Arcano no chão, depois coloque o Aparato de Encantamento em cima dele. Cerque o Aparato com Pedestais Arcanos.\\n"
+		"{image:atm:textures/questpics/ars/enchanting_app.png width:200 height:175 align:1}"
+	]
+	quest.3D862A3D3F83CA26.quest_subtitle: "Criação Elegante"
+	quest.3D862A3D3F83CA26.title: "&9Aparato de Encantamento"
+	quest.3DEF6BC2C123E676.quest_desc: ["Uma versão ajustável, com a &6Varinha de Domínio&r, como sempre. Também aceita todas aquelas lentes legais que estão por vir."]
+	quest.3DEF6BC2C123E676.quest_subtitle: "Isso foi direcionado"
+	quest.3FD702B5AB006402.quest_desc: ["Você já quis flutuar por todos os lugares que vai? \\n\\nEste cinto permite que você levite. Para ativar, basta se esgueirar no ar, seja caindo ou pulando."]
+	quest.3FD702B5AB006402.title: "&9Cinto de Levitação"
+	quest.40321FBF721ACF46.quest_desc: ["Melhorias autoexplicativas que são... &4bem quebradas&r. Veja por si mesmo..."]
+	quest.40321FBF721ACF46.quest_subtitle: "Aprimorando seus desvios"
+	quest.40BC67BDEE15D1DE.quest_desc: ["Para criar Gemas de Fonte, precisaremos colocar Lápis-lazúli ou Fragmentos de Ametista na Câmara de Imbuimento. Com o tempo, eles se converterão em Gemas de Fonte!"]
+	quest.40BC67BDEE15D1DE.quest_subtitle: "O ferro de Ars"
+	quest.40BC67BDEE15D1DE.title: "&dGemas de Fonte"
+	quest.41A0BE357C8A74E1.quest_desc: ["O &9Vínculo de Fonte Alquímico&r produz Fonte a partir de jarros de poção adjacentes. \\n\\nA quantidade de Fonte varia por poção e complexidade."]
+	quest.41A0BE357C8A74E1.quest_subtitle: "Poder através de Poções"
+	quest.441C0659ED28D935.quest_desc: ["Glifos de Nível 1 requerem 3 níveis de experiência para serem feitos."]
+	quest.441C0659ED28D935.title: "&aGlifos de Nível 1"
+	quest.457DE8C154641437.quest_desc: ["O &9Braseiro Ritualístico&r é usado para realizar rituais. Também pode ser usado como decoração. Se você quiser acender o Braseiro, use um feitiço de Luz nele. \\n\\nPara realizar rituais, você também precisará de Pedestais Arcanos. Como há muitos rituais para realizar, certifique-se de conferir cada um deles usando o &6Caderno Gasto&r! \\n\\nIsso pode ser feito segurando Ctrl na Mesa Ritualística enquanto o livro está em seu inventário."]
+	quest.457DE8C154641437.quest_subtitle: "Não é um culto, eu juro..."
+	quest.457DE8C154641437.title: "&9Braseiro Ritualístico"
+	quest.47DD9F268BC2254E.quest_desc: ["Agora temos armas! A &5Torreta de Feitiço Básica&r do &d&lArs Nouveau&r é um bloco que lança um feitiço pré-inscrito quando recebe um sinal de redstone. Funciona de forma semelhante a um ejetor, mas para feitiços, puxando o Fonte necessário de &5Jarros de Fonte&r próximos para energizar o lançamento."]
+	quest.47DD9F268BC2254E.quest_subtitle: "Pew pew"
+	quest.47DD9F268BC2254E.title: "&5Torreta de Feitiço Básica"
+	quest.48A5B5FBAFD3AED7.quest_subtitle: "É mais potente"
+	quest.48A5B5FBAFD3AED7.title: "&aExperiência Comprimida"
+	quest.48A6087A6EAD6A85.title: "&bAmuleto de Sereia"
+	quest.48D5D9D9AD98409F.title: "&6Amuleto de Starbuncle"
+	quest.48D8E1B9D76BAFC1.quest_desc: ["Os &6Braceletes&r do mod &d&lArs Nouveau&r são um tipo de berloque, especificamente um equipamento mágico que fornece habilidades passivas especiais e pode ser usado para aumentar o dano de feitiços. Eles podem ser criados e usados para conceder efeitos baseados em elementos e aprimorar seu poder mágico."]
+	quest.48D8E1B9D76BAFC1.title: "&6Braceletes"
+	quest.4D4D383E210A4897.quest_desc: ["A &5Essência&r do &d&lArs&r é outro material extremamente importante. Você precisa dela para praticamente todas as receitas de feitiços e do aparato de encantamento."]
+	quest.4D4D383E210A4897.quest_subtitle: "Você vai precisar disso..."
+	quest.4D4D383E210A4897.title: "&2Ess&r&9ênc&r&4ia &r&6de Ars"
+	quest.51162B9185A45BB1.quest_desc: ["Este arco pode ser inscrito com um feitiço usando uma Mesa do Escriba. \\n\\nAo custo de mana, as flechas se tornarão Flechas de Feitiço e aplicarão o feitiço em seu alvo. \\n\\nSe você não tiver flechas, uma flecha de feitiço que causa 0 de dano será lançada. Se não houver mana suficiente, flechas normais serão disparadas. \\n\\nO &9Arco do Encantador&r também pode usar Flechas de Aumento especiais que fortalecem o feitiço inscrito."]
+	quest.51162B9185A45BB1.title: "&5Arco do Encantador"
+	quest.542C6D76B579886C.quest_desc: ["Usando essas sementes, vamos querer criar nossa primeira fibra, a &5Fibra de Magebloom&r. \\n\\nIsso será usado para criar alguns acessórios mágicos para nós!"]
+	quest.542C6D76B579886C.quest_subtitle: "Linha Elegante"
+	quest.542C6D76B579886C.title: "&dFibra de Magebloom"
+	quest.54954F1FF453CAA2.quest_desc: ["Estas são armas formidáveis de se enfrentar. Elas dispararão feitiços super-carregados quando o feitiço estiver alinhado com seu elemento.\\n\\n&oDica: funciona melhor na defesa."]
+	quest.54954F1FF453CAA2.quest_subtitle: "O chefe da defesa"
+	quest.54954F1FF453CAA2.title: "&6Torretas Elementais"
+	quest.555B604217D266AF.quest_desc: ["Já quis mover Fonte por aí? Você está com sorte! O &3Jarro de Fonte do Ender&r é um &dJarro de Fonte&r entrelaçado onde vinculá-los com uma &dVarinha de Domínio&r também vinculará sua capacidade de fonte, proporcionando transporte instantâneo."]
+	quest.555B604217D266AF.quest_subtitle: "Automação para dar e vender"
+	quest.555B604217D266AF.title: "&3Jarro de Fonte do Ender"
+	quest.5766C8B9E850C186.quest_desc: [
+		"Para criar um dos principais itens de fabricação no Ars, a &9Gema de Fonte&r, precisaremos fazer uma &6Câmara de Imbuimento&r. \\n\\nA Câmara de Imbuimento requer Fonte para imbuir itens. Ela produz uma pequena quantidade de Fonte por si só, mas também pode usar Jarros de Fonte como fonte de energia. \\n\\nDiversas receitas também requerem que Pedestais Arcanos sejam colocados ao redor dela.\\n"
+		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
+	]
+	quest.5766C8B9E850C186.quest_subtitle: "Criando Gemas de Fonte"
+	quest.5766C8B9E850C186.title: "&6Câmara de Imbuimento"
+	quest.57C316D02DA833CE.quest_subtitle: "Às vezes útil, às vezes não"
+	quest.57C316D02DA833CE.title: "Golems de GeOre"
+	quest.58EC47584C773B82.quest_desc: ["Usando nossa estrutura do Aparato de Encantamento, vamos querer criar nossa primeira semente, a &5Semente de Magebloom&r. \\n\\nIsso será usado para criar algumas roupas mágicas para nós!"]
+	quest.58EC47584C773B82.quest_subtitle: "Cultivando Magia"
+	quest.58EC47584C773B82.title: "&5Semente de Magebloom"
+	quest.5AEFB843AA0A575E.quest_desc: ["Usado para fazer muitos dos itens avançados do &d&lArs Elemental&r."]
+	quest.5AEFB843AA0A575E.quest_subtitle: "Apenas para mestres"
+	quest.5AEFB843AA0A575E.title: "&5Marca da Maestria"
+	quest.5C3FF43CF16BCF30.quest_desc: ["Com as Gemas de Fonte, você pode começar a criar as várias máquinas, criando &5Pedras de Fonte&r."]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "Anteriormente \"Pedras Arcanas\""
+	quest.5C3FF43CF16BCF30.title: "&5Pedra de Fonte"
+	quest.5CFBA24B3E0CDEDD.quest_desc: [
+		"Enquanto segura seu Livro de Feitiços, você pode pressionar C para abrir a página de criação de feitiços. \\n\\nCada feitiço deve ter uma forma. Você começa com 3 formas básicas: Projétil, Autolançamento e Toque. \\n\\nQuanto ao Efeito, isso determina o que acontece quando você lança o feitiço. Você pode ter até 9 efeitos por feitiço. \\n\\nPara começar, você tem Dano e Quebrar. \\n\\nSelecione uma Forma e um Efeito, nomeie seu feitiço e clique em criar!"
+		""
+		"{image:atm:textures/questpics/ars/spellbook.png width:200 height:150 align:1}"
+	]
+	quest.5CFBA24B3E0CDEDD.quest_subtitle: "Você é um bruxo, Harry!"
+	quest.5CFBA24B3E0CDEDD.title: "&3Criando Seu Primeiro Feitiço"
+	quest.6165B87E2B8D2021.quest_desc: ["Estas são as versões mais aprimoradas e poderosas dos focos."]
+	quest.6165B87E2B8D2021.quest_subtitle: "Viés no seu melhor"
+	quest.6165B87E2B8D2021.title: "&cFocos Elementais"
+	quest.632BC46928CC9A8C.quest_desc: ["O &9Espelho do Encantador&r aplicará um feitiço em si mesmo quando usado. \\n\\nFeitiços lançados com este espelho têm custo reduzido e ganham duração bônus adicional. \\n\\nPara aplicar um feitiço, use uma mesa de escriba. Crie um feitiço sem usar uma forma."]
+	quest.632BC46928CC9A8C.title: "&dEspelho do Encantador"
+	quest.63DD7F5A4441ACE7.quest_desc: ["Glifos de Nível 2 requerem 5 níveis de experiência para serem feitos. \\n\\nEles também requerem um &9Livro de Feitiços de Mago&r para serem criados."]
+	quest.63DD7F5A4441ACE7.title: "&eGlifos de Nível 2"
+	quest.644FECEAE63D9938.title: "&cAmuleto de Canhão de Fogo"
+	quest.64D0E66CB4FBEC82.quest_desc: ["Para começar, você precisará criar para si um &6Livro de Feitiços de Noviço&r! \\n\\nÉ aqui que você cria e armazena seus feitiços. \\n\\nPressionar a tecla &9C&r abrirá a página 'Criar um Feitiço'. À esquerda, há várias abas, mas as 3 principais são: Criação de Feitiço, Seletor de Cores e Familiares. \\n\\nEste livro de feitiços só permitirá que você crie e use Glifos de Nível 1. Para criar feitiços melhores, você precisará aprimorar seu Livro de Feitiços!"]
+	quest.64D0E66CB4FBEC82.quest_subtitle: "Nosso Primeiro Livro de Feitiços"
+	quest.64D0E66CB4FBEC82.title: "Livros de Feitiços"
+	quest.671B67E617D56184.quest_desc: ["Uma torreta que você pode mirar onde quiser."]
+	quest.671B67E617D56184.quest_subtitle: "Mirando"
+	quest.671B67E617D56184.title: "&9Torreta de Feitiço Ajustável"
+	quest.6877742C20B7A40B.quest_desc: ["Agora sim. Infelizmente as outras quatro essências ainda não têm abelhas..."]
+	quest.6877742C20B7A40B.quest_subtitle: "Uma melhoria simples"
+	quest.6877742C20B7A40B.title: "&2Automatizando&r &3Essência"
+	quest.6A1C0B17B22CE50F.quest_desc: ["O &9Amuleto de Aumento de Mana&r dá um impulso à mana máxima. \\n\\nO &6Amuleto de Regeneração de Mana&r dá um impulso à sua regeneração de mana."]
+	quest.6A1C0B17B22CE50F.title: "&cOs Amuletos"
+	quest.6B511C8B572E8940.quest_desc: ["No canto inferior esquerdo da sua tela, você verá uma barra. Esta barra é sua reserva de mana! \\n\\nExistem várias maneiras de aumentar sua reserva de mana ou aumentar a eficiência de seus feitiços à medida que avança no mod. Aprimorar seu livro de feitiços também pode aumentar sua mana!"]
+	quest.6B511C8B572E8940.quest_subtitle: "Poder de Mago"
+	quest.6B511C8B572E8940.title: "&5Mana"
+	quest.6CEAA86EEAAC1203.title: "&5Amuleto de Golem de Ametista"
+	quest.6DAA82B5F94AF9F8.quest_desc: ["O &9Jarro de Luz&r invoca uma fonte de luz flutuante que segue você. \\n\\nO &6Jarro do Vazio&r destrói itens que você coleta em troca de mana. Isso pode ser filtrado. \\n\\nPara adicionar ou remover um item a ser destruído pelo jarro, use o jarro com o item em sua mão secundária, ou use um item na Mesa do Escriba com o jarro colocado sobre ela. \\n\\nO jarro deve estar na sua barra de acesso rápido para funcionar."]
+	quest.6DAA82B5F94AF9F8.title: "&bOs Jarro"
+	quest.6E0E13806F388D7E.quest_desc: ["Bem-vindo ao &aArs Nouveau&f! \\n\\nArs Nouveau é um mod de magia que permite que você crie feitiços personalizados com os diferentes Glifos feitos dentro do mod!"]
+	quest.6E0E13806F388D7E.title: "Bem-vindo ao &aArs Nouveau&f!"
+	quest.6EDA801044ED0445.quest_desc: ["Esta torreta aprimorada dispara feitiços muito mais poderosos e aumenta seu poder."]
+	quest.6EDA801044ED0445.quest_subtitle: "Uma melhoria de poder"
+	quest.6EDA801044ED0445.title: "&dTorreta de Feitiço Encantada"
+	quest.6F3602F5600A6221.quest_desc: ["Glifos de Nível 3 requerem 10 níveis de experiência para serem feitos. \\n\\nEles também requerem um &6Livro de Feitiços de Arquimago&r."]
+	quest.6F3602F5600A6221.title: "&4Glifos de Nível 3"
+	quest.77145113CD5B26FB.quest_desc: ["Bagas de Fonte produzem mais Fonte do que outras fontes. \\n\\nIsso também converterá grama ou terra em Micélio em uma área de 3x3 ao seu redor. Também fará cogumelos crescerem ao redor se o espaço estiver vazio."]
+	quest.77145113CD5B26FB.quest_subtitle: "Gera Fonte de Comida Próxima"
+	task.00BEC4A28F318E6F.title: "Braceletes"
+	task.01FD75641E5EA5E4.title: "Mana"
+	task.03EB390E79866058.title: "Pedras de Fonte"
+	task.04A97A2825505B64.title: "Focos Elementais"
+	task.0E6876A34D1975EB.title: "AllRightsReserved"
+	task.15C6E9C02D1FBEC0.title: "Glifos de Nível 2"
+	task.1B916AE67F84E6D7.title: "Criando Seu Primeiro Feitiço"
+	task.1CC556A6921208B8.title: "Glifos de Nível 1"
+	task.2BC0F5A88E2F03C3.title: "Archwood"
+	task.388545A0E3B4930D.title: "AllRightsReserved"
+	task.470F4163DBE13B6B.title: "Lentes de Prisma"
+	task.56CA4F2E7116C934.title: "Golems de GeOre"
+	task.5B96C6088CE5EC1E.title: "Amuletos Funcionais"
+	task.65D68BEEB36FC805.title: "Glifos de Nível 3"
+	task.6821298BA1E6D9C4.title: "Glifos de Filtro"
+	task.700585855857088E.title: "Outros Focos"
+	task.736B8E029232D795.title: "Essências de Ars"
+	task.755006DBA2D7D500.title: "Focos Elementais Menores"
+	task.798D6FBE32F46484.title: "Torretas Elementais"
+}

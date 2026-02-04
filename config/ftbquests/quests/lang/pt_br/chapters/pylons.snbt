@@ -1,0 +1,44 @@
+{
+	quest.011F787E620DE9E8.quest_desc: ["Para definir o Filtro de Mob, você só precisa clicar no Mob que você nunca mais quer ver, com o Filtro de Mob.\\n\\nCada Filtro só pode conter 1 Mob, então se você não quiser mais que Zumbis, Esqueletos, Aranhas, Creepers e Endermen apareçam, você precisará de 5 Filtros de Mob.\\n\\nVocê pode trocar o Mob nele simplesmente clicando em um Mob diferente com ele."]
+	quest.011F787E620DE9E8.quest_subtitle: "Ele não foi convidado!"
+	quest.034A9FBCA6D79BB6.quest_desc: ["O Pilão Colheitadeira precisa de uma Enxada para funcionar.\\n\\n(Enxadas que não quebram funcionarão para sempre, Enxadas que quebram precisarão ser substituídas)."]
+	quest.09D18512037386C1.quest_desc: ["Para colocar Efeitos de Poção, você precisará preencher um Filtro de Poção. \\n\\nPara fazer isso: tenha um Efeito de Poção em você, clique com o botão direito com o Filtro de Poção para removê-lo de você e adicioná-lo ao Filtro, e repita até que esteja cheio e ativo. \\n\\nIsso também funciona com Efeitos de Poção de mods ou aqueles que você normalmente não consegue obter através de Poções como Pressa ou Resistência."]
+	quest.12ED1EE85E146A4B.quest_desc: [
+		"Os Pilares de Colheita funcionam como uma Auto-Fazenda muito simples. Coloque o Pilar sobre ou na Fonte de Água e ele colherá e replantará automaticamente as Culturas que estão totalmente crescidas na área definida ao seu redor. "
+		""
+		"A área pode ser definida para 3x3, 5x5, 7x7 ou 9x9 Blocos ao redor do Pilar. "
+		""
+		"Ele precisará de uma Enxada para usar nas Plantas e de um Inventário como um baú acima dele para colocar as Culturas. Faça tudo isso e, se estiver Ligado, começará a cultivar!"
+	]
+	quest.18246A48C20B29D8.quest_desc: ["O Pilar de Infusão funciona de forma semelhante a um Sinalizador, só que muito melhor e mais barato! \\nQuando um Efeito de Poção é colocado por um Filtro de Poção, ele lhe dará continuamente o Efeito de Poção, não importa onde você esteja! \\n\\nVocê me ouviu bem, não há mais um raio definido para o Pilar de Infusão, agora ele o alcançará onde quer que você esteja."]
+	quest.30B0240543253EFB.quest_desc: ["Pylons é um mod maravilhoso feito pelo nosso próprio &aMutant Gumdrop&r!\\n\\nNão deixe o tamanho do mod te enganar! Ele fornece muitos Pilares que podem ser usados para muitas coisas para ajudar a facilitar o jogo no Minecraft.\\n\\nPara começar, você precisará de um pouco de Pedra-Negra Polida para fazê-los."]
+	quest.30B0240543253EFB.title: "&f&lPylons"
+	quest.32E52AD6EF194A60.quest_desc: ["O Pilone de Expulsão funciona como uma forma de manter as pessoas longe do seu gramado. \\n\\nQuando colocado, ele manterá qualquer Jogador que não esteja na lista de permissões fora de uma quantidade definida de Chunks ao seu redor. \\n\\nOs Chunks são definidos em sua GUI no canto superior esquerdo em 1x1, 3x3 ou 5x5 Chunks. \\n\\nE não, não pode ser colocado muito perto do Spawn. Nós sabemos o que vocês, trolls, querem e não vamos dar! \\n\\nPara colocar jogadores na lista de permissões, verifique a Missão do Filtro de Jogador!"]
+	quest.32E52AD6EF194A60.quest_subtitle: "Saia do meu gramado!"
+	quest.403F76908A8A5661.quest_desc: ["O Pilão de Expulsão empurra os jogadores para fora da área, mas e se você quiser &lalguns&r jogadores por perto! Então você precisará de um Filtro de Jogador. \\n\\nClique com o Botão Direito em um Jogador com ele para defini-los nele, e então coloque-o no Pilão para colocá-los na Lista Branca! \\n\\nEntão, quando todos os outros forem empurrados para fora, seu amigo não será! \\n\\nAlém disso, por padrão, o Dono do Pilão não será expulso."]
+	quest.5B5FC539BD1F4A73.quest_desc: [
+		"Este Pilão trata de bloquear a Geração de Mobs. "
+		""
+		"Você pode usar Filtros de Mob para bloquear a geração de apenas certos Mobs ou usar o Filtro Sem Vida para bloquear todas as gerações de Mobs! "
+		""
+		"Você pode empilhar vários Filtros de Mob para bloquear mais gerações. Além disso, você pode alterar a Área de Trabalho para definir a distância que ele bloqueia essas gerações de Mobs. "
+		""
+		"Se você usar o Filtro Sem Vida, ele ignorará todas essas configurações."
+	]
+	quest.5C2C29ECA67F9B49.quest_desc: [
+		"Com o Filtro Sem Vida, você nunca mais terá que se preocupar com a geração de Mobs em uma área de 25x25 Chunks. "
+		""
+		"Isso não inclui Gerações Forçadas, ou seja, Mobs gerados por Geradores ou até mesmo Ovos de Geração! "
+		""
+		"A área de 25x25 cobrirá toda a distância em que Mobs são gerados perto do jogador. Hostis ou Passivos. "
+		""
+		"Isso inclui todos os Níveis Y também, acima ou abaixo do Pilão, então não precisa mais se preocupar em iluminar cavernas! "
+		""
+		"Não há Lista Branca com este Filtro, ele impedirá toda a Geração de Mobs."
+	]
+	quest.5C2C29ECA67F9B49.quest_subtitle: "Finalmente, paz e sossego. "
+	quest.5E02AE661945306C.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
+	task.35320BB07FB39D05.title: "TodosOsDireitosReservados"
+	task.59DD89698DBAA215.title: "TodosOsDireitosReservados"
+	task.616C07AFBAFA7AE4.title: "Enxadas"
+}
