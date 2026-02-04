@@ -211,6 +211,7 @@
 	quest.5895B7FA5497BD68.quest_desc: ["Upgraded version of the Wyvern Axe."]
 	quest.5895B7FA5497BD68.title: "Draconic Axe"
 	quest.594BBD31461F212D.title: "Draconic Shield Recovery Module"
+	quest.5ADFC45B03BAB852.quest_desc: ["This is what Draconic Cores are for."]
 	quest.5ADFC45B03BAB852.title: "Draconic Tier"
 	quest.5BC6CC3C09F512A7.quest_desc: [
 		"The Reactor Core is the most important part of the Reactor, IE the Core! Place it 5 blocks or more from the Injector and Stabilizers, and you can right click it to see it's GUI here you'll find a few bars, a ball, buttons, and slots. The Bars go from left to right: Heat, Containment Field, Energy Saturation, and Fuel Conversion. You already learned about the Field and Energy and you will learn about the Fuel in a next quest. So the Heat is pretty important as when warming up it will raise to 2000C before being ready to activate. Make sure it doesn't get too high or else... meltdown! The Ball is the image of your Core, right now I have a bug where the Core doesn't have a texture so I can't explain much. The Buttons change the appearance of GUI, to activate or shutdown the Reactor, and charge it."

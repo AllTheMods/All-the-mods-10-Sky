@@ -1,7 +1,6 @@
 {
 	quest.01F59AF41A6DA0F7.quest_desc: ["&cNote to those in Editing Mode: This quest was temporarily hidden as Draco Arcanus Pickaxe lacks a recipe at the time of writing. When Draco Arcanus Pickaxe becomes craftable, be it via Forbidden Arcanus or KubeJS, remove this note and unhide the quest."]
 	quest.01F59AF41A6DA0F7.quest_subtitle: "Tier: &54"
-	quest.01F59AF41A6DA0F7.title: ""
 	quest.03E05018D64DDEE1.quest_desc: ["&eTier 5&r is basically just for Allthemodium Ore, not much else."]
 	quest.03E05018D64DDEE1.title: "&eHarvest Tier 5"
 	quest.053E6882650CEFC6.quest_subtitle: "Tier: &e5"

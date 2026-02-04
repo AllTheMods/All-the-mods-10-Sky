@@ -6,9 +6,6 @@
 	quest.043AB8772206FF71.title: "&8Flint"
 	quest.04ACC7E762537FB4.quest_desc: ["We won't need a billion fancy Machines to Dupe Ores here... we'll only need a few! \\n\\nThe &3&lSqueezer&r from &3&lID&r can turn &7Raw Ore Blocks&r into &7Raw Ore&r. \\n\\nIn order to use it, just place the &7Raw Ore Block&r into the &3&lSqueezer&r and Jump on it to push it downward. Once it is Crushed, the &7Raw Ore&r will be spit out. Rarely it might give even more! \\n\\nBut wait! That's not all! \\n\\nWe also have Ore Hammers, these can crack &7Raw Ores&r into 2 &7Dust&r, which can be Smelted into &7Ingots&r."]
 	quest.04ACC7E762537FB4.title: "Easy Ore Duping"
-	quest.057A182F4DC408CE.quest_desc: ["If you chose the skyfactory map, aka the one with one dirt and one tree, you have no grass! Look at the dirt to earn your piece of grass."]
-	quest.057A182F4DC408CE.quest_subtitle: "Skyfactory map guru"
-	quest.057A182F4DC408CE.title: "If You're Extreme..."
 	quest.091F1D752FA3BAAC.quest_desc: ["With just 2 &0Flint&r we can make &0Flint Shears&r. They work just like Shears, just cheaper. \\n\\nWe'll need them to get &2Leaves&r! \\n\\nAnd Wool... if you need Wool."]
 	quest.091F1D752FA3BAAC.title: "Collecting &2Leaves"
 	quest.0BD70DFE33D84323.quest_desc: [
@@ -28,7 +25,6 @@
 	quest.128A1EEAF8F45042.quest_desc: ["&5Mycelium Spores&r come rarely from &bSieving&r Dirt. \\n\\nThey work like &2Grass Seeds&r, place them on Dirt or &2Grass&r to get &5Mycelium&r!"]
 	quest.128A1EEAF8F45042.title: "Bring on the Mold!"
 	quest.145917B219D0D28D.quest_desc: ["All &bSkyblock&r Worlds spawn with the necessities. &2Grass &fand a &2Tree&r. \\n\\nWe'll need the &2Tree&r for &6Wood&r and everything from &6Wood&r. What about &2Grass&r? \\n\\nWell for 1. &aPassive Mobs&r need &2Grass&r to Spawn. 2. &2Grass&r spreads to other Dirt. 3. We can Shift Right Click &2Grass&r for &7Pebbles&r!"]
-	quest.145917B219D0D28D.quest_subtitle: ""
 	quest.145917B219D0D28D.title: "&2Grass"
 	quest.162AB6F9257EB71E.quest_desc: [
 		"There are plenty of ways to generate your first bits of power."
@@ -135,4 +131,3 @@
 	quest.7CC729E68A89D962.title: "&aSlime"
 	task.2019707AE4DAC703.title: "{atm9.quest.start1.emergency}"
 }
-

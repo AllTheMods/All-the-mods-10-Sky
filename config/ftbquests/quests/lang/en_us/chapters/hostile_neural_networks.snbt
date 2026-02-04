@@ -16,9 +16,6 @@
 	quest.3E3CBDCEAB0FF28F.quest_desc: ["The &9Deep Learner&r is one of the core components of HNN.\\n\\nWith this item, you can right click to open up a HUD and store &6Data Models&r to gather data while killing mobs.\\n\\nEach Learner can hold 4 Data Models, and as long as you have the Learner anywhere in your inventory, it will collect data for the models placed inside!\\n\\nNote: You can have multiple Deep Learners in your inventory, and it will count the kills for all Data Models inside all of the Learners."]
 	quest.3E3CBDCEAB0FF28F.quest_subtitle: "The Learning HUD"
 	quest.3E3CBDCEAB0FF28F.title: "&aLearning Mobs"
-	quest.54E7ABFDFAA024E5.quest_desc: [ ]
-	quest.54E7ABFDFAA024E5.quest_subtitle: ""
-	quest.54E7ABFDFAA024E5.title: ""
 	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r are the starting point for creating Data Models.\\n\\nTo start collecting data on a specific mob, you'll want to make one of these then &9right click&r the mob you'd like to gather data on. When done properly, the Model Framework will turn into the Data Model of the mob you clicked on.\\n\\nTo gather data for that mob, place the newly created Data Model inside of a &aDeep Learner&r, then start killing that specific mob with the Deep Learner in your inventory."]
 	quest.58C2ABED43B2EA61.quest_subtitle: "\"Gathering Data\""
 	quest.58C2ABED43B2EA61.title: "&9Modeling Mobs"
