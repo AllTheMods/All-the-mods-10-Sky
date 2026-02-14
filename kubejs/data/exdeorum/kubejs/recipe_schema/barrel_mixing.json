@@ -7,7 +7,7 @@
     },
     {
       "name": "ingredient",
-      "type": "non_empty_ingredient",
+      "type": "ingredient",
       "role": "input"
     },
     {
@@ -15,5 +15,6 @@
       "role": "input",
       "type": "flat_sized_fluid_ingredient"
     }
-  ]
+  ],
+  "unique": ["result"]
 }

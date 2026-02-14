@@ -7,12 +7,19 @@ ServerEvents.tags("block", (allthemods) => {
 
   // Extreme Reactors
   allthemods.add("c:storage_blocks/yellorium", "alltheores:uranium_block")
+  allthemods.add("c:storage_blocks/plutonium", "bigreactors:blutonium_block")
 
   allthemods.add("c:relocation_not_supported", [
     "minecraft:beehive",
     "minecraft:bee_nest",
     "@integrateddynamics",
     "@waystones"
+  ])
+
+  allthemods.add("c:ingots", [
+    "allthemodium:unobtainium_allthemodium_alloy_ingot",
+    "allthemodium:unobtainium_vibranium_alloy_ingot",
+    "allthemodium:vibranium_allthemodium_alloy_ingot"
   ])
 
   allthemods.remove("c:relocation_not_supported", [
@@ -28,7 +35,10 @@ ServerEvents.tags("block", (allthemods) => {
     "geore:budding_emerald",
     "geore:budding_sapphire",
     "geore:budding_zinc",
-    "geore:budding_topaz"
+    "geore:budding_topaz",
+    "geore:budding_allthemodium",
+    "geore:budding_vibranium",
+    "geore:budding_unobtainium"
   ])
 
   //Entangled
@@ -39,18 +49,31 @@ ServerEvents.tags("block", (allthemods) => {
   allthemods.add("justdirethings:tick_speed_deny", "#allthemods:tick_acceleration_blacklist")
   allthemods.add("tiab:un_acceleratable", "#allthemods:tick_acceleration_blacklist")
   //allthemods.add('industrialforegoingsouls:cant_accelerate', '#allthemods:tick_acceleration_blacklist')
+
+  // Fix Jank with Feral Flares and Enchanting
+  allthemods.add("minecraft:replaceable", "torchmaster:invisible_light")
 })
 
 ServerEvents.tags("item", (allthemods) => {
   // Extreme Reactors
   allthemods.add("c:ingots/yellorium", "alltheores:uranium_ingot")
   allthemods.add("c:storage_blocks/yellorium", "alltheores:uranium_block")
+  allthemods.add("c:storage_blocks/plutonium", "bigreactors:blutonium_block")
 
   // water buckets
   allthemods.add("c:buckets/water", "exdeorum:porcelain_water_bucket")
 
   // lava buckets
   allthemods.add("c:buckets/lava", "exdeorum:porcelain_lava_bucket")
+
+  // Coal tag fix
+  allthemods.add("c:coal", [
+    "minecraft:coal",
+    "minecraft:charcoal",
+    "geore:coal_shard",
+    "modern_industrialization:lignite_coal",
+    "immersiveengineering:coal_coke"
+  ])
 
   // Tiny Coal
   allthemods.add("atm10:tiny_coals", ["utilitarian:tiny_coal", "actuallyadditions:tiny_coal"])
@@ -65,6 +88,9 @@ ServerEvents.tags("item", (allthemods) => {
     "#c:dusts/unobtainium_vibranium_alloy",
     "#c:dusts/vibranium_allthemodium_alloy"
   ])
+
+  // For VAT recipes
+  allthemods.add("allthemods:tendrils/warden", "apothic_enchanting:warden_tendril")
 
   allthemods.add("c:gems/benitoite", "bigreactors:benitoite_crystal")
 
@@ -228,9 +254,13 @@ ServerEvents.tags("item", (allthemods) => {
     "mysticalagriculture:uraninite_seeds",
     "mysticalagriculture:nitro_crystal_seeds",
     "mysticalagriculture:compressed_iron_seeds",
+    "mysticalagriculture:compressed_iron_essence",
     "mysticalagriculture:draconium_seeds",
+    "mysticalagriculture:draconium_essence",
     "mysticalagriculture:marble_seeds",
     "mysticalagriculture:marble_essence",
+    "mysticalagriculture:basalt_seeds",
+    "mysticalagriculture:basalt_essence",
     "exmachinis:netherite_upgrade",
     /geore:.*tungsten.*/,
     /geore:.*monazite.*/,
@@ -259,6 +289,16 @@ ServerEvents.tags("item", (allthemods) => {
   ])
 
   allthemods.add("c:sawdust", "exdeorum:wood_chippings")
+
+  // Allow additional Ars Elemental armors to be used for Allthemodium Arcanist Gear
+
+  allthemods.add("allthearcanistgear:elemental_hat", [/ars_elemental:.*_helmet/, /ars_elemental:.*_hood/])
+
+  allthemods.add("allthearcanistgear:elemental_chest", [/ars_elemental:.*_chestplate/, /ars_elemental:.*_tunic/])
+
+  allthemods.add("allthearcanistgear:elemental_legs", [/ars_elemental:.*_leggings_heavy/, /ars_elemental:.*_pants/])
+
+  allthemods.add("allthearcanistgear:elemental_boots", [/ars_elemental:.*_boots_heavy/, /ars_elemental:.*_shoes/])
 
   // For crushing recipes
   allthemods.add("c:deepslate_blocks", ["minecraft:deepslate", "minecraft:cobbled_deepslate"])

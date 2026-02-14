@@ -61,6 +61,12 @@ ServerEvents.recipes((allthemods) => {
       crushing(ing, `allthecompressed:gravel_${i}x`)
     })
     crushing(`allthecompressed:gravel_${i}x`, `allthecompressed:sand_${i}x`)
+    crushing(`allthecompressed:sand_${i}x`, `allthecompressed:dust_${i}x`)
+
+    crushing(`allthecompressed:netherrack_${i}x`, `allthecompressed:crushed_netherrack_${i}x`)
+    crushing(`allthecompressed:blackstone_${i}x`, `allthecompressed:crushed_blackstone_${i}x`)
+    crushing(`allthecompressed:deepslate_${i}x`, `allthecompressed:crushed_deepslate_${i}x`)
+    crushing(`allthecompressed:end_stone_${i}x`, `allthecompressed:crushed_end_stone_${i}x`)
 
     haunting(`allthecompressed:cobblestone_${i}x`, `allthecompressed:blackstone_${i}x`)
     haunting(`allthecompressed:sand_${i}x`, `allthecompressed:soul_sand_${i}x`)

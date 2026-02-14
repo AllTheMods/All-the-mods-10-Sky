@@ -15,5 +15,6 @@
       "role": "other",
       "type": "float"
     }
-  ]
+  ],
+  "unique": ["result"]
 }

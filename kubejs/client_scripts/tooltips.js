@@ -68,16 +68,33 @@ ItemEvents.modifyTooltips((allthemods) => {
   ])
   //Occultism
   allthemods.add("kubejs:ritual_dummy/honeycomb", [Text.of("§7Tier: Foliot")])
-  allthemods.add("kubejs:ritual_dummy/upgrade_ritual_satchel_t1_to_t2", [
-    Text.of(
-      "§cWARNING: Will delete all items in the Apprentice Satchel. Consider taking out all items from the Apprentice Satchel."
-    ),
-    Text.of("§7Tier: Afrit")
-  ])
+  allthemods.add("kubejs:ritual_dummy/misc_demonic_sapling", [Text.of("§7Tier: Wild")])
+
   //Create
   allthemods.add("create:limestone", [Text.of("Make a Lava Source Block flow on top of Create Honey").gray()])
 
   allthemods.add("create:scoria", [Text.of("Make a Lava Source Block flow on top of Create Chocolate").gray()])
+  // Botany Pot warning for Sculk
+  allthemods.add(
+    [
+      "minecraft:sculk",
+      "minecraft:sculk_sensor",
+      "minecraft:sculk_catalyst",
+      "minecraft:sculk_vein",
+      "minecraft:sculk_shrieker"
+    ],
+    [Text.of("§9In a Botany Pot: Requires a hoe enchanted with Silk Touch to be harvested")]
+  )
+  // Apotheosis Gateway Warning
+  allthemods.add(
+    [
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/frontier"]',
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/ascent"]',
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/summit"]',
+      'gateways:gate_pearl[gateways:gateway="apotheosis:tiered/pinnacle"]'
+    ],
+    [Text.of("§cWARNING: Will implode at wave 3 in a Compact Machine or AE2 Spatial Storage")]
+  )
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

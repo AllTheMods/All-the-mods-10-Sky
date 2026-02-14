@@ -8,12 +8,10 @@ StartupEvents.registry("item", (allthemods) => {
     .displayName("Ritual: Craft Honeycomb")
     .ritualTooltip("A Foliot will act as a bee, producing Honeycombs.")
   allthemods
-    .create("ritual_dummy/upgrade_ritual_satchel_t1_to_t2", "occultism:ritual_dummy")
-    .pentacleType("craft")
-    .displayName("Ritual: Upgrade Apprentice Ritual Satchel to Artisanal")
-    .ritualTooltip(
-      "Upgrades an Apprentice Ritual Satchel to Artisanal by binding an Afrit to it, allowing the summoner to build pentacles all at once."
-    )
+    .create("ritual_dummy/misc_demonic_sapling", "occultism:ritual_dummy")
+    .pentacleType("misc")
+    .displayName("Ritual: Forge Demonic Sapling")
+    .ritualTooltip("Wild Spirits will forge a Demonic Sapling.")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.

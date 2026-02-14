@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "food_and_farming"
-	group: "522A4C27273AE844"
+	group: "428CE9AF17D90D68"
 	icon: {
 		id: "minecraft:cake"
 	}
@@ -89,7 +89,7 @@
 			y: -5.5d
 		}
 	]
-	order_index: 0
+	order_index: 8
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

@@ -65,10 +65,10 @@ ServerEvents.recipes((allthemods) => {
     })
     .id("allthemods:energizing/ae2_creative_energy_cell")
 
-  //Ars Noveau
+  //Ars Nouveau
 
   allthemods.recipes.kubejs.shaped("allthearcanistgear:creative_spell_book", ["BSG", "GGE", "EER"], {
-    B: "ars_nouveau:archmage_spell_book",
+    B: "allthearcanistgear:unobtainium_spell_book",
     S: "allthetweaks:atm_star",
     G: "ars_nouveau:source_gem_block",
     E: "minecraft:ender_eye",

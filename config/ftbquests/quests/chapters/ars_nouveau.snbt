@@ -33,7 +33,7 @@
 			y: -2.0d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -3063,7 +3063,7 @@
 				item: { count: 1, id: "ars_additions:glyph_retaliate" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 3.0d
 			y: -12.5d
 		}
 		{
@@ -3081,7 +3081,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -11.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["6F3602F5600A6221"]
@@ -3097,8 +3097,8 @@
 				item: { count: 1, id: "ars_elemental:glyph_homing_projectile" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -12.5d
+			x: 4.0d
+			y: -11.5d
 		}
 		{
 			dependencies: ["63DD7F5A4441ACE7"]
@@ -3319,23 +3319,6 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -10.5d
-		}
-		{
-			dependencies: ["6F3602F5600A6221"]
-			id: "6C1107CD93FA34A5"
-			rewards: [{
-				id: "7DA5C5CB53E1817F"
-				type: "xp"
-				xp: 200
-			}]
-			shape: "rsquare"
-			tasks: [{
-				id: "20A0CFD03D4C059E"
-				item: { count: 1, id: "ars_elemental:glyph_nullify_defense" }
-				type: "item"
-			}]
-			x: 4.0d
 			y: -10.5d
 		}
 		{
@@ -3614,31 +3597,6 @@
 		}
 		{
 			dependencies: ["457DE8C154641437"]
-			id: "3DFD95B278C78101"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "415282F92B9FEF25"
-					table_id: 6355363837720688303L
-					type: "random"
-				}
-				{
-					id: "22294DCB7E84E352"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "1F4584B02645C2ED"
-				item: { count: 1, id: "ars_additions:ritual_chunk_loading" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: 6.0d
-		}
-		{
-			dependencies: ["457DE8C154641437"]
 			id: "6675A49D305E3C90"
 			rewards: [
 				{
@@ -3889,31 +3847,6 @@
 		}
 		{
 			dependencies: ["457DE8C154641437"]
-			id: "1703352A88C4E60E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "707554D3A2AB6CA7"
-					table_id: 6355363837720688303L
-					type: "random"
-				}
-				{
-					id: "577A6905EA61E96B"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "72B5A4A85AD1EC89"
-				item: { count: 1, id: "ars_caelum:ritual_conjure_island_starter" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 8.0d
-		}
-		{
-			dependencies: ["457DE8C154641437"]
 			id: "03A09F5C4C7F3C79"
 			rewards: [
 				{
@@ -4134,8 +4067,8 @@
 				item: { count: 1, id: "ars_nouveau:ritual_forestation" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 9.0d
+			x: 5.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["457DE8C154641437"]
@@ -4361,7 +4294,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 9.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["227DBA8836021B0B"]

@@ -7,27 +7,17 @@
 		id: "minecraft:oak_sapling"
 	}
 	id: "1FAAEF0B9FD05CB9"
-	images: [
-		{
-			click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
-			height: 1.0d
-			hover: ["Pilpoh's Productive Trees Guide"]
-			image: "minecraft:textures/gui/sprites/toast/tree.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 4.5d
-			y: 12.0d
-		}
-		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: -1.5d
-			y: 0.9000000000000004d
-		}
-	]
-	order_index: 12
+	images: [{
+		click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
+		height: 1.0d
+		hover: ["Pilpoh's Productive Trees Guide"]
+		image: "minecraft:textures/gui/sprites/toast/tree.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 4.5d
+		y: 12.0d
+	}]
+	order_index: 18
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -3862,7 +3852,11 @@
 			y: 6.5d
 		}
 		{
-			dependencies: ["5577F49A93ADB19C"]
+			dependencies: [
+				"73EA0CFA78C689F2"
+				"799CC9FEEDE471B1"
+			]
+			hide_dependency_lines: true
 			id: "22151D56616559CB"
 			rewards: [{
 				count: 16
@@ -3883,7 +3877,11 @@
 			y: 10.5d
 		}
 		{
-			dependencies: ["5577F49A93ADB19C"]
+			dependencies: [
+				"73EA0CFA78C689F2"
+				"01F51EBFEC660549"
+			]
+			hide_dependency_lines: true
 			id: "4281BCDCE233F65B"
 			rewards: [{
 				count: 16
@@ -3904,7 +3902,11 @@
 			y: 10.5d
 		}
 		{
-			dependencies: ["5577F49A93ADB19C"]
+			dependencies: [
+				"73EA0CFA78C689F2"
+				"684BB9D2F2AC87A6"
+			]
+			hide_dependency_lines: true
 			id: "18A2F6BA778D96B1"
 			rewards: [{
 				count: 16
@@ -3925,7 +3927,11 @@
 			y: 10.5d
 		}
 		{
-			dependencies: ["5577F49A93ADB19C"]
+			dependencies: [
+				"73EA0CFA78C689F2"
+				"3A2249D94C019F0E"
+			]
+			hide_dependency_lines: true
 			id: "4C3B7BAEA653587B"
 			rewards: [{
 				count: 16
@@ -3946,7 +3952,11 @@
 			y: 10.5d
 		}
 		{
-			dependencies: ["5577F49A93ADB19C"]
+			dependencies: [
+				"73EA0CFA78C689F2"
+				"1815661333016983"
+			]
+			hide_dependency_lines: true
 			id: "289B30DAC960BFF2"
 			rewards: [{
 				count: 16
@@ -3984,7 +3994,7 @@
 				item: { count: 1, id: "productivetrees:brown_amber_sapling" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 11.5d
 		}
 		{
@@ -4307,6 +4317,31 @@
 			}]
 			x: 0.0d
 			y: 12.5d
+		}
+		{
+			id: "73EA0CFA78C689F2"
+			rewards: [{
+				id: "6EC3234B86F2EEA5"
+				item: {
+					count: 1
+					id: "createaddition:alternator"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "16B28E8D11F81804"
+					item: { count: 1, id: "extendedcrafting:ender_crafter" }
+					type: "item"
+				}
+				{
+					id: "23F074D804BB56FC"
+					item: { count: 1, id: "extendedcrafting:ender_alternator" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 11.5d
 		}
 	]
 }

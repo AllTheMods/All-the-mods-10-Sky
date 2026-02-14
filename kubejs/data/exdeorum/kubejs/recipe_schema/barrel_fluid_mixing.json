@@ -21,5 +21,6 @@
       "role": "other",
       "optional": false
     }
-  ]
+  ],
+  "unique": ["result"]
 }

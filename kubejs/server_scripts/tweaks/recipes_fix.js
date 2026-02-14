@@ -61,6 +61,8 @@ KubeJSTweaks.beforeRecipes((event) => {
 
   //old recipe
   event.disable("supplementaries:botany_flax")
+  event.disable("oritech:compat/enderio/firecrafting/sculk")
+  event.disable("oritech:compat/enderio/firecrafting/endstone")
 
   // Scans items on result and add them back as conditions, izi fix
   event.getEntry(/^farmingforblockheads:market\//).forEach((entry) => {
@@ -100,6 +102,10 @@ KubeJSTweaks.beforeRecipes((event) => {
         }
       }
     }
+  })
+
+  event.getEntry(/^create:.*\/compat\/silentgems\//).forEach((entry) => {
+    entry.addConditionsFromKey("ingredients")
   })
 
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)

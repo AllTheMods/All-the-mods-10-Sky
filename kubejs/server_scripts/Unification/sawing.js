@@ -44,7 +44,10 @@ ServerEvents.recipes((allthemods) => {
     .filter(
       (r) =>
         r.json.asMap().main_output != undefined &&
-        logsTag["matches(net.minecraft.world.item.crafting.Ingredient,boolean)"](
+        logsTag[
+          "matches(dev.latvian.mods.kubejs.recipe.filter.RecipeMatchContext,net.minecraft.world.item.crafting.Ingredient,boolean)"
+        ](
+          null,
           Ingredient.of(
             r.json.asMap().input.has("ingredient") ? r.json.asMap().input.get("ingredient") : r.json.asMap().input
           ),
@@ -94,7 +97,11 @@ ServerEvents.recipes((allthemods) => {
     let firstIngredient = recipe.get("ingredients").getFirst()
     /** @type {$ItemStackKJS_} */
     let output = recipe.get("result")
-    if (!logsTag["matches(net.minecraft.world.item.crafting.Ingredient,boolean)"](firstIngredient, false)) {
+    if (
+      !logsTag[
+        "matches(dev.latvian.mods.kubejs.recipe.filter.RecipeMatchContext,net.minecraft.world.item.crafting.Ingredient,boolean)"
+      ](null, firstIngredient, false)
+    ) {
       console.info("Ingredient is not a log tag: " + Ingredient.of(firstIngredient).toJson())
       return
     }

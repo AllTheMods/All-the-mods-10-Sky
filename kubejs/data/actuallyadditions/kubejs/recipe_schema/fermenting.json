@@ -12,8 +12,11 @@
     },
     {
       "name": "time",
-      "role": "other",
-      "type": "int"
+      "type": "ticks",
+      "optional": 100,
+      "always_write": true,
+      "function_names": ["duration"]
     }
-  ]
+  ],
+  "unique": ["result"]
 }

@@ -7,13 +7,12 @@
     },
     {
       "name": "total_energy",
-      "role": "other",
-      "type": "int"
+      "type": "non_negative_int"
     },
     {
       "name": "burn_time",
-      "role": "other",
-      "type": "int"
+      "type": "ticks"
     }
-  ]
+  ],
+  "unique": ["fuel"]
 }

@@ -52,7 +52,7 @@
 	quest.306BF72C2D2E544A.title: "&l&8The Wither"
 	quest.30BF71B8E28163BB.quest_desc: ["&8Soulium Dust&r is made from &bSieving&r... take a guess. It'll need either a &bDiamond &for &cNetherite&r Mesh. \\n\\n&8Soulium Dust&r will be needed for all &2&lMA&r &2Seeds&r that involve Death. \\n\\nSorry for that switch in tone, but I'm just being honest!"]
 	quest.30BF71B8E28163BB.title: "&8Soulium Dust"
-	quest.35E666FB9EAFA39B.quest_desc: ["Let's Bake a Cake! An &dEnd Cake&r! \\n\\n2 cups of Sugar, 1 whole Egg, 3 &eCrushed Endstone&r? And 3 &3Eyes of Ender&r? \\n\\nI doubt the Cake will taste good with those ingrediants! But it will Teleport you to &d&lThe End&r! \\n\\n&d&lThe End&r is perfectly normal to &2&lVanilla&r. I'd recommend taking a &8Waystone&r so you can Teleport between each much easier."]
+	quest.35E666FB9EAFA39B.quest_desc: ["Let's Bake a Cake! An &dEnd Cake&r! \\n\\n2 cups of Sugar, 1 whole Egg, 3 &eCrushed Endstone&r? And 3 &3Eyes of Ender&r? \\n\\nI doubt the Cake will taste good with those ingredients! But it will Teleport you to &d&lThe End&r! \\n\\n&d&lThe End&r is perfectly normal to &2&lVanilla&r. I'd recommend taking a &8Waystone&r so you can Teleport between each much easier."]
 	quest.35E666FB9EAFA39B.title: "Getting to &d&lThe End"
 	quest.36AE40E537B22E1B.quest_desc: ["&8Basic Capacitors&r are just the start of the many, many, many Recipes needed in &c&lPowah&r that will be repeated many a times."]
 	quest.36AE40E537B22E1B.title: "&c&lPowah"
@@ -70,7 +70,7 @@
 	quest.40DB6E3DE87F16EF.quest_desc: [
 		"&dDragon's Breath&r is a powerful, (stinky), and mysterious item. Powerful means we can make Energy from it, and lots of it! &5Halitosis Generator&r makes Energy from &dDragon's Breath&r!"
 		""
-		"(BTW you can farm &dDragon's Breath&r with an Extrator from XyCraft with a Dragon's Head)."
+		"(BTW you can farm &dDragon's Breath&r with an Extractor from XyCraft with a Dragon's Head)."
 	]
 	quest.40DB6E3DE87F16EF.title: "&5Halitosis Generator"
 	quest.419F9D82FFA2A6C4.quest_desc: ["&8Mob Fans&r are useful and easily configured Machines designed to move Mobs. \\n\\nBy default they activate when given a &cRedstone Signal&r. When activated they will Blow any Items and Mobs to 5 Blocks in front of the &8Fan&r. \\n\\n&8Fans&r also come with upgrades that we can Craft and add in by Right Clicking the &8Fan&r. They can Blow wider, higher, and farther!"]

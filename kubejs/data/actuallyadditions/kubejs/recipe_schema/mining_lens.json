@@ -3,17 +3,17 @@
     {
       "name": "result",
       "role": "output",
-      "type": "strict_item_stack"
+      "type": "item_stack"
     },
     {
       "name": "ingredient",
       "role": "input",
-      "type": "non_empty_ingredient"
+      "type": "ingredient"
     },
     {
       "name": "weight",
-      "role": "other",
-      "type": "int"
+      "type": "non_negative_int"
     }
-  ]
+  ],
+  "unique": ["result"]
 }

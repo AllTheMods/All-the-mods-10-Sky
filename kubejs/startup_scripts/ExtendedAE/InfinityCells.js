@@ -54,12 +54,18 @@ StartupEvents.registry("item", (allthemods) => {
     .texture("kubejs:item/gravel_cell")
     .itemType("minecraft:gravel")
     .cellModel("kubejs:block/drive/gravel_cell")
-  //sand
+  //Sand
   allthemods
     .create("sand_cell", "custom_infinity_cell")
     .texture("kubejs:item/sand_cell")
     .itemType("minecraft:sand")
     .cellModel("kubejs:block/drive/sand_cell")
+  //Dust
+  allthemods
+    .create("dust_cell", "custom_infinity_cell")
+    .texture("kubejs:item/dust_cell")
+    .itemType("exdeorum:dust")
+    .cellModel("kubejs:block/drive/dust_cell")
   //Red Sand
   allthemods
     .create("red_sand_cell", "custom_infinity_cell")

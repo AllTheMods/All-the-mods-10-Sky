@@ -12,8 +12,14 @@
     },
     {
       "name": "mode",
-      "role": "other",
-      "type": "enum<appeng.recipes.handlers.InscriberProcessType>"
+      "type": {
+        "type": "kubejstweaks:codec",
+        "class": "appeng.recipes.handlers.InscriberRecipe",
+        "field": "MODE_CODEC"
+      },
+      "optional": "inscribe",
+      "always_write": true
     }
-  ]
+  ],
+  "unique": ["result"]
 }

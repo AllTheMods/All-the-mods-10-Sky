@@ -3,26 +3,26 @@
     {
       "name": "ingredient",
       "role": "input",
-      "type": "non_empty_ingredient"
+      "type": "ingredient"
     },
     {
       "name": "max_amplifier",
-      "role": "other",
-      "type": "int"
+      "type": "non_negative_int"
     },
     {
       "name": "effects",
-      "role": "other",
-      "type": "actuallyadditions:effect[]",
-      "optional": [],
-      "allow_empty": true
+      "type": {
+        "type": "list",
+        "component": "actuallyadditions:effect"
+      },
+      "default_optional": true
     },
     {
       "name": "extra_text",
       "role": "other",
-      "type": "string",
-      "optional": "",
-      "allow_empty": true
+      "type": "optional_string",
+      "default_optional": true
     }
-  ]
+  ],
+  "unique": ["ingredient"]
 }

@@ -1,4 +1,55 @@
 {
-  "exdeorum:weighted_list_blockstate": "{value: block_state_string, weight: int }",
-  "exdeorum:block_predicate": "either<{block_tag: block_tag},either<{block: block, state: codec<net.minecraft.advancements.critereon.StatePropertiesPredicate>},{block: block}>>"
+  "exdeorum:weighted_list_blockstate": {
+    "type": "custom_object",
+    "keys": [
+      {
+        "name": "value",
+        "component": "id"
+      },
+      {
+        "name": "weight",
+        "component": "int"
+      }
+    ]
+  },
+  "exdeorum:block_predicate": {
+    "type": "either",
+    "left": {
+      "type": "custom_object",
+      "keys": [
+        {
+          "name": "block_tag",
+          "component": "block_tag"
+        }
+      ]
+    },
+    "right": {
+      "type": "either",
+      "left": {
+        "type": "custom_object",
+        "keys": [
+          {
+            "name": "block",
+            "component": "block"
+          },
+          {
+            "name": "state",
+            "component": {
+              "type": "kubejstweaks:codec",
+              "class": "net.minecraft.advancements.critereon.StatePropertiesPredicate"
+            }
+          }
+        ]
+      },
+      "right": {
+        "type": "custom_object",
+        "keys": [
+          {
+            "name": "block",
+            "component": "block"
+          }
+        ]
+      }
+    }
+  }
 }

@@ -3,17 +3,20 @@
     {
       "name": "result",
       "role": "output",
-      "type": "strict_item_stack"
+      "type": "item_stack"
     },
     {
       "name": "input",
       "role": "input",
-      "type": "non_empty_ingredient"
+      "type": "ingredient"
     },
     {
       "name": "ingredients",
-      "role": "input",
-      "type": "non_empty_ingredient[]"
+      "type": {
+        "type": "list",
+        "component": "ingredient"
+      },
+      "role": "input"
     },
     {
       "name": "transfer_components",

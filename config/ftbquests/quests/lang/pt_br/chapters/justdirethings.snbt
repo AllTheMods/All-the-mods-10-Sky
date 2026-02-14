@@ -272,6 +272,7 @@
 		"Criações Desbloqueadas:"
 		"- Liga Eclipse"
 		"- Brasa Eclipse"
+		"- Cristal do Tempo"
 	]
 	quest.25E915AE1FC53254.quest_desc: ["Moldes de Celestigem são usados para aprimorar armaduras e ferramentas de Blazegold para Celestigem, mantendo encantamentos e melhorias instaladas."]
 	quest.27FD46A8C958D259.quest_desc: ["O Totem da Retomada da Morte é um item de uso único que permite a um jogador se teletransportar de volta para o local de sua morte."]
@@ -350,7 +351,7 @@
 		""
 		"&lFunção da Habilidade:&r"
 		""
-		"Fornece ao jogador um Elytra, note que o Elytra fornecido por esta melhoria é afetado pelas melhorias de Velocidade de Caminhada e Corrida."
+		"Fornece ao jogador um Élitro, note que o Élitro fornecido por esta melhoria é afetado pelas melhorias de Velocidade de Caminhada e Corrida."
 	]
 	quest.3AE1811C32B94A66.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -410,7 +411,6 @@
 		"Permite que o jogador passe através de blocos quando aplicado às calças. Existe uma tag de bloco para adicionar blocos à lista negra, impedindo que sejam atravessados."
 		"Quando aplicado a um arco, permite que as flechas atravessem paredes."
 	]
-	quest.454662617304E299.quest_subtitle: ""
 	quest.454CA1F8CC198D9D.quest_desc: [
 		"Melhorias Válidas:"
 		"- Assistência de Passo"
@@ -445,7 +445,7 @@
 		"- Não Pisotear"
 		"- Crescimento Acelerado de Plantações I"
 	]
-	quest.48E4D75FD3145AD6.quest_desc: ["O Fluido do Tempo é usado pela Máquina do Paradoxo e pela Varinha do Tempo. Ele é obtido ao jogar Fluido do Tempo no Fluido Polimórfico.\\n\\nPara um cristal tão difícil de obter, fico feliz que tenham nos dado um fluido fácil dessa vez."]
+	quest.48E4D75FD3145AD6.quest_desc: ["O Fluido do Tempo é usado pela Máquina do Paradoxo e pela Varinha do Tempo. Ele é obtido ao jogar um Cristal do Tempo no Fluido Polimórfico.\\n\\nPara um cristal tão difícil de obter, fico feliz que tenham nos dado um fluido fácil dessa vez."]
 	quest.49636B3C6E6D0C2A.quest_desc: ["Não tem utilidade, mas é legal."]
 	quest.4987759CF379C1EB.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -533,7 +533,7 @@
 		"Melhorias Válidas:"
 		"- Invulnerabilidade"
 		"- Extinção"
-		"- Elytra"
+		"- Élitro"
 		"- Proteção contra a Morte"
 		"- Voo"
 		"- Imunidade à Lava"
@@ -685,8 +685,6 @@
 	]
 	quest.7305EE0F7D73C231.quest_desc: ["Melhorias em Branco são a base de todas as habilidades. As habilidades são separadas em dois tipos, passivas e ativas.\\n\\nHabilidades passivas não requerem nenhuma entrada ativa do jogador para funcionar, no entanto, habilidades ativas só funcionam quando acionadas por uma tecla de atalho que os jogadores definem no menu de configuração, e também consomem durabilidade/poder quando usadas. Quando instaladas em armaduras de nível superior, as habilidades ativas têm tempos de recarga reduzidos e as habilidades passivas têm efeitos maiores.\\n\\nA mesa de ferraria é usada para aplicar melhorias às ferramentas e armaduras JDT. Segurar shift ao passar o mouse sobre ferramentas ou armaduras JDT mostra quais melhorias são válidas."]
 	quest.73552A4BA0687962.quest_desc: ["Essas melhorias podem ser aplicados em ferramentas ou armaduras."]
-	quest.73552A4BA0687962.quest_subtitle: ""
-	quest.73552A4BA0687962.title: ""
 	quest.7464CA1290B3474B.quest_desc: [
 		"Melhorias Válidas:"
 		"- Invulnerabilidade"
@@ -726,13 +724,10 @@
 	task.366CA7D53571A552.title: "Utilitários"
 	task.3AC95E8DC4229D17.title: "Just Dire Things"
 	task.3CAD6AD06BE4C3D3.title: "Ferramentas"
-	task.3FF2BD8CB76476EE.title: ""
 	task.40B39896B6CD41C6.title: "Armadura"
-	task.49BFB8275541DCD0.title: ""
 	task.5AB4103FF540ABB4.title: "Fluidos"
 	task.5DD919AF75C92C8A.title: "Ferramentas"
 	task.665A5DFA6270ADA6.title: "Máquinas Simples"
 	task.67B21CF59C3D02E5.title: "Máquinas Avançadas"
 	task.7197FBBA21C0F94A.title: "Armadura"
-	task.738768C6FC0DC099.title: ""
 }

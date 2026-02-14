@@ -23,7 +23,10 @@ LootJS.modifiers((allthemods) => {
     "black_quartz",
     "lead",
     "aluminum",
-    "osmium"
+    "osmium",
+    "allthemodium",
+    "vibranium",
+    "unobtainium"
   ]
 
   for (const resource of materials) {

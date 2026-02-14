@@ -28,8 +28,6 @@ ServerEvents.recipes((allthemods) => {
     "exdeorum:mechanical_hammer",
     /georenouveau:.*_dowsing_rod/,
     "actuallyadditions:crafter_on_a_stick",
-    "mysticalagriculture:compressed_iron_seeds",
-    "mysticalagriculture:draconium_seeds",
     "allthemodium:teleport_pad",
     "ae2:spatial_anchor",
     "mekanism:dimensional_stabilizer",
@@ -183,7 +181,13 @@ ServerEvents.recipes((allthemods) => {
     "mysticalagriculture:niotic_crystal_seeds",
     "mysticalagriculture:spirited_crystal_seeds",
     "mysticalagriculture:uraninite_seeds",
-    "mysticalagriculture:nitro_crystal_seeds"
+    "mysticalagriculture:nitro_crystal_seeds",
+    "mysticalagriculture:compressed_iron_seeds",
+    "mysticalagriculture:compressed_iron_essence",
+    "mysticalagriculture:draconium_seeds",
+    "mysticalagriculture:draconium_essence",
+    "mysticalagriculture:basalt_seeds",
+    "mysticalagriculture:basalt_essence"
   ]
 
   removals.forEach((entry) => {
@@ -195,26 +199,36 @@ ServerEvents.recipes((allthemods) => {
     // allthemods.remove({ input: entry }); Removes indy facades, the next line does the same but ignores indy recipes
     allthemods.remove({ input: entry, not: { mod: "integrateddynamics" } })
     allthemods.remove({ output: entry })
-
-    allthemods.remove({ output: /exdeorum:.*_compressed_sieve/ })
-    allthemods.remove({ output: /generatorgalore:.*_upgrade/ })
-    allthemods.remove({ id: `create:crushing/nether_gold_ore` })
-    allthemods.remove({ id: `create:crushing/deepslate_gold_ore` })
-    allthemods.remove({ id: `create:crushing/netherrack` })
-    allthemods.remove({ id: `create:crushing/ochrum_recycling` })
-    allthemods.remove({ id: `mekanism:sulfur_dye` })
-    allthemods.remove({ id: "alltheores:alloysmelter/brass/ingot" })
-    allthemods.remove({ id: "soulshards:vile_dust_from_soul_sand" })
-    allthemods.remove({ id: "oritech:crafting/alloy/steel" })
-    allthemods.remove({ id: "silentgear:graded_mat_test" })
-    allthemods.remove({ id: "silentgear:diamond_shard" })
-    allthemods.remove({ id: "actuallyadditions:tagged_slime_block" })
-    allthemods.remove({ id: `mekanism:compat/ae2/sand_to_silicon` })
-    allthemods.remove({ id: `create:crushing/deepslate_copper_ore` })
-    allthemods.remove({ id: `create:crushing/deepslate_zinc_ore` })
-    allthemods.remove({ id: `create:crushing/deepslate_iron_ore` })
-    allthemods.remove({ id: `create:crushing/tuff_recycling` })
   })
+
+  allthemods.remove({ output: /exdeorum:.*_compressed_sieve/ })
+  allthemods.remove({ output: /generatorgalore:.*_upgrade/ })
+  allthemods.remove({ id: "create:crushing/nether_gold_ore" })
+  allthemods.remove({ id: "create:crushing/deepslate_gold_ore" })
+  allthemods.remove({ id: "create:crushing/netherrack" })
+  allthemods.remove({ id: "create:crushing/ochrum_recycling" })
+  allthemods.remove({ id: "mekanism:sulfur_dye" })
+  allthemods.remove({ id: "alltheores:alloysmelter/brass/ingot" })
+  allthemods.remove({ id: "soulshards:vile_dust_from_soul_sand" })
+  allthemods.remove({ id: "oritech:crafting/alloy/steel" })
+  allthemods.remove({ id: "silentgear:graded_mat_test" })
+  allthemods.remove({ id: "silentgear:diamond_shard" })
+  allthemods.remove({ id: "actuallyadditions:tagged_slime_block" })
+  allthemods.remove({ id: `mekanism:compat/ae2/sand_to_silicon` })
+  allthemods.remove({ id: `create:crushing/deepslate_copper_ore` })
+  allthemods.remove({ id: `create:crushing/deepslate_zinc_ore` })
+  allthemods.remove({ id: `create:crushing/deepslate_iron_ore` })
+  allthemods.remove({ id: `create:crushing/tuff_recycling` })
+  allthemods.remove({ id: `modern_industrialization:materials/plutonium/craft/block_from_ingot` })
+  allthemods.remove({ id: `industrialforegoing:laser_drill_fluid/oil` })
+  allthemods.remove({ id: `mysticalagradditions:nitro_crystal_crux` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/dirty/from_raw_block` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/dirty/from_raw_ore` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/dirty/from_ore` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/slurry/clean` })
+  allthemods.remove({ id: `xycraft_machines:compat/mek/processing/aluminum/crystal/from_slurry` })
+  allthemods.remove({ id: `oritech:nickel_nugget` })
+  allthemods.remove({ id: `oritech:platinum_nugget` })
 })
 
 ServerEvents.generateData("after_mods", (allthemods) => {

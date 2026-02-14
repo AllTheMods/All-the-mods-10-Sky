@@ -1,0 +1,10 @@
+{
+  "packmenu.atm.discord": "Discord",
+  "packmenu.atm.akliz": "Crie um Servidor",
+  "packmenu.atm.reddit": "Reddit",
+  "packmenu.atm.github": "Github",
+  "packmenu.atm.patreon": "Doar",
+  "kubejs.atm.click_here": "Clique aqui para dispensar",
+  "announcements.atm.dismiss_up_to_version": "[Dispensar anúncios até a versão %s]",
+  "announcements.atm.dismissed_up_to_version": "Anúncios dispensados até a versão %s!"
+}

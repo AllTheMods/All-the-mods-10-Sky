@@ -240,7 +240,7 @@
 			y: -4.0d
 		}
 	]
-	order_index: 8
+	order_index: 11
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -783,7 +783,7 @@
 				{
 					count: 4L
 					id: "1E8B2243116BF6DA"
-					item: { count: 4, id: "mysticalagriculture:soul_jar" }
+					item: { count: 1, id: "mysticalagriculture:soul_jar" }
 					type: "item"
 				}
 				{
@@ -1812,7 +1812,7 @@
 				{
 					count: 4L
 					id: "08B7E48447228764"
-					item: { count: 4, id: "mysticalagriculture:experience_capsule" }
+					item: { count: 1, id: "mysticalagriculture:experience_capsule" }
 					type: "item"
 				}
 			]
@@ -2546,8 +2546,8 @@
 				}
 			]
 			tasks: [{
-				id: "250A0320FF2BC775"
-				item: { count: 1, id: "mysticalagriculture:watering_can" }
+				id: "4C906A47EBC15BC1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:watering_can)item(pickletweaks:watering_can))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 5.0d

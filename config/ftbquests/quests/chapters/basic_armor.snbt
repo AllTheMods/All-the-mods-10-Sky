@@ -2180,6 +2180,7 @@
 		}
 		{
 			id: "0CE23DBBBFBCC372"
+			invisible: true
 			optional: true
 			rewards: [{
 				id: "04DE9ED5CD870524"
@@ -2583,6 +2584,39 @@
 			}]
 			x: -5.5d
 			y: 0.5d
+		}
+		{
+			id: "49E13245EE169048"
+			optional: true
+			rewards: [{
+				id: "0A5CDEAAC8A37228"
+				type: "xp"
+				xp: 1
+			}]
+			tasks: [
+				{
+					id: "2B0217E1C8AE1C47"
+					item: { count: 1, id: "mekanism:hazmat_mask" }
+					type: "item"
+				}
+				{
+					id: "22E31648B10B4AD6"
+					item: { count: 1, id: "mekanism:hazmat_gown" }
+					type: "item"
+				}
+				{
+					id: "531D1C9D952A37D2"
+					item: { count: 1, id: "mekanism:hazmat_pants" }
+					type: "item"
+				}
+				{
+					id: "424945CF79B5BFBF"
+					item: { count: 1, id: "mekanism:hazmat_boots" }
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: -6.0d
 		}
 	]
 }

@@ -73,7 +73,7 @@
 	quest.4ED29ACF4A699E1B.quest_subtitle: "Its betterer"
 	quest.4F89C04CEBF812F9.quest_subtitle: "Smelt gems into ingots"
 	quest.4F89C04CEBF812F9.title: "Ingots"
-	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must fragment &aUranite Ore&r in the Fragment Forge to aquire &5Small Plutonium Dust&r."]
+	quest.50243E5CF1B156ED.quest_desc: ["To get &5Plutonium dust&r, you must fragment &aRaw Uranium&r in the Fragment Forge to acquire &5Small Plutonium Dust&r. Don't mind this being from &#A0DE45Modern Industrialization&r, you'll still be able to use it for Oritech."]
 	quest.50243E5CF1B156ED.quest_subtitle: "From Uranite to Plutonium"
 	quest.5189D72ED3808DC6.quest_desc: [
 		"&aShift right-click&r your target designator on the amethyst cluster and then &ashift right-click&r the laser to set the target."
@@ -83,7 +83,7 @@
 	quest.5189D72ED3808DC6.quest_subtitle: "Charge amethyst with the laser"
 	quest.53880926982968FD.quest_subtitle: "Say my name"
 	quest.53D5A6F210DF199C.quest_subtitle: "Smoothly transfer 10k rf/t"
-	quest.53D5A6F210DF199C.title: "Transfering Energy"
+	quest.53D5A6F210DF199C.title: "Transferring Energy"
 	quest.55DCCC4035B8BB2A.quest_subtitle: "Mix netherite and platinum"
 	quest.58819CE09A648A43.quest_subtitle: "These will be used to make most machines"
 	quest.58819CE09A648A43.title: "Basic Building Components"

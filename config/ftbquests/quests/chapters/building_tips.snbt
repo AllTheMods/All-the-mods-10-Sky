@@ -601,7 +601,7 @@
 					id: "09688F9C10379A20"
 					item: {
 						count: 1
-						id: "productivetrees:upgrade_pollen_sieve"
+						id: "productivelib:upgrade_pollen_sieve"
 					}
 					type: "item"
 				}

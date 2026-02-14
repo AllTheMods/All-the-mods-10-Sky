@@ -1,0 +1,389 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bbl_routers"
+	group: "759EEB9DC52686ED"
+	icon: {
+		id: "routers:exporter_block"
+	}
+	id: "4D13E185C0A57681"
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0A497EC17534D248"
+			rewards: [{
+				count: 3
+				id: "52EC148299689645"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4934A56F91C654D7"
+				item: { count: 1, id: "routers:router_connector" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A497EC17534D248"]
+			id: "548676DCD1E09A7F"
+			rewards: [{
+				count: 2
+				id: "00CD7D4F984BA73A"
+				item: {
+					count: 1
+					id: "routers:exporter_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EC9269242E47564"
+				item: { count: 1, id: "routers:exporter_block" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0A497EC17534D248"]
+			id: "401A518B2D1BDB9A"
+			rewards: [{
+				count: 2
+				id: "46B372CD625145DD"
+				item: {
+					count: 1
+					id: "routers:importer_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D601F810E9C9CB7"
+				item: { count: 1, id: "routers:importer_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"401A518B2D1BDB9A"
+				"548676DCD1E09A7F"
+			]
+			id: "68ABBA8CB99AF6A1"
+			tasks: [{
+				id: "368EEAEC5B950F4D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A497EC17534D248"]
+			id: "33A1316FD66C6428"
+			tasks: [{
+				id: "7ECFB3665B40F251"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "3584DE12E1D7D14F"
+			tasks: [
+				{
+					id: "54B734DDDD076711"
+					item: { count: 1, id: "routers:mod_filter" }
+					type: "item"
+				}
+				{
+					id: "6A6507C81B164E18"
+					item: { count: 1, id: "routers:tag_filter" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "7742D896461A4632"
+			tasks: [{
+				id: "5ACA0693AF20ECC2"
+				item: { count: 1, id: "routers:round_robin_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "5312BD7BDC054E48"
+			tasks: [{
+				id: "4590A03DDF139573"
+				item: { count: 1, id: "routers:item_upgrade_1" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "6420E8B38993D8E3"
+			tasks: [{
+				id: "0603AF399A01FB19"
+				item: { count: 1, id: "routers:rf_upgrade_1" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "671141CF874D89A4"
+			tasks: [{
+				id: "39A973E5A277B7C9"
+				item: { count: 1, id: "routers:fluid_upgrade_1" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "6B11A21220723520"
+			tasks: [{
+				id: "2F168CBEB9D37F7D"
+				item: { count: 1, id: "routers:chemical_upgrade_1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "222446C143B43770"
+			tasks: [{
+				id: "2798C54675794290"
+				item: { count: 1, id: "routers:source_upgrade_1" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33A1316FD66C6428"]
+			id: "3E14842D5F454F98"
+			tasks: [{
+				id: "5AE867AF93427BF5"
+				item: { count: 1, id: "routers:speed_upgrade_1" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5312BD7BDC054E48"]
+			id: "716ED63BF94E65BF"
+			tasks: [{
+				id: "79DA37D4A2BCBBB7"
+				item: { count: 1, id: "routers:item_upgrade_2" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5312BD7BDC054E48"]
+			id: "0415F31DFC3EC148"
+			tasks: [{
+				id: "768373F52F9DD93B"
+				item: { count: 1, id: "routers:item_upgrade_3" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5312BD7BDC054E48"]
+			id: "686AA89E63B818A3"
+			tasks: [{
+				id: "4898E9A26A8ADC3D"
+				item: { count: 1, id: "routers:item_upgrade_4" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6420E8B38993D8E3"]
+			id: "75BCFE47A7DA3CF3"
+			tasks: [{
+				id: "40C5274ADB3CDB0A"
+				item: { count: 1, id: "routers:rf_upgrade_2" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6420E8B38993D8E3"]
+			id: "4399C6E8EE3480FD"
+			tasks: [{
+				id: "35E76F1E19027095"
+				item: { count: 1, id: "routers:rf_upgrade_3" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6420E8B38993D8E3"]
+			id: "24D5C94909116BAD"
+			tasks: [{
+				id: "53C3DE800EBD0E45"
+				item: { count: 1, id: "routers:rf_upgrade_4" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["671141CF874D89A4"]
+			id: "69D24ADE4229D8D9"
+			tasks: [{
+				id: "3DAAF81808369771"
+				item: { count: 1, id: "routers:fluid_upgrade_2" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["671141CF874D89A4"]
+			id: "5895182DC41F36C6"
+			tasks: [{
+				id: "3D17C75157CC4189"
+				item: { count: 1, id: "routers:fluid_upgrade_3" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["671141CF874D89A4"]
+			id: "50542715004E2485"
+			tasks: [{
+				id: "773FB2D28737189B"
+				item: { count: 1, id: "routers:fluid_upgrade_4" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3E14842D5F454F98"]
+			id: "48CA31275987B588"
+			tasks: [{
+				id: "29976866C8DD46B5"
+				item: { count: 1, id: "routers:speed_upgrade_2" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3E14842D5F454F98"]
+			id: "0853ED7AB114B715"
+			tasks: [{
+				id: "0A484CD0AE38BF2F"
+				item: { count: 1, id: "routers:speed_upgrade_3" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3E14842D5F454F98"]
+			id: "633B8E4F16C2C3E9"
+			tasks: [{
+				id: "1B11D5E52EF7C07A"
+				item: { count: 1, id: "routers:speed_upgrade_4" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6B11A21220723520"]
+			id: "20581A3191683920"
+			tasks: [{
+				id: "36F9F0ABF624A0E9"
+				item: { count: 1, id: "routers:chemical_upgrade_2" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6B11A21220723520"]
+			id: "54D0B6AAC1C013C3"
+			tasks: [{
+				id: "75AE13072D0AD84B"
+				item: { count: 1, id: "routers:chemical_upgrade_3" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6B11A21220723520"]
+			id: "58917422D5701201"
+			tasks: [{
+				id: "5D6C090BDF4B94F4"
+				item: { count: 1, id: "routers:chemical_upgrade_4" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["222446C143B43770"]
+			id: "56D04A669B55954F"
+			tasks: [{
+				id: "60FB5EB4FEB456C1"
+				item: { count: 1, id: "routers:source_upgrade_2" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["222446C143B43770"]
+			id: "7E23309EB9D36D29"
+			tasks: [{
+				id: "031DD8CD9FB9FC6D"
+				item: { count: 1, id: "routers:source_upgrade_3" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["222446C143B43770"]
+			id: "1F77A4DB182335E5"
+			tasks: [{
+				id: "3EF6EC7A609F0684"
+				item: { count: 1, id: "routers:source_upgrade_4" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+	]
+}

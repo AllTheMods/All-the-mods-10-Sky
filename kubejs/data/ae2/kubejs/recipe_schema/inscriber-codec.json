@@ -1,19 +1,27 @@
 {
   "keys": [
     {
-      "name": "ingredients",
-      "role": "input",
-      "type": "codec<appeng.recipes.handlers.InscriberRecipe$Ingredients#CODEC>"
-    },
-    {
       "name": "result",
       "type": "item_stack",
       "role": "output"
     },
     {
+      "name": "ingredients",
+      "role": "input",
+      "type": {
+        "type": "kubejstweaks:codec",
+        "class": "appeng.recipes.handlers.InscriberRecipe$Ingredients"
+      }
+    },
+    {
       "name": "mode",
-      "role": "other",
-      "type": "codec<appeng.recipes.handlers.InscriberRecipe#MODE_CODEC>"
+      "type": {
+        "type": "kubejstweaks:codec",
+        "class": "appeng.recipes.handlers.InscriberRecipe",
+        "field": "MODE_CODEC"
+      },
+      "optional": "inscribe",
+      "always_write": true
     }
   ]
 }

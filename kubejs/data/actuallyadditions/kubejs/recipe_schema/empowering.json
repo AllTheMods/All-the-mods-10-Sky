@@ -2,33 +2,41 @@
   "keys": [
     {
       "name": "result",
-      "type": "strict_item_stack",
+      "type": "item_stack",
       "role": "output"
     },
     {
       "name": "base",
-      "type": "non_empty_ingredient",
+      "type": "ingredient",
       "role": "input"
     },
     {
       "name": "modifiers",
-      "type": "non_empty_ingredient[]",
+      "type": {
+        "type": "list",
+        "component": "ingredient"
+      },
       "role": "input"
-    },
-    {
-      "name": "energy",
-      "type": "int",
-      "role": "other"
     },
     {
       "name": "color",
       "type": "int",
-      "role": "other"
+      "optional": 16777215,
+      "always_write": true
+    },
+    {
+      "name": "energy",
+      "type": "non_negative_int",
+      "optional": 5000,
+      "always_write": true
     },
     {
       "name": "time",
-      "type": "int",
-      "role": "other"
+      "type": "ticks",
+      "optional": 50,
+      "always_write": true,
+      "function_names": ["duration"]
     }
-  ]
+  ],
+  "unique": ["result"]
 }

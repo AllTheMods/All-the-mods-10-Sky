@@ -97,7 +97,7 @@
 	quest.1F7DA060792D716A.title: "&l&dMixer"
 	quest.1FA44E8FEE004AB4.quest_desc: ["Hemp Rope and &8Steel Cables&r are placed like normal &cWires&r on &cConnectors &fand &cRelays&r but won't transfer &cEnergy&r. \\n\\nInstead they are for Decor or using the &6&lEngineer's Skyhook&r!"]
 	quest.1FA44E8FEE004AB4.title: "Safe for &6&lSkyhook&r usage!"
-	quest.2224AA108FC006F3.quest_desc: ["The Revolver Speedloader isn't actually an Upgrade, rather it is a seperate Item that's used to help. \\n\\nFill it with Cartridges like the &d&lRevolver&r, but now whenever you need to Reload the &d&lRevolver&r you can just Right Click with it to instantly reload!"]
+	quest.2224AA108FC006F3.quest_desc: ["The Revolver Speedloader isn't actually an Upgrade, rather it is a separate Item that's used to help. \\n\\nFill it with Cartridges like the &d&lRevolver&r, but now whenever you need to Reload the &d&lRevolver&r you can just Right Click with it to instantly reload!"]
 	quest.2224AA108FC006F3.quest_subtitle: "Did I shoot 6 times? Or only 5?"
 	quest.2262AB9F934165D0.quest_desc: ["I don't care how you got it, I just need you to get it! \\n\\n&8&lImmersive Engineering&r adds a whole lot more uses to &8Steel&r than just simple builds, almost everything will need &8Steel&r to make it! \\n\\nTools, Mechanical Parts, and Building Blocks mainly. A lot are made with &8Steel Plates&r or &8Scaffolding&r. \\n\\nYou'll need a lot of it but the &l&cCrude Blast Furnace&r and &l&6Alloy Kin&r can't be automated so we might need a... "]
 	quest.2262AB9F934165D0.title: "&8Steel Ingot"
@@ -170,14 +170,14 @@
 	quest.36EB83BB41A9E621.title: "&b&lTank"
 	quest.373668AE257A7A94.quest_desc: ["High Explosive Cartridges will shoot explosives at your Enemies, blowing up everything nearby like TNT would! \\n\\nDragon's Breath Shells work like Buckshot, but now the Projectiles are on Fire!!!!! \\n\\nPhial Cartridges give Potion Effects based on the Potion used in its creation. \\n\\nFlare Shells work like Fireworks in a Crossbow. \\n\\nHoming Cartridges will aim after whatever Mob is closest to you... let's hope it's a dangerous Mob. \\n\\nWolfpack Shells are like Buckshot Shells but now the Projectiles are Homing Cartridges!"]
 	quest.373668AE257A7A94.title: "Specialized Projectiles"
-	quest.38C98FCB6A2D4226.quest_desc: ["The Miniture Telsa Coil will act like the Thorns Enchantment. \\n\\nAnyone who hits you, while you are wearing the &c&lBackpack&r, will be Shocked. Dealing Damage and giving an Effect!"]
+	quest.38C98FCB6A2D4226.quest_desc: ["The Miniature Telsa Coil will act like the Thorns Enchantment. \\n\\nAnyone who hits you, while you are wearing the &c&lBackpack&r, will be Shocked. Dealing Damage and giving an Effect!"]
 	quest.38F01BAEC74D5D68.quest_desc: ["It's the same as the other Preheater I just wanted it to be symmetrical :D."]
 	quest.39DAC0592300992A.quest_desc: ["&9Metal Press Mold Blueprints&r can be Crafted. \\n\\n&7&lMetal Press Multiblock&r will automate the creation of &7Metal Plates&r and &eItems&r. \\n\\nTo press the &7Metals&r we'll need Molds. \\n\\nIn order to make the Molds will need these &9Blueprints&r!"]
 	quest.39DAC0592300992A.title: "&9Metal Press Molds Blueprints "
 	quest.3A4A8EAA3022C7BA.quest_desc: ["Water Wheels are one of the Machines we can use for the Kinetic Dynamo. \\n\\nThese are much more compact but also expensive, compared to the Windmill. \\n\\nTo use them you'll need &9Water&r flowing over the Waterwheel. The more &9Water&r around it, the faster it'll go. Just make sure the &9Water&r isn't flowing in 2 different ways! \\n\\nBeing more compact means we can place 3 Waterwheels on 1 Kinetic Dynamo to get even more Energy."]
 	quest.3DE14F16F3109229.quest_desc: ["By combining 8 Planks of any Wood, with a &7Bucket of Creosote Oil&r, we'll get Treated Wood! \\n\\nTreated Wood is used in almost every single Item &8&lIE&r gives us, plus most of the simple Machines. \\n\\nMost important is the &6Engineer's Workbenches&r! These will give us a ton of new Recipes."]
 	quest.3DE14F16F3109229.title: "Treated Wood"
-	quest.3E32450DBB7529AA.quest_desc: ["&eItem Batcher&r works kinda like the line for a Roller Coaster. \\n\\nThe Roller Coaster won't leave until all seats are filled! The same way the &eBatcher&r won't &6Output&r &eItems&r until the set Filter and Amount has been matched. \\n\\nPerfect for stuff like &5&lMekanism&r Ore Processing which needs certain amounts of &eItems&r &9Inputed&r or else it will bottleneck."]
+	quest.3E32450DBB7529AA.quest_desc: ["&eItem Batcher&r works kinda like the line for a Roller Coaster. \\n\\nThe Roller Coaster won't leave until all seats are filled! The same way the &eBatcher&r won't &6Output&r &eItems&r until the set Filter and Amount has been matched. \\n\\nPerfect for stuff like &5&lMekanism&r Ore Processing which needs certain amounts of &eItems&r &9Inputted&r or else it will bottleneck."]
 	quest.3E32450DBB7529AA.title: "&eItem Batcher"
 	quest.3E89034E0CB8D687.quest_desc: ["Wooden Crates act as Barrels... but &2&lMinecraft&r ones, so Chests that can be opened from any side! \\n\\nThey have 27 Slots but can be Shift Right Clicked with an &6Engineer's Hammer&r (multiple times) to shut them closed! This means they can be broken and preserve the &eItems&r inside. \\n\\nYou can also edit the Text of the Crate to change its name as if it were in an Anvil. \\n\\nThe Reinforced Crate works exactly the same as the normal one, just can't be blown up!"]
 	quest.3E89034E0CB8D687.title: "Storing &eItems"
@@ -188,7 +188,7 @@
 	quest.3EE95747CA6DFB1A.quest_desc: [
 		"The &7&lMetal Press&r is our Best Friend for all Crafting Recipes with &7Metal&r! \\n\\nIt's very simple, we place our Molds onto the Press, attach some &cEnergy&r to the top, and toss our &eItems&r onto the &eConveyor Belts&r. \\n\\nOur &eItems&r will pass through, get &7&lPressed&r, and become a new &eItem&r that keeps moving on the &eBelt&r! \\n\\nThese can be used to make &cWires&r, &7Plates&r, &8Rods&r, and... &2Melon Slices&r?"
 		"{@pagebreak}"
-		"First layer is very simple, just &8Steel Scaffolding&r and both sides of a &4Redstone Enginerring Block&r."
+		"First layer is very simple, just &8Steel Scaffolding&r and both sides of a &4Redstone Engineering Block&r."
 		"{image:atm:textures/questpics/immersive/immersive_press1.png width:150 height:75 align:center}"
 		"Next, we place a Piston, facing Down, above the &4Redstone Engineering Block&r and add two Conveyor Belts next to it."
 		"{image:atm:textures/questpics/immersive/immersive_press2.png width:125 height:100 align:center}"
@@ -210,7 +210,7 @@
 	]
 	quest.4104C5D003D4705A.title: "&l&6Automated Workbench"
 	quest.41B99DBD03EB74FF.quest_desc: [
-		"Trust me the Multiblock ain't lying when it says it's improved! \\n\\nThis one can be automated to recieve &9Inputs&r from the Top, and &6Outputs&r from the Front and Back Slots. \\n\\nAlso, we can add Preheaters to its Left and Right! \\n\\nAll this makes it much faster and of course, more efficient!"
+		"Trust me the Multiblock ain't lying when it says it's improved! \\n\\nThis one can be automated to receive &9Inputs&r from the Top, and &6Outputs&r from the Front and Back Slots. \\n\\nAlso, we can add Preheaters to its Left and Right! \\n\\nAll this makes it much faster and of course, more efficient!"
 		"{@pagebreak}"
 		"Finally a different one! You'll start with a base of 3x3x3 &4Reinforced Blast Bricks&r."
 		"{image:atm:textures/questpics/immersive/immersive_blast1.png width:100 height:100 align:center}"
@@ -222,7 +222,7 @@
 		"{image:atm:textures/questpics/immersive/immersive_blast.png width:100 height:150 align:center}"
 	]
 	quest.41B99DBD03EB74FF.title: "&l&4Improved Blast Furnace"
-	quest.4295C863C9A81F28.quest_desc: ["The Telsa Coil is a very fun and &cEnergy&r hungry home defence! \\n\\nFirst, power it with &cEnergy&r from any of its Ports. Then, either give it a &4Redstone Signal&r to turn it on, or use a &6Engineer's Screwdriver&r to make it always on! \\n\\nOnce it is on it will be actively using &cEnergy&r and when a Mob comes near it, it will Stun them and hurt them! Hurting Mobs makes it take more &cEnergy&r though. \\n\\nYou can Shift Right Click with an &6Engineer's Screwdriver&r to set it to low power mode. It will take less &cEnery&r but also have less Range and deal less Damage!"]
+	quest.4295C863C9A81F28.quest_desc: ["The Telsa Coil is a very fun and &cEnergy&r hungry home defence! \\n\\nFirst, power it with &cEnergy&r from any of its Ports. Then, either give it a &4Redstone Signal&r to turn it on, or use a &6Engineer's Screwdriver&r to make it always on! \\n\\nOnce it is on it will be actively using &cEnergy&r and when a Mob comes near it, it will Stun them and hurt them! Hurting Mobs makes it take more &cEnergy&r though. \\n\\nYou can Shift Right Click with an &6Engineer's Screwdriver&r to set it to low power mode. It will take less &cEnergy&r but also have less Range and deal less Damage!"]
 	quest.431C62A6F8ECB4EC.quest_desc: ["&7Aluminum Rod&r - 10 \\n&7Iron Rod&r - 16 \\n&8Steel Rod&r - 24 \\n&8Sawblade&r - 12 \\n&0Graphite Electrode&r - 30"]
 	quest.431C62A6F8ECB4EC.title: "&5&lRailgun&r Ammo from &8&lIE&r"
 	quest.442B1A1900BADAFC.quest_desc: ["Some Machines in &8&lIE&r aren't Multiblocks, rather they are single-blocked! \\n\\nDon't think that, just because they are made with 1 Block that, they aren't important though! "]
@@ -288,8 +288,6 @@
 	quest.4D193D60A3CAF435.title: "&2&lDiesel Generator"
 	quest.4D8190E94851C546.quest_desc: ["Live &cWires&r (&cWires&r transporting &cEnergy&r are Live &cWires&r) will hurt you when using a &6&lSkyhook&r on them. \\n\\nUnless you Insulate your Grip!"]
 	quest.4E297778DCEEC963.quest_desc: ["Advanced Heatsinks are our only &5&lRailgun&r exclusive Upgrades. \\n\\nIt will make it so the &5&lRailgun&r charges up much faster!"]
-	quest.4E8860056D068610.quest_desc: ["These can't be Crafted, instead they are last Trades from a Machinist Villager. \\n\\n&0Graphite Electrodes&r are used as Fuel for the &8&lArc Furnace&r (also for Fluorescent Lights). \\n\\nTo get them we'll need this special &9Blueprint&r."]
-	quest.4E8860056D068610.title: "&9Arc Furnace Electrodes Blueprints "
 	quest.4F56BFE6E4716F6D.quest_desc: [
 		"The &8&lArc Furnace&r is a massive and helpful Machine. It makes most other Machines useless! \\n\\nTo start you'll need &cEnergy&r Input from the outlets in the Back of the &8&lArc Furnace&r. It'll then need Fuel which are &0Graphite Electrodes&r. These can only be placed into its GUI, they can't be automated. \\n\\nYou'll then need to &6Input&r the &eItems&r into the Top Ports, near where the &0Graphite Electrodes&r are. When fueled and powered it'll melt down, just about anything. From &7Iron Rods&r to &7Iron Ingots&r, to &bFroststeel Helmets&r to &bFroststeel&r, to &eGold Pickaxes&r to &eGold&r! \\n\\nThe melted down &eItems&r will be &6Output&r into the Back below the Power Outlets. \\n\\nIt can also make Alloys from Metals!"
 		"{@pagebreak}"

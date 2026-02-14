@@ -7,27 +7,59 @@
 		id: "justdirethings:fuel_canister"
 	}
 	id: "4EAAE0CEB26378A6"
-	images: [{
-		click: "https://m.youtube.com/watch?v=phsjFbUs7gw"
-		height: 1.0d
-		hover: ["Pilpoh's Time Crystal Automation Tutorial"]
-		image: "actuallyadditions:item/youtube"
-		rotation: 0.0d
-		width: 1.0d
-		x: 0.0d
-		y: -5.0d
-	}]
-	order_index: 9
+	images: [
+		{
+			click: "https://m.youtube.com/watch?v=phsjFbUs7gw"
+			height: 1.0d
+			hover: ["Pilpoh's Time Crystal Automation Tutorial"]
+			image: "actuallyadditions:item/youtube"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 0.25d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.25d
+			x: -8.0d
+			y: -1.6964285714285694d
+		}
+		{
+			height: 0.25d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.25d
+			x: -0.9642857142857153d
+			y: -3.624999999999993d
+		}
+	]
+	order_index: 12
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
 			hide_dependent_lines: true
 			id: "7F0B2D58361FB00E"
-			rewards: [{
-				id: "050B7005B374DD48"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4AE9DB73FB6C1EBC"
+					item: {
+						components: {
+							"patchouli:book": "justdirethings:justdirethingsbook"
+						}
+						count: 1
+						id: "patchouli:guide_book"
+					}
+					type: "item"
+				}
+				{
+					id: "050B7005B374DD48"
+					type: "xp"
+					xp: 10
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "3AC95E8DC4229D17"

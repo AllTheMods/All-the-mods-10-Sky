@@ -1,0 +1,1384 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "chapter_3_allthemodium"
+	group: "029264819125415F"
+	id: "67E7552FDA3245F5"
+	images: [
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/chap3/chap3_title2.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: -2.5d
+			y: -8.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/chap3/chap3_title1.png"
+			rotation: 0.0d
+			width: 13.0d
+			x: 8.0d
+			y: -8.5d
+		}
+		{
+			height: 5.0d
+			image: "allthemodium:block/unobtainium_block"
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			height: 5.0d
+			image: "allthemodium:block/allthemodium_block"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 7.0d
+			image: "allthemodium:item/allthemodium_sword"
+			rotation: 135.0d
+			width: 7.0d
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			height: 7.0d
+			image: "allthemodium:item/vibranium_helmet"
+			rotation: 0.0d
+			width: 7.0d
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			height: 5.0d
+			image: "allthemodium:block/vibranium_block"
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			image: "ironfurnaces:block/allthemodium_furnace_front_on_smoke"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 2.0d
+			image: "ironfurnaces:block/vibranium_furnace_front_on_smoke"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			height: 2.0d
+			image: "ironfurnaces:block/unobtainium_furnace_front_on_smoke"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			height: 2.0d
+			image: "allthemodium:block/allthemodium_ore"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			height: 2.0d
+			image: "allthemodium:block/unobtainium_ore"
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.5d
+			y: -5.0d
+		}
+		{
+			height: 3.0d
+			image: "allthemodium:block/other_vibranium_ore"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: 7.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["53A6BC88439B6767"]
+			id: "615CE400A733C804"
+			rewards: [
+				{
+					id: "0B9013CB45408897"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "4E2F99F7360E464E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "4D44B72433CCC209"
+				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"6F930E97EB804F15"
+				"225C6EB3287BC8A2"
+			]
+			id: "24CE75F2FA3F08C9"
+			rewards: [
+				{
+					id: "27CCF51BA397D17B"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1D6ED74519A5318B"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "25CAC73C1B5E3809"
+				item: { count: 1, id: "allthemodium:vibranium_ingot" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"5663FA8B7C8570C5"
+				"7DE7E266A42E822E"
+			]
+			id: "15672B8686426197"
+			rewards: [
+				{
+					id: "316B2994C4B2A0F3"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "269A70416365C96E"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "2DED4AFF621A2E4C"
+				item: { count: 1, id: "allthemodium:unobtainium_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["615CE400A733C804"]
+			id: "3D4CCEA2ED727AE4"
+			rewards: [
+				{
+					id: "0A921B3271F1D5D4"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+				{
+					id: "2EFA51E0C05ABA9D"
+					item: {
+						count: 1
+						id: "minecraft:deepslate"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "021DCE30AA439D15"
+				item: { count: 1, id: "allthemodium:allthemodium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "53A6BC88439B6767"
+			rewards: [
+				{
+					count: 4
+					id: "3A4A18472AF27342"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "7B2C723A466DCA60"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "50FFCB039E508B8C"
+				item: { count: 1, id: "allthemodium:allthemodium_nugget" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3D4CCEA2ED727AE4"]
+			hide_dependent_lines: true
+			id: "69AD0D65488065A4"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "05D00E1A9E2BB437"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0535CD3F83C95C2D"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "0D6AB3FC1A6E3787"
+					item: { count: 1, id: "allthemodium:allthemodium_helmet" }
+					type: "item"
+				}
+				{
+					id: "27FF337D7545BB46"
+					item: { count: 1, id: "allthemodium:allthemodium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6F163BCFAAF82FC7"
+					item: { count: 1, id: "allthemodium:allthemodium_leggings" }
+					type: "item"
+				}
+				{
+					id: "0B96A2A8500FF7C8"
+					item: { count: 1, id: "allthemodium:allthemodium_boots" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3D4CCEA2ED727AE4"]
+			hide_dependent_lines: true
+			id: "31C384EB37DD24BC"
+			rewards: [
+				{
+					id: "052B752EBD832ADA"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "3C333609D9AEBABD"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "03E0BA661F0CB855"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [{
+				id: "2954E9A84730D187"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:allthemodium_sword)item(allthemodium:allthemodium_axe)item(allthemodium:allthemodium_mace))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D4CCEA2ED727AE4"]
+			hide_dependent_lines: true
+			id: "21A953649550C761"
+			rewards: [
+				{
+					id: "431AC0524B32F476"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7F3054B20D65B874"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [{
+				id: "7F534695D6EC391F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:allthemodium_shovel)item(allthemodium:allthemodium_pickaxe)item(allthemodium:allthemodium_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2C2BF70590DBF943"
+			rewards: [{
+				count: 2
+				id: "3471F2726E965133"
+				item: {
+					count: 1
+					id: "extendedcrafting:ender_alternator"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "5740BD0548D35920"
+					item: { count: 1, id: "extendedcrafting:ender_crafter" }
+					type: "item"
+				}
+				{
+					id: "3157D36CE55104A2"
+					item: { count: 1, id: "extendedcrafting:ender_alternator" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			id: "63BF3A8C26F37498"
+			rewards: [
+				{
+					count: 2
+					id: "2ECD4E92BF054A05"
+					item: {
+						count: 1
+						id: "extendedcrafting:crystaltine_component"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6EEAA606C0A9FA1A"
+					item: {
+						count: 1
+						id: "extendedcrafting:redstone_component"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "1980FD2C220A33BE"
+				item: { count: 1, id: "extendedcrafting:elite_table" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["63BF3A8C26F37498"]
+			id: "225C6EB3287BC8A2"
+			rewards: [{
+				count: 4
+				id: "5B6106DC42643062"
+				item: {
+					count: 1
+					id: "extendedcrafting:crystaltine_ingot"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "35C521308726144A"
+				item: { count: 1, id: "extendedcrafting:crystaltine_ingot" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C2BF70590DBF943"]
+			id: "6F930E97EB804F15"
+			rewards: [
+				{
+					count: 2
+					id: "5C90535186F399F6"
+					item: {
+						count: 1
+						id: "geore:budding_uranium"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "71EAAE2E8A077853"
+					item: {
+						count: 1
+						id: "geore:budding_uraninite"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "29D02AAEDC3BD407"
+				item: { count: 1, id: "geore:budding_uraninite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"24CE75F2FA3F08C9"
+				"615CE400A733C804"
+				"3D4CCEA2ED727AE4"
+			]
+			id: "0143D41FAD499FD0"
+			rewards: [
+				{
+					id: "1FE6CC6FEA3B9599"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_block"
+					}
+					type: "item"
+				}
+				{
+					id: "648F9255493272DA"
+					item: {
+						count: 1
+						id: "allthemodium:ancient_stone"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "7B146CB01614CCB1"
+				item: { count: 1, id: "allthemodium:vibranium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"0143D41FAD499FD0"
+				"69AD0D65488065A4"
+			]
+			hide_dependent_lines: true
+			id: "6B04292F127FC8CB"
+			rewards: [
+				{
+					count: 3
+					id: "2F3AC1A51F6A745D"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "30A68450E16316C9"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [
+				{
+					id: "0B14FCA879F28346"
+					item: { count: 1, id: "allthemodium:vibranium_helmet" }
+					type: "item"
+				}
+				{
+					id: "20088555A0EA801D"
+					item: { count: 1, id: "allthemodium:vibranium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "4AD63C8153FC11B6"
+					item: { count: 1, id: "allthemodium:vibranium_leggings" }
+					type: "item"
+				}
+				{
+					id: "7A887A02E558D8AB"
+					item: { count: 1, id: "allthemodium:vibranium_boots" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0143D41FAD499FD0"
+				"31C384EB37DD24BC"
+			]
+			hide_dependent_lines: true
+			id: "052FDEEDAAC3F932"
+			rewards: [
+				{
+					id: "09DB5750E925BFEE"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "6B0FB3E3A8CE90A3"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "12E362D5D232B64A"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				id: "6EAD7AAB2A57424E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:vibranium_sword)item(allthemodium:vibranium_axe)item(allthemodium:vibranium_mace))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0143D41FAD499FD0"
+				"21A953649550C761"
+			]
+			hide_dependent_lines: true
+			id: "7DE7E266A42E822E"
+			rewards: [
+				{
+					id: "23C287AE3A6FC1B2"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "4588B414B81B8B31"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				id: "6C22DF8825A25915"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:vibranium_pickaxe)item(allthemodium:vibranium_shovel)item(allthemodium:vibranium_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"15672B8686426197"
+				"0143D41FAD499FD0"
+				"24CE75F2FA3F08C9"
+			]
+			id: "19E8DD3B8554BF57"
+			rewards: [
+				{
+					id: "0E5F2525F439FB06"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_block"
+					}
+					type: "item"
+				}
+				{
+					id: "72C1E05DE14ACF76"
+					item: {
+						count: 1
+						id: "minecraft:end_stone"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "699B75AB4BC3A2F4"
+				item: { count: 1, id: "allthemodium:unobtainium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			id: "5663FA8B7C8570C5"
+			rewards: [{
+				id: "47DD184C46467E51"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:efficiency": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "minecraft:end_highlands"
+				icon: {
+					id: "minecraft:end_stone"
+				}
+				id: "5615E27205EB7A94"
+				type: "biome"
+			}]
+			x: 8.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"19E8DD3B8554BF57"
+				"052FDEEDAAC3F932"
+			]
+			id: "0DD626A1DB5A589F"
+			rewards: [
+				{
+					id: "42EC4E2A9B65BBAD"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1CEE7A38E81FEB6B"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "6A8B97A5D741F948"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+			]
+			tasks: [{
+				id: "51CB2D73F130E55A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:unobtainium_sword)item(allthemodium:unobtainium_axe)item(allthemodium:unobtainium_mace))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"19E8DD3B8554BF57"
+				"7DE7E266A42E822E"
+			]
+			id: "03F381C22741F1E6"
+			rewards: [
+				{
+					id: "5C394BF6BF1529E2"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1954D41569A6164D"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+			]
+			tasks: [{
+				id: "464877B75929C3C4"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:unobtainium_pickaxe)item(allthemodium:unobtainium_shovel)item(allthemodium:unobtainium_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"19E8DD3B8554BF57"
+				"6B04292F127FC8CB"
+			]
+			id: "2D7FCB751FC563E5"
+			rewards: [
+				{
+					count: 3
+					id: "71FBF415A6239354"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "5ECAF25281BF0317"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+			]
+			tasks: [
+				{
+					id: "5D14238A66BAD493"
+					item: { count: 1, id: "allthemodium:unobtainium_helmet" }
+					type: "item"
+				}
+				{
+					id: "087D21CC98B8F0DC"
+					item: { count: 1, id: "allthemodium:unobtainium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "73E839F00DD11293"
+					item: { count: 1, id: "allthemodium:unobtainium_leggings" }
+					type: "item"
+				}
+				{
+					id: "04E79A2206E1BD5E"
+					item: { count: 1, id: "allthemodium:unobtainium_boots" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["19E8DD3B8554BF57"]
+			id: "2A9F546586CAC34E"
+			optional: true
+			rewards: [
+				{
+					id: "4BC2CD2AED974A87"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "7AA23AE3743B2255"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "6EFE20C8ED04A071"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthearcanistgear:unobtainium_hat)item(allthearcanistgear:unobtainium_robes)item(allthearcanistgear:unobtainium_leggings)item(allthearcanistgear:unobtainium_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["19E8DD3B8554BF57"]
+			id: "538C9CDF7BEC18D8"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "60A50D68EAE00D97"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_tribute"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "15D8DBBC24E422DF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "57C5648E3A79D805"
+				item: { count: 1, id: "allthearcanistgear:unobtainium_spell_book" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D4CCEA2ED727AE4"]
+			id: "38256909C87DCD36"
+			optional: true
+			rewards: [
+				{
+					id: "0CAA9D055DBF7BB8"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "65C3A661FE214AD6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "2FCC2AAD26F80D20"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthearcanistgear:allthemodium_hat)item(allthearcanistgear:allthemodium_robes)item(allthearcanistgear:allthemodium_leggings)item(allthearcanistgear:allthemodium_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0143D41FAD499FD0"]
+			id: "589A36B5AEC1E588"
+			optional: true
+			rewards: [
+				{
+					id: "496ABB38E594A523"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "137F8A7978116367"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "7226040F3B42C6E1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthearcanistgear:vibranium_hat)item(allthearcanistgear:vibranium_robes)item(allthearcanistgear:vibranium_leggings)item(allthearcanistgear:vibranium_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3D4CCEA2ED727AE4"]
+			id: "208734A50051ECEC"
+			min_width: 300
+			optional: true
+			rewards: [
+				{
+					id: "7167C4C2F465DE13"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_tribute"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "4E7CA5613E5B8FF5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "044DCCC8CB246FD1"
+				item: { count: 1, id: "allthearcanistgear:allthemodium_spell_book" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0143D41FAD499FD0"]
+			id: "2BC31E5B6BD68A35"
+			optional: true
+			rewards: [
+				{
+					count: 2
+					id: "4013E0B817BAAC7A"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_tribute"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "06CCB20F0CC32EF1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "6A29572287CC5C71"
+				item: { count: 1, id: "allthearcanistgear:vibranium_spell_book" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"15672B8686426197"
+				"24CE75F2FA3F08C9"
+				"615CE400A733C804"
+			]
+			hide_dependency_lines: true
+			id: "17378FE70654852D"
+			rewards: [{
+				count: 2
+				id: "1286DF668063BBFE"
+				item: {
+					count: 1
+					id: "megacells:cell_component_256m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4F07F076D4AE911F"
+				item: { count: 1, id: "megacells:cell_component_256m" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			id: "665980EC12F695E9"
+			rewards: [
+				{
+					count: 3
+					id: "4733CED8537355F7"
+					item: {
+						count: 1
+						id: "industrialforegoing:laser_drill"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "46B043CEE2B627AA"
+					item: {
+						components: {
+							"titanium:augments": {
+								Efficiency: 0.5f
+							}
+						}
+						count: 1
+						id: "mifa:efficiency_addon_5"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [
+				{
+					id: "1ED8F97FB1851BAA"
+					item: { count: 1, id: "industrialforegoing:stasis_chamber" }
+					type: "item"
+				}
+				{
+					id: "5EDA55633A817790"
+					item: { count: 1, id: "industrialforegoing:fluid_laser_base" }
+					type: "item"
+				}
+				{
+					id: "19DD80B00FAE1BC5"
+					item: { count: 1, id: "industrialforegoing:laser_drill" }
+					type: "item"
+				}
+				{
+					id: "15D52FB911B96FEF"
+					item: { count: 1, id: "industrialforegoing:blue_laser_lens" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["665980EC12F695E9"]
+			id: "6F37F7ABBBA910B2"
+			rewards: [{
+				count: 2
+				id: "7CDDC9E007A030F6"
+				item: {
+					count: 1
+					id: "allthemodium:soul_lava_bucket"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "165086113B05C3ED"
+				item: { count: 1, id: "allthemodium:soul_lava_bucket" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6F37F7ABBBA910B2"]
+			id: "078C16A9D3BAEA45"
+			optional: true
+			rewards: [{
+				count: 16
+				id: "18F8AF2EEDEC0D79"
+				item: {
+					count: 1
+					id: "allthemodium:ancient_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B7C6BF9B91F9D10"
+				item: { count: 1, id: "allthemodium:ancient_stone" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6F37F7ABBBA910B2"]
+			id: "337022C12CE5FD07"
+			rewards: [{
+				id: "0B3FBA7F1B5CAE6A"
+				item: {
+					count: 1
+					id: "productivelib:upgrade_productivity_2"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1B00DD98F30A2619"
+				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:allthemodium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["337022C12CE5FD07"]
+			id: "4D525B47CCCAC0B3"
+			rewards: [{
+				id: "122DF62ED28FD7B0"
+				item: {
+					count: 1
+					id: "productivelib:upgrade_productivity_3"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "70D18EB0CC85EB14"
+				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:vibranium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4D525B47CCCAC0B3"]
+			id: "54A9C70D01935A16"
+			rewards: [{
+				id: "676DB6A008CBCEB0"
+				item: {
+					count: 1
+					id: "productivelib:upgrade_productivity_4"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "07FDB1AFE9CDA966"
+				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:unobtainium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6F37F7ABBBA910B2"]
+			id: "4AEA51A241D61D15"
+			rewards: [{
+				id: "54BB3791C95BC26E"
+				item: {
+					count: 1
+					id: "productivelib:upgrade_productivity"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "73C8E9959B361FCA"
+				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:soul_lava" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6F37F7ABBBA910B2"]
+			id: "4D96FBB5645ADC84"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "46B38E28AF2D8DC9"
+				item: {
+					count: 1
+					id: "productivemetalworks:high_powered_heating_coil"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "79CDFB098D925151"
+				item: { count: 1, id: "productivemetalworks:high_powered_heating_coil" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["17378FE70654852D"]
+			id: "5319D267A6A2C625"
+			optional: true
+			rewards: [{
+				id: "3EB56B26BBD70FBE"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "44B02FBFAD918254"
+				item: { components: { "ftbfiltersystem:filter": "or(item(kubejs:white_cell)item(kubejs:light_gray_cell)item(kubejs:gray_cell)item(kubejs:black_cell)item(kubejs:brown_cell)item(kubejs:red_cell)item(kubejs:orange_cell)item(kubejs:yellow_cell)item(kubejs:lime_cell)item(kubejs:green_cell)item(kubejs:cyan_cell)item(kubejs:light_blue_cell)item(kubejs:blue_cell)item(kubejs:purple_cell)item(kubejs:magenta_cell)item(kubejs:pink_cell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["17378FE70654852D"]
+			id: "19D9C6110D72EA7E"
+			optional: true
+			rewards: [{
+				id: "0948FF08F809CECE"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "5C5BD15346C75F38"
+				item: { components: { "ftbfiltersystem:filter": "or(item(kubejs:dirt_cell)item(kubejs:moss_cell)item(kubejs:gravel_cell)item(kubejs:sand_cell)item(kubejs:red_sand_cell)item(kubejs:end_stone_cell)item(kubejs:netherrack_cell)item(kubejs:blackstone_cell)item(kubejs:soul_sand_cell)item(kubejs:cobbled_deepslate_cell)item(kubejs:dust_cell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["17378FE70654852D"]
+			id: "5A21264D1043A0DA"
+			optional: true
+			rewards: [{
+				id: "51174B3151EFB7AF"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "3A705CAF7547846A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(kubejs:andesite_cell)item(kubejs:diorite_cell)item(kubejs:granite_cell)item(kubejs:tuff_cell)item(kubejs:basalt_cell)item(kubejs:calcite_cell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["17378FE70654852D"]
+			id: "55E56A748C8681AC"
+			optional: true
+			rewards: [{
+				id: "6F3E4CB358C7DCBD"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "0976E8FE5828D685"
+				item: { components: { "ftbfiltersystem:filter": "or(item(kubejs:clay_cell)item(kubejs:sky_stone_cell)item(kubejs:kivi_cell)item(kubejs:ancient_stone_cell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["615CE400A733C804"]
+			id: "09EFBC2297441B77"
+			optional: true
+			rewards: [{
+				id: "0351455A70677A92"
+				item: {
+					count: 1
+					id: "ironfurnaces:upgrade_allthemodium"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "396857A275EA88A2"
+				item: { count: 1, id: "ironfurnaces:allthemodium_furnace" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["615CE400A733C804"]
+			id: "737A779F82686366"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "1FDE221C83946DDB"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_carrot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "30791F30286D5513"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_apple"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					id: "57EE3B5B426F422A"
+					item: { count: 1, id: "allthemodium:allthemodium_carrot" }
+					type: "item"
+				}
+				{
+					id: "4CA2C0D932FE377C"
+					item: { count: 1, id: "allthemodium:allthemodium_apple" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"09EFBC2297441B77"
+				"24CE75F2FA3F08C9"
+			]
+			id: "258C1375A5DB4253"
+			optional: true
+			rewards: [{
+				id: "01C13301AE59B6FF"
+				item: {
+					count: 1
+					id: "ironfurnaces:upgrade_vibranium"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "22225F702E8E0ED7"
+				item: { count: 1, id: "ironfurnaces:vibranium_furnace" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"258C1375A5DB4253"
+				"15672B8686426197"
+			]
+			id: "6599BB9DCA903F65"
+			optional: true
+			rewards: [{
+				id: "6FE70664D4AA56C1"
+				item: {
+					count: 1
+					id: "ironfurnaces:upgrade_unobtainium"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "5049BE47B96117CE"
+				item: { count: 1, id: "ironfurnaces:unobtainium_furnace" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+	]
+}

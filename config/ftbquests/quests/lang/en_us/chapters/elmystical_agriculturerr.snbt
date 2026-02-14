@@ -63,7 +63,7 @@
 	quest.2C9C9CB71941DC01.quest_desc: ["This is the Tier 3 Essence, made by combining 4 Prudentium together with an Infusion Crystal."]
 	quest.2C9C9CB71941DC01.quest_subtitle: "Tier: &63"
 	quest.2C9C9CB71941DC01.title: "&cTertium"
-	quest.2DDA04088C8220D2.quest_desc: ["Prosperity Shards are a core crafting ingrediant in the mod. To find some Prosperity Ore, go mining."]
+	quest.2DDA04088C8220D2.quest_desc: ["Prosperity Shards are a core crafting ingredient in the mod. You can obtain them by sifting Soul Sand with an Iron Sieve or higher."]
 	quest.2DDA04088C8220D2.quest_subtitle: "Can we finally have Prosperity?"
 	quest.2DDA04088C8220D2.title: "&bProsperity Shards"
 	quest.30E9255DEC69C061.title: "&4Supremium Tools"
@@ -174,6 +174,7 @@
 	task.34551E919FD101CF.title: "Imperium Tools"
 	task.3E133AC7B615971D.title: "Supremium Tools"
 	task.41910A3BC6C0E838.title: "Prudentium Tools"
+	task.4C906A47EBC15BC1.title: "Watering Cans"
 	task.4F6E8F2EC33DB910.title: "Awakened Supremium Tools"
 	task.518B9569DCE0A771.title: "AllRightsReserved"
 	task.51A3E013D2B3D744.title: "Machine Upgrades"

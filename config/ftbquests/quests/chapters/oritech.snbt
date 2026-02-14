@@ -80,7 +80,7 @@
 			tasks: [{
 				count: 4L
 				id: "3824247686C3D875"
-				item: { count: 4, id: "alltheores:nickel_ingot" }
+				item: { count: 1, id: "alltheores:nickel_ingot" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -141,13 +141,13 @@
 				{
 					count: 2L
 					id: "6048DCF7257E5E54"
-					item: { count: 2, id: "oritech:magnetic_coil" }
+					item: { count: 1, id: "oritech:magnetic_coil" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "1223FBE90DF34977"
-					item: { count: 2, id: "oritech:motor" }
+					item: { count: 1, id: "oritech:motor" }
 					type: "item"
 				}
 			]
@@ -193,7 +193,7 @@
 				{
 					count: 4L
 					id: "7EBB366B3BA77459"
-					item: { count: 4, id: "oritech:adamant_ingot" }
+					item: { count: 1, id: "oritech:adamant_ingot" }
 					type: "item"
 				}
 			]
@@ -248,7 +248,7 @@
 			tasks: [{
 				count: 4L
 				id: "103CD887346D3D6C"
-				item: { count: 4, id: "oritech:fluxite" }
+				item: { count: 1, id: "oritech:fluxite" }
 				type: "item"
 			}]
 			x: -5.5d
@@ -296,7 +296,7 @@
 			tasks: [{
 				count: 8L
 				id: "5BB2EA49C605295F"
-				item: { count: 8, id: "oritech:duratium_ingot" }
+				item: { count: 1, id: "oritech:duratium_ingot" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -332,7 +332,7 @@
 			tasks: [{
 				count: 2L
 				id: "0B06DB83A6814356"
-				item: { count: 2, id: "oritech:plutonium_pellet" }
+				item: { count: 1, id: "oritech:plutonium_pellet" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -344,7 +344,7 @@
 			tasks: [{
 				count: 8L
 				id: "70BE0920B36053DD"
-				item: { count: 8, id: "oritech:silicon_wafer" }
+				item: { count: 1, id: "oritech:silicon_wafer" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -356,7 +356,7 @@
 			tasks: [{
 				count: 4L
 				id: "71D17D7B86A67883"
-				item: { count: 4, id: "oritech:advanced_computing_engine" }
+				item: { count: 1, id: "oritech:advanced_computing_engine" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -368,7 +368,7 @@
 			tasks: [{
 				count: 2L
 				id: "5FDE4FC13AA57195"
-				item: { count: 2, id: "oritech:super_ai_chip" }
+				item: { count: 1, id: "oritech:super_ai_chip" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -496,7 +496,7 @@
 			tasks: [{
 				count: 4L
 				id: "6AEA73B9168B5418"
-				item: { count: 4, id: "oritech:carbon_fibre_strands" }
+				item: { count: 1, id: "oritech:carbon_fibre_strands" }
 				type: "item"
 			}]
 			x: 4.5d
@@ -551,13 +551,13 @@
 				id: "08975132914D0D9B"
 				item: {
 					count: 1
-					id: "oritech:plutonium_dust"
+					id: "modern_industrialization:plutonium_dust"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "6CBC44DF8F1CD43F"
-				item: { count: 1, id: "oritech:plutonium_dust" }
+				item: { count: 1, id: "modern_industrialization:plutonium_dust" }
 				type: "item"
 			}]
 			x: -5.5d
@@ -580,7 +580,7 @@
 				{
 					count: 6L
 					id: "5DD83D9863B3F913"
-					item: { count: 6, id: "oritech:fluid_pipe" }
+					item: { count: 1, id: "oritech:fluid_pipe" }
 					type: "item"
 				}
 				{
@@ -965,7 +965,7 @@
 				{
 					count: 2L
 					id: "2A48DB69DAF5DE76"
-					item: { count: 2, id: "oritech:refinery_module_block" }
+					item: { count: 1, id: "oritech:refinery_module_block" }
 					type: "item"
 				}
 			]

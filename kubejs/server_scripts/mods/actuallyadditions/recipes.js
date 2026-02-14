@@ -26,7 +26,7 @@ ServerEvents.recipes((allthemods) => {
   aa.laser("occultism:iesnium_ore", "minecraft:ancient_debris", 50000)
 
   allthemods.recipes.actuallyadditions
-    .crushing([{ stack: "mekanism:dust_coal", chance: 1.0 }], "#c:coal")
+    .crushing([{ stack: "mekanism:dust_coal", chance: 1.0 }], "#minecraft:coals")
     .id("allthemods:actuallyadditions/crushing/coal_dust_from_shard")
 })
 

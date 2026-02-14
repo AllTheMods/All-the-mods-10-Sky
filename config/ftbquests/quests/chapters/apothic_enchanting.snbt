@@ -81,7 +81,7 @@
 			y: 0.0d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -410,7 +410,7 @@
 			tasks: [{
 				count: 8L
 				id: "129FC7396A82D377"
-				item: { count: 5, id: "apothic_enchanting:infused_hellshelf" }
+				item: { count: 1, id: "apothic_enchanting:infused_hellshelf" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -809,13 +809,13 @@
 				{
 					count: 5L
 					id: "1F985EE897C559DA"
-					item: { count: 4, id: "apothic_enchanting:soul_touched_sculkshelf" }
+					item: { count: 1, id: "apothic_enchanting:soul_touched_sculkshelf" }
 					type: "item"
 				}
 				{
 					count: 5L
 					id: "7E52C8FAC7C1773C"
-					item: { count: 4, id: "apothic_enchanting:echoing_sculkshelf" }
+					item: { count: 1, id: "apothic_enchanting:echoing_sculkshelf" }
 					type: "item"
 				}
 				{

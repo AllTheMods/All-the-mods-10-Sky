@@ -36,8 +36,8 @@
 	quest.16FA120455D36B58.quest_subtitle: "Laranja + Mangue"
 	quest.1815661333016983.quest_subtitle: "Tamareira + Cerejeira Negra"
 	quest.18601369F049D10D.quest_subtitle: "Ébano do Ceilão + Murta de Crepe Roxa"
-	quest.18A2F6BA778D96B1.quest_desc: ["Estes podem ser encontrados em baús dentro de Bastiões."]
-	quest.18A2F6BA778D96B1.quest_subtitle: "Baús de Bastião"
+	quest.18A2F6BA778D96B1.quest_desc: ["Esses itens podem ser encontrados em baús dentro dos Bastiões."]
+	quest.18A2F6BA778D96B1.quest_subtitle: "Dragão de Socotra + Cristais Flamejantes + Corante Preto"
 	quest.18D4BE3AF7869DE2.quest_subtitle: "Ébano do Ceilão + Caqui"
 	quest.19C22C5B247F4D7D.quest_subtitle: "Ébano do Ceilão + Kapok"
 	quest.1A09AF508EFAE0EC.quest_subtitle: "Cidra + Lima Chave"
@@ -51,8 +51,8 @@
 	quest.1F1B4948FCC14BB4.quest_subtitle: "Abeto Prateado + Abeto"
 	quest.20DDAC076A2479A8.quest_subtitle: "Espiral Roxa + Cereja Brilhante"
 	quest.21B8116BDADD7476.quest_subtitle: "Mamão + Cacau"
-	quest.22151D56616559CB.quest_desc: ["Estes podem ser encontrados em baús dentro de Naufrágios."]
-	quest.22151D56616559CB.quest_subtitle: "Baús de Naufrágio"
+	quest.22151D56616559CB.quest_desc: ["Esses itens podem ser encontrados em baús dentro de Naufrágios."]
+	quest.22151D56616559CB.quest_subtitle: "Fruta Estelar + Estrelas do Nether + Corante Azul"
 	quest.227BEFEF59977CC4.quest_subtitle: "Jacarandá + Teca"
 	quest.23A5F5C9BC7B5CC7.quest_subtitle: "Ameixa + Nogueira"
 	quest.257D8912FC58DB59.quest_subtitle: "Pau-Brasil + Mogno"
@@ -60,8 +60,8 @@
 	quest.25F4D4A723B298A4.quest_subtitle: "Maçã Red Delicious + Bétula"
 	quest.263FBD9ED2756190.quest_subtitle: "Nogueira + Coco"
 	quest.268768465119632A.quest_subtitle: "Álamo + Amieiro"
-	quest.289B30DAC960BFF2.quest_desc: ["Estes podem ser encontrados em baús dentro das Cidades do End."]
-	quest.289B30DAC960BFF2.quest_subtitle: "Baús da Cidade do End"
+	quest.289B30DAC960BFF2.quest_desc: ["Esses itens podem ser encontrados em baús dentro das Cidades do End."]
+	quest.289B30DAC960BFF2.quest_subtitle: "Palmeira Asai + Almas do Arcanus Proibido"
 	quest.28FB4B9DCC268404.quest_subtitle: "Ameixa + Cereja"
 	quest.291EE514A1602C46.quest_subtitle: "Balsa + Azaleia Florida"
 	quest.298437197EA5680D.quest_subtitle: "Cereja Preta + Cacau"
@@ -92,8 +92,8 @@
 	quest.3BD304D851F49EC0.quest_subtitle: "Sabugueiro + Abeto Prateado"
 	quest.419C808FE10DB496.quest_subtitle: "Balsa + Wenge"
 	quest.427B9C6D95885DE2.quest_subtitle: "Maçã Red Delicious + Azaleia Florida"
-	quest.4281BCDCE233F65B.quest_desc: ["Estes podem ser encontrados em baús dentro de Cidades Antigas."]
-	quest.4281BCDCE233F65B.quest_subtitle: "Baús da Cidade Antiga"
+	quest.4281BCDCE233F65B.quest_desc: ["Esses itens podem ser encontrados em baús dentro das Cidades Ancestrais."]
+	quest.4281BCDCE233F65B.quest_subtitle: "Bordo Vermelha + Foguetes de Fogos de Artifício + Tentáculo de Warden + Ovo Gerador de Warden"
 	quest.43265FEF45846357.quest_subtitle: "Pomelo + Cidra"
 	quest.44FEE957BD333241.quest_subtitle: "Lima Prateada + Cereja Azeda"
 	quest.4510FD92BACF00FF.quest_subtitle: "Ameixa + Castanha-doce"
@@ -105,8 +105,8 @@
 	quest.48BA8ACFADE3C8CE.quest_subtitle: "Citron + Cereja Silvestre"
 	quest.4AEB4BF7624ABA0F.quest_subtitle: "Buscafogo + Árvore da Alma"
 	quest.4AFA3CB55F6C10C2.quest_subtitle: "Pandanus + Coco"
-	quest.4C3B7BAEA653587B.quest_desc: ["Estes podem ser encontrados em baús dentro de Pirâmides do Deserto."]
-	quest.4C3B7BAEA653587B.quest_subtitle: "Baús de Pirâmide do Deserto"
+	quest.4C3B7BAEA653587B.quest_desc: ["Você pode fazer esses com 8 &9Imperfeitos&r ou 1 &cP&6e&er&ff&de&5c&4t&r Gema Solar"]
+	quest.4C3B7BAEA653587B.quest_subtitle: "Dogwood + Gemas Solares"
 	quest.4D562F5D72038083.quest_subtitle: "Amieiro + Lariço Europeu"
 	quest.4E802144C6E40D43.quest_subtitle: "Ébano do Ceilão + Cerejeira"
 	quest.4E802144C6E40D43.title: "Muda de Lagerstroemia Roxa"
@@ -159,12 +159,13 @@
 	quest.70A4E2B0491634FA.quest_subtitle: "Pinha + Banana"
 	quest.70F7B018CD61E946.quest_subtitle: "Carvalho Escuro + Selva"
 	quest.71AA40CB2948A8D7.quest_subtitle: "Yonder Azul + Árvore da Alma"
+	quest.73EA0CFA78C689F2.quest_desc: ["Certas mudas são normalmente encontradas em baús de saque em várias estruturas. Claro, sendo um pack de skyblock, não temos realmente essas estruturas. Então, como conseguimos essas mudas, então? Mochilas?\\n\\nEu tenho uma resposta melhor, o Ender Crafter.\\n\\nConfira a missão do Ender Crafter no Capítulo 3 para mais informações sobre como usá-lo.\\n\\nEspere, eu te dei o Alternador errado como recompensa da missão...ops..."]
 	quest.74297A72584F5D7B.quest_subtitle: "Amieiro + Cerejeira Selvagem"
 	quest.747BA0DB44A49A4F.quest_subtitle: "Maçã Red Delicious + Pera de Areia"
 	quest.74CD3FC35F245DF2.quest_subtitle: "Céu Azul + Sol Cintilante"
 	quest.75CE67D3AA75C798.quest_subtitle: "Maçã Red Delicious + Maçã Granny Smith"
 	quest.762C54C261ED5D29.quest_subtitle: "Teca + Mogno"
-	quest.768C07D1B5EB1FEB.quest_desc: ["Estes podem ser encontrados em Areia e Cascalho Suspeitos dentro de Ruínas Oceânicas Frias."]
+	quest.768C07D1B5EB1FEB.quest_desc: ["Esses podem ser encontrados em Areia Suspeita e Cascalho dentro das Ruínas do Oceano Frio. Não temos realmente Ruínas do Oceano Frio aqui, então Alakarkinos terá que preencher essa parte. Basta colocar um pouco de Cascalho perto da casa deles, e um pouco de Fonte para que possam trabalhar."]
 	quest.768C07D1B5EB1FEB.quest_subtitle: "Blocos Suspeitos de Ruínas Oceânicas Frias"
 	quest.76A0592F4C294545.quest_desc: ["A Serraria corta Troncos em Serragem e mais Tábuas do que você obteria ao criar. Serragem pode ser usada para fazer Papel.\\n\\n - Troncos de Fustic também lhe darão Fustic.\\n - Troncos de Pau-brasil e Troncos de Logwood também lhe darão Hematoxilina."]
 	quest.76A0592F4C294545.quest_subtitle: "Eu também faria"

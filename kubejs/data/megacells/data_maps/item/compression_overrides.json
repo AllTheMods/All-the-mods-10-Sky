@@ -1,0 +1,91 @@
+{
+  "values": {
+    "alltheores:steel_nugget": {
+      "variant": "alltheores:steel_ingot"
+    },
+    "exdeorum:aluminum_ore_chunk": {
+      "variant": "alltheores:aluminum_ore"
+    },
+    "exdeorum:andesite_pebble": {
+      "variant": "minecraft:andesite"
+    },
+    "exdeorum:basalt_pebble": {
+      "variant": "minecraft:basalt"
+    },
+    "exdeorum:blackstone_pebble": {
+      "variant": "minecraft:blackstone"
+    },
+    "exdeorum:calcite_pebble": {
+      "variant": "minecraft:calcite"
+    },
+    "exdeorum:copper_ore_chunk": {
+      "variant": "minecraft:copper_ore"
+    },
+    "exdeorum:deepslate_pebble": {
+      "variant": "minecraft:cobbled_deepslate"
+    },
+    "exdeorum:diorite_pebble": {
+      "variant": "minecraft:diorite"
+    },
+    "exdeorum:gold_ore_chunk": {
+      "variant": "minecraft:gold_ore"
+    },
+    "exdeorum:granite_pebble": {
+      "variant": "minecraft:granite"
+    },
+    "exdeorum:iron_ore_chunk": {
+      "variant": "minecraft:iron_ore"
+    },
+    "exdeorum:lead_ore_chunk": {
+      "variant": "alltheores:lead_ore"
+    },
+    "exdeorum:nickel_ore_chunk": {
+      "variant": "alltheores:nickel_ore"
+    },
+    "exdeorum:osmium_ore_chunk": {
+      "variant": "alltheores:osmium_ore"
+    },
+    "exdeorum:platinum_ore_chunk": {
+      "variant": "alltheores:platinum_ore"
+    },
+    "exdeorum:silver_ore_chunk": {
+      "variant": "alltheores:silver_ore"
+    },
+    "exdeorum:stone_pebble": {
+      "variant": "minecraft:cobblestone"
+    },
+    "exdeorum:tin_ore_chunk": {
+      "variant": "alltheores:tin_ore"
+    },
+    "exdeorum:tuff_pebble": {
+      "variant": "minecraft:tuff"
+    },
+    "exdeorum:uranium_ore_chunk": {
+      "variant": "alltheores:uranium_ore"
+    },
+    "exdeorum:zinc_ore_chunk": {
+      "variant": "alltheores:zinc_ore"
+    },
+    "oritech:biosteel_ingot": {
+      "variant": "NONE"
+    },
+    "pickletweaks:charoal_piece": {
+      "variant": "NONE"
+    },
+    "pickletweaks:coal_piece": {
+      "variant": "NONE"
+    },
+    "productivebees:draconic_dust": {
+      "variant": "productivebees:draconic_chunk"
+    },
+    "utilitarian:tiny_charcoal": {
+      "variant": "minecraft:charcoal"
+    },
+    "utilitarian:tiny_coal": {
+      "variant": "minecraft:coal"
+    },
+    "wstweaks:fragment": {
+      "variant": "minecraft:wither_skeleton_skull"
+    }
+  }
+}

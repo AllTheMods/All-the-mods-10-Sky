@@ -1,3 +1,21 @@
 {
-  "ae2:ingredients": "{ top?: ingredient, middle: non_empty_ingredient, bottom?: ingredient}"
+  "ae2:ingredients": {
+    "type": "custom_object",
+    "keys": [
+      {
+        "name": "top",
+        "component": "optional_ingredient",
+        "optional": true
+      },
+      {
+        "name": "middle",
+        "component": "ingredient"
+      },
+      {
+        "name": "bottom",
+        "component": "optional_ingredient",
+        "optional": true
+      }
+    ]
+  }
 }

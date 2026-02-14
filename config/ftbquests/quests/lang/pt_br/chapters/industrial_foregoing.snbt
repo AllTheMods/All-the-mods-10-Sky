@@ -1,65 +1,123 @@
 {
 	quest.06094615950AC062.title: "Outras Melhorias de Esteira"
+	quest.06F84E2C484FAC5B.quest_desc: ["Já ouviu falar de um gerador de pedregulho? A Fábrica de Cantaria funciona como um, mas leva isso para o próximo nível. Você pode usá-la para triturar pedra em cascalho, areia, silício, você pode fundi-la em pedra, pode fazer Obsidiana com ela, e o que mais o JEI mostrar para esta máquina."]
+	quest.0B35172E47705205.quest_desc: ["Sim, o &bIndustrial Foregoing&r tem processamento de minério também. Este usa &6Carne Líquida&r para converter um minério em Carne de Minério Bruto. Eu não sou um médico de minérios, então não posso fazer nada exatamente com essa Carne de Minério Bruto. Talvez dar para a Estação de Fermentação?"]
+	quest.0B35172E47705205.quest_subtitle: "Processamento de Minério: Passo 1"
 	quest.0BCCDE24D378F260.quest_subtitle: "Nível: &d3"
 	quest.0BCCDE24D378F260.title: "&dEstrutura de Máquina Avançada"
-	quest.0E8647B8EB4AAC41.quest_desc: ["Mobs Passivos -> Mais Slime Rosa.\\nMobs Hostis -> Mais Carne."]
-	quest.0E8647B8EB4AAC41.title: "Slime Rosa & Carne Líquida"
-	quest.0EA9E52B67B533DF.quest_desc: ["Quando a Borracha é fundida, ela se transforma em Plástico, que é o principal recurso em Industrial Foregoing."]
-	quest.0EC2053B191C55C6.quest_desc: ["Extrai látex de troncos, funciona mais rápido quando recebe energia.\\n\\nVerifique no JEI os troncos aceitáveis e as quantidades de Látex. O melhor tronco para usar é a Acácia."]
-	quest.0FAAE744E156D8EF.quest_desc: ["O &bReator Micelial&r consiste em todos os Geradores Miceliais funcionando ao mesmo tempo, perto do bloco do reator, e produz um total de &a25MFE/t&r.\\n\\nTudo parece bom, mas você precisa automatizar algumas coisas para que ele funcione, ver o que cada Gerador Micelial consome para funcionar e automatizar, a maioria das coisas é simples, mas outras, nem tanto... &oolhando para o Gerador Micelial de Desencantamento&r.\\n\\nMas depois de automatizar tudo, você não precisa parar em um, pode fazer mais reatores."]
-	quest.0FAAE744E156D8EF.quest_subtitle: "Reator Micelial, huh?"
-	quest.1823CC81D613892B.quest_desc: [
-		"Mobs Passivos -> Mais Limo Rosa"
-		"Mobs Hostis -> Mais Carne"
-	]
-	quest.1BA3D15FFE7DBE59.quest_desc: ["No &bIndustrial Foregoing&r, um dos principais recursos é o &fLátex.&r É usado para criar Estruturas de Máquina, necessárias para fazer máquinas e melhorias.\\n\\nFazer Látex é bem simples, o &aExtrator de Fluido&r extrai Látex de &6Troncos&r (Acácia dá mais).\\n\\n------------------------\\n\\nAgora sobre fazer Plástico: Plástico resulta da fusão da Borracha Seca - que é feita na &aUnidade de Processamento de Látex&r, que transforma Látex em Borracha Seca.\\n\\n&bEntão basicamente Látex -> Borracha Seca -> Plástico."]
-	quest.1BA3D15FFE7DBE59.quest_subtitle: "Látex e Plástico? Hã?"
+	quest.0D2DD9AA960843A3.quest_desc: ["O Detector de Mobs detectará entidades em sua área de trabalho, e emitirá um sinal de redstone atrás dele com força igual à quantidade de entidades na área de trabalho.\\n\\nEsta máquina suporta Adicionais de Alcance."]
+	quest.0E8647B8EB4AAC41.quest_desc: ["Mobs Passivos -> Mais &#FF69B4Slime Rosa&r\\nMobs Hostis -> Mais &6Carne&r"]
+	quest.0E8647B8EB4AAC41.title: "Slime Rosa e Carne Líquida"
+	quest.0EA9E52B67B533DF.quest_desc: ["Quando a Borracha é fundida, ela se transforma em Plástico, que é o principal recurso no Industrial Foregoing."]
+	quest.0EC2053B191C55C6.quest_desc: ["Extrai Látex de troncos, roda mais rápido quando energizado.\\n\\nVerifique o JEI para troncos aceitáveis e quantidades de Látex. O melhor tronco para usar é Acácia ou Mangue."]
+	quest.0FAAE744E156D8EF.quest_desc: ["O &bReator Micelial&r consiste em todos os Geradores Miceliais trabalhando ao mesmo tempo, perto do bloco do reator, e produz um total de &a25MFE/t&r.\\n\\nTudo parece bom, mas você precisa automatizar algumas coisas para fazê-lo funcionar, veja o que cada Gerador Micelial consome para trabalhar, e automatize, a maioria das coisas é simples, mas outras, nem tanto... &oolhando para o Gerador Micelial de Desencantamento&r.\\n\\nMas depois de ter tudo automatizado, você não precisa parar em um, pode fazer mais reatores."]
+	quest.0FAAE744E156D8EF.quest_subtitle: "Reator Micelial, hã?"
+	quest.15551AC6C68E12E0.quest_desc: ["Basicamente o gerador do &bIndustrial Foregoing&r. Ele usa &aEssência&r junto com um mob em uma Ferramenta de Prisionamento de Mob para gerar uma cópia desse mob.\\n\\nChefes e outros mobs que não podem ser colocados em um gerador* estão na lista negra do Duplicador de Mobs também.\\n\\n*&8Com algumas exceções, segure SHIFT em um Ovo Gerador enquanto as dicas avançadas (F3 + H) estiverem ativadas para ver se você consegue encontrar a tag de Lista Negra do Duplicador de Mobs."]
+	quest.1684D52FDAAC894B.quest_desc: ["Lembra daquele cara que Não-É-Um-Médico-De-Minérios? A Fábrica de Lavagem substitui ele, para lidar com a Carne de Minério Bruto da Fábrica de Lavagem, transformando-a em Carne de Minério Fermentada. Esta máquina tem 4 modos.\\n\\n1. Taxa de processamento de minério 2x, 5 segundos para processar.\\n2. Taxa de processamento de minério 3x, 45 segundos para processar.\\n3. Taxa de processamento de minério 4x, 120 segundos para processar. Usa &#FF69B4Slime Rosa&r como catalisador.\\n4. Taxa de processamento de minério 5x, 300 segundos para processar. Usa &bGás Éter&r como catalisador."]
+	quest.1684D52FDAAC894B.quest_subtitle: "Processamento de Minério: Passo 2"
+	quest.1823CC81D613892B.quest_desc: ["A Fábrica de Abate de Mobs &ldeleta&r mobs em sua área de trabalho, e converte esse mob em &#FF69B4Slime Rosa&r e &6Carne Líquida&r.\\n\\nMobs Passivos -> Mais &#FF69B4Slime Rosa&r\\nMobs Hostis -> Mais &6Carne&r\\n\\nEsta máquina suporta Adicionais de Alcance."]
+	quest.1BA3D15FFE7DBE59.quest_desc: ["No &bIndustrial Foregoing&r, um dos principais recursos é &fLátex.&r É usado para fabricar Estruturas de Máquina, necessárias para fazer máquinas e melhorias.\\n\\nFazer Látex é bem simples, o &aExtrator de Fluido&r extrai Látex de &6Troncos&r (Acácia e Mangue dão mais).\\n\\n------------------------\\n\\nAgora sobre fazer Plástico: Plástico resulta da fundição de Borracha Seca - que é feita na &aUnidade de Processamento de Látex&r, que transforma Látex em Borracha Seca.\\n\\n&bEntão basicamente Látex -> Borracha Seca -> Plástico."]
+	quest.1BA3D15FFE7DBE59.quest_subtitle: ""
 	quest.1BA3D15FFE7DBE59.title: "Látex e Plástico? Hã?"
-	quest.2CCFEE98FE3B2E97.quest_desc: ["Essas máquinas são usadas para automatizar a colocação/quebra de blocos. Isso é especialmente útil ao automatizar o látex."]
+	quest.1F66CDC9799B5DEC.quest_desc: ["Eu me encontrei irritado por não conseguir rotacionar Máquinas do &bIndustrial Foregoing&r com a maioria das Chaves. Para ajudar com isso, compilei uma lista de todas as chaves que consigo encontrar que são capazes de rotacionar máquinas do &bIF&r. Estas foram testadas principalmente na Broca a Laser, então os resultados focarão principalmente nisso. Algumas chaves podem não funcionar com outras máquinas.\\n\\nClique na tarefa nesta missão para ver todas as Chaves válidas para esta missão."]
+	quest.224C07AC71C5F40E.quest_desc: ["Aplica &lFarinha de Osso&r ou &#8B4513Fertilizante&r em plantas na sua área de trabalho. Isso continuará aplicando &#8B4513Fertilizante&r na mesma cultura até que essa cultura não possa mais aceitar &lFarinha de Osso&r antes de passar para a próxima planta. Isso significa que a máquina pode ficar presa em plantas que sempre aceitam &lFarinha de Osso&r, como &eGirassóis&r, ou plantas que nunca atingem seu estado final de crescimento.\\n\\nEsta máquina suporta Adicionais de Alcance."]
+	quest.22702838FC507A2E.quest_desc: ["O Leito Hidropônico usa Energia e &9Água&r para cultivar plantas e mudas plantadas nele. Ele suporta praticamente qualquer cultura que você possa imaginar. Você também pode fornecer &bGás Éter&r para que a máquina colha automaticamente a cultura e coloque os resultados da cultura em seu buffer interno. Isso também pode coletar dados de cultura para um Processador de Simulação Hidropônica, para usar em um Leito Hidropônico Simulado.\\n\\nMudas exigirão espaço para crescer."]
+	quest.2580135392DEF522.quest_desc: ["Já sentiu que o Leito Hidropônico padrão causa muito lag? &mNão consegue encaixar Soul Surges suficientes?&r Ah certo, não temos Soul Surges neste pacote. Permita-me apresentar o Leito Hidropônico Simulado. Isso usará um Processador de Simulação Hidropônica e uma semente/muda para cultivar qualquer cultura de sua escolha...virtualmente. Você nem precisa de &9Água&r e &bGás Éter&r para este. Além disso, Processadores de Simulação Hidropônica melhoram com o tempo conforme cultivam mais plantas, embora a taxa na qual ele escala seja mais lenta em um Leito Hidropônico Simulado.\\n\\nNem se preocupe em tentar maximizar o Processador. Levará um tempo insondavelmente longo. Muito mais longo do que levaria para eu fazer as missões para o Ender IO, com certeza."]
+	quest.2580135392DEF522.quest_subtitle: "HNN mas para plantas?"
+	quest.2580135392DEF522.title: "Leito Hidropônico Simulado"
+	quest.2782EA80C1C74EBD.quest_desc: ["O Triturador de Mobs &ldeleta&r mobs em sua área de trabalho, coletando o saque daquele mob, bem como convertendo a &aExperiência&r que aquele mob obteria em &aEssência&r. Você também pode opcionalmente usar a Experiência que seria obtida para aplicar Saque ao Triturador de Mobs.\\n\\nChefes e outros mobs que não podem ir para geradores estão na \"lista negra\" do Triturador de Mobs. Em vez de serem &ldeletados&r, eles recebem 75 de dano por operação.\\n\\nEsta máquina suporta Adicionais de Alcance."]
+	quest.2782EA80C1C74EBD.quest_subtitle: "Triturador de Portal Sem Fim, também"
+	quest.287B47E27EBC2C18.quest_desc: ["A Fábrica de Encantamento é basicamente uma Mesa de Encantamentos automatizada. Quando fornecida com Equipamento/Livros e &aEssência&r, ela encantará aquele item com algo aleatório. Esta máquina pode usar fluidos de tanques diretamente acima dela, para permitir um potencial aumentado para encantar equipamentos e livros."]
+	quest.28B3591BFC0FA08B.quest_desc: ["O Construtor de Wither, como o nome indica, constrói Withers. É parte da Bússola do Wither para a Estrela ATM.\\n\\n&8Você pode querer revestir o Construtor de Wither em algum vidro à prova de wither, para evitar que Withers o explodam."]
+	quest.2CCFEE98FE3B2E97.quest_desc: ["Estas máquinas são usadas para automatizar a colocação/quebra de blocos. Isso é especialmente útil ao automatizar Látex."]
 	quest.2CCFEE98FE3B2E97.title: "Blocos"
-	quest.2F69010E1FA2787D.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
-	quest.3027584AA6138E6D.title: "Inserção e Extração por Esteira"
+	quest.2DC012EF21FB359E.quest_desc: ["O Extrator de Encantamento pode remover automaticamente encantamentos de equipamentos. Você pode fazer com que vá para um Livro, ou ter o encantamento convertido em &aEssência&r."]
+	quest.2E8E292ED596A104.quest_desc: ["Lentes Laser podem fazer Lasers de Minério focarem mais em uma certa cor de minério. Verifique no JEI para ver qual lente funciona melhor para um certo tipo de minério. Isso também determina qual tipo de fluido pode ser produzido por Lasers de Fluido."]
+	quest.2F69010E1FA2787D.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, você está no modo de edição."]
+	quest.3027584AA6138E6D.title: "Inserção e Extração de Esteira"
+	quest.321FA7348E532F4E.quest_desc: ["Látex é um fluido usado para fazer Borracha Seca, mas também pode ser usado para algumas coisas na Câmara de Dissolução."]
 	quest.321FA7348E532F4E.title: "Látex"
-	quest.33532408B21A5378.quest_desc: ["O Gerador Lastimável gera uma pequena quantidade de FE usando combustíveis queimáveis como Carvão."]
-	quest.339DF320DDCAD98B.title: "Transporte de Itens e Fluidos"
+	quest.33532408B21A5378.quest_desc: ["O Gerador da Piedade gera uma pequena quantidade de FE usando combustíveis inflamáveis como Carvão."]
+	quest.339DF320DDCAD98B.quest_desc: ["Transportadores podem ser usados para transportar Itens e/ou Fluidos entre inventários que estão a 1 bloco de distância. Você precisa de um Transportador no lado da extração e outro no lado da inserção. Para mudar esses modos, clique com o botão direito na área central.\\n\\nVocê pode ter múltiplos tipos de transportadores no mesmo bloco. Você pode melhorá-los com Adicionais. Velocidade para aumentar a velocidade de transferência, Eficiência para aumentar a quantidade de transferência."]
+	quest.339DF320DDCAD98B.title: "Transporte de Item e Fluido"
+	quest.34AA079FFAFC64BD.quest_desc: ["O passo final da linha de processamento de minério do &bIndustrial Foregoing&r, a Máquina de Peneiramento de Fluido. Isso usará areia para filtrar a parte útil da Carne de Minério Fermentada, nos dando algum pó. Faça o que quiser com esse pó. Funda-o, misture-o em uma liga."]
+	quest.34AA079FFAFC64BD.quest_subtitle: "Processamento de Minério: Passo 3"
 	quest.3514E9C1A8C7400C.quest_subtitle: "Nível: &b2"
 	quest.3514E9C1A8C7400C.title: "&bEstrutura de Máquina Simples"
-	quest.3CB7884B7B32CF00.quest_desc: [
-		"Obter seu primeiro &bGás Etéreo&r pode ser um pouco assustador.\\n\\nO &bGás Etéreo&r é feito perfurando um Wither, usando uma Broca de Fluido com uma &5Lente Roxa&r."
-		""
-		"Mas não se preocupe com o Wither, a Industrial Foregoing tem uma máquina só para te ajudar nessa tarefa. A &4Câmara de Estase&r é uma máquina que congela no lugar qualquer coisa que esteja sobre ela em uma área de 3x3, incluindo o Wither."
-		""
-		"&cEspero que você não fique sem energia, porque se ficar... espero que esteja pronto para lutar contra o &0Wither&c."
-	]
-	quest.3CB7884B7B32CF00.quest_subtitle: "Gás Etéreo? O quê?"
-	quest.3E6706BC4C318A40.quest_desc: ["O Esgoto é usado para fazer Esgoto, que é usado para fazer Fertilizante."]
+	quest.3AFDE3396861A944.quest_desc: ["O Aplicador de Encantamento é uma Bigorna automatizada. Ele pode aplicar Livros Encantados ao equipamento automaticamente. Usa &aEssência&r no lugar de &aExperiência&r. Esta máquina pode usar fluidos de tanques diretamente acima dela, para permitir um potencial aumentado para encantar equipamentos."]
+	quest.3CB7884B7B32CF00.quest_desc: ["Conseguir seu primeiro &bGás Éter&r pode ser um pouco assustador.\\n\\n&bGás Éter&r é feito perfurando um Wither, usando uma Broca de Fluido com uma &5Lente Roxa&r.\\n\\nMas não se preocupe com o Wither, Industrial Foregoing tem uma máquina apenas para ajudar você com essa tarefa. A &4Câmara de Estase&r é uma máquina que congela no lugar qualquer coisa que esteja em cima dela em uma área 3x3, incluindo o Wither.\\n\\n&cEspero que você não fique sem energia, porque se ficar... espero que esteja pronto para lutar contra o &0Wither&c. Por causa disso, recomendo usar algum tipo de Vidro À Prova de Wither, como Vidro Tingido do Mob Grinding Utils, ou Vidro Crystalix com Modo Reforçado ativado.&c"]
+	quest.3CB7884B7B32CF00.quest_subtitle: "Gás Éter? Hã?"
+	quest.3E6706BC4C318A40.quest_desc: ["O Esgoto produz &#8B4513Esgoto&r de animais em sua área de trabalho, bem como absorve &aExperiência&r de jogadores para converter em &aEssência&r.\\n\\nO Compostador de Esgoto pode transformar &#8B4513Esgoto&r em &#8B4513Fertilizante&r.\\n\\nO Esgoto suporta Adicionais de Alcance."]
+	quest.3E6706BC4C318A40.quest_subtitle: "Fresco do Campo de Estrume, sua assombração"
 	quest.3E6706BC4C318A40.title: "Esgoto"
-	quest.418E57E34FFC19E1.quest_desc: ["Sugestão: Use algum tipo de Vidro à Prova de Wither."]
-	quest.418E57E34FFC19E1.quest_subtitle: "Minerador do Vácuo"
+	quest.408203C29BAABA44.quest_desc: ["Usado apenas para uma coisa."]
+	quest.418E57E34FFC19E1.quest_desc: ["A Base de Laser de Minério é o Minerador do Vazio do &bIndustrial Foregoing&r, sendo capaz de conjurar minérios do nada. Lentes permitem que você favoreça uma cor específica de minério, como Azul para Lápis.\\n\\nA Base de Laser de Fluido produz Fluidos a partir do nada ou de mobs específicos. Estes requerem que você use Lentes específicas. Mobs que são usados para produzir Fluidos sofrerão dano, então usar uma Câmara de Estase para isso é recomendado.\\n\\nBrocas a Laser fornecem progresso para a Base de Laser em sua área de trabalho."]
+	quest.418E57E34FFC19E1.quest_subtitle: "Minerador do Vazio"
 	quest.418E57E34FFC19E1.title: "Broca a Laser"
+	quest.41E8550FC36ABCA5.quest_desc: ["Ferramentas do Infinito, chamadas assim por causa de sua habilidade de serem carregadas quase infinitamente. Aumentar o nível da ferramenta pode dar à dita ferramenta vantagens especiais. Ter &5Biocombustível&r nelas as tornará mais eficientes, consumindo o combustível em vez de energia quando usadas.\\n\\nExistem 7 níveis:\\nPobre\\nComum\\nIncomum\\nRaro\\nÉpico\\nLendário\\nArtefato\\n\\nPara saber mais sobre cada Ferramenta do Infinito, confira o Manual do Industrial Foregoing (para que eu não tenha que cobrir tantas ferramentas do infinito em uma missão)!"]
 	quest.41E8550FC36ABCA5.title: "Ferramentas do Infinito"
 	quest.427C3AFC0FF131CD.title: "Fluidos"
+	quest.483E93500E645835.quest_desc: ["É pelo menos mais versátil que a barra."]
+	quest.485AFAE5BBEF2FC7.quest_desc: ["O Pecuarista tosquia &zOvelhas&r e ordenha &8V&ra&8c&ras.\\n\\nO Alimentador de Animais alimenta animais para que possam cruzar.\\n\\nO Separador de Bebês Animais teletransporta bebês para trás dele.\\n\\nTodas essas máquinas suportam Adicionais de Alcance."]
 	quest.485AFAE5BBEF2FC7.title: "Animais"
-	quest.4C366515E3CCB0B2.quest_desc: ["Carne por um tubo, que delícia."]
-	quest.4DB5DD6E20619B4D.quest_desc: ["Usado para melhorar as máquinas."]
-	quest.540B857F043C24D5.quest_desc: ["O Biorreator usa Biocombustível feito do Gerador de Biocombustível para gerar FE."]
-	quest.540B857F043C24D5.title: "Bioenergia"
-	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF para abreviar) é um mod de tecnologia que adiciona muitas máquinas com vários usos diferentes.\\n\\nPara começar, crie uma &aEstrutura de Máquina Simples&r."]
-	quest.55820773BDD5319D.quest_subtitle: "Tier: &a1"
+	quest.4A8C60412E59E971.quest_desc: ["Esta máquina pode separar itens encantados e itens não encantados. Os itens encantados acabam no inventário superior, enquanto os itens não encantados acabam no inventário inferior."]
+	quest.4C366515E3CCB0B2.quest_desc: ["Carne através de um tubo, delicioso."]
+	quest.4DB5DD6E20619B4D.quest_desc: ["Usado para tornar as máquinas melhores. Existem 8 níveis de adicionais, e mais 4 especificamente para Alcance."]
+	quest.4F3EF1574F31A7E2.quest_desc: ["A Câmara de Estase pode manter mobs parados em sua área de trabalho. Os mobs mantidos sob estase também são curados pela Câmara. Precisa de mais cura? Obtenha alguns adicionais!"]
+	quest.538186D01429F05F.quest_desc: [
+		"Nesta missão, focaremos em usar AE2 para automatizar o &cFabricador de Poções&r. Primeiro, construa uma configuração assim:"
+		"{image:atm:textures/questpics/industrialforegoing/potionbrewerdemonstration.png width:175 height:200 align:center}"
+		"(A Célula de Energia Criativa serve como um espaço reservado para sua rede principal)"
+		"{@pagebreak}"
+		"Precisaremos de um &9Ponto de Exportação&r ou uma &9Interface&r para encher o &cFabricador de Poções&r com &1Água&r e &6Pó de Blaze&r. O &6Pó de Blaze&r será usado como combustível. Não forneça garrafas ainda, pois elas encherão sua rede com Garrafas de Água."
+		"{@pagebreak}"
+		"O próximo passo será obter um"
+		"&5Provedor de Padrão Avançado&r. Verifique o capítulo AE Estendido e Avançado para saber mais sobre como usá-lo. Em seguida, precisaremos codificar um padrão. Um exemplo será preparar uma &4Poção de Cura&r, focada em Guloseimas Reais para Abelhas Modulares. Codifique o padrão assim: 3 Garrafas de Vidro, 1 Fungo do Nether, 1 Fatia de Melancia Reluzente, para produzir 3 &4Poções de Cura&r. Usaremos ambas as habilidades especiais do &5Provedor Avançado&r aqui. A primeira é sua habilidade de enviar itens para um lado específico. Usaremos isso para enviar Garrafas de Vidro para o lado de CIMA da máquina. Use o &5Codificador de Padrão Avançado&r para codificar o padrão, assim:"
+		"{image:atm:textures/questpics/industrialforegoing/advanced_pattern.png width:200 height:100 align:center}"
+		"{@pagebreak}"
+		"Em seguida, precisamos habilitar a Importação Filtrada no &5Provedor Avançado&r. Isso fará com que o &5Provedor Avançado&r aceite apenas itens que correspondam a trabalhos de criação atualmente ativos. Isso significa que ele não aceitará poções prematuramente. Você também pode adicionar Adicionais de Processamento para ajudar com isso, especialmente com trabalhos de criação grandes o suficiente que podem usar o mesmo provedor.\\n\\nPor último, você terá que configurar os lados do Fabricador de Poções assim:"
+		"{image:atm:textures/questpics/industrialforegoing/blaze_input.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/industrialforegoing/bottle_input.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/industrialforegoing/brewing_input.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/industrialforegoing/output.png width:125 height:100 align:center}"
+		"Se você estiver usando o método da &9Interface&r, configure os lados assim:"
+		"{image:atm:textures/questpics/industrialforegoing/blaze_input_for_interface.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/industrialforegoing/water_for_interface.png width:125 height:100 align:center}"
+		"{@pagebreak}"
+		"Opcionalmente, você pode colocar um Rótulo de Transferência entre o &5Provedor Avançado&r e o &cFabricador&r.\\n\\nSe você ainda estiver confuso com essa configuração, ou preferir assistir a um vídeo, confira o vídeo que linkei aqui, do ChosenArchitect:"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/DOW4xkxqp6g?si=paZ2xFKyycPumqaS&t=427\"},\"color\":\"blue\",\"text\":\"LINK DO VÍDEO AQUI\",\"underlined\":true} "
+	]
+	quest.538186D01429F05F.quest_subtitle: "Usando AE2"
+	quest.538186D01429F05F.title: "Automatizando o Fabricador de Poções"
+	quest.540B857F043C24D5.quest_desc: ["O Biorreator produz &5Biocombustível&r com &9Água&r e um monte de materiais diferentes (verifique o JEI para todas as Entradas do Biorreator válidas). Quanto mais tipos de materiais você fornecer, mais eficiente o Biorreator é na produção de &5Biocombustível&r.\\n\\nO Gerador de Biocombustível usa &5Biocombustível&r feito do &5Biorreator&r para gerar FE."]
+	quest.540B857F043C24D5.title: "Biopotência"
+	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF abreviado) é um mod técnico que adiciona muitas máquinas com vários usos diferentes.\\n\\nPara começar, crie uma &aEstrutura de Máquina da Piedade&r."]
+	quest.55820773BDD5319D.quest_subtitle: "Nível: &a1"
 	quest.55820773BDD5319D.title: "Industrial Foregoing"
-	quest.57C4A0BAE739E903.quest_desc: ["A Câmara de Dissolução é usada para fabricar máquinas mais avançadas.\\n\\nVocê precisará colocar um certo fluido nela junto com os itens necessários para o que você está fabricando. Verifique no JEI."]
+	quest.57C4A0BAE739E903.quest_desc: ["A Câmara de Dissolução é usada para fabricar máquinas mais avançadas.\\n\\nVocê precisará colocar um certo fluido nela junto com os itens necessários para o que você está fabricando. Verifique o JEI."]
 	quest.57C4A0BAE739E903.quest_subtitle: "A Bancada de Trabalho?"
-	quest.5FE631066CAB7397.quest_desc: ["Usado para capturar e transportar criaturas facilmente."]
-	quest.690CFF61CE787D43.quest_desc: ["Plástico é o principal recurso do &bIndustrial Foregoing&r, agora você tem acesso a algumas máquinas muito úteis!"]
+	quest.5FE631066CAB7397.quest_desc: ["Usado para prender e transportar mobs facilmente."]
+	quest.605A5AC65BC7E864.quest_desc: ["O Pescador Marinho pode pescar automaticamente. Pode pegar peixes, tesouros, livros encantados e algumas outras coisas. Não pode pegar abelhas, no entanto, você terá que pescar manualmente para isso.\\n\\nDeve ser colocado acima de uma piscina de &9Água&r 3x3 (ou maior)."]
+	quest.616CFD4078D67B51.quest_desc: ["Transportadores são outra maneira de transportar coisas. Eles funcionam com itens, entidades e até fluidos. Eles podem interagir com o mundo com Melhorias de Esteira.\\n\\nVocê pode melhorar os transportadores com Pedra Luminosa para torná-los mais rápidos, e com Plástico para impedi-los de pegar itens. "]
+	quest.65C147F5282E8FCD.quest_desc: ["O Carregador do Infinito é sua melhor opção para carregar Ferramentas do Infinito. Ele contém &lmuita&r FE, perfeito para as Ferramentas do Infinito.\\n\\nEle pode carregar outras coisas, também."]
+	quest.690CFF61CE787D43.quest_desc: ["Plástico é o principal recurso do &bIndustrial Foregoing&r, você agora tem acesso a algumas máquinas muito úteis!"]
+	quest.6C001E18093FC037.quest_desc: ["O Coletor de Plantas colhe plantas em sua área de trabalho. Plantas colhidas podem dar &#5919B6Lodo&r, que pode ser usado em um Refinador de Lodo. Quando fornecido com &bGás Éter&r, o Coletor de Plantas replantará automaticamente as culturas.\\n\\nO Semeador de Plantas planta automaticamente culturas e mudas. Ele tem 9 slots de inventário codificados por cores, que correspondem às marcações coloridas no topo do Semeador de Plantas. A área de trabalho da máquina é dividida em 9 segmentos, que correspondem aos vários slots de inventário.\\n\\nAmbas as máquinas suportam Adicionais de Alcance."]
 	quest.6C001E18093FC037.title: "Plantas"
-	quest.6FF04DD735346BED.quest_desc: ["Transforma Látex em Borracha Seca."]
+	quest.6E131A32A96D7BF5.quest_desc: ["O Refinador de Lodo pode usar &#5919B6Lodo&r para produzir coisas como Terra, Cascalho, Areia das Almas... o que for... verifique o JEI para o resto."]
+	quest.6FF04DD735346BED.quest_desc: ["Transforma Látex em Borracha Seca. Usa 750 mB de Látex e 500 mB de &9Água&r para produzir 1 Borracha Seca."]
 	quest.7B4AF35313D7D779.quest_subtitle: "Nível: &64"
 	quest.7B4AF35313D7D779.title: "&6Estrutura de Máquina Suprema"
-	quest.7E39FB9F3E973009.title: "Gás de Éter"
+	quest.7CB4D47ABC295B92.quest_desc: ["Ele prepara poções. Muito parecido com um Suporte de Poções padrão, requer Pó de Blaze como combustível, e usa garrafas. Ao contrário de um Suporte de Poções, no entanto, ele pode preencher automaticamente essas garrafas com água.\\n\\nAo contrário de outras missões onde dou uma breve visão geral da máquina, fornecerei uma configuração em outra missão para automatizar esta máquina, pois é bastante desajeitada e não intuitiva em algumas áreas."]
+	quest.7E39FB9F3E973009.quest_subtitle: "Não, não é um Químico do Mekanism, é Leite de Wither"
+	quest.7E39FB9F3E973009.title: "Gás Éter"
 	task.1F1A69738DE70DB6.title: "O Reator Micelial"
-	task.335D80E83360A7DB.title: "Entendendo o Gás de Éter"
+	task.335D80E83360A7DB.title: "Entendendo o Gás Éter"
 	task.38E166AC8F55D42E.title: "Melhorias"
 	task.391AB5CA0E5C35FD.title: "Entendendo Látex e Plástico"
+	task.4031B8B8FBDDEEE4.title: "Rótulos de Transferência"
+	task.5BCE4EFD40BF767D.title: "Chaves que funcionam com Máquinas do IF"
 	task.6B17A0D9906E8C90.title: "TodosOsDireitosReservados"
+	task.6D00B76B8A141BB8.title: "Qualquer #advanced_ae:adv_pattern_provider"
 	task.7058D3373DA87B34.title: "TodosOsDireitosReservados"
+	task.7FBDB1383D052B82.title: "Ponto de Exportação ME OU Interface ME"
 }

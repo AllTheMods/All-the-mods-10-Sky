@@ -85,7 +85,6 @@
 	]
 	quest.2893F483C10293E6.quest_subtitle: "Sistema de Armazenamento Virtual"
 	quest.2893F483C10293E6.title: "Applied Energistics 2"
-	quest.2897FA291E5A38D8.quest_desc: ["A &bÂncora Espacial&f é um dispositivo companheiro da linhagem de E/S Espacial que funciona simplesmente como um carregador de chunks. Quando conectada a uma rede ME, a Âncora forçará o carregamento de todos os chunks ocupados pela rede ME através de todos os cabos e dispositivos, excluindo sub-redes, contanto que a rede permaneça energizada."]
 	quest.2B31E6C1707D8195.quest_desc: ["O próximo passo para permitir o acesso sem fio à rede é o &bPonto de Acesso Sem Fio ME&f. O Ponto de Acesso é usado para abrir a rede para acesso sem fio através de um &eterminal sem fio&f, e tem um alcance definido (finito) dependendo de quantos &bAmplificadores Sem Fio&f são inseridos no ponto de acesso."]
 	quest.2C04B3BA507D5673.quest_desc: ["&bModelos&f são o que contém uma receita codificada a ser executada por um Fornecedor de Modelos. Para codificar uma receita em um Modelo, o &bTerminal de Codificação de Modelos ME&f deve ser usado.\\n\\nOs Modelos podem ser configurados para conter uma receita de &ecriação&f regular, que exigirá o uso de um &eMontador Molecular&f na face de seu Fornecedor, ou uma receita mais geral de '&eprocessamento&f', onde quaisquer itens de entrada podem ser enviados pelo fornecedor para algum outro bloco de máquina ou planta de processamento especializada."]
 	quest.2C04B3BA507D5673.title: "Modelos"

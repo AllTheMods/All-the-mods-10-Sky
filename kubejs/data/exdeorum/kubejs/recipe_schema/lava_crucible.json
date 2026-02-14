@@ -2,7 +2,7 @@
   "keys": [
     {
       "name": "ingredient",
-      "type": "non_empty_ingredient",
+      "type": "ingredient",
       "role": "input"
     },
     {
@@ -10,5 +10,6 @@
       "role": "output",
       "type": "fluid_stack"
     }
-  ]
+  ],
+  "unique": ["fluid"]
 }

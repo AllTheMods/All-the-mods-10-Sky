@@ -152,8 +152,16 @@
 			x: -0.5d
 			y: 9.0d
 		}
+		{
+			height: 0.3d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: -6.964285714285715d
+			y: 5.375d
+		}
 	]
-	order_index: 5
+	order_index: 8
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -801,7 +809,7 @@
 			tasks: [{
 				count: 8L
 				id: "1364DC251AC7325A"
-				item: { count: 8, id: "ironfurnaces:rainbow_plating" }
+				item: { count: 1, id: "ironfurnaces:rainbow_plating" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -958,7 +966,6 @@
 		{
 			dependencies: ["79C4CF8D7312FC28"]
 			id: "3A4C17878FC8315B"
-			optional: true
 			rewards: [
 				{
 					id: "267CF2D64101DD03"
@@ -989,7 +996,6 @@
 		{
 			dependencies: ["3A4C17878FC8315B"]
 			id: "2E85D6E2CFCC356E"
-			optional: true
 			rewards: [
 				{
 					id: "66D125B9640849E3"
@@ -1020,7 +1026,6 @@
 		{
 			dependencies: ["2E85D6E2CFCC356E"]
 			id: "25080E3295B1DF01"
-			optional: true
 			rewards: [
 				{
 					id: "54105E0656B25E8A"

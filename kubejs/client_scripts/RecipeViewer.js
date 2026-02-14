@@ -17,6 +17,7 @@ RecipeViewerEvents.removeEntries("item", (allthemods) => {
 // Handles the removals based in server-scripts/removals
 RecipeViewerEvents.removeEntriesCompletely("item", (allthemods) => {
   allthemods.remove("#kubejs:olyremovedit")
+  allthemods.remove("supplementaries:faucet")
 })
 
 RecipeViewerEvents.removeEntries("item", (allthemods) => {

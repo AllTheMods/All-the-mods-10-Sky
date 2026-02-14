@@ -7,13 +7,17 @@
     },
     {
       "name": "result_amount",
-      "type": "codec<net.minecraft.world.level.storage.loot.providers.number.NumberProviders>",
+      "type": {
+        "type": "kubejstweaks:codec",
+        "class": "net.minecraft.world.level.storage.loot.providers.number.NumberProviders"
+      },
       "role": "other"
     },
     {
       "name": "ingredient",
-      "type": "non_empty_ingredient",
+      "type": "ingredient",
       "role": "input"
     }
-  ]
+  ],
+  "unique": ["result"]
 }

@@ -3,12 +3,20 @@
     {
       "name": "result",
       "role": "output",
-      "type": "codec<de.ellpeck.actuallyadditions.mod.crafting.CrushingRecipe$Serializer#RESULT_CODEC>[]"
+      "type": {
+        "type": "list",
+        "component": {
+          "type": "kubejstweaks:codec",
+          "class": "de.ellpeck.actuallyadditions.mod.crafting.CrushingRecipe$Serializer",
+          "field": "RESULT_CODEC"
+        }
+      }
     },
     {
       "name": "ingredient",
       "role": "input",
-      "type": "non_empty_ingredient"
+      "type": "ingredient"
     }
-  ]
+  ],
+  "unique": ["result"]
 }

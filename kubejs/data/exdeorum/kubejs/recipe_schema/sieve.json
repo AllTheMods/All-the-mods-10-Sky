@@ -7,17 +7,20 @@
     },
     {
       "name": "ingredient",
-      "type": "non_empty_ingredient",
+      "type": "ingredient",
       "role": "input"
     },
     {
       "name": "mesh",
-      "type": "non_empty_ingredient",
+      "type": "ingredient",
       "role": "input"
     },
     {
       "name": "result_amount",
-      "type": "codec<net.minecraft.world.level.storage.loot.providers.number.NumberProviders>",
+      "type": {
+        "type": "kubejstweaks:codec",
+        "class": "net.minecraft.world.level.storage.loot.providers.number.NumberProviders"
+      },
       "role": "other"
     },
     {
@@ -26,5 +29,6 @@
       "role": "other",
       "optional": false
     }
-  ]
+  ],
+  "unique": ["result"]
 }

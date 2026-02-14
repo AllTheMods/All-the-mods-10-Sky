@@ -1,0 +1,10 @@
+{
+  "item.occultism.ritual_dummy.sm/ritual/honeycomb": "Ritual: Fabricar Favo de Mel",
+  "ritual.allthemods.ritual/honeycomb.started": "Iniciando o ritual: Fabricar Favo de Mel",
+  "ritual.allthemods.ritual/honeycomb.finished": "Ritual concluído com sucesso: Fabricar Favo de Mel",
+  "ritual.allthemods.ritual/honeycomb.interrupted": "Interrupção no ritual: Fabricar Favo de Mel",
+  "item.occultism.ritual_dummy.sm/ritual/misc_demonic_sapling": "Ritual: Forjar Muda Demoníaca",
+  "ritual.allthemods.ritual/misc_demonic_sapling.started": "Iniciando o ritual: Forjar Muda Demoníaca",
+  "ritual.allthemods.ritual/misc_demonic_sapling.finished": "Ritual concluído com sucesso: Forjar Muda Demoníaca",
+  "ritual.allthemods.ritual/misc_demonic_sapling.interrupted": "Interrupção no ritual: Forjar Muda Demoníaca"
+}

@@ -96,12 +96,6 @@ ServerEvents.recipes((allthemods) => {
   allthemods.remove({ id: "minecraft:book" })
   allthemods.shapeless(Item.of("minecraft:book"), ["3x #c:paper", "#c:leathers"]).id("minecraft:book")
 
-  allthemods.remove({ id: "enderio:wood_gear" })
-  allthemods.shaped(Item.of("enderio:wood_gear"), [" S ", "SNS", " S "], {
-    S: "#c:rods/wooden",
-    N: "#c:nuggets/iron"
-  })
-
   allthemods.remove({ id: "handcrafted:wood_plate" })
   allthemods.shaped(Item.of("handcrafted:wood_plate"), ["SSS", " S "], {
     S: "#minecraft:wooden_slabs"
@@ -203,6 +197,11 @@ ServerEvents.recipes((allthemods) => {
   //Charcoal and Coal
   allthemods.remove({ id: "minecraft:coal_block" })
   allthemods
+    .shaped("minecraft:coal_block", ["AAA", "AAA", "AAA"], {
+      A: "minecraft:coal"
+    })
+    .id("minecraft:coal_block")
+  allthemods
     .shaped("minecraft:coal_block", ["AAA", "ABA", "AAA"], {
       A: "#minecraft:coals",
       B: "minecraft:coal"
@@ -283,6 +282,13 @@ ServerEvents.recipes((allthemods) => {
       }
     })
     .id("sgearmetalworks:casting/uru/bee_spawn_egg_from_bee")
+  // Example Firework Star recipe to help people in JEI (as it's not shown there)
+  allthemods
+    .shapeless(Item.of('minecraft:firework_star[firework_explosion={colors:[I;15790320],shape:"small_ball"}]'), [
+      "minecraft:gunpowder",
+      "minecraft:white_dye"
+    ])
+    .id("allthemods:example_firework_star")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
