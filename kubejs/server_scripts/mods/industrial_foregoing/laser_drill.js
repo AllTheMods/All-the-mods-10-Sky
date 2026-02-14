@@ -105,7 +105,7 @@ ServerEvents.recipes((allthemods) => {
   }
 
   laserDrillOre({ tag: "c:gems/benitoite", count: 8 }, "industrialforegoing:blue_laser_lens", 5, 256, 5)
-  laserDrillOre({ tag: "c:gems/anglesite", count: 8}, "industrialforegoing:yellow_laser_lens", 5, 256, 5)
+  laserDrillOre({ tag: "c:gems/anglesite", count: 8 }, "industrialforegoing:yellow_laser_lens", 5, 256, 5)
   laserDrillOre({ tag: "c:raw_materials/zinc", count: 1 }, "industrialforegoing:white_laser_lens", 15, 256, 8)
 
   laserDrillFluidWithEntity(
