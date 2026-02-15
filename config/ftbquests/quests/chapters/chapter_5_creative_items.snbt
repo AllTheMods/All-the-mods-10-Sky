@@ -1,0 +1,168 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fchapter_5_creative_items"
+	group: "029264819125415F"
+	id: "571D32BADC77CDD0"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "26B0D931730C13C2"
+			shape: "square"
+			size: 3.0d
+			tasks: [{
+				id: "58A61C60F0C89EB3"
+				item: { count: 1, id: "allthetweaks:atm_star" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "77E461E7705E4346"
+			shape: "square"
+			tasks: [{
+				id: "50C50EFC43257C05"
+				item: { count: 1, id: "allthetweaks:atm_star_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["77E461E7705E4346"]
+			id: "74B8E2EA0BB98B5F"
+			shape: "hexagon"
+			tasks: [{
+				id: "6F11272FDEB1E4D0"
+				item: { components: { "productivebees:bee_type": "productivebees:starry" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "3D4647F929C44E7E"
+			tasks: [{
+				id: "3949CED74DAF0F4C"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:creative", "minecraft:rarity": "epic" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "315F60A6F85B20C6"
+			tasks: [{
+				id: "5796ACEBA05438A0"
+				item: { count: 1, id: "allthearcanistgear:creative_spell_book" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "541FAAC70253D519"
+			tasks: [{
+				id: "140247A6B0F53169"
+				item: { count: 1, id: "ars_nouveau:creative_source_jar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "228C76CF7F9A93D4"
+			tasks: [{
+				id: "6640B47DE8F58AC7"
+				item: { components: { "mekanism:energy": { energy_containers: [L;9223372036854775807L] }, "mekanism:side_config": { config: { energy: { eject: 1b, side: { back: "output", bottom: "output", front: "output", left: "output", right: "output", top: "output" } }, items: { side: { back: "input", bottom: "input", front: "output", left: "input", right: "input", top: "input" } } } } }, count: 1, id: "mekanism:creative_energy_cube" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "0182DB056788C7E0"
+			tasks: [{
+				id: "03BDFD62FE8E6A9F"
+				item: { count: 1, id: "integrateddynamics:energy_battery_creative" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "11FA3BBFD7C3B863"
+			tasks: [{
+				id: "54E8A6F98094094D"
+				item: { count: 1, id: "powah:energy_cell_creative" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "78BCB80016523F07"
+			tasks: [{
+				id: "3DBB9CC4BA12A3FE"
+				item: { count: 1, id: "ae2:creative_energy_cell" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "36D883173C03A2DD"
+			tasks: [{
+				id: "1BAF9044E1DFA5D5"
+				item: { count: 1, id: "draconicevolution:creative_op_capacitor" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "6A35F95162DEB319"
+			tasks: [{
+				id: "42E61DDA2FEF8859"
+				item: { components: { "draconicevolution:config_properties": [ [ { "": "BOOLEAN" }, { default_value: 0b, formatter: "true_false", name: "charge_held_item", show_on_hud: 1b, value: 0b } ], [ { "": "BOOLEAN" }, { default_value: 0b, formatter: "true_false", name: "charge_armor", show_on_hud: 1b, value: 0b } ], [ { "": "BOOLEAN" }, { default_value: 0b, formatter: "true_false", name: "charge_hot_bar", show_on_hud: 1b, value: 0b } ], [ { "": "BOOLEAN" }, { default_value: 0b, formatter: "true_false", name: "charge_main", show_on_hud: 1b, value: 0b } ], [ { "": "BOOLEAN" }, { default_value: 0b, formatter: "true_false", name: "charge_curios", show_on_hud: 1b, value: 0b } ] ], "draconicevolution:module_entities": [ ], "draconicevolution:provider_identity": [I; 1804703390, -1438496647, -2005042647, 227436249 ] }, count: 1, id: "draconicevolution:creative_capacitor" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "26DF04FB3185ACDB"
+			tasks: [{
+				id: "716E8DD4C5BAF083"
+				item: { count: 1, id: "pneumaticcraft:creative_compressor" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["26B0D931730C13C2"]
+			id: "69416C5D8EAD2C82"
+			tasks: [{
+				id: "785901DAAD2A7BC7"
+				item: { count: 1, id: "pneumaticcraft:creative_compressed_iron_block" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+	]
+}
