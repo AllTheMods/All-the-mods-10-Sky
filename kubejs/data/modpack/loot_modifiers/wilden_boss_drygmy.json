@@ -2,11 +2,8 @@
   "type": "productivelib:ingredient_modifier",
   "conditions": [
     {
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "type": "ars_nouveau:entities/wilden_boss"
-      }
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "ars_nouveau:entities/wilden_boss"
     },
     {
       "condition": "productivelib:killed_by_uuid",
