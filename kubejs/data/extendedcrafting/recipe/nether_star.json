@@ -1,0 +1,27 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": ["CBGBC", "BNNNB", "GSSSG", "BRSRB", "CBGBC"],
+  "key": {
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "R": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_star"
+  }
+}
