@@ -1,12 +1,6 @@
 {
   "type": "extendedcrafting:shaped_table",
-  "pattern": [
-    "CBGBC",
-    "BNNNB",
-    "GSSSG",
-    "BRSRB",
-    "CBGBC"
-  ],
+  "pattern": ["CBGBC", "BNNNB", "GSSSG", "BRSRB", "CBGBC"],
   "key": {
     "C": {
       "item": "minecraft:crying_obsidian"
