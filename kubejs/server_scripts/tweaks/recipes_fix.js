@@ -108,5 +108,10 @@ KubeJSTweaks.beforeRecipes((event) => {
     entry.addConditionsFromKey("ingredients")
   })
 
+  event.getEntry("botanypots:allthemodium/crop/ancient_soulberries")
+    .forEach(entry => {
+      entry.addConditionsFromKey("input")
+    })
+
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
