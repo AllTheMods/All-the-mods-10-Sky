@@ -12,8 +12,7 @@ ServerEvents.recipes((allthemods) => {
       right: {
         Name: right
       },
-      speed: speed || 1,
-      consumeRight: true
+      speed: speed || 1
     }
 
     if (below) {
