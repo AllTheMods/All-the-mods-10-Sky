@@ -233,20 +233,20 @@ ServerEvents.recipes((allthemods) => {
   }
 
   const crushedSets = {
-    "exdeorum:crushed_blackstone": ["blackstone"],
-    "exdeorum:crushed_deepslate": ["deepslate", "cobbled_deepslate"],
-    "exdeorum:crushed_netherrack": ["netherrack"],
-    "exdeorum:dust": ["sand", "red_sand"],
-    "exdeorum:crushed_end_stone": ["end_stone"],
-    "minecraft:red_sand": ["crushed_netherrack"]
+    crushed_blackstone: ["blackstone"],
+    crushed_deepslate: ["deepslate", "cobbled_deepslate"],
+    crushed_netherrack: ["netherrack"],
+    dust: ["sand", "red_sand"],
+    crushed_end_stone: ["end_stone"],
+    red_sand: ["crushed_netherrack"]
   }
 
-  for (let i = 1; i < 4; i++) {
+  for (let i = 1; i < 10; i++) {
     for (const [output, inputs] of Object.entries(crushedSets)) {
       for (const input of inputs) {
         allthemods.recipes.exdeorum.compressed_hammer(
-          Item.of(output),
-          Math.pow(9, i),
+          Item.of(`allthecompressed:${output}_${i}x`),
+          1,
           Ingredient.of(`allthecompressed:${input}_${i}x`)
         )
       }
