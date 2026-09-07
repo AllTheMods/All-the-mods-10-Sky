@@ -510,7 +510,7 @@
 			id: "45161821C221EF0B"
 			rewards: [
 				{
-					count: 4
+					count: 5
 					id: "5EA31425E6857271"
 					item: {
 						count: 1
@@ -608,7 +608,7 @@
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
-				count: 12L
+				count: 13L
 				id: "603467A3762BE456"
 				item: { count: 1, id: "apothic_enchanting:glowing_hellshelf" }
 				type: "item"

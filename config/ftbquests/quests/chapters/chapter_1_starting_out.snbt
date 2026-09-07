@@ -806,6 +806,9 @@
 		}
 		{
 			dependencies: ["0E7F7CF44A982EA3"]
+			icon: {
+				id: "exdeorum:porcelain_bucket"
+			}
 			id: "469E414BC7F0C238"
 			rewards: [{
 				id: "06AA91E7034F10F0"
@@ -819,7 +822,7 @@
 			size: 1.2d
 			tasks: [{
 				id: "16149AC27DE92A7D"
-				item: { count: 1, id: "exdeorum:porcelain_bucket" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:bucket)item(exdeorum:porcelain_bucket))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 20.0d
@@ -850,7 +853,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "518973EFC99E5792"
-				item: { count: 1, id: "exdeorum:porcelain_lava_bucket" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:buckets/lava)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 20.5d
@@ -918,7 +921,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "28031B3BDDEB312A"
-				item: { count: 1, id: "exdeorum:porcelain_witch_water_bucket" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(exdeorum:witch_water_bucket)item(exdeorum:porcelain_witch_water_bucket))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 22.0d
@@ -1137,7 +1140,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "6249DAB966E77A4C"
-				item: { count: 1, id: "exdeorum:porcelain_water_bucket" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:buckets/water)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 19.5d

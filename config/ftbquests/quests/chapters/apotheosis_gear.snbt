@@ -4,11 +4,7 @@
 	filename: "apotheosis_gear"
 	group: "759EEB9DC52686ED"
 	icon: {
-		components: {
-			"apotheosis:gem": "apotheosis:core/solar"
-			"apotheosis:purity": "perfect"
-		}
-		id: "apotheosis:gem"
+		id: "apotheosis:godforged_pearl"
 	}
 	id: "0731FA8830F28280"
 	images: [

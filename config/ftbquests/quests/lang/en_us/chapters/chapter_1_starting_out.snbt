@@ -53,7 +53,7 @@
 	quest.23E71537225B8392.title: "Infesting our &2Trees"
 	quest.25B49E9D15BAEF3E.quest_desc: ["&9Water&r can come from a few different ways. \\n\\n&9Rain&r, &6&lBarrel&r Composting, &bIce&r! \\n\\nHowever you do it, instantly make an &9Infinite Water Source&r by placing 2 &9Water Sources&r diagonal from each other in a 2x2 area. \\n\\nNow we won't have to worry about getting &9Water&r anymore!"]
 	quest.25B49E9D15BAEF3E.title: "&9Water"
-	quest.29F82373417B2006.quest_desc: ["Ran out of saplings? You can get some emergency saplings at the top right of the quest menu! It's repeatable too: no need to restart your world if something bad happens!\","]
+	quest.29F82373417B2006.quest_desc: ["Ran out of saplings? You can get some emergency saplings at the top right of the quest menu! It's repeatable too: no need to restart your world if something bad happens!"]
 	quest.29F82373417B2006.title: "Emergency Saplings"
 	quest.2A3BF8D20EEED292.quest_desc: [
 		"The &6&l(Oak) Barrel&r is a whole lot different from &2&lMinecraft&r Barrels. \\n\\nInfact we'll need it for lots of different Items and Blocks! \\n\\nWe can use it to Mix Items with Liquids by placing a Liquid inside and Dropping an Item into it. \\n\\nOr even Liquid Mixing by placing both of them into the &6&lBarrel&r. \\n\\nBy the way, for Mixing with &cLava&r you should use a &7&lStone Barrel&r. &6Wood&r ones will Burn! \\n\\nIf there is &9Rain&r, it will fill up with &9Water&r."
@@ -78,7 +78,7 @@
 	quest.3C5AAFC9672F2CF7.title: "&2Grass Seeds"
 	quest.441200BE0C75C2AD.quest_desc: ["Meshes can be upgraded! And will need to be upgraded in order to get new Items! \\n\\nYou can check JEI for all Items but basically the better the Mesh, the better Item Drops. \\n\\nItem Drops and Drop Rate both change with the Mesh."]
 	quest.441200BE0C75C2AD.title: "Upgraded Meshes"
-	quest.469E414BC7F0C238.quest_desc: ["&3Porcelain Buckets&r work like &7Iron Buckets&r. \\n\\nJust cheaper, easier to get early game, and break after placing &cLava&r! \\n\\nWait what? \\n\\nYeah, they aren't good with the heat and after you place the &cLava&r the &3Bucket&r wil break. \\n\\n&9Water&r is fine though!"]
+	quest.469E414BC7F0C238.quest_desc: ["&3Porcelain Buckets&r work like &7Iron Buckets&r. \\n\\nJust cheaper, easier to get early game, and break after placing &cLava&r! \\n\\nWait what? \\n\\nYeah, they aren't good with the heat and after you place the &cLava&r the &3Bucket&r wil break. \\n\\n&9Water&r is fine though!\\n\\nYou can still use &7Iron Buckets&r to complete this quest, if you wish."]
 	quest.469E414BC7F0C238.title: "&3Porcelain Bucket"
 	quest.488C8BDF45B9CA0F.quest_desc: [
 		"&aGateways&r are easy ways to get &aPassive Mobs&r and Loot Rewards! \\n\\nOkay, maybe not easy. You'll need to Fight off Waves of &cMonsters&r. Plus you'll need an &aEye of Ender&r to make it. \\n\\nBut it is worth it! \\n\\nDifferent &aGates&r give different Rewards and &cMonsters&r. This one will give 6 of each Farm Animal."
@@ -111,7 +111,7 @@
 	quest.647E94E2156CB596.title: "&7&lStone Generator"
 	quest.658751C690E2B520.quest_subtitle: "Hammer Deepslate"
 	quest.6C1D268CE2B0D05D.quest_desc: [
-		"Cook up some &3Porcelain&r into a &c&lPorcelain Crucible&r. \\n\\nThese have 1 purpose. Cooking Items into &cLava&r! \\n\\nThrow the &c&lCrucible&r above a &6Heat Source&r. Some &6Heat&r more which Speed up the process. &cFire&r does more than &eLanterns&r, &cLava &fdoes more than &cFire&r. \\n\\nThen, place Blocks into the &c&lCrucible&r. Like &7Stone&r or even &4Netherrack&r. After some time it will make &cLava&r!"
+		"Cook up some &3Porcelain&r into a &c&lPorcelain Crucible&r. \\n\\nThese have 1 purpose. Cooking Items into &cLava&r! \\n\\nThrow the &c&lCrucible&r above a &6Heat Source&r. Some &6Heat&r more which Speed up the process. &cFire&r does more than &eLanterns&r, &cFire &fdoes more than &cLava&r. \\n\\nThen, place Blocks into the &c&lCrucible&r. Like &7Stone&r or even &4Netherrack&r. After some time it will make &cLava&r!"
 		"{image:atm:textures/questpics/chap1/chap1_lava.png width:120 height:200 align:center}"
 	]
 	quest.6C1D268CE2B0D05D.title: "&c&lPorcelain Crucible"
@@ -129,5 +129,8 @@
 	quest.7CC729E68A89D962.quest_desc: ["We can combine &9Water&r and Milk in a &6&lBarrel&r to get &aSlime Blocks&r! \\n\\nHow does that work? \\n\\nI don't know! \\n\\nAnd I really don't want to know!"]
 	quest.7CC729E68A89D962.quest_subtitle: "Oopy goopy"
 	quest.7CC729E68A89D962.title: "&aSlime"
-	task.2019707AE4DAC703.title: "{atm9.quest.start1.emergency}"
+	task.16149AC27DE92A7D.title: "Buckets"
+	task.2019707AE4DAC703.title: "Emergency Saplings"
+	task.518973EFC99E5792.title: "Lava Buckets"
+	task.6249DAB966E77A4C.title: "Water Buckets"
 }
