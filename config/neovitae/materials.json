@@ -373,21 +373,6 @@
     "gen_raw": ""
   },
   {
-    "name": "bauxite",
-    "color": "#743A00",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_xp": 0.0,
-    "ore_tag": "c:ores/bauxite",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "benitoite",
     "color": "#652828",
     "stages": [
@@ -520,24 +505,6 @@
     "gen_raw": ""
   },
   {
-    "name": "cloggrum",
-    "color": "#303D2B",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "undergarden:cloggrum_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/cloggrum",
-    "raw_tag": "c:raw_materials/cloggrum",
-    "ingot_tag": "c:ingots/cloggrum",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "crimson_iron",
     "color": "#652828",
     "stages": [
@@ -550,41 +517,6 @@
     "ore_tag": "c:ores/crimson_iron",
     "raw_tag": "c:raw_materials/crimson_iron",
     "ingot_tag": "c:ingots/crimson_iron",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "dark_gem",
-    "color": "#482150",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "evilcraft:dark_gem",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/dark_gem",
-    "ingot_tag": "c:gems/dark_gem",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "deepsilver",
-    "color": "#454754",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "eternal_starlight:deepsilver_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/deepsilver",
-    "raw_tag": "c:raw_materials/deepsilver",
-    "ingot_tag": "c:ingots/deepsilver",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -640,24 +572,6 @@
     "gen_raw": ""
   },
   {
-    "name": "froststeel",
-    "color": "#414B4C",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "undergarden:froststeel_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/froststeel",
-    "raw_tag": "c:raw_materials/froststeel",
-    "ingot_tag": "c:ingots/froststeel",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "garnet",
     "color": "#350000",
     "stages": [
@@ -686,24 +600,6 @@
     "smelt_xp": 0.7,
     "ore_tag": "c:ores/heliodor",
     "ingot_tag": "c:gems/heliodor",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "iesnium",
-    "color": "#A2CBCC",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "occultism:iesnium_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/iesnium",
-    "raw_tag": "c:raw_materials/iesnium",
-    "ingot_tag": "c:ingots/iesnium",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -808,41 +704,6 @@
     "smelt_xp": 0.7,
     "ore_tag": "c:ores/lignite_coal",
     "ingot_tag": "c:gems/lignite_coal",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "malarite",
-    "color": "#51525C",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "eternal_starlight:malarite",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/malarite",
-    "ingot_tag": "c:gems/malarite",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "mithril",
-    "color": "#81B3C9",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "irons_spellbooks:mithril_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/mithril",
-    "raw_tag": "c:raw_materials/mithril",
-    "ingot_tag": "c:ingots/mithril",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1003,40 +864,6 @@
     "gen_raw": ""
   },
   {
-    "name": "regalium",
-    "color": "#303D2B",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "undergarden:regalium_crystal",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/regalium",
-    "ingot_tag": "c:gems/regalium",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "rogdorium",
-    "color": "#1E231A",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "undergarden:rogdorium",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/rogdorium",
-    "ingot_tag": "c:ingots/rogdorium",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "rose_quartz",
     "color": "#FF6BBD",
     "stages": [
@@ -1081,23 +908,6 @@
     "smelt_to": "forbidden_arcanus:rune",
     "smelt_xp": 0.7,
     "ore_tag": "c:ores/runic",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "sal_ammoniac",
-    "color": "#88408C",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "theurgy:sal_ammoniac_crystal",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/sal_ammoniac",
-    "ingot_tag": "c:gems/sal_ammoniac",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1156,40 +966,6 @@
     "gen_raw": ""
   },
   {
-    "name": "starcore",
-    "color": "#65424B",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "eternal_starlight:starcore",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/starcore",
-    "ingot_tag": "c:gems/starcore",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "starlit_diamond",
-    "color": "#454754",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "eternal_starlight:starlit_diamond",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/starlit_diamond",
-    "ingot_tag": "c:gems/starlit_diamond",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "stellarite",
     "color": "#58594D",
     "stages": [
@@ -1240,24 +1016,6 @@
     "gen_raw": ""
   },
   {
-    "name": "titanium",
-    "color": "#C44AD1",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "modern_industrialization:titanium_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/titanium",
-    "raw_tag": "c:raw_materials/titanium",
-    "ingot_tag": "c:ingots/titanium",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "topaz",
     "color": "#7B2200",
     "stages": [
@@ -1269,24 +1027,6 @@
     "smelt_xp": 0.7,
     "ore_tag": "c:ores/topaz",
     "ingot_tag": "c:gems/topaz",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "tungsten",
-    "color": "#323455",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "modern_industrialization:tungsten_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/tungsten",
-    "raw_tag": "c:raw_materials/tungsten",
-    "ingot_tag": "c:ingots/tungsten",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1409,23 +1149,6 @@
     "gen_raw": ""
   },
   {
-    "name": "utherium",
-    "color": "#2A3526",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "undergarden:utheric_cluster",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/utherium",
-    "ingot_tag": "c:gems/utherium",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "vibranium",
     "color": "#652828",
     "stages": [
@@ -1461,25 +1184,8 @@
     "gen_raw": ""
   },
   {
-    "name": "xychorium",
-    "color": "#808080",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "xycraft_world:xychorium_gem_blue",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/xychorium",
-    "ingot_tag": "c:gems/xychorium",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "xychorium_blue",
-    "color": "#808080",
+    "color": "#19CFE0",
     "stages": [
       "fragment",
       "gravel",
@@ -1487,6 +1193,7 @@
     ],
     "smelt_xp": 0.0,
     "ore_tag": "c:ores/xychorium_blue",
+    "display_name": "Blue Xychorium",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1494,7 +1201,7 @@
   },
   {
     "name": "xychorium_dark",
-    "color": "#808080",
+    "color": "#39345F",
     "stages": [
       "fragment",
       "gravel",
@@ -1502,6 +1209,7 @@
     ],
     "smelt_xp": 0.0,
     "ore_tag": "c:ores/xychorium_dark",
+    "display_name": "Dark Xychorium",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1509,7 +1217,7 @@
   },
   {
     "name": "xychorium_green",
-    "color": "#808080",
+    "color": "#69D84D",
     "stages": [
       "fragment",
       "gravel",
@@ -1517,6 +1225,7 @@
     ],
     "smelt_xp": 0.0,
     "ore_tag": "c:ores/xychorium_green",
+    "display_name": "Green Xychorium",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1524,7 +1233,7 @@
   },
   {
     "name": "xychorium_light",
-    "color": "#808080",
+    "color": "#E8D2CC",
     "stages": [
       "fragment",
       "gravel",
@@ -1532,6 +1241,7 @@
     ],
     "smelt_xp": 0.0,
     "ore_tag": "c:ores/xychorium_light",
+    "display_name": "Light Xychorium",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
@@ -1539,7 +1249,7 @@
   },
   {
     "name": "xychorium_red",
-    "color": "#808080",
+    "color": "#E85A68",
     "stages": [
       "fragment",
       "gravel",
@@ -1547,22 +1257,7 @@
     ],
     "smelt_xp": 0.0,
     "ore_tag": "c:ores/xychorium_red",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "yellorite",
-    "color": "#BDBD00",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "alltheores:uranium_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/yellorite",
+    "display_name": "Red Xychorium",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",
