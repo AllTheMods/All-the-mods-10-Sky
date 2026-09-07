@@ -52,6 +52,9 @@ ServerEvents.tags("block", (allthemods) => {
 
   // Fix Jank with Feral Flares and Enchanting
   allthemods.add("minecraft:replaceable", "torchmaster:invisible_light")
+
+  // Oritech
+  allthemods.add("c:storage_blocks/steel", "oritech:biosteel_block")
 })
 
 ServerEvents.tags("item", (allthemods) => {
@@ -303,6 +306,9 @@ ServerEvents.tags("item", (allthemods) => {
 
   // For crushing recipes
   allthemods.add("c:deepslate_blocks", ["minecraft:deepslate", "minecraft:cobbled_deepslate"])
+
+  // Oritech
+  allthemods.add("c:storage_blocks/steel", "oritech:biosteel_block")
 })
 
 ServerEvents.tags("fluid", (allthemods) => {

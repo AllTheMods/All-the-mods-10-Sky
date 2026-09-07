@@ -41,7 +41,7 @@
     "atm10:tiny_charcoals"
   ],
   "ignored_tags": [],
-  "ignored_items": ["pneumaticcraft:plastic", "oritech:biosteel_ingot", "oritech:plastic_sheet"],
+  "ignored_items": ["pneumaticcraft:plastic", "oritech:biosteel_ingot", "oritech:biosteel_block", "oritech:plastic_sheet"],
   "ignored_recipe_types": ["cucumber:shaped_tag"],
   "ignored_recipe_ids": [
     "create:crushing/compat/silentgems/deepslate_peridot_ore",
