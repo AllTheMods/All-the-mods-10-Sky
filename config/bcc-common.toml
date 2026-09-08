@@ -1,6 +1,13 @@
+#General settings
 [general]
-        modpackProjectID = 1298402
-        modpackName = "ATM10 To the Sky"
-        modpackVersion = "2.0.0"
-        useMetadata = false
-        
+	#modpackProjectID is now deprecated and will be removed soon
+	# Default: 0
+	# Range: > 0
+	modpackProjectID = 1298402
+	#The name of the modpack
+	modpackName = "ATM10 To the Sky"
+	#The version of the modpack
+	modpackVersion = "2.0.3"
+	#Use the metadata.json to determine the modpack version
+	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
+	useMetadata = false
