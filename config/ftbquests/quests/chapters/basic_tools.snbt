@@ -1100,6 +1100,7 @@
 		}
 		{
 			id: "16AAC61729C44881"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"

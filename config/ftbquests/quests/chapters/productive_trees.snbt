@@ -4206,6 +4206,7 @@
 		}
 		{
 			id: "25D8BE0280B6E7F1"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
