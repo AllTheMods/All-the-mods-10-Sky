@@ -1,12 +1,6 @@
 {
   "values": {
     "generatorgalore:magmatic_generator": {
-      "neoforge:conditions": [
-        {
-          "type": "generatorgalore:generator_exists",
-          "generator": "generatorgalore:magmatic"
-        }
-      ],
       "fuels": [
         {
           "consumptionRate": 0.6,
