@@ -1,12 +1,6 @@
 {
   "values": {
     "generatorgalore:ender_generator": {
-      "neoforge:conditions": [
-        {
-          "type": "generatorgalore:generator_exists",
-          "generator": "generatorgalore:ender"
-        }
-      ],
       "fuels": [
         {
           "burnTime": 1600,
@@ -27,12 +21,6 @@
       ]
     },
     "generatorgalore:halitosis_generator": {
-      "neoforge:conditions": [
-        {
-          "type": "generatorgalore:generator_exists",
-          "generator": "generatorgalore:halitosis"
-        }
-      ],
       "fuels": [
         {
           "burnTime": 12000,
