@@ -1,5 +1,6 @@
 let $ClientQuestFile = Java.loadClass("dev.ftb.mods.ftbquests.client.ClientQuestFile")
 let $Minecraft = Java.loadClass("net.minecraft.client.Minecraft")
+let $I18n = Java.loadClass("net.minecraft.client.resources.language.I18n")
 let $ATTRpc = Java.loadClass("com.thevortex.allthetweaks.api.ATTRpc")
 let $ObjectCompletedEvent = Java.loadClass("dev.ftb.mods.ftbquests.events.ObjectCompletedEvent")
 let $EventResult = Java.loadClass("dev.architectury.event.EventResult")
@@ -15,6 +16,18 @@ let sinceRecount = 0
 let recountQueued = false
 let hadLevel = false
 
+function dimensionName(level) {
+  let id = String(level.dimension)
+  let key = "dimension." + id.replace(":", ".")
+  if ($I18n.exists(key)) return $I18n.get(key)
+
+  let path = id.split(":").pop()
+  return path
+    .split("_")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ")
+}
+
 function pushQuestProgress() {
   // Quests not received from server yet
   if (!$ClientQuestFile.exists()) return false
@@ -27,12 +40,17 @@ function pushQuestProgress() {
   let done = 0
   let total = 0
 
-  for (let chapter of file.getAllChapters()) {
-    for (let quest of chapter.getQuests()) {
-      if (quest.hasTag(ARR_TAG)) continue
-      total++
-      if (data.isCompleted(quest)) done++
+  // getQuests() is a view on the live list, so a concurrent quest change can throw
+  try {
+    for (let chapter of file.getAllChapters()) {
+      for (let quest of chapter.getQuests()) {
+        if (quest.hasTag(ARR_TAG)) continue
+        total++
+        if (data.isCompleted(quest)) done++
+      }
     }
+  } catch (error) {
+    return false
   }
 
   let starQuest = file.getQuest(file.getID(STAR_QUEST))
@@ -81,7 +99,7 @@ ClientEvents.tick(() => {
     return
   }
 
-  $ATTRpc.setDetails("In " + String(level.dimension).split(":").pop())
+  $ATTRpc.setDetails("In " + dimensionName(level))
 
   // Fallback update check every 30s
   sinceRecount++
