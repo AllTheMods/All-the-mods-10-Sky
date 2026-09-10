@@ -1122,6 +1122,7 @@
 		}
 		{
 			id: "4A1C8125896F7F1A"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
