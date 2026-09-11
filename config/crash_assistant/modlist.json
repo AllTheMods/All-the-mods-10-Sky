@@ -117,13 +117,13 @@
     "curseForgeHash": 3787975540,
     "modrinthHash": "e13ba7f0ba43043cbe8723de7533e39accc87ad1"
   },
-  "allthetweaks-1.21.1-2.9.4.jar": {
-    "jarName": "allthetweaks-1.21.1-2.9.4.jar",
+  "allthetweaks-1.21.1-2.10.0.jar": {
+    "jarName": "allthetweaks-1.21.1-2.10.0.jar",
     "modId": "allthetweaks",
     "name": "AllTheTweaks",
-    "version": "2.9.4",
-    "curseForgeHash": 243202207,
-    "modrinthHash": "5c0587081cda40fcb4145d2471f81c5ba6a59022"
+    "version": "2.10.0",
+    "curseForgeHash": 1187302261,
+    "modrinthHash": "980efe57605fedb6f5b179639f0c653a4b0359ac"
   },
   "almostunified-neoforge-1.21.1-1.4.2.jar": {
     "jarName": "almostunified-neoforge-1.21.1-1.4.2.jar",
@@ -1189,13 +1189,13 @@
     "curseForgeHash": 3577234745,
     "modrinthHash": "244d8b57aa7d34e247f3dd09cacf647a9ba1cfab"
   },
-  "growthacceleratortiers-1.0.4_neoforge_1.21.1.jar": {
-    "jarName": "growthacceleratortiers-1.0.4_neoforge_1.21.1.jar",
+  "growthacceleratortiers-2.0.0+1.21.1.jar": {
+    "jarName": "growthacceleratortiers-2.0.0+1.21.1.jar",
     "modId": "growthacceleratortiers",
     "name": "Growth Accelerator Tiers",
-    "version": "1.0.4",
-    "curseForgeHash": 2557608118,
-    "modrinthHash": "c1b449c50b755204b120cce44e885868da85d80d"
+    "version": "2.0.0",
+    "curseForgeHash": 2341327507,
+    "modrinthHash": "a1df576d1aebe90d17584c6ac8f91ddad9b475ea"
   },
   "guideme-21.1.17.jar": {
     "jarName": "guideme-21.1.17.jar",
@@ -2402,13 +2402,13 @@
     "curseForgeHash": 1338619755,
     "modrinthHash": "4a1f4307fc8dea95667fe88c8d39f87e2b370643"
   },
-  "torchmaster-neoforge-1.21.1-21.1.11.jar": {
-    "jarName": "torchmaster-neoforge-1.21.1-21.1.11.jar",
+  "torchmaster-neoforge-1.21.1-21.1.12.jar": {
+    "jarName": "torchmaster-neoforge-1.21.1-21.1.12.jar",
     "modId": "torchmaster",
     "name": "Torchmaster",
-    "version": "21.1.11",
-    "curseForgeHash": 2694229122,
-    "modrinthHash": "3d285841584fc0c36db4d3f8b5b05667c116ef6f"
+    "version": "21.1.12",
+    "curseForgeHash": 1907538923,
+    "modrinthHash": "5e2818dcb9a09124f691a4e91b38cdaa01528a55"
   },
   "transfer_labels-0.1.8.jar": {
     "jarName": "transfer_labels-0.1.8.jar",
