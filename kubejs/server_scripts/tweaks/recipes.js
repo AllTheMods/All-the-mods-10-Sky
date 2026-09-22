@@ -290,6 +290,13 @@ ServerEvents.recipes((allthemods) => {
       "minecraft:white_dye"
     ])
     .id("allthemods:example_firework_star")
+
+  for (let i = 1; i < 10; ++i) {
+    allthemods
+      .smelting(`allthecompressed:glass_${i}x`, `allthecompressed:sand_${i}x`)
+      .cookingTime(200 * 9 * i)
+      .id(`allthemods:smelting/sand_${i}x_to_glass_${i}x`);
+  }
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
