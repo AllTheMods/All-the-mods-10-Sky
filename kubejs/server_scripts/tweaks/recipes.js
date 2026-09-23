@@ -295,7 +295,7 @@ ServerEvents.recipes((allthemods) => {
     allthemods
       .smelting(`allthecompressed:glass_${i}x`, `allthecompressed:sand_${i}x`)
       .cookingTime(200 * 9 * i)
-      .id(`allthemods:smelting/sand_${i}x_to_glass_${i}x`);
+      .id(`allthemods:smelting/sand_${i}x_to_glass_${i}x`)
   }
 })
 
