@@ -22,7 +22,7 @@ ServerEvents.tags("block", (allthemods) => {
     "allthemodium:vibranium_allthemodium_alloy_ingot"
   ])
 
-  allthemods.remove("c:relocation_not_supported", [
+  allthemods.remove("geore:budding_geore", [
     "geore:budding_diamond",
     "geore:budding_gold",
     "geore:budding_iron",
