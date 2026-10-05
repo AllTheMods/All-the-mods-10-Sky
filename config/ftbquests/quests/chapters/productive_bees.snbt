@@ -5612,36 +5612,6 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "enderio:conductive_alloy_ingot"
-			}
-			id: "16987C41D4F5BA47"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7F85503A2D7D256C"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					id: "52213CAAC7B43162"
-					item: { components: { "ftbfiltersystem:filter": "or(and(or(item(productivebees:configurable_honeycomb)item(productivebees:configurable_comb))component(fuzzy:{\"productivebees:bee_type\":\"productivebees:copper_alloy\"}))and(item(productivebees:spawn_egg_configurable_bee)component(fuzzy:{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:copper_alloy\"}}))and(or(item(productivebees:bee_cage)item(productivebees:sturdy_bee_cage))custom(productivebeescage/productivebees:copper_alloy)))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					match_components: "fuzzy"
-					type: "item"
-				}
-				{
-					id: "5C2146FC34B16CC8"
-					item: { count: 1, id: "enderio:conductive_alloy_block" }
-					type: "item"
-				}
-			]
-			x: 5.0d
-			y: 21.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
 				id: "enderio:vibrant_alloy_ingot"
 			}
 			id: "0691BDE968724213"

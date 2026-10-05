@@ -305,7 +305,7 @@
 			]
 			tasks: [{
 				id: "52EB253913441EA0"
-				item: { components: { "hostilenetworks:data_model": "hostilenetworks:artifacts/mimic" }, count: 1, id: "hostilenetworks:prediction" }
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:bat" }, count: 1, id: "hostilenetworks:prediction" }
 				match_components: "strict"
 				type: "item"
 			}]

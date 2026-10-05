@@ -1134,6 +1134,7 @@
 			tasks: [{
 				id: "1B00DD98F30A2619"
 				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:allthemodium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
 			x: -4.5d
@@ -1154,6 +1155,7 @@
 			tasks: [{
 				id: "70D18EB0CC85EB14"
 				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:vibranium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
 			x: -4.5d
@@ -1174,6 +1176,7 @@
 			tasks: [{
 				id: "07FDB1AFE9CDA966"
 				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:unobtainium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
 			x: -4.5d
@@ -1194,6 +1197,7 @@
 			tasks: [{
 				id: "73C8E9959B361FCA"
 				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:soul_lava" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
 			x: -4.5d
