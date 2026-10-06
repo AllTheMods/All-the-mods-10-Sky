@@ -1,0 +1,405 @@
+{
+	quest.00A6020BC979947F.quest_desc: ["Yeni çağırdığınız &9Marid Crusher&r ile bir Yankı Parçacığı ve bir Iesnium Ingot'u parçalayabilirsiniz, bunlar bir Parlayan Mürekkep Kesesi ile birleştirildiğinde Cyan Chalk oluşturur."]
+	quest.00A6020BC979947F.title: "&3Cyan Chalk"
+	quest.03250A0202C25E80.quest_desc: ["&4Tibira's Attraction&r ile çağırdığınız &9Unbound Marid&r Demon'u başarıyla öldürdükten sonra, düşürdüğü &9Marid Essence&r'ı kullanarak \"en yüksek\" renkli Tebeşir olan Blue Chalk üretebilirsiniz."]
+	quest.03250A0202C25E80.title: "&9Blue Chalk"
+	quest.08697EB269B011FD.quest_desc: [
+		"&dRonaza's Contact&r ile &bIesnium Sacrificial Bowl&r eşyanızı Eldritch Chalice'e yükseltebilirsiniz. Bir ritüelde kullanıldığında tamamlanma süresini azaltır... tamamen. "
+		""
+		"Evet, Eldritch Chalice bütün ritüellerin anında tamamlanmasını sağlar!"
+	]
+	quest.08697EB269B011FD.title: "Eldritch Chalice"
+	quest.0A25276925EB0CBA.quest_desc: [
+		"Tüm renkli Chalk'ları (Tebeşirleri) ve Foundation Chalk'ları topladığınızda, ikinci &dDemon-less&r (İblissiz) türü ritüel olan &dRonaza's Contact&r'ı gerçekleştirebilirsiniz. Bu, şu ana kadar öğrendiğiniz her şeyi kullanan nihai ritüeldir!"
+		""
+		"Sınırlı kullanımı vardır ancak bu ritüelle yaratılan her şey süper güçlüdür!"
+	]
+	quest.0A25276925EB0CBA.quest_subtitle: "Bu kutsal hazineyle çağırıyorum..."
+	quest.0A25276925EB0CBA.title: "&dRonaza's Contact"
+	quest.0B3EA604C5172D98.quest_desc: [
+		"Hangi &c&mDemon&r &9Arkadaşı&r çağırmak istediğimizi seçebilmek için özel bir &bBook of Binding&r yapmamız gerekecek.\\n\\nBunu yapmak için, biraz Siyah Boyayı &dSpiritfire&r'da arındırarak Purified Ink (Arındırılmış Mürekkep) elde etmelisiniz. Bununla, bir &aFoliot&r Demon çağıracak olan ilk Book of Binding'imizi yapacağız."
+		""
+		"Alternatif olarak, ihtiyacınız olan ritüel aşamasına uyması için daha sonra boyanabilen bir Empty Book of Binding (Boş Bağlama Kitabı) yapabilirsiniz."
+	]
+	quest.0B3EA604C5172D98.title: "&bBooks of &dBinding"
+	quest.0BD6365534BF04D5.quest_desc: [
+		"Lime Chalk ile artık &5Ele Geçirme Ritüellerine&r geçme zamanı. Bunlar diğer ritüellerden biraz farklıdır; hepsi canlı kurban gerektirir. Bu kurban genellikle tavuk, arı veya yarasa gibi küçük yaratıklardır. Ancak ritüeller karmaşıklaştıkça daha büyük kurbanlar gerektirir. "
+		""
+		"Gereken bütün eşyaları ve Book of Binding'i Golden Sacrificial Bowl'a koymuş olsanız bile rünlerin üzerinde kurbanı öldürene kadar ritüel başlamaz."
+		""
+		"Empty Soul Gem, kavanoz, Yaratık Hapis Aracı veya Quantum Catcher gibi bir yaratık yakalama eşyası yapmanız önerilir!"
+		""
+		"&5Ele Geçirme Ritüellerinin&r ilk kademesi &eHeidryn's Lure&r, yalnızca İskelet Kafası ve End Taşı gibi sıradan eşyalar elde etmek için kullanılır. Bu nedenle doğrudan ikinci kademe ritüel &aIhagan's Enthrallment&r ile başlayabilirsiniz. "
+	]
+	quest.0BD6365534BF04D5.quest_subtitle: "Kimi arayacaksın?"
+	quest.0BD6365534BF04D5.title: "&aIhagan's Enthrallment"
+	quest.0C554FD9A150D2CD.quest_desc: [
+		"&cCopper Sacrificial Bowl&r ve &cSilver Sacrificial Bowl&r da kullanabilirsiniz!"
+		""
+		"Bunlar yalnızca dekorasyon amaçlıdır ve işlevsel olarak hiçbir şeyi değiştirmez, ama çok daha güzel görünürler!"
+	]
+	quest.0D18BBB04693885A.quest_desc: ["Strigeor's Higher Binding, &6Infusion Rituals&r'ın (İnfüzyon Ritüelleri) ikinci aşamasıdır. Pek çok farklı şey için kullanılır, ancak ihtiyacımız olan ana şeyler Infused Pickaxe ve Gray Paste'tir."]
+	quest.0D18BBB04693885A.quest_subtitle: "\"Her Şey\" Ritüeli"
+	quest.0D18BBB04693885A.title: "&aStrigeor's Higher Binding"
+	quest.0FE3094B22412BD3.quest_desc: ["Sacrificial Altar, Ars Ocultas'ın sunduğu başka bir araçtır; bu kez kurbanları otomatikleştirmeye odaklanır.\\n\\nBu sunak, merkezdeki kâsenin altına yerleştirilir. Yakınlarda kurban edilecek yaratığı içeren bir Muhafaza Kavanozu da varsa kurban yerine yakındaki Kaynak Kavanozundan Kaynak kullanılmasını sağlar."]
+	quest.0FE3094B22412BD3.quest_subtitle: "Kaynak Kurbanın Yerini Alır"
+	quest.11A0593C0E2E6A35.quest_desc: ["&eEziveus' Spectral Compulsion&r kullanarak, biraz &2Nature Paste&r oluşturmak için sayısız farklı doğa bloğunu birleştirebiliriz. Bu Paste'i Green Chalk oluşturmak için bir miktar Impure White Chalk ile birleştirin."]
+	quest.11A0593C0E2E6A35.title: "&2Green Chalk"
+	quest.145C8235BCCB9BA8.quest_desc: [
+		"Tüm Chalk'ları toplamak istiyorsak, pek de dost canlısı olmayan bir &cAfrit&r çağırıp öldürmemiz gerekecek."
+		""
+		"Bu bir &5Possession Ritual&r olmasa bile, bu ritüel için canlı bir kurbana ihtiyacınız olacak. Bu durumda bir İnek kurban edeceğiz. Üzgünüm Sarıkız!"
+	]
+	quest.145C8235BCCB9BA8.quest_subtitle: "R.I.P. Sarıkız"
+	quest.145C8235BCCB9BA8.title: "&cRed Chalk"
+	quest.172D2A634E849562.quest_desc: ["&cIesnium&r hasat etme yeteneğimizle, madenlerde emirlerimizi yerine getirmeleri için Demon'ları çağırabiliriz... Yani.... cevher toplamamıza yardım etmeleri için. Kesinlikle Demon'ları sömürmek falan yok.\\n\\nBunun için Demon Mining World'e (İblis Madencilik Dünyası) erişmek için bir &dDimensional Mineshaft&r yaratmamız gerekecek. Ayrıca, çalışması için Mineshaft'ın içine yerleştireceğiniz, lambaya hapsedilmiş bir Mining Demon'a (Madenci İblis) ihtiyacınız olacak. Herhangi bir aşama bu görevi tamamlayacak olsa da, daha yüksek aşamalar daha hızlı çalışır ve sizin için Iesnium çıkarma şansı daha yüksektir.\\n\\nMineshaft'lar kendi başlarına eşyaları otomatik olarak dışarı aktarmazlar. Huniler, Transporting Demons (Taşıyıcı İblisler) veya Item Pipes (Eşya Boruları) gibi başka bir yöntem kullanarak eşyaları dışarı çıkarmanız gerekecektir. Depolama sınırını aşan eşyaları yok edecektir."]
+	quest.172D2A634E849562.title: "&cDemon Mining"
+	quest.1848F431D0380DA9.quest_desc: [
+		"&aStrigeor's Higher Binding&r'in Tebeşir Tamir işlevine benzer şekilde, &cSevira's Permanent Confinement&r bir Afrit Demon'un gücünü kullanarak eşyaları onarmak için kullanılabilir."
+		""
+		"Bu ritüel hemen hemen her şeyi onarabilir, böylece &eDemon Miners&r, aletler ve zırhların tümü orijinal dayanıklılıklarına geri getirilebilir! "
+		""
+		"Bu ritüel kullanılarak onarılan tüm eşyalar orijinal özelliklerini (ekler, efsunlar vb.) korur, bu yüzden değerli efsunlarınız için endişelenmeyin!"
+	]
+	quest.1848F431D0380DA9.quest_subtitle: "Bedava(ya yakın) dayanıklılık!"
+	quest.1848F431D0380DA9.title: "Eşyaları Onarmak"
+	quest.1B5177A774FCEF64.quest_desc: ["Demon arkadaşlarımızın yardımını almaya başlamadan önce, Ritüeller için gereken en önemli eşyayı yaratmamız gerekecek: &aChalk&r (Tebeşir).\\n\\nBirkaç renk tebeşire ihtiyaç vardır ve daha yüksek seviyeli Ritüeller etkinleştirmek için bunlardan birkaçını gerektirir. Başlangıçta &bWhite Chalk&r (Beyaz Tebeşir) elde etmesi en kolay olanıdır.\\n\\nOtherstone'u bir ocağa ve Otherworld Logs'u &dSpiritfire&r'a atarak başlayın. Yarattığınız eşyalarla Impure White Chalk yapabileceksiniz.\\n\\nHerhangi bir Tebeşir parçasını arındırmak için, temizlemek üzere onu &dSpiritfire&r'a atmanız yeterlidir. Yerde Purified Chalk'ı (Arındırılmış Tebeşir) kullanmak, yere &mşeytani&r güzel semboller çizecektir. Bunları temizlemek bir eziyettir, ta ki kendinize &aChalk Brush&r (Tebeşir Fırçası) yapana kadar. Yapın, buna değer."]
+	quest.1B5177A774FCEF64.title: "Ritüele Hazırlık: &eChalk"
+	quest.1BDB369FD243D4C6.quest_desc: [
+		"Occultism modunda yaratabileceğiniz tartışmasız en kullanışlı eşya olan &bIesnium Anvil&r (Iesnium Örs), vanilla Örsün süper güçlü bir versiyonudur."
+		""
+		"&9Uphyxes' Inverted Tower&r kullanılarak yaratılır, şu özelliklere sahiptir:"
+		""
+		"- Kırılamaz."
+		"- Üzerinde birleştirilen her şeyin tüm efsunlarının maksimum seviyesini bir seviye artırır."
+		"- Tahmin edilen xp'nin yarısına mal olur (aşağı yuvarlanır, yani 25 diyorsa 12'ye mal olur)."
+		"- Aynı eşya üzerinde tekrarlanan düzenlemeler için daha küçük bir xp gereksinimi artışına sahiptir."
+		"- Eşyaları düzenleyebileceğiniz maksimum xp seviyesini artırır (\"Çok Pahalı!\" dediği noktayı)."
+	]
+	quest.1DE0F289821F55D1.quest_desc: ["Artık bir Foliot Crusher'ımız olduğuna göre, bizim için biraz &eEnd Taşı&r, &9Obsidiyen&r ve &7Kireç Taşı&r parçalaması için &mkullanabiliriz&r kibarca rica edebiliriz. Bunları bazı yeni Chalk'lar yapmak için kullanacağız!"]
+	quest.1DE0F289821F55D1.title: "&aChalking It Up"
+	quest.1EB887F8072439A3.quest_desc: ["Bir &9Marid Crusher&r çağırmak için &9Fatma's Incentivized Attraction&r veya bir &aDjinni Crusher&r çağırmak için &aOphyx' Calling&r kullandıktan sonra Buz, Sert Buz ve Mavi Buzu kırılmış formlarına dönüştürebilir ve bunları Light Blue Chalk oluşturmak için kullanabilirsiniz."]
+	quest.1EB887F8072439A3.title: "&bLight Blue Chalk"
+	quest.2960FFE0C53DFEB1.quest_desc: [
+		"&cSevira's Permanent Confinement&r, &6Infusion Rituals&r'ın üçüncü aşamasıdır. Temel olarak bir sonraki foundation (temel) Chalk seviyesi olan Black Chalk'ı oluşturmak için kullanılır."
+		""
+		"Aynı zamanda ritüel yapımını ve uygulamasını önemli ölçüde hızlandırabilen birkaç eşya oluşturmak için de kullanılır."
+	]
+	quest.2960FFE0C53DFEB1.quest_subtitle: "\"Daha da Her Şey\" Ritüeli"
+	quest.2960FFE0C53DFEB1.title: "&cSevira's Permanent Confinement"
+	quest.29C83B00AC4AFC23.quest_desc: [
+		"Buraya kadar geldiğinize göre sırada ne olduğunu merak ediyor olabilirsiniz. Occultism'de keşfedilecek çok daha fazla şey var! "
+		""
+		"&6Dictionary of Spirits&r içinde her ritüelin ve eşyanın kapsamlı bir listesini görebilirsiniz. İlginizi çeken bir şey bulmak için bütün ritüellerin sonuçlarını incelemeyi deneyebilirsiniz!"
+		""
+		"Henüz yapmadıysanız biri Çağırma, biri Ele Geçirme, biri de İnfüzyon için olmak üzere üç ayrı ritüel alanı kurup dekore edebilirsiniz."
+		""
+		"Görünüşte sıradan olan her özelliği kullanarak modpack deneyiminizi geliştirecek yeni yollar her zaman vardır. İyi ritüeller!"
+	]
+	quest.29C83B00AC4AFC23.title: "Sırada Ne Var?"
+	quest.2A3D132CDBDC8174.quest_desc: ["Occultism bölümünde neden bir Ars Nouveau eşyası olduğunu merak edebilirsiniz. Çünkü iki modu birbirine bağlayan Ars Ocultas var. Özellikle Foliot Crusher gibi ruhlarımız bu kavanozların içinde çalışabilir. Ruhların işlemesi için kavanozlara borularla eşya bile aktarabilirsiniz; işlenen eşyaları bitişik envanterlere gönderirler (kavanozun alt tarafını çıktı için en güvenilir yer olarak buldum). Bir envantere çıktı veremezlerse eşyaları dünyaya bırakırlar."]
+	quest.2A3D132CDBDC8174.quest_subtitle: "Ruhlar Muhafaza Kavanozlarında çalışabilir"
+	quest.2A3D132CDBDC8174.title: "Ars Ocultas: Ruh Kavanozları"
+	quest.2A5004EB99AE4F96.quest_desc: [
+		"Toplamanız gereken daha fazla Otherworld eşyası var ve &7Third Eye&r etkisine her ihtiyaç duyduğunuzda &cDemon's Dream Fruit&r yemek sinir bozucu oluyor."
+		""
+		"&dOtherworld Goggles&r bunun içindir! Takıldığında (Curios yuvanızda olsa bile), Third Eye etkisini verir!"
+	]
+	quest.2A5004EB99AE4F96.quest_subtitle: "O meyveyi yemeyi bırak!"
+	quest.2A5004EB99AE4F96.title: "Mesleğin Araçları: Spectral Goggles"
+	quest.2A6FE386DF0E1D98.quest_desc: ["&bLight Blue Chalk&r için bir &9Marid Crusher&r almak istemiyor musunuz? O zaman bunun yerine bir &aDjinni Crusher&r ile yetinebilirsiniz. &aOphyx' Calling&r, &aDjinni&r'leri çağırmak için kullanılır. Buna bir İblis Eş (Wife/Husband) de dahildir. &aDjinni&r'ler cevherleri Foliot'lardan daha verimli bir şekilde kırabilirler, ancak &cAfrits&r veya &9Marids&r kadar verimli değillerdir. Ayrıca buzu eritmeden kırma yeteneğine de sahiptirler."]
+	quest.2A6FE386DF0E1D98.quest_subtitle: "Açık mavi için alternatif bir yol"
+	quest.2A6FE386DF0E1D98.title: "&aOphyx' Calling"
+	quest.2AD68066C1948C90.quest_desc: [
+		"İlk &eFoliot Crusher&r fena değildi ama sana parçaladığı her ham cevher başına 6 toz veren bir demon çağırabileceğini söylesem?"
+		""
+		"&9Marid Crusher&r tam olarak bunu yapıyor. Bir tane çağırmak için &9Fatma's Incentivized Attraction&r kullanmanız gerekecek. "
+	]
+	quest.2AD68066C1948C90.quest_subtitle: "Maksimum Çağırma"
+	quest.2AD68066C1948C90.title: "&9Fatma's Incentivized Attraction"
+	quest.2CF96A264EB5522C.quest_desc: [
+		"&9Uphyxes' Inverted Tower&r, &6İnfüzyon Ritüellerinin&r en yüksek kademesidir. Diğer üç kademe kadar çok kullanım alanı yoktur, ancak Occultism'in \"son aşaması\" için yine de gereklidir. "
+		""
+		"Temel olarak Magenta Chalk'ın ana malzemesi olan Dragonyst Dust üretmek için kullanılır."
+	]
+	quest.2CF96A264EB5522C.quest_subtitle: "Maksimum İnfüzyon"
+	quest.2CF96A264EB5522C.title: "&9Uphyxes' Inverted Tower"
+	quest.2E68E1D96B25336D.quest_desc: ["&6Abras' Open Commanding Conjure&r ile çağrılan birkaç iblisin ele geçirdiği Zombileşmiş Piglin ile savaştıktan sonra, düşürdükleri Demonic Meat'i kullanarak Pink Chalk üretebilirsiniz."]
+	quest.2E68E1D96B25336D.title: "&dPink Chalk"
+	quest.2FD22502E6481269.quest_desc: ["&dRonaza's Contact&r kullanarak Soul Gem'inizi yükseltip bir Trinity Gem oluşturabilirsiniz. Temelde Soul Gem'in daha büyük düşmanları yakalayabilen daha güçlü bir versiyonudur, ancak yine de çoğu boss'u içine alamaz."]
+	quest.2FD22502E6481269.title: "Trinity Gem"
+	quest.30C5B597610F4AFB.quest_desc: ["Eziveus' Spectral Compulsion kullanarak yapılacak ilk ve en önemli eşya Research Fragment Dust'tır. Bu, biraz kırılmış Zümrüt ile birleştirilerek Lime Chalk oluşturmak için kullanılır!"]
+	quest.30C5B597610F4AFB.title: "&aLime Chalk"
+	quest.33106E24A3B5DDD8.quest_desc: [
+		"Yolculuğunuzdaki sonraki adım &cIesnium&r bulmak olacak."
+		""
+		"Normalde Nether mağaralarını keşfetmeniz gerekirdi, ama bu bir Skyblock modpack!"
+		""
+		"Bunun yerine Antik Kalıntı üzerinde Atomic Reconstructor kullanmayı deneyin."
+	]
+	quest.33106E24A3B5DDD8.title: "&cIesnium: Öteki Dünya'nın Cevheri"
+	quest.3543563DF036D461.quest_desc: ["Dragonyst Dust yaratmak için &9Uphyxes' Inverted Tower&r'ı gerçekleştirmeniz gerekecek. Ancak Magenta Chalk oluşturmak için yalnızca &9Marid Crusher&r aracılığıyla elde edebileceğiniz bazı materyallere de ihtiyacınız olacak."]
+	quest.3543563DF036D461.title: "&#AD00C8Magenta Chalk"
+	quest.367E891A50991436.quest_desc: ["&cSevira's Permanent Confinement&r ile çeşitli Wither malzemelerini ve biraz Netherit'i birleştirerek üç Witherite Dust oluşturabiliriz. Bunlarla temel tebeşirin en yüksek türü olan Black Chalk'ı üretebiliriz."]
+	quest.367E891A50991436.title: "Black Chalk"
+	quest.38A1295878B68F83.quest_desc: [
+		"Hayır, o türden değil."
+		""
+		"&cAfrit Demons&r, &cFire&r (Ateş) İblisleridir. Daha gelişmiş İblislerdir, bazıları arkadaştır ve bazıları... değildir. Her şey ritüelin &cAfrit&r'i ne kadar güçlü kontrol edebileceğine bağlıdır. "
+		""
+		"Henüz Red Chalk'a (Kırmızı Tebeşir) erişimimiz olmadığı için çağırabileceğimiz tek şey &9Unbound&r (Bağlanmamış) bir İblistir, yani kontrol edilemez ve saldırgan olacaktır."
+	]
+	quest.38A1295878B68F83.quest_subtitle: "Sıcak İblisler!"
+	quest.38A1295878B68F83.title: "&6Kandar's Opened Conjure"
+	quest.39647A2473F6F7D7.quest_desc: [
+		"Bir sonraki adımımız &6Infusion Rituals&r'a bir giriş. Bu ritüeller, eşyaları iblislerin büyüsüyle doldurmak için kullanılır."
+		""
+		"&6Infusion Rituals&r'ın ilk aşaması &eEziveus' Spectral Compulsion&r'dır. Bu mod boyunca ihtiyacınız olacak birkaç eşyayı oluşturmak için bu ritüeli kullanacağız."
+		""
+		"Ana üç ritüel türü her biri bir önceki aşamanın üzerine inşa edildiğinden, bu ritüeli ilk alanınızdan ayrı bir alanda oluşturmanız önerilir."
+	]
+	quest.39647A2473F6F7D7.quest_subtitle: "Üzerine biraz Demon Dust™ sürün!"
+	quest.39647A2473F6F7D7.title: "&eEziveus' Spectral Compulsion"
+	quest.3D41D0092D94636B.quest_desc: [
+		"Sana İblis Meyvesinin (Demon's Fruit) yanıcı olduğunu söylesem ne dersin?"
+		""
+		"&cDemon's Dream Fruit&r'ımızı (İblisin Rüyası Meyvesi) yere atıp ateşe vermek &dSpiritfire&r yaratacaktır. Overworld eşyalarını &9Otherworld&r materyallerine bu şekilde dönüştüreceğiz."
+		""
+		"Ayrıca çok da güzel gözükür."
+	]
+	quest.3D41D0092D94636B.title: "&9The Otherworld&r'ün Alevleri"
+	quest.429B5A81DF6C43FE.quest_desc: [
+		"&6Abras' Open Commanding Conjure&r, bir domuzun içine &cAfrit&r iblisi getirmek için kullanılır. Ritüel Red Chalk kullanılmadan gerçekleştirildiği için yalnızca &9bağsız&r bir iblis çağıracak kadar güçlüdür."
+		""
+		"Bu ritüel özellikle &cAfrit&r tarafından ele geçirilmiş bir Zombileşmiş Piglin oluşturur; yaratık, Pink Chalk üretiminde kullanılan Demonic Meat düşürür."
+		""
+		"&4UYARI: YETERİNCE DEMONIC MEAT ELDE ETMEK İÇİN BUNU BİRKAÇ KEZ YAPMANIZ GEREKEBİLİR."
+	]
+	quest.429B5A81DF6C43FE.quest_subtitle: "Ne kadar... Etli..."
+	quest.429B5A81DF6C43FE.title: "&6Odus' Open Convocation"
+	quest.42F50CE7FE715583.quest_desc: [
+		"Sihirli deponuzun alabileceği yığın (stack) miktarını yükseltmek için &dStorage Stabilizers&r yapmanız gerekecek."
+		""
+		"Bunlar yapıldıktan sonra, Storage Actuator'un tabanına değil, doğrudan Dimensional Matrix kısmına bakmalıdır. Bunlar 5 bloğa kadar uzakta olabilir ancak Matrix'i net olarak görmelidir (line of sight)."
+		""
+		"Daha yüksek aşamalı bir Stabilizer'a yükseltmek istediğinizde, onu kırmak içindeki eşyaları yok etmez. Ancak değiştirilene veya yükseltilene kadar deponuza daha fazla eşya ekleyemezsiniz."
+		""
+		"Aşağıda basit bir kurulum örneği verilmiştir!"
+		""
+		"{image:atm:textures/questpics/occultism/storageupgradeexample.png width:200 height:150 align:1}"
+	]
+	quest.42F50CE7FE715583.title: "&aBüyülü Depomuzu Yükseltmek"
+	quest.47358ADC1470C82A.quest_desc: [
+		"&cDemon's Dream Fruit&r sizin için son derece sağlıklıdır. Ama bilmeniz gereken bazı yan etkileri olabilir."
+		""
+		"Bir tane yediğinizde, &9The Otherworld&r'ü görmenizi sağlayan &3Third Eye&r (Üçüncü Göz) etkisini alma şansınız olur. Dünyadaki bazı eşyalar göründükleri gibi olmayabilir ve ilerlemek üzere bazı eşyaları bulmak için bu \"görüşe\" ihtiyacınız olacak."
+		""
+		"Ya da onu ateşe verebilir ve çoğunu bulmayı atlayabilirsiniz. O size kalmış."
+	]
+	quest.47358ADC1470C82A.quest_subtitle: "Bir Yolculuğa Hazır Olun"
+	quest.47358ADC1470C82A.title: "&cDemon Fruit"
+	quest.4C873491F6F0FFAF.quest_desc: [
+		"&dSpiritfire&r kullanarak, birkaç Overworld malzemesini Otherworld varyantlarına dönüştürebiliriz. Ayrıca &bThird Eye&r etkisindeyken dünyaya maceraya atılarak birkaç Otherworld materyali bulabilirsiniz. Bulduklarınıza şaşırabilirsiniz. İşi kolaylaştırmak için, temel malzemeleri &dSpiritfire&r'a atarak dönüştürmenin tarifleri mevcuttur."
+		""
+		"&bAndezit&r, kalıcı bir &dSpiritfire&r yakmak için kullanılabilen &3Otherstone&r'a dönüşür."
+		""
+		"&aMeşe Fidanları&r, &9Oak Saplings&r'e (Otherworld Meşesine) dönüşür, ancak bunlar aynı değildir. Büyüdüklerinde, tam olarak normal bir Meşe ağacı gibi görüneceklerdir. Ancak, &bThird Eye&r etkisi altındayken, Otherworld varyantını hasat edebileceksiniz."
+		""
+		"Kütükleri toplamakta zorluk çekerseniz (eğer &bThird Eye&r ile bile normal Meşe Kütüklerine dönüşüyorlarsa), onları üstten toplamayı deneyin."
+		""
+		"&eElmaslar&r, daha sonra ihtiyacımız olacak birkaç tarifte kullanılan &dSpirit Attuned Gems&r'e dönüşecektir."
+	]
+	quest.4C873491F6F0FFAF.title: "&dSpiritfire&r Dönüşümleri"
+	quest.4CE571F942461909.quest_desc: [
+		"Ritual Satchel güzel bir eşya, fakat bütün blokları yerleştirmesi uzun sürüyor. Artık &cSevira's Permanent Confinement&r ritüelini gerçekleştirebildiğinize göre Artisanal Ritual Satchel yapabilirsiniz!"
+		""
+		"Artisanal Ritual Satchel, normal Ritual Satchel ile neredeyse aynı şekilde çalışır. Farkı, ritüel için gerekli eşyaları anında yerleştirmesidir. Ayrıca Golden Bowl'a sağ tıklayarak bütün tebeşir rünlerini silebilir; diğer bütün eşyaları (kafatasları, mumlar ve kristaller) toplayıp çantaya geri koyabilir."
+		""
+		"Hayır, tebeşirin dayanıklılığını yenilemez."
+	]
+	quest.4CE571F942461909.title: "Mesleğin Araçları: Artisanal Ritual Satchel"
+	quest.4DF0D7B85065ADC9.quest_subtitle: "Kes ve biç!"
+	quest.4DF0D7B85065ADC9.title: "Mesleğin Araçları: Butcher's Knife"
+	quest.4F35D04721DFC9FF.quest_desc: [
+		"Gerçekleştireceğimiz ilk ritüel türü &9Çağırma Ritüeli&r olacak. Bu ritüeller, ezme ve eritme işlerinde yardımcı olan çeşitli faydalı iblisleri çağırmak için kullanılır; daha yüksek ritüel kademelerinde başka yardımlar da sağlarlar."
+		""
+		"İlk ritüelimizde bir &aFoliot Crusher&r iblisi çağırmak istiyoruz. Bu iblis bizim için eşyaları ezer; daha yüksek seviyeli tebeşirlerden bazılarını yaparken buna ihtiyacımız olacak!"
+		""
+		"Önce Unbound Book'unuzu üretim alanında &aDictionary of Spirits&r ile birleştirin. Böylece kitaba ritüel için gereken bir iblis bağlanır."
+		""
+		"Dictionary of Spirits demişken, artık onu açma zamanı! Soldaki &dPentacles&r sekmesine, ardından &bAviar's Circle&r üzerine tıklayın. Biraz okuyarak ilerlemeniz gerekebilir. Kitaptaki her şeyi açmak için \\\"Mark All As Read\\\" seçeneğine tıklamanın bir yolu da vardır."
+		""
+		"Yeni dostumuzu çağırmak için bunu kullanacağız. Sağ tarafta, görselin sol alt köşesindeki göz simgesine tıklayarak ritüelin dünyada bir taslağını oluşturabilirsiniz. Bu çok faydalıdır!"
+		""
+		"Çok bloklu ritüeli tamamladığınızda, merkezdeki Sacrificial Bowl'dan yatay olarak 8 blok yarıçap içindeki herhangi bir yere 4 Sacrificial Bowl (ilerideki ritüeller için daha fazlası) koyun ve gerekli eşyaları üzerlerinde kullanın. Bound Book'unuzu Golden Sacrificial Bowl'a yerleştirdiğinizde ritüel başlayacaktır!"
+		""
+		"Ritüel böyle görünecek."
+		""
+		""
+		"{image:atm:textures/questpics/occultism/aviarcirclenew.png width:200 height:200 align:center}"
+	]
+	quest.4F35D04721DFC9FF.quest_subtitle: "Aviar's Circle"
+	quest.4F35D04721DFC9FF.title: "&bİlk &dRitüelimiz"
+	quest.5316DF321B45D2CA.quest_desc: ["&dOccultism&r moduna hoş geldiniz!\\n\\nBu mod, &c&mİblislerin&r &bRuhların&r yardımını alarak oyuncuya pek çok farklı şekilde yardımcı olmayı amaçlar! Endişelenmeyin, çoğu dost canlısıdır. &oÇoğu&r.\\n\\nBaşlamak için biraz &aDemon's Dream Seeds&r edinmeniz gerekir. Bunları elde etmek için ot kırın."]
+	quest.5316DF321B45D2CA.title: "&dRüyalardaki &cİblisler"
+	quest.53DEA3DFEDC4809E.quest_desc: [
+		"Endişelenmeyin, bu Abras ritüel serisinin sonuncusu. Bir &9Marid&r iblisini çağırmak için kullanılır, ancak Red Chalk (Kırmızı Tebeşir) kullanmasına rağmen İblisi &9bağlayacak (bind)&r kadar güçlü değildir. Bu da maalesef onunla savaşmanız gerekeceği anlamına gelir."
+		""
+		"Bu ritüel, bir Üçlü Mızrağı kurban (sacrifice) olarak kullanır ki bu kafa karıştırıcıdır çünkü çoğu kurban canlı yaratıklardır. Bu yüzden tamamlanmış ritüel çemberinin üzerinde bir mob öldürmek yerine, ritüeli başlatmak için Üçlü Mızrağı sadece orta kaseye atarsınız."
+	]
+	quest.53DEA3DFEDC4809E.quest_subtitle: "O bir Kuş mu? O bir Uçak mı? Hayır, bu bağlanmamış (unbound) bir &9Marid&r!"
+	quest.53DEA3DFEDC4809E.title: "&4Tibira's Attraction"
+	quest.54378277B8D28B1D.quest_desc: ["Foundation Chalk'ın (Temel Tebeşir) renklerini tercih edenler için Rainbow Chalk'a (Gökkuşağı Tebeşiri) bir alternatif.\\n\\nTüm rünlerin Foundation Chalk renkleri arasında geçiş yapması haricinde Rainbow Chalk ile aynı işleve sahiptir."]
+	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r, &5Possession Rituals&r'ın (Ele Geçirme Ritüelleri) maksimum aşamasıdır. Yalnızca iki kullanımı vardır: Brown Chalk'ın (Kahverengi Tebeşir) ana maddesi olan Cruelty Essence (Zulüm Özü) oluşturmak ve temelde sadece ölümsüz olan ve daha fazla hasar veren bir Demir Golem olan Iesnium Golem oluşturmak."]
+	quest.56EC79AF11B0869E.quest_subtitle: "Maksimum Ele Geçirme"
+	quest.56EC79AF11B0869E.title: "&9Xeovrenth Adjure"
+	quest.57282D7E31EE61EE.quest_desc: [
+		"Birkaç &aRaw Iesnium Ores&r topladığınızda, muhtemelen bir &dIesnium Pickaxe&r yapmak için ilk birkaç külçeyi (ingots) kullanmak isteyeceksiniz. Bu yalnızca Infused Pickaxe gibi Iesnium kazmakla kalmaz, aynı zamanda çok daha uzun süre dayanır."
+		""
+		"Kendinize bir iyilik yapın ve bunlardan bir tane yapın!"
+	]
+	quest.57282D7E31EE61EE.title: "&aThe Otherworld Pickaxe&r"
+	quest.5831B3192C0E8C56.quest_desc: [
+		"Deponuza uzaktan erişmek mi istiyorsunuz? Bu, &eStable Wormhole&r (Kararlı Solucan Deliği) veya &aStorage Accessor&r (Depolama Erişicisi) ile yapılabilir."
+		""
+		"&eStable Wormhole&r'u kullanmak için, bağlamak üzere bir &dStorage Actuator&r'a shift-tıklayın. Daha sonra başka bir depolama konumu olarak işlev görmesi için Wormhole'u yerleştirebilirsiniz."
+		""
+		"&aStorage Accessor&r aynı şekilde bağlanır, ancak boyutlar (dimensions) arasında bile çalışabilen kablosuz bir uzaktan kumanda görevi görür!"
+	]
+	quest.5831B3192C0E8C56.title: "&aUzaktan Erişim"
+	quest.5ACE97EE75813006.quest_desc: [
+		"&dRitüeller&r hakkındaki temel bilgi kaynağı budur. İşte temel bilgiler:"
+		""
+		"&lRitüel Kademeleri&r:"
+		""
+		"Ritüellerin, çağırdığınız iblisin gücüne göre (temelde) dört kademesi vardır. İlk kademe &eFoliot&r, ardından &aDjinni&r, &cAfrit&r ve &9Marid&r gelir. Bazı ritüeller, &6Unbound Afrit&r kademesi gibi ara kademelerde yer alır."
+		""
+		"R&litüel Türleri&r:"
+		""
+		"Beş ana ritüel türü vardır, fakat ilerlemek için yalnızca dördüne ihtiyacımız olacak. Üç ana tür &9Çağırma Ritüelleri&r, &5Ele Geçirme Ritüelleri&r ve &6İnfüzyon Ritüelleridir&r. Her biri bu görevlerde ilk kez göründüğünde açıklanacaktır. Dördüncü ritüel türü bir çeşit &dİblissiz&r &dRitüeldir&r; yani doğrudan iblis kullanmadan özel bir işlem gerçekleştirmek için diğer üç türden parçalar kullanır."
+		""
+		"Beşinci tür olan &eFamiliar Ritüelleri&r, ilerlemek için gerekli değildir. Ama yine de size yardımcı olacak faydalı dostlar çağırabilirler!"
+		""
+		"&lTebeşirler&r:"
+		""
+		"İki tür tebeşir vardır: Temel Tebeşirler ve Renkli Tebeşirler."
+		""
+		"Temel tebeşirler her ritüelde kullanılır. White Chalk ile başlayıp Black Chalk ile biterek, her üst kademede bir ton daha koyulaşırlar. "
+		""
+		"Renkli Tebeşirler en çok kullanılanlardır, ancak renkleri, Temel Tebeşirlerde olduğu gibi güçleriyle doğrudan ilişkili değildir."
+	]
+	quest.5ACE97EE75813006.title: "Ritüellerin Temelleri"
+	quest.5AE80FF518B1BBA6.quest_desc: [
+		"Tebeşirleri, mumları, kafataslarını ve kristalleri taşımaktan sıkıldınız mı? Bir Ritual Satchel yapın!"
+		""
+		"Ritual Satchel elinizdeyken eğilerek sağ tıklayıp ritüel çemberini çizmek için gereken bütün malzemelerle doldurabilirsiniz."
+		""
+		"Çantayı doldurduktan sonra herhangi bir ön izleme bloğuna sağ tıklayarak seçilen ritüelin bütün rünlerinin (yavaşça) otomatik olarak yerleştirilmesini başlatın. "
+		""
+		"Çantadaki bir tebeşirin dayanıklılığı %40'ın altına düşerse, bazı tebeşirleri onarma veya değiştirme zamanının geldiğini belirtmek için bu eşyanın büyü parıltısı kaybolur."
+	]
+	quest.5AE80FF518B1BBA6.quest_subtitle: "Cep Ritüeli!"
+	quest.5AE80FF518B1BBA6.title: "Mesleğin Araçları: Ritual Satchel"
+	quest.61999669BDE127F9.quest_desc: [
+		"Fark etmediyseniz, ritüelleri tekrar tekrar kurmak tebeşirlerinizin dayanıklılığını çok yıpratır. "
+		""
+		"Tebeşirinizin kırılmasından endişeleniyor, ancak yenisini yapmak için bütün ritüeli yeniden gerçekleştirmek istemiyorsanız bu ritüel tam size göre!"
+		""
+		"Bir &aDjinni'nin&r gücünü kullanarak her renk tebeşiri tam dayanıklılığına kadar onarabilirsiniz!"
+		""
+		"Alternatif olarak, tebeşirlerinizi kalıcı olarak korumak için Forbidden Arcanus modundaki &aEternal Stella&r gibi bir eşya kullanabilirsiniz!"
+	]
+	quest.61999669BDE127F9.quest_subtitle: "Sen kır, &mbiz&r İblisler düzeltiriz!"
+	quest.61999669BDE127F9.title: "Tebeşir Onarımı"
+	quest.6581D4AF1A6DE230.quest_desc: ["Demon'lar Mumları sever. Sanırım.\\n\\nArkadaşlarımızı çağıracağımız neredeyse her Ritüel için Mumlara ihtiyacınız olacak. &aButcher Knife&r (Kasap Bıçağı) yaratabilir ve bunları yapmak için biraz &aTallow&r (Donyağı) elde etmek amacıyla bazı domuzları, inekleri, koyunları, atları veya hatta Tüccar Lamalarını öldürebilirsiniz. Aslında Tüccar Lamalarını kesinlikle bulmalısınız. İyi mum yaptıklarını duydum. &mBunu kesinlikle uydurmadım&r.\\n\\nAksi takdirde, Vanilla Mumlar da işe yarayabilir!\\n\\n&9Spirit Attuned Crystals&r da birkaç Ritüelde kullanılır, bu yüzden şimdi biraz yapsanız iyi olur!"]
+	quest.6581D4AF1A6DE230.title: "Ritüele Hazırlık: &aCandles"
+	quest.666EA8B8F13EB292.quest_desc: ["Bu eşya, nakliye veya depolama amacıyla mob'ları yakalamak için kullanılır. Ayrıca &6ATM Yıldızı&r için de gereklidir."]
+	quest.666EA8B8F13EB292.title: "&dEmpty Soul Gem"
+	quest.67884BFA27870CCE.quest_desc: [
+		"&dOsorin's Unbound Calling&r, &dDemon-less rituals&r'ın (İblissiz ritüeller) ikinci aşamasıdır. İlk aşama ilerleme için hiç yararlı değildir, yalnızca Yoldaşları canlandırmak ve Sinirbozanları Huzurverenlere dönüştürmek için kullanılır. "
+		""
+		"Bu ritüel, başka türlü elde edemeyeceğiniz (veya elde etmesi zor olan) bir sürü nispeten nadir blok, eşya ve materyal oluşturmak için kullanılır."
+	]
+	quest.67884BFA27870CCE.quest_subtitle: "Sınama Odalarına gitmeye pek hevesli olmayanlarımız için"
+	quest.67884BFA27870CCE.title: "&dOsorin's Unbound Calling"
+	quest.690B89D23134B624.quest_desc: ["Tebeşirlerinizi alın, &dRonaza's Contact&r ritüelini çizin ve EN ÜSTÜN TEBEŞİRİ yapmaya hazırlanın!\\n\\n16 tebeşirin tamamını yanınızda taşımak yerine, Rainbow Chalk ile hepsinin yerine geçen ve renk değiştiren bir rün çizebilirsiniz!"]
+	quest.690B89D23134B624.title: "&zRainbow&r Chalk"
+	quest.6C1BBA559963B3DF.quest_desc: [
+		"&aDictionary Of Spirits&r (Ruhlar Sözlüğü), &dOccultism&r için Rehber Kitap görevi görür. Moda devam etmek istiyorsanız kesinlikle bunu yapmanız gerekecek!"
+		""
+		"Sözlükte, bu görevleri yapmak yerine onu okumayı tercih ederseniz görev tarzı bir rehber bulunmaktadır!"
+		""
+		"Ayrıca paketteki birkaç şeyi üretmek (craft etmek) için de kitaba ihtiyacınız olacak, bu yüzden bir nevi yapmak zorundasınız.:)"
+	]
+	quest.6C1BBA559963B3DF.title: "Küçük &cİblisler&r Kitabı"
+	quest.6CC5FE34778F0DFA.quest_desc: [
+		"Bu modpaketini oynarken çok fazla eşyanız olması kaçınılmazdır. Sistem böyle işliyor ve depolama durumunuzu henüz çözmediyseniz, &dDimensional Storage&r sizin için uygun olabilir!"
+		""
+		"Bu büyülü depolama çözümüne başlamak için &dDimensional Storage Actuator&r üretmeniz ve onu dünyaya yerleştirmeniz gerekecek. Bu tıpkı bir Shulker Kutusu gibi çalışır, yani onu kırarsanız içinde depolanan eşyaların hiçbirini kaybetmezsiniz."
+		""
+		"Varsayılan olarak bunun 128 depolama yuvası (slot) vardır ve &5NBT&r verisine sahip eşyalar haricinde her yuva bir eşyadan en fazla 16 yığın (stack) tutabilir. NBT'li eşyalar istiflenmez (stacklenmez) ve tam bir yuvayı kaplar, bu yüzden o eşyaları dışarıda bıraktığınızdan emin olun!"
+		""
+		"Hangi eşyaların NBT verisine sahip olduğundan emin değilseniz, NBT hakkında daha fazla bilgi edinmek için her zaman Temel Depolama görev dizisindeki \"NBT ve SEN!\" görevine göz atabilirsiniz!"
+	]
+	quest.6CC5FE34778F0DFA.title: "&c&mİblisî&r &dBüyülü Depolama&r!"
+	quest.6CCDEEDA2C99DA66.quest_desc: ["Bu Görev, AllTheMods Mod paketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan biri&r tarafından oluşturulmuştur. \\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansı altında olduğundan, bu Görevin &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette açık izin olmadan kullanılmasına izin verilmez. \\n\\nBu görev kasıtlı olarak gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.6FEED25FFAC4101F.quest_desc: ["&aStrigeor's Higher Binding&r'i kullanarak Gray Paste oluşturabilirsiniz. Gray Chalk (Gri Tebeşir) oluşturmak için bunu bir Impure White Chalk'a sürün."]
+	quest.6FEED25FFAC4101F.title: "&8Gray Chalk"
+	quest.6FFFAE334DFAAAAB.quest_desc: [
+		"Muhtemelen fark ettiğiniz gibi, ritüeller biraz... yavaş olma eğilimindedir. Ama artık değil! &cSevira's Permanent Confinement&r kullanarak, &bIesnium Ritual Bowl&r'u (Iesnium Ritüel Kasesi) yaratabilirsiniz. "
+		""
+		"Bunu Golden Ritual Bowl (Altın Ritüel Kasesi) yerine kullandığınızda, bir ritüeli gerçekleştirmenin ne kadar süreceğini büyük ölçüde azaltır ve orijinal süresinin dörtte birine indirir!"
+	]
+	quest.6FFFAE334DFAAAAB.quest_subtitle: "Süper hızlı Ritüeller!"
+	quest.6FFFAE334DFAAAAB.title: "Iesnium Ritual Bowl"
+	quest.74130EB1E4B8586D.quest_desc: ["&aIhagan's Enthrallment&r kullanarak, bir &6Possessed Bee&r (Ele Geçirilmiş Arı) çağırmak için bir Huzurveren, Yarasa, Arı veya Papağan kurban edebilirsiniz. Birini yendiğinizde, Orange Chalk yapmak için ana madde olan Cursed Honey düşürecektir!"]
+	quest.74130EB1E4B8586D.title: "&6Orange Chalk"
+	quest.78ECC28DD4BA9696.quest_desc: [
+		"&dOtherworld&r materyallerinin çoğunu Spiritfire kullanarak elde edebilseniz de, bu materyallerin yerini belirlemek için &9Divination Rods&r da kullanabilirsiniz."
+		""
+		"İlk olarak, Rod'u (Asayı) aradığınız malzemeye uyumlamanız (attune) gerekecek. Örneğin, &8Otherstone&r arayışındaysanız, dünyadaki Otherstone'un yerini bulmaya yardımcı olması için &aAndezit&r üzerinde Rod'u kullanabilirsiniz."
+		""
+		"Bir materyale uyumlandığında, elinizdeki Rod ile sağ tıklamaya basılı tutabilirsiniz, ve en yakın uyumlu olduğu malzemenin yönüne doğru bir parçacık fırlayacaktır."
+		""
+		"Otherworld bloğunu hasat edebilmek için hala &3Third Eye&r (Üçüncü Göz) etkisi altında olmanız gerekecek."
+	]
+	quest.78ECC28DD4BA9696.quest_subtitle: "&dOtherworld&r Materyalleri Avı"
+	quest.78ECC28DD4BA9696.title: "Mesleğin Araçları: Divination Rod"
+	quest.7B574DD5CC5ACAE3.quest_desc: ["&dOccultism&r ile devam etmeden önce, her Pentacle türünü yükseltmeyi öğrenmenin zamanı geldi. Her pentacle, kendi türündeki bir önceki pentacle'ın üzerine inşa edilir.\\n\\nBu, her bir Ritüel aşaması için ayrı Pentacle'lar inşa etmek yerine (Örn. &aDjinni&r'ler çağırmak ve &aFoliot&r'lar çağırmak için ayrı bir pentacle), bir pentacle'ın birden fazla Ritüel aşamasını idare etmesini sağlayabileceğiniz anlamına gelir. Örneğin, &9Fatma's Incentivized Attraction&r, önceki tüm Summoning pentacle'ları üzerine kuruludur.\\n\\nBu nedenle, her bir Pentacle türü için birer tane olmak üzere toplam 4 adet 19x19 alan hazırlamanızı öneririm: Biri Summoning (Çağırma) için, biri Infusion (İnfüzyon) için, biri Possession (Ele Geçirme) için ve biri de çeşitli ritüeller (başlıca Wild ve Eldritch) için."]
+	quest.7B574DD5CC5ACAE3.title: "Pentacle'lar İçin Önsöz"
+	quest.7BCD4A425CF6199B.quest_desc: ["&9Xeovrenth Adjure&r'dan çağrılan Goat of Mercy'i (Merhamet Keçisini) öldürdükten sonra, kendinizi bir Cruelty Essence (Zulüm Özü) daha zengin bulacaksınız. Bunu Brown Chalk (Kahverengi Tebeşir) oluşturmak için biraz Cocao Beans (Kakao Çekirdekleri) ile birleştirin."]
+	quest.7BCD4A425CF6199B.title: "&#4E2C00Brown Chalk"
+	quest.7F09F8F98C13F11B.quest_desc: [
+		"&cKurban&r olmadan iblis ritüeli mi olur! :D\\n\\nÇoğu zaman iblisler yalnızca eşya sever; şimdilik çok korkmayın. Ama sevdiğiniz bir inek varsa endişelenmeniz gerekebilir. Üzgünüm Betsy.\\n\\n&aSacrificial Bowl&r, ritüeller için gereken eşyaları yerleştirmek amacıyla kullanılır. Gerekli tebeşir çizimlerinden hiçbirini örtmedikleri sürece ritüel içinde herhangi bir yere konabilirler. "
+		""
+		"Şimdilik yalnızca dört tane gerekir, ancak ileride her ritüel için ondan fazla kâseye ihtiyacınız olacak!\\n\\n&6Golden Ritual Bowl&r, ritüeli etkinleştirmek için ortada kullanılır; genellikle içinde ritüel için bir Book of Binding de bulunmalıdır."
+	]
+	quest.7F09F8F98C13F11B.title: "Ritüele Hazırlık: &6Bowls"
+	quest.7F59941D62E672B0.quest_desc: [
+		"Occultism, cevherlerinizi parçalayacak (crush) Demon'lardan daha fazlasını sunar!"
+		""
+		"Sizin için eşyaları taşıyabilecek, odun kesebilecek ve daha fazlasını yapabilecek Demon'lar var!!"
+		""
+		"Ayrıca, size özel güçlendirmeler veren ve hatta sizin için savaşan, &dFamiliars&r olarak bilinen harika arkadaşları çağırmanın yolları da var! Rehber kitabınızdaki &dFamiliar Rituals&r'ı (Yoldaş Ritüellerini) kontrol ettiğinizden emin olun!"
+	]
+	quest.7F59941D62E672B0.title: "&dFamiliars"
+	task.036759CF4EEFFC7D.title: "Tüm Hakları Saklıdır"
+	task.05A43D4098C30ED1.title: "Eldritch Chalices"
+	task.0EE813C344409F59.title: "Candles"
+	task.10037D5225C2D20E.title: "Iesnium Sacrificial Bowl'lar"
+	task.1709A45C149125F1.title: "Tüm Hakları Saklıdır"
+	task.1BBB313192F51FA8.title: "Storage Actuator Tabanları"
+	task.2C5C6F411E2F0CAF.title: "Herhangi bir #c:dusts/netherite"
+	task.348A7E3E3A3D324E.title: "Evet, bunu okudum ve kesinlikle unutmayacağım!"
+	task.3621D48E2CFAF2C2.title: "Herhangi bir #c:wools"
+	task.4EDB733716D494CE.title: "Storage Actuator'lar"
+	task.51F520BF7DA37873.title: "Storage Stabilizer'lar"
+	task.523951BF097BA61F.title: "Herhangi bir #c:dusts/emerald"
+	task.53DE943DF951696B.title: "Demon Miner"
+	task.55DE27AB2EDB306E.title: "Sacrificial Bowls"
+	task.57108C994437F25B.title: "Herhangi bir #ae2:all_nether_quartz"
+	task.6A5F16B79D587128.title: "Golden Bowl'lar"
+	task.6B57473B652B8AAB.title: "Pentacle Yükseltmelerini Anlamak"
+	task.6C3887D42B6B2122.title: "Familiars"
+	task.792FA8ED0719803C.title: "Stable Wormholes"
+}

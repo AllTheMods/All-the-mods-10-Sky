@@ -1,0 +1,11 @@
+{
+	quest.3708A4780ACEB34E.quest_desc: ["Bu mod paketinde görevler isteğe bağlıdır. Modlara erişmek için herhangi bir görevi tamamlamak zorunda değilsin!\\n\\nAna görev serisinin dışındaki birçok bireysel görev serisinin mod rehberleri olarak hizmet etmesi amaçlanmıştır. İlerlemeyi takip etmek istiyorsan, Ana Görev Serisine göz attığından emin ol!"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 To the Sky, çeşitli modları kendi tarzınızda keşfetmenizi sağlayan, geniş içerikli bir mod paketidir!\\n\\nHerhangi bir sorunuz veya sorununuz varsa ATM Discord'una katılabilirsiniz!"]
+	quest.3BC0A50886A3222B.title: "&dAll The Mods 10'a Hoş Geldiniz, Artık Gökyüzünde (Yine)"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["Bu Görev, &6AllTheMods&r ekibi veya AllTheMods mod paketlerinde kullanılmak üzere bir &2topluluk katılımcısı&r tarafından hazırlanmıştır. \\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan herhangi bir herkese açık pakette kullanılmasına izin verilmez. \\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.5AC1BE754210429E.quest_desc: ["Kendin ve arkadaşların için bir takım oluşturmak istiyorsan, takımı oluşturmak için &a/ftbteams party create (takımın adı)&r komutunu kullan!"]
+	task.201F519941A2C7F4.title: "Tüm Hakları Saklıdır"
+	task.2C816285392535F0.title: "Tüm Hakları Saklıdır"
+	task.4F13A02FB0055A62.title: "Takım Oluşturma"
+	task.52BB142F044075B4.title: "Görevler"
+}

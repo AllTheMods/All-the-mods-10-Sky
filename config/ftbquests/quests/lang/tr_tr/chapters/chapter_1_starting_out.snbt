@@ -1,0 +1,136 @@
+{
+	quest.01B5005BF9056A2E.quest_subtitle: "Kumu Hammer ile kırın"
+	quest.040C336C718DCC7D.quest_desc: ["Bu bir &6&lATM Mod Paketi&r; &lÇOK FAZLA&r malzemeye ihtiyacınız olacak. \\n\\nPeki tonlarca &7Çakılı&r ne yapacağız? Bir milyar sandık mı kullanacağız? \\n\\nHayır, bunun yerine 9 bloğu birleştirip 1 sıkıştırılmış blok yapabiliriz. \\n\\nBunu pek çok farklı blokla yapabilirsiniz; üstelik her birini daha da sıkıştırabilirsiniz!"]
+	quest.040C336C718DCC7D.title: "Sıkıştırılmış Bloklar"
+	quest.043AB8772206FF71.quest_desc: ["&0Çakmak Taşı&r, normalde olduğu gibi &7Çakılı&r kırarken nadiren elde edilebilir; blokları &bSieve ile eleyerek&r de bulabilirsiniz! \\n\\n&2&lMinecraft&r'ta &0Çakmak Taşı&r genellikle pek işe yaramaz. Çakmak yaparsınız, sonra... başka bir şey yok. \\n\\nAma &b&lSkyblock&r çok farklı! Bu yüzden oyunun başlarında bulduklarınızı alın ve saklayın."]
+	quest.043AB8772206FF71.title: "&8Çakmak Taşı"
+	quest.04ACC7E762537FB4.quest_desc: ["Burada cevherleri çoğaltmak için bir milyar gösterişli makineye ihtiyacımız yok... yalnızca birkaç tane yeterli! \\n\\n&3&lID&r modundaki &3&lSqueezer&r, &7Ham Cevher Bloklarını&r &7Ham Cevhere&r dönüştürebilir. \\n\\nKullanmak için &7Ham Cevher Bloğunu&r &3&lSqueezer&r içine yerleştirin ve aşağı bastırmak için üzerinde zıplayın. Ezildiğinde &7Ham Cevher&r dışarı çıkar. Nadiren daha fazlasını bile verebilir! \\n\\nAma bekleyin! Hepsi bu kadar değil! \\n\\nCevher Çekiçlerimiz de var. Bunlar &7Ham Cevherleri&r 2 &7Toza&r parçalayabilir; bu tozlar da eritilerek &7Külçelere&r dönüştürülebilir."]
+	quest.04ACC7E762537FB4.title: "Kolay Cevher Çoğaltma"
+	quest.091F1D752FA3BAAC.quest_desc: ["Yalnızca 2 &0Çakmak Taşıyla&r &0Çakmak Taşı Makas&r yapabiliriz. Normal makas gibi çalışır, yalnızca daha ucuzdur. \\n\\n&2Yaprakları&r elde etmek için buna ihtiyacımız olacak! \\n\\nBir de yün... yüne ihtiyacınız varsa."]
+	quest.091F1D752FA3BAAC.title: "&2Yaprak&r Toplamak"
+	quest.0BD70DFE33D84323.quest_desc: [
+		"Kaynaklarımızın çoğunu &b&lSieve&r ile elde edeceğiz. \\n\\nSieve'ları yerleştirdiğinizde pek bir şey yapmazlar. Kullanabilmek için bir Mesh takmamız gerekiyor. İlk kullanacağımız String Mesh, ama daha sonra geliştirilebilir. \\n\\nMesh'i takmak için elinizde tutarken &b&lSieve&r üzerine sağ tıklayın; çıkarmak için Shift basılıyken sağ tıklayın. \\n\\nMesh takılıyken belirli blokları &b&lSieve&r içine sağ tıklayarak yerleştirip elekten geçirebiliriz. Sağ tıklamaya devam edin veya basılı tutun; tamamen elendiklerinde eşya düşürürler. \\n\\nİpucu: Yan yana duran &b&lSieve&r blokları aynı anda çalışır! Bu özellik 5x5 büyüklüğünde bir alana kadar kullanılabilir!"
+		"{image:atm:textures/questpics/chap1/chap1_sieve.png width:100 height:100 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_sieves.png width:100 height:100 align:center}"
+	]
+	quest.0BD70DFE33D84323.title: "&b&lSieve &rve Mesh"
+	quest.0D794D25F04E04A7.quest_desc: ["&c&lNether&r'da &4Netherrack&r bulamayız. Orası biraz boş. Bunun yerine kendimiz üretmeliyiz! \\n\\nBir &6&lBarrel&r içinde &5Witch Water&r ile &cLavı&r birleştirerek &4Netherrack&r yapın. \\n\\nDaha fazla eşya elde etmek için onu bir &8Hammer&r ile kırıp &bSieve ile eleyebiliriz&r!"]
+	quest.0D794D25F04E04A7.title: "&4Netherrack"
+	quest.0E7F7CF44A982EA3.quest_desc: ["&7Kil Topları&r ile Kemik Tozunu birleştirerek &3Porcelain Clay&r yapabilirsiniz. \\n\\nBunu &3Porcelain Bucket&r yapmak veya daha büyük kovalar olan &c&lCrucible&r bloklarını üretmek için kullanacağız!"]
+	quest.0E7F7CF44A982EA3.title: "&3Porcelain Clay"
+	quest.0FEFD055B435B17F.quest_desc: ["Sonunda biraz &cLav&r elde edebiliriz. Artık &7Kırık Taş Jeneratörlerini&r bozma endişesine gerek yok! \\n\\nSonsuz &cLav Kaynakları&r oluşturamayız, ama en azından daha fazla lav üretmeye devam edebiliriz. \\n\\nLav, sıvı karışımları ve başka tarifler için çok önemli; bu yüzden muhtemelen bol miktarda ihtiyacınız olacak!"]
+	quest.0FEFD055B435B17F.title: "&cLav"
+	quest.11032183CCCA206D.quest_desc: ["&aBarışçıl Yaratıkların&r doğması için 2 şey gerekir. \\n\\n1. &2Çimenli Toprak&r; bu bizde var. \\n\\n2. Işık; buna da ihtiyacımız olacak! \\n\\nOrtam yeterince aydınlıksa ve doğabilecekleri &2Çimenli Toprak&r varsa rastgele doğarlar. \\n\\nBazen bunun gerçekleşmesi biraz zaman alabilir."]
+	quest.11032183CCCA206D.title: "&aBarışçıl Yaratıklar"
+	quest.128A1EEAF8F45042.quest_desc: ["Toprağı &bSieve ile elediğinizde&r nadiren &5Mycelium Spores&r elde edersiniz. \\n\\nBunlar &2Grass Seeds&r gibi çalışır: Toprağa veya &2Çimenli Toprağa&r uygulayarak &5Miselyum&r elde edin!"]
+	quest.128A1EEAF8F45042.title: "Küf Gelsin!"
+	quest.145917B219D0D28D.quest_desc: ["Tüm &bSkyblock&r dünyaları temel ihtiyaçlarla başlar: &2Çimenli Toprak &fve bir &2Ağaç&r. \\n\\n&6Odun&r ve &6Odundan&r yapılan her şey için &2Ağaca&r ihtiyacımız var. Peki ya &2Çimenli Toprak&r? \\n\\nÖncelikle 1. &aBarışçıl Yaratıkların&r doğmak için &2Çimenli Toprağa&r ihtiyacı vardır. 2. &2Çimenli Toprak&r diğer topraklara yayılır. 3. &2Çimenli Toprağa&r Shift basılıyken sağ tıklayarak &7Pebble&r elde edebiliriz!"]
+	quest.145917B219D0D28D.title: "&2Çimenli Toprak"
+	quest.162AB6F9257EB71E.quest_desc: [
+		"İlk enerjinizi üretmek için pek çok yöntem var."
+		""
+		"Bu pakette Generators Galore elden geçirildi! 8x ve 64x seviyelerine daha ucuz yükseltmeler ve tüm seviyelerde artırılmış enerji üretimi sayesinde güçlü bir lav jeneratörü edinip işe koyulabilirsiniz! ATM10:TTS'te otomasyona başlamak istiyorsak enerji üretimini biraz daha ilerletmeli ve bazı yeni modlara göz atmalıyız!"
+		""
+		"İşte paketteki modlardan bazıları!"
+		""
+		"&bGenerators Galore&r (seviyeler ve değişiklikler)"
+		""
+		"&bGrowth Accelerator seviyeleri&r (yönlü olanı öneriyoruz; çok hızlı!)"
+		""
+		"&bGeores&r (eksik malzemelerinizi yetiştirin!)&r"
+	]
+	quest.162AB6F9257EB71E.title: "Sonraki Bölüm"
+	quest.1B186F14606C07D7.quest_desc: ["Bir &6&lBarrel&r içinde (tercihen &7&lStone Barrel&r) &eIşık Taşıyla&r &cLavı&r birleştirmek &eEnd Taşı&r üretir. \\n\\nTıpkı &4Netherrack&r gibi bunu da bir &8Hammer&r ile kırabilir, ardından kırılan parçaları &bSieve ile eleyebiliriz&r! \\n\\nBöylece &3Ender İncileri&r, &aEnder Gözleri&r ve daha fazlasını elde ederiz..."]
+	quest.1B186F14606C07D7.title: "&eEnd Taşı"
+	quest.1E9F1FBAA6AAA43B.quest_desc: ["&cDüşman Yaratıklar&r, &aBarışçıl Yaratıklara&r göre daha kolay doğar. \\n\\nOrtam yeterince karanlıksa ve sizden en az 24 blok uzaktalarsa doğarlar. \\n\\nAdanız büyüyorsa onu aydınlatmak isteyebilirsiniz!"]
+	quest.1E9F1FBAA6AAA43B.title: "&cDüşman Yaratıklar"
+	quest.1FA3ACD9B8CD02FE.quest_desc: ["Hangi &9Su&r? &5Witch Water&r! \\n\\nBir &5Miselyum Bloğunun&r üzerine &6&lBarrel&r yerleştirin ve &5Witch Water&r elde etmek için içine &9Su&r koyun. \\nBiraz zaman alır ama sorun değil, sabırlıyız! \\n\\n(Bu arada, &5Witch Water&r yakınındaki &5Miselyum Bloklarında&r &cMantarlar&r büyümeye başlar!)"]
+	quest.1FA3ACD9B8CD02FE.title: "&5Witch Water"
+	quest.23E71537225B8392.quest_desc: [
+		"Yeni elde ettiğimiz odundan çubuk yapabiliriz. Çubuklarla da bir &6Crook&r yapabiliriz! \\n\\nBunları &2Yaprakları&r kırmak için kullanabilirsiniz. Bu şekilde kırılan &2Yapraklar&r daha fazla &2Fidan&r ve &eSilkworm&r adlı yeni bir eşya düşürür. \\n\\n&2Yaprakları&r istila etmeleri için bu &eSilkworm&r eşyalarını yapraklara uygulayın. İstila zamanla diğer yapraklara yayılır ve büyür. \\n\\nAklı başında biri neden &eSilkworm&r istilası istesin diye soruyorsunuz, değil mi? \\n\\nElbette ip için! İp elde etmek için artık beyazlaşmış olan yaprakları kırmanız yeterli."
+		"{image:atm:textures/questpics/chap1/chap1_tree.png width:100 height:100 align:center}"
+	]
+	quest.23E71537225B8392.title: "&2Ağaçlarımızı&r İstila Etmek"
+	quest.25B49E9D15BAEF3E.quest_desc: ["&9Su&r birkaç farklı yöntemle elde edilebilir. \\n\\n&9Yağmur&r, &6&lBarrel&r içinde kompostlama, &bBuz&r! \\n\\nHangi yöntemi kullanırsanız kullanın, 2x2 bir alanda birbirine çapraz konumda 2 &9Su Kaynağı&r yerleştirerek hemen bir &9Sonsuz Su Kaynağı&r oluşturun. \\n\\nArtık &9Su&r elde etmek için endişelenmemize gerek yok!"]
+	quest.25B49E9D15BAEF3E.title: "&9Su"
+	quest.29F82373417B2006.quest_desc: ["Fidanlarınız mı bitti? Görev menüsünün sağ üst kısmından acil durum fidanları alabilirsiniz! Üstelik bu görev tekrarlanabilir; kötü bir şey olursa dünyanızı yeniden başlatmanız gerekmez!"]
+	quest.29F82373417B2006.title: "Acil Durum Fidanları"
+	quest.2A3BF8D20EEED292.quest_desc: [
+		"&6&l(Oak) Barrel&r, &2&lMinecraft&r varillerinden oldukça farklıdır. \\n\\nHatta pek çok farklı eşya ve blok için buna ihtiyacımız olacak! \\n\\nİçine sıvı koyup bir eşya atarak eşyaları sıvılarla karıştırabiliriz. \\n\\nİki sıvıyı da &6&lBarrel&r içine koyarak sıvıları birbiriyle bile karıştırabiliriz. \\n\\nBu arada, &cLav&r ile karışım yapmak için &7&lStone Barrel&r kullanmalısınız. &6Ahşap&r olanlar yanar! \\n\\n&9Yağmur&r yağarsa &9Suyla&r dolar."
+		"{image:atm:textures/questpics/chap1/chap1_barrel.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_leaves.png width:100 height:110 align:center}"
+	]
+	quest.2A3BF8D20EEED292.title: "&6&l(Oak) Barrel"
+	quest.2C134DDBF9283407.quest_desc: ["Başlangıcı hızlandırmak isteyenler için bu görev bir 'kolay mod' başlangıcı sunar. Bu görevi tamamlamak zorunda değilsiniz; ilerlemek için isteğe bağlıdır."]
+	quest.2C134DDBF9283407.quest_subtitle: "İlerleyişi hızlandırmak isteyenler için"
+	quest.2C134DDBF9283407.title: "Önden Başlamak"
+	quest.322F7A333B35F7FD.quest_desc: ["Malzeme elde etmek için blokları &b&lSieve&r ile elemeliyiz... tamam ama bu &7Taşlar&r &b&lSieve&r içinden geçemeyecek kadar sert. \\n\\nOnları &8Hammer ile parçalamaya&r ne dersiniz! \\n\\nŞaka mı yapıyordum sandınız? Blokların kırılmış hallerini elde etmek için onları &8Hammer&r ile kırın!"]
+	quest.322F7A333B35F7FD.title: "&8Hammer"
+	quest.376BAC497511F067.quest_desc: [
+		"Üretim masasında bir ocağın etrafını demirle çevreleyerek onu Iron Furnace'a yükseltebilirsiniz."
+		""
+		"Bunlar daha hızlı eritme yapar. Ayrıca arayüzün sol üst köşesindeki dişli simgesinden otomasyon için yapılandırılabilir."
+	]
+	quest.376BAC497511F067.quest_subtitle: "Bu pakette her şeyin bir yükseltmesi mi var?"
+	quest.376BAC497511F067.title: "Demirle Demir Eritmek"
+	quest.3948A052907BEC04.quest_subtitle: "Karataşı Hammer ile kırın"
+	quest.3C5AAFC9672F2CF7.quest_desc: ["Eşya elde etmek için toprağı da bir &b&lSieve&r içine koyabiliriz! \\n\\nToprak oldukça nadir ve gerekli olduğundan &bElemek&r için yeterince toprağınız olduğundan emin olun. \\n\\nToprak bize &2Ekin&r eşyalarının yanı sıra &2Grass Seeds&r verir! &2Grass Seeds&r, toprağı &2Çimenli Toprağa&r dönüştürmek için kullanılabilir. \\n\\nHerhangi bir yerdeki herhangi bir toprak!"]
+	quest.3C5AAFC9672F2CF7.title: "&2Grass Seeds"
+	quest.441200BE0C75C2AD.quest_desc: ["Mesh'ler geliştirilebilir! Yeni eşyalar elde etmek için de geliştirilmeleri gerekir! \\n\\nTüm eşyaları JEI üzerinden kontrol edebilirsiniz; ama genel olarak Mesh ne kadar iyiyse düşen eşyalar da o kadar iyidir. \\n\\nHem düşen eşyalar hem de düşme oranları kullanılan Mesh'e göre değişir."]
+	quest.441200BE0C75C2AD.title: "Geliştirilmiş Mesh'ler"
+	quest.469E414BC7F0C238.quest_desc: ["&3Porcelain Bucket&r, &7Demir Kovalar&r gibi çalışır. \\n\\nYalnızca daha ucuzdur, oyunun başlarında daha kolay elde edilir ve &cLav&r yerleştirildikten sonra kırılır! \\n\\nBir dakika, ne? \\n\\nEvet, sıcağa dayanıklı değildir; &cLavı&r yerleştirdikten sonra &3Porcelain Bucket&r kırılır. \\n\\nAma &9Su&r için sorun yok!\\n\\nİsterseniz bu görevi tamamlamak için &7Demir Kovalar&r da kullanabilirsiniz."]
+	quest.469E414BC7F0C238.title: "&3Porcelain Bucket"
+	quest.488C8BDF45B9CA0F.quest_desc: [
+		"&aGateway&r, &aBarışçıl Yaratıklar&r ve ganimet ödülleri elde etmenin kolay bir yoludur! \\n\\nTamam, belki o kadar kolay değildir. &cCanavar&r dalgalarıyla savaşmanız gerekir. Üstelik yapmak için bir &aEnder Gözüne&r ihtiyacınız var. \\n\\nAma buna değer! \\n\\nFarklı &aGateway&r türleri farklı ödüller ve &cCanavarlar&r sunar. Bu, her çiftlik hayvanından 6 tane verecek."
+		"{image:atm:textures/questpics/chap1/chap1_gateway.png width:100 height:100 align:center}"
+	]
+	quest.488C8BDF45B9CA0F.title: "Bedava Yaratıklar!!!"
+	quest.4C502B5A1C1A0C58.quest_desc: ["&9Sudan&r &7Kil&r elde ettiğimiz gibi &5Witch Water&r içine de &eKum&r atabiliriz; ancak bu kez &8Ruh Kumu&r elde ederiz. \\n\\nDaha fazla &c&lNether&r eşyası elde etmek için &8Ruh Kumunu&r &bSieve ile eleyebiliriz&r! \\n\\nBu arada, &c&lNether&r sizi biraz hayal kırıklığına uğratabilir..."]
+	quest.4C502B5A1C1A0C58.title: "&8Ruh Kumu"
+	quest.4CCA1C828677D518.quest_desc: ["Bir &2Çimenli Toprak&r bloğunun üst yüzüne bakarken Shift basılı tutup sağ tıklamaya devam ederseniz &7Pebble&r elde edersiniz! \\n\\n&7Taş&f, &8Kayrak Taşı&f, &7Andezit&f, &dGranit&f, Diyorit, &0Karataş&r ve &8Bazalt&r için &7Pebble&r bulunur. \\n\\n4 &7Pebble&r birleştirerek onlara karşılık gelen &7Taşı&r yapabiliriz. Ya da envanterinizdeki bir yığın &7Pebble&r üzerine gelerek K tuşuna basabilirsiniz! \\n\\nBu yöntem benzer tarifleri olan pek çok eşya için çalışır; deneyin!"]
+	quest.4CCA1C828677D518.title: "&2Çimenli Toprağı&r Eşelemek"
+	quest.522B2CE771DDBA0F.quest_desc: ["Yalan söyledim; &6&lBarrel&r yalnızca sıvıları karıştırmaz. Kompost da yapar! \\n\\nBir &6&l(Oak) Barrel&r içine biraz &2Ekin&f, &2Yosun Bloğu&f veya &2Yaprak&r atın; toprağa dönüşsün. \\n\\nOyunun başlarında daha fazla toprak elde etmenin tek yolu budur!"]
+	quest.522B2CE771DDBA0F.title: "Toprak Yapmak mı?"
+	quest.52DD11BC71F45E32.quest_desc: [
+		"&9&lCrucible&r bloklarının burada bulunmasının tek bir nedeni var: Bedava olmayan &9Su&r! \\n\\n&9Yağmurun&r &6Barrel&r bloklarını ücretsiz doldurmasını bekleyebilir veya bir &9&lCrucible&r içine &2Yaprak&r atıp bekleyebilirsiniz. \\n\\nİnanın bana, &9&lCrucible&r çok daha hızlı!"
+		"{image:atm:textures/questpics/chap1/chap1_crucible.png width:100 height:100 align:center}"
+	]
+	quest.52DD11BC71F45E32.title: "&2Yapraklardan &fGelen &9Su"
+	quest.60D53C6A50F9245B.quest_subtitle: "Çakılı Hammer ile kırın"
+	quest.6113DCE514DBB5D4.quest_subtitle: "Kırık Taşı Hammer ile kırın"
+	quest.62AF24DD96B7B4AD.quest_desc: ["&7Cevher&r elde etmek için &b&lSieve&r kullandığımızda doğrudan &7Ham Cevher&r bulmayız. Hayır, bu çok kolay olurdu! &7Ore Chunk&r elde ederiz! \\n\\n4 &7Ore Chunk&r birleştirerek 1 &7Ham Cevher Bloğu&r yapabiliriz. \\n\\nEnvanterinizdeki &7Ore Chunk&r üzerine gelerek K tuşuna basıp bunları hemen birleştirebilirsiniz!"]
+	quest.62AF24DD96B7B4AD.title: "&7Ore Chunk"
+	quest.62C9E87ECD00CA84.quest_desc: ["&b&lSkyblock&r, normal bir &2&lMinecraft&r dünyası gibi başlar! O &2Ağaca&r yumruk atın! \\n\\nYalnız... aşağı bakmayın. \\n\\nVe &2Fidanı&r kaybetmemeye dikkat edin! "]
+	quest.62C9E87ECD00CA84.title: "&2Ağaçları&r Yumruklamak"
+	quest.62FCB337688ACDBC.quest_desc: ["&6Ahşap Aletler&r yapmakla uğraşmayın; doğrudan &7Taş Aletlere&r geçin. \\n\\nEvet, &9Su &fve &cLav&r ile hâlâ &7&lTaş Jeneratörleri&r yapabilirsiniz! \\n\\nDaha zor yolu seçtiyseniz bunları henüz kullanamazsınız. O aşamaya ulaşmak için görevlerde biraz daha ilerlemelisiniz."]
+	quest.62FCB337688ACDBC.title: "&7Kırık Taş"
+	quest.647E94E2156CB596.quest_desc: [
+		"&b&lATM9TTS&r oynadıysanız, üzerlerindeki envantere &7Kırık Taş&r üreten &7Taş Jeneratörü Bloklarını&r muhtemelen hatırlarsınız. \\n\\nBunlar biraz farklı çalışır... Blokları toplamak için yine &7&lStone Block Generator&r üzerine bir envanter yerleştirmelisiniz, ama üretim yöntemi farklıdır. \\n\\nÇalışması için &7&lStone Block Generator&r bloğunun 2 yanına bir &cLav Kaynağı&r ve bir &9Su Kaynağı&r yerleştirmeliyiz. Ardından &7Kırık Taş&r üretmeye başlar. \\n\\n&7Andezit&r veya hatta &5Obsidiyen&r gibi başka bloklar üretmek istiyorsak bu blokları &7&lStone Block Generator&r altına yerleştirmeliyiz. Daha fazla tarif için JEI'ye bakın! \\n\\n&l&7Stone Block Generator&r yükseltilebilir; yükseltmeler yalnızca üretimi hızlandırır!"
+		"{image:atm:textures/questpics/chap1/chap1_stone.png width:150 height:100 align:center}"
+	]
+	quest.647E94E2156CB596.title: "&7&lStone Block Generator"
+	quest.658751C690E2B520.quest_subtitle: "Kayrak Taşını Hammer ile kırın"
+	quest.6C1D268CE2B0D05D.quest_desc: [
+		"Biraz &3Porcelain&r pişirerek &c&lPorcelain Crucible&r yapın. \\n\\nBunların yalnızca 1 amacı var: Eşyaları pişirerek &cLava&r dönüştürmek! \\n\\n&c&lPorcelain Crucible&r bloğunu bir &6Isı Kaynağının&r üzerine yerleştirin. Bazı kaynaklar daha fazla &6Isı&r sağlar ve işlemi hızlandırır. &cAteş&r, &eFenerlerden&r daha fazla ısı sağlar; &cAteş &faynı şekilde &cLavdan&r da daha fazla ısı sağlar. \\n\\nSonra &c&lPorcelain Crucible&r içine bloklar koyun. Örneğin &7Taş&r, hatta &4Netherrack&r. Bir süre sonra &cLav&r üretir!"
+		"{image:atm:textures/questpics/chap1/chap1_lava.png width:120 height:200 align:center}"
+	]
+	quest.6C1D268CE2B0D05D.title: "&c&lPorcelain Crucible"
+	quest.6CCF2126B2BA72A6.quest_desc: ["Normalde &2Yosun Bloğunu&r &2Yemyeşil Mağaralarda&r buluruz... şey, &b&lGökyüzünde&r mağaralar nerede? \\n\\nNeyse ki 4 &2Grass Seeds&r birleştirerek 1 &2Yosun Bloğu&r yapabiliriz! \\n\\nBu alışveriş pek adil gelmedi mi? &2Yosun Bloğuna&r Kemik Tozu uygulayarak onu yakındaki tüm topraklara, &2Çimenli Toprağa&r ve &7Taşa&r yayabileceğinizi unuttunuz mu? \\n\\n&2Yosun Bloğu&r, toprak gibi &bSieve ile elenebilir&r; ancak &2Ekinler&r yerine &2Fidanlar&r elde ederiz!"]
+	quest.6CCF2126B2BA72A6.title: "&2Yosun Bloğu"
+	quest.70C2B568FA46337F.quest_desc: ["Bol miktarda &7Çakıl&f/&eKum&r/Dust gerekecek. O halde her seferinde 9x daha fazla üretelim! \\n\\n9 &8Hammer&r birleştirerek bir &8Compressed Hammer&r yapın. Bunlar sıkıştırılmış blokları normal bloklarmış gibi &8Hammer ile kırabilir&r. \\n\\n&7Compressed Cobblestone&r, &8Hammer&r ile kırıldığında 9 &7Çakıl&r verir."]
+	quest.70C2B568FA46337F.title: "Sıkıştırılmış Blokları Kırmak"
+	quest.79D6F21C1E1D1749.quest_desc: ["Başarısız tüm &b&lSkyblock&r dünyalarının travması... &5Obsidiyen&r. \\n\\nPek çok &b&lSkyblock&r oyuncusunun öğrendiği gibi &9Su &fbir &cLav Kaynağı&r bloğuna değdiğinde &5Obsidiyen&r oluşur. \\n\\n&6&lBarrel&r kullanarak bunu daha sakin bir şekilde yapabiliriz!"]
+	quest.79D6F21C1E1D1749.title: "&5Obsidiyen"
+	quest.7ADFD864139BF2F2.quest_desc: ["&b&lGökyüzüne&r hoş geldiniz! \\n\\nBir şeylerin eksik olduğunu fark etmiş olabilirsiniz... aslında neredeyse her şeyin! \\n\\nFazla zemin sorunu yaşıyorsanız (yani &bSkyblock&r yerine normal bir &2Dünya&r oluştuysa), yanıt için &9Discord&r sunucusundaki sık sorulan sorulara bakın. \\n\\n\"/skyblock gui\" komutunu kullanın. Bu, bir ada kurmak için takım oluşturmanızı sağlar! Başlamak için ada türünü ve adını seçin. Diğer ayarlar çok oyunculu oyun içindir."]
+	quest.7ADFD864139BF2F2.quest_subtitle: "All The Mods 10: To the Sky'a hoş geldiniz! Artık çift haneli."
+	quest.7ADFD864139BF2F2.title: "Başlangıç"
+	quest.7B08D4FC6F1B0005.quest_desc: ["Bir &6&lBarrel&r içine biraz &9Su&r koyun, ardından &7Kil&r elde etmek için içine bir Dust bloğu atın! \\n\\n&7Kili&r almak için &6&lBarrel&r üzerine sağ tıklamalısınız. \\n\\n&cAteş Tuğlaları&r ve &3Porcelain Clay&r gibi birkaç şey için &7Kile&r ihtiyacımız olacak."]
+	quest.7B08D4FC6F1B0005.title: "&7Kil"
+	quest.7CC729E68A89D962.quest_desc: ["Bir &6&lBarrel&r içinde &9Suyla&r sütü birleştirerek &aBalçık Blokları&r elde edebiliriz! \\n\\nBu nasıl oluyor? \\n\\nBilmiyorum! \\n\\nVe gerçekten bilmek istemiyorum!"]
+	quest.7CC729E68A89D962.quest_subtitle: "Vıcık vıcık"
+	quest.7CC729E68A89D962.title: "&aBalçık"
+	task.16149AC27DE92A7D.title: "Kovalar"
+	task.2019707AE4DAC703.title: "Acil Durum Fidanları"
+	task.518973EFC99E5792.title: "Lav Kovaları"
+	task.6249DAB966E77A4C.title: "Su Kovaları"
+}
