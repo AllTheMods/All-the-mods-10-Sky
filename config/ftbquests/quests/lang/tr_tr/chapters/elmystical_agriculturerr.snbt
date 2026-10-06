@@ -1,0 +1,184 @@
+{
+	quest.04A7AA70C23830FF.quest_desc: ["Oraklar, geniş alanlardaki organik materyalleri temizlemek için kullanılan aletlerdir. Kırdığınız bloğun etrafındaki alanda yer alan blokları da topluca kırarlar."]
+	quest.04B6E31120663EB2.quest_subtitle: "Aşama: &a2"
+	quest.06EAA74E0A10CBB6.quest_subtitle: "Menzil: &b36&r blok"
+	quest.06EAA74E0A10CBB6.title: "&9Imperium Büyüme Hızlandırıcısı"
+	quest.07564DBB023EE2A6.quest_subtitle: "Aşama: &b4"
+	quest.077B2D62FA7650FB.quest_subtitle: "Menzil: &627&r blok"
+	quest.077B2D62FA7650FB.title: "&cTertium Büyüme Hızlandırıcısı"
+	quest.0B37355262121DD5.quest_desc: ["&aİnfüzyon Sunağı&r, tüm tohumları üretme yönteminizdir. Önce İnfüzyon Sunağını yerleştirin; İnfüzyon Kaidelerinin nereye yerleştirileceğini size gösterecektir.\\n\\nİnfüzyonun başlaması için İnfüzyon Sunağının bir &4Redstone sinyaline&r ihtiyacı vardır."]
+	quest.0B37355262121DD5.quest_subtitle: "Tohum Üretimi"
+	quest.0B37355262121DD5.title: "&4İnfüzyon Sunağı"
+	quest.0EFEDB0DD90DFC81.quest_desc: ["Hasatçı, ekinleri otomatik olarak toplayıp yeniden eker. Topladığı eşyaları kendi dahili envanterine depolar."]
+	quest.13124A7E22999850.quest_subtitle: "Aşama: &e1"
+	quest.15D764CAF047EA7A.title: "&cTertium Zırh&r"
+	quest.1609BF52108238B0.quest_subtitle: "Aşama: &e1"
+	quest.1636F3F12E92CAEA.quest_desc: [
+		"Sulama Kabını kullanmak için öncelikle bir su kaynağı bloğuna sağ tıklayarak suyla doldurmalısınız. Dolduktan sonra etki alanındaki ekinleri sulamak için bir ekine sağ tıklayıp basılı tutabilirsiniz."
+		""
+		"Öz sulama kapları otomatik sulama özelliğine sahiptir. Otomatik sulamayı açıp kapatmak için elinizdeyken havada Shift + Sağ Tık yapmanız yeterlidir. Açıldığında sulama kabı büyülü gibi parlayacaktır."
+	]
+	quest.16E3031D800B40D5.quest_desc: ["Soulium Canavar Çağırıcı, yaratık çağırmak için yaratık özlerini kullanır. Örneğin içine bir miktar Ghast Özü koyarak Ghast oluşturabilirsiniz."]
+	quest.1C2CF6253F8B32EE.quest_subtitle: "Kademe: &56"
+	quest.1C4ABF4518638A82.quest_desc: ["Güçlendirmeler:\\n\\n - Hasar Emilimi II (3:00)\\n - Hız II (3:00)\\n - Direnç II (3:00)\\n - Yenilenme II (3:00)\\n - Kuvvet II (3:00)"]
+	quest.1C4ABF4518638A82.title: "&4Supremium Elma"
+	quest.1CC4F8570A7A99EB.quest_desc: ["&dÖz&r, Mystical Agriculture'daki tüm tarım ihtiyaçlarınızın başlangıç noktasıdır.\\n\\n&eInferium Özü&r, tüm özlerin ilk kademesidir. Madencilik yaparak, yaratıkları öldürerek veya tohumlarını ekip yetiştirerek elde edebilirsiniz!\\n\\nDaha üst kademe özler üretmek için bir &9İnfüzyon Kristali&r yapmanız gerekecek."]
+	quest.1CC4F8570A7A99EB.quest_subtitle: "Aşama: &e1"
+	quest.1CC4F8570A7A99EB.title: "&aInferium"
+	quest.1CF8263756EE8F2A.quest_desc: ["Bu özel tozu (&eBilişsel Toz&r), Wither veya Ender Ejderhası'nı &dMistik Aydınlanma&r büyülü bir &dÖz Silahı&r ile katlettiğinizde elde edersiniz."]
+	quest.1CF8263756EE8F2A.title: "&5Bilişsel Toz&r"
+	quest.1E0F92F07FDD162E.quest_desc: ["Kaynak ekinleri yetiştirmek için &bProsperity Tohum Temellerine&r ihtiyacınız olacak."]
+	quest.1E0F92F07FDD162E.quest_subtitle: "Her Şeyin Temeli"
+	quest.1E0F92F07FDD162E.title: "&bProsperity Tohum Temeli"
+	quest.1E414D285E7A5FE2.title: "&cTertium Aletler"
+	quest.1E7DC8E0493BE99E.quest_subtitle: "Aşama: &e1"
+	quest.1F7591DB6D8EC1E7.quest_desc: ["Güçlendirmeler:\\n\\n - Hasar Emilimi II (3:00)\\n - Hız II (3:00)\\n - Direnç II (3:00)\\n - Yenilenme II (3:00)\\n - Kuvvet II (3:00)\\n - Acele II (3:00)"]
+	quest.1F7591DB6D8EC1E7.title: "&5Insanium Elma"
+	quest.1F88C697817A7680.quest_desc: ["Güçlendirmeler:\\n\\n - Hasar Emilimi II (3:00)"]
+	quest.1F88C697817A7680.title: "&aInferium Elma"
+	quest.202B1F54D3F06DAB.quest_desc: ["4 Supremium Özünü İnfüzyon Kristali ile birleştirerek elde edilen 6. Kademe Öz."]
+	quest.202B1F54D3F06DAB.quest_subtitle: "Aşama: &56"
+	quest.202B1F54D3F06DAB.title: "&5Insanium"
+	quest.20851E0CF315F722.quest_desc: ["Bu kademedeki tohumların büyüyebilmesi için tarım arazisinin altına aynı türde bir Katalizör yerleştirmeniz gerekir."]
+	quest.20851E0CF315F722.title: "&5Insanium Tarım Arazisi"
+	quest.212EF8601746C500.quest_desc: ["Güçlendirmeler:\\n\\n - Hasar Emilimi II (3:00)\\n - Hız II (3:00)\\n - Direnç II (3:00)\\n - Yenilenme II (3:00)"]
+	quest.212EF8601746C500.title: "&9Imperium Elma"
+	quest.21A90474590FCDB8.quest_desc: ["\"Ocak\", daha yüksek hız ve daha iyi verimlilik için yükseltilebilen temel oyundaki Ocağın geliştirilmiş bir sürümüdür."]
+	quest.21A90474590FCDB8.title: "\"Ocak\""
+	quest.224CE21E56703F6E.quest_desc: ["Değnek, İnfüzyon Sunağını tetiklemek için kullanılır. İnfüzyon işlemini başlatmak için sunağa sağ tıklamanız yeterlidir."]
+	quest.224CE21E56703F6E.quest_subtitle: "Sen Bir Büyücüsün!"
+	quest.224CE21E56703F6E.title: "&2Değnek"
+	quest.23C36E4B5DCEBFDD.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu Görevin &6AllTheMods Ekibi&r tarafından yayınlanmayan, herkese açık hiçbir pakette açık izin olmadan kullanılmasına izin verilmez.\\n\\nBu görev kasıtlı olarak gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.260F9C98DC2E485B.quest_subtitle: "Aşama: &b4"
+	quest.26A7746051A4A079.quest_subtitle: "Aşama: &63"
+	quest.27A0BCE75F198A82.quest_subtitle: "Aşama: &e1"
+	quest.27E8ED4B5F8127F9.quest_subtitle: "Aşama: &b4"
+	quest.29AE69722AB4C75C.quest_subtitle: "Aşama: &a2"
+	quest.2A59C2FE4AAA79D4.quest_subtitle: "Kademe: &a2"
+	quest.2A7E3F2CD335EAD0.quest_desc: ["&aÖz Ekipmanları&r üretme yolculuğunuza başlamak için öncelikle Inferium Zırhı yapmalısınız.\\n\\nBu ekipmanlar, tıpkı Özler gibi daha üst kademelere yükseltilebilir. Ayrıca &bTamirci Masası&r kullanarak zırhlarınıza özel &9geliştirmeler&r ekleyebilirsiniz!"]
+	quest.2A7E3F2CD335EAD0.title: "&aInferium Zırh"
+	quest.2AECDD9E2DEA708C.quest_subtitle: "Aşama: &a2"
+	quest.2C73E3C5113BF2AC.quest_desc: ["Bip bip! Ben bir koyunum."]
+	quest.2C73E3C5113BF2AC.quest_subtitle: "Aşama: &a2"
+	quest.2C9C9CB71941DC01.quest_desc: ["4 Prudentium Özünü İnfüzyon Kristali ile birleştirerek elde edilen 3. Kademe Öz."]
+	quest.2C9C9CB71941DC01.quest_subtitle: "Aşama: &63"
+	quest.2C9C9CB71941DC01.title: "&cTertium"
+	quest.2DDA04088C8220D2.quest_desc: ["Prosperity Parçaları, modun temel üretim malzemelerindendir. Ruh Kumunu Iron Sieve veya daha üst kademesiyle eleyerek elde edebilirsiniz."]
+	quest.2DDA04088C8220D2.quest_subtitle: "Nihayet Prosperity!"
+	quest.2DDA04088C8220D2.title: "&bProsperity Parçaları"
+	quest.30E9255DEC69C061.title: "&4Supremium Aletler"
+	quest.32B01BD789F0B037.quest_desc: ["Uyandırılmış Supremium ve diğer kademeli özler, &6Productive Bees&r modu sayesinde arılarla otomatik olarak üretilebilir."]
+	quest.32B01BD789F0B037.title: "Uyandırılmış Supremium'u Otomatikleştirmek"
+	quest.3339445194568D77.title: "&2Prudentium Aletler"
+	quest.3384308C78D86059.quest_subtitle: "Aşama: &a2"
+	quest.33D23C65E7274A8F.quest_desc: ["Supremium Özünü uyandırmak için Uyanış Sunağı, 4 adet Uyanış Kaidesi ve 4 adet &cÖz Kabı&r üretmeniz gerekir.\\n\\nÖz Kaplarını doldurmak için temel element özleri gereklidir: Ateş, Su, Toprak ve Hava."]
+	quest.33D23C65E7274A8F.title: "&dUyanış&r"
+	quest.37B297640F537383.quest_desc: ["Ayarlanmamış Geliştirme, İnfüzyon Sunağı üzerinde çeşitli zırh/alet geliştirmeleri üretmek için temel malzeme olarak kullanılır. Bu geliştirmeler sayesinde &eAcele&r, &1Gece Görüşü&r, &bDüşme Hasarı Direnci&r, &6Ateş Direnci&r ve çok daha fazla özel güce kavuşabilirsiniz!"]
+	quest.37B297640F537383.title: "&fAyarlanmamış Geliştirme"
+	quest.38A77DBAD24C4B53.quest_subtitle: "Aşama: &63"
+	quest.398DEF6BA2E488C1.quest_subtitle: "Kademe: &56"
+	quest.3BB3AA6C29285837.quest_desc: ["Güçlendirmeler:\\n\\n - Hasar Emilimi II (3:00)\\n - Hız II (3:00)"]
+	quest.3BB3AA6C29285837.title: "&2Prudentium Elma"
+	quest.3BD8315851A3EE5F.quest_subtitle: "Kademe: &a2"
+	quest.3C9F5EB59D72AC90.quest_desc: ["&6ATM Yıldızı&r üretimi için bir Uyandırılmış Supremium Külçesi Bloğu gereklidir."]
+	quest.3E555B364FD88B43.quest_subtitle: "Menzil: &c45&r blok"
+	quest.3E555B364FD88B43.title: "&4Supremium Büyüme Hızlandırıcısı"
+	quest.3EA2578C3A56FAE8.quest_desc: ["Ruh Çıkarıcı, bir kavanoz yerleştirip yaratık eşyalarını kullanarak Ruh Kavanozlarını doldurmanızı sağlar. Örneğin Çürük Et eklemek bir miktar Zombi Ruhu kazandırır."]
+	quest.3EBCBED3FD033117.quest_subtitle: "Kademe: &a2"
+	quest.408D8B1CFBA22BAF.quest_desc: ["Wither'a Dayanıklı bloklar, tuğlalar ve camlar aşırı yüksek patlama direncine sahiptir; Wither veya Ender Ejderhası tarafından asla yok edilemezler."]
+	quest.408D8B1CFBA22BAF.title: "&0Wither'a Dayanıklı Bloklar"
+	quest.409A92D40F539485.quest_subtitle: "Aşama: &e1"
+	quest.41DBE44D7AA0B623.quest_desc: ["Tamirci Masası, hazırladığınız geliştirmeleri öz ekipmanlarınıza takmanızı sağlar!"]
+	quest.42218A7D42CF0A4C.quest_subtitle: "Kademe: &a2"
+	quest.4352505361D61BB2.quest_subtitle: "Kademe: &a2"
+	quest.4526E151BAE88310.quest_subtitle: "Aşama: &e1"
+	quest.4530C14828C3D153.quest_subtitle: "Aşama: &b4"
+	quest.45549E52B3CE2D23.quest_desc: ["Tırpanlar, geniş tarım alanlarını tek hamlede biçebilen aletlerdir. Aynı zamanda oldukça etkili birer silah işlevi de görürler."]
+	quest.4821419D44F8083F.quest_desc: [
+		"&9Büyüme Hızlandırıcıları&r, doğrudan tarım arazisinin altına yerleştirildiğinde tohumun büyüme hızını çok az artırır. Her kademenin yukarı doğru etkileyebildiği blok menzili farklıdır; en düşük menzil Inferium'da 12'dir. "
+		""
+		"Not: Bütün kademelerdeki Büyüme Hızlandırıcıları aynı miktarda büyüme tiki sağlar. Ancak üst kademelerin menzili daha büyük olduğu için tek bir bitkinin altına daha fazlasını üst üste yerleştirebilirsin. Büyüme Hızlandırıcısı azami menzili içinde bulunduğu sürece hangi kademeyi kullandığın fark etmez."
+	]
+	quest.4821419D44F8083F.quest_subtitle: "Menzil: &e9&r blok"
+	quest.4821419D44F8083F.title: "&aInferium Büyüme Hızlandırıcısı"
+	quest.48BF71269DEA1AB1.title: "&4Supremium Tarım Arazisi"
+	quest.4EF5DE3FBA2A7AE3.quest_desc: ["Inferium Özünden başlayarak külçeler üretebilir ve bu külçelerle Öz &9Aletleri&r ve &9Zırhları&r yapabilirsiniz.\\n\\nÖz aletleri daha üst kademelere yükseltilebilir ve tıpkı zırhlar gibi &3Tamirci Masası&r üzerinde &5geliştirmelerle&r geliştirilebilir."]
+	quest.4EF5DE3FBA2A7AE3.title: "&aInferium Aletler"
+	quest.4F0DD86CF6E5F1B5.quest_subtitle: "Aşama: &b4"
+	quest.4F137DB561F45306.title: "&2Prudentium Zırh&r"
+	quest.52BB58D470560219.quest_subtitle: "Menzil: &c54&r blok"
+	quest.52BB58D470560219.title: "&6Uyandırılmış Supremium Büyüme Hızlandırıcısı"
+	quest.54735C5FCD2077B3.quest_desc: [
+		"&aMystical Agriculture&r, &aTohumlar&r kullanarak çok çeşitli vanilla ve mod kaynaklarını yetiştirmenizi sağlayan bir kaynak üretim modudur."
+		""
+		"Unutmayın, bu modpack'te pek çok tohum kaldırıldı. Evet, biliyorum! Bunu nasıl yapabildik? Neyse ki GeOres ile bu boşluğu doldurabilecek birkaç alternatif var ;)_"
+	]
+	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
+	quest.54D72C234EA76054.quest_subtitle: "Aşama: &e1"
+	quest.56201F98819478AB.quest_subtitle: "Kademe: &a2"
+	quest.576ABF43FCF886B7.title: "&2Prudentium Tarım Arazisi"
+	quest.5782E9F866453D1D.quest_subtitle: "Kademe: &b4"
+	quest.5B1E0E3E876339E7.title: "&4Supremium Zırh"
+	quest.5BC4250E4C9F803C.title: "&9Imperium Tarım Arazisi"
+	quest.5C590DB2F3D935E5.quest_desc: ["Tohum Yeniden İşleyicisi, öz tohumlarını ayrıştırarak yeniden ham Öz haline getirir."]
+	quest.5C590DB2F3D935E5.quest_subtitle: "Geri Dönüşüm!"
+	quest.5F6ACDE014A61F46.quest_desc: ["Güçlendirmeler:\\n\\n - Hasar Emilimi II (3:00)\\n - Hız II (3:00)\\n - Direnç II (3:00)"]
+	quest.5F6ACDE014A61F46.title: "&cTertium Elma"
+	quest.617F1FA978197AFD.quest_subtitle: "Kademe: &56"
+	quest.6235B9923BE0AAEB.quest_desc: ["Büyülendirici, özleri ve ilgili malzemeleri kullanarak büyülenebilir eşyalara büyü eklemenizi sağlayan bir bloktur."]
+	quest.6235B9923BE0AAEB.title: "&bBüyülendirici"
+	quest.62D572BAB055F56F.quest_subtitle: "Aşama: &e1"
+	quest.6501A410F1543C70.quest_desc: ["Mistik Gübreleyici, kemik tozunun çok daha güçlü bir versiyonudur. Kullanıldığı bitkiyi anında son büyüme evresine ulaştırır."]
+	quest.6501A410F1543C70.title: "&dMistik Gübreleyici"
+	quest.66C52B137A4FF869.quest_desc: ["4 Tertium Özünü İnfüzyon Kristali ile birleştirerek elde edilen 4. Kademe Öz."]
+	quest.66C52B137A4FF869.quest_subtitle: "Aşama: &b4"
+	quest.66C52B137A4FF869.title: "&9Imperium"
+	quest.67DBE6C59C0D9D1B.quest_desc: ["4 Imperium Özünü İnfüzyon Kristali ile birleştirerek elde edilen 4. Kademe Öz."]
+	quest.67DBE6C59C0D9D1B.quest_subtitle: "Aşama: &c5"
+	quest.67DBE6C59C0D9D1B.title: "&4Supremium"
+	quest.67DDFA6FB1F9EECA.title: "&9Imperium Aletler"
+	quest.685C4A646E092A82.title: "&6Uyandırılmış Supremium Zırh"
+	quest.6A18B971C3DB83AE.quest_subtitle: "Aşama: &63"
+	quest.712EB19B26D405DD.quest_subtitle: "Aşama: &e1"
+	quest.73350AD668200E99.quest_desc: ["4 Inferium Özünü İnfüzyon Kristali ile birleştirerek elde edilen 2. Kademe Öz."]
+	quest.73350AD668200E99.quest_subtitle: "Aşama: &a2"
+	quest.73350AD668200E99.title: "&2Prudentium"
+	quest.75560045ED084900.quest_desc: [
+		"Çoğu tohum kolayca üretilebilir; ancak &9Yaratık Tohumları (Mob Seeds)&r yapmak için Nether'a gidip &8Soulium&r toplamanız gerekir."
+		""
+		"Bulduğunuz taş ve cevherlerle &3Soulium Hançeri&r ve &3Ruh Kavanozu&r üretebilirsiniz. Hançerle yaratıkları öldürerek &bruhlarını&r toplayabilir ve bu ruhları İnfüzyon Sunağında ilgili yaratık tohumunu üretmek için kullanabilirsiniz."
+		""
+		"Alternatif olarak, &3Ruh Çıkarıcı&r makinesine ruh kavanozu koyup yaratık eşyalarını işleyerek de kavanozları doldurabilirsiniz. Örneğin Çürük Et eklemek bir miktar Zombi Ruhu kazandırır."
+	]
+	quest.75560045ED084900.title: "Yaratık Tohumları Üretimi"
+	quest.7580037DB8ADEB3C.quest_desc: ["Miyav miyav! Ben bir ineğim..."]
+	quest.7580037DB8ADEB3C.quest_subtitle: "Aşama: &a2"
+	quest.76071C22A73A2026.title: "&cTertium Tarım Arazisi"
+	quest.7655E1C6C5E5469F.quest_subtitle: "Menzil: &a18&r blok"
+	quest.7655E1C6C5E5469F.title: "&2Prudentium Büyüme Hızlandırıcısı"
+	quest.77C6667B4C37589C.quest_desc: ["Makine yükseltmeleri, &aMystical Agriculture&r makinelerinin çalışma hızını artırmak için kullanılır."]
+	quest.7A103577EAE7B3F1.quest_desc: ["Uyanış Sunağı üzerinde 4 Bilişsel Toz, her element özünden 10'ar adet ve 1 Supremium Bloğu birleştirilerek elde edilen 5. Kademe Uyandırılmış Öz."]
+	quest.7A103577EAE7B3F1.quest_subtitle: "Aşama: &c5 - Uyandırılmış"
+	quest.7A103577EAE7B3F1.title: "&6Uyandırılmış Supremium"
+	quest.7ADE214373DE135F.quest_subtitle: "Aşama: &63"
+	quest.7BBD85F94D98CA46.quest_desc: ["Kaynak Tohumlarının çoğu, &bFlux Sieve&r (ExDeorum) ve &6Growth Accelerator Tiers&r ile birlikte kullanılan &aGeOres&r moduna yer açmak için &ckaldırıldı&r."]
+	quest.7BBD85F94D98CA46.title: "Uyarı"
+	quest.7CFA92CC48D1E7E3.quest_subtitle: "Aşama: &c5"
+	quest.7D43016926E77150.title: "&9Imperium Zırh&r"
+	quest.7DFF18CFEB0B8DBE.quest_desc: ["Mümkün olan en kısa sürede &aInferium&r yetiştirmeye başlamalısınız!\\n\\nBu tohumları yetiştirmek için zorunlu olmasa da, tohumların (özellikle Inferium Tohumu'nun) büyüme hızını artırmak için &eÖz Tarım Arazisi&r oluşturabilirsiniz. Ancak bazı tohumların ekilebilmesi için belirli tarım arazileri gereklidir."]
+	quest.7DFF18CFEB0B8DBE.title: "&aInferium Tarım Arazisi"
+	task.011F410922A4D859.title: "Tırpanlar"
+	task.0C92F7E44100B2BA.title: "Tertium Aletler"
+	task.2DA0BD7B2834A560.title: "Wither'a Dayanıklı Bloklar"
+	task.323D34AF775A642B.title: "Oraklar"
+	task.34551E919FD101CF.title: "Imperium Aletler"
+	task.3E133AC7B615971D.title: "Supremium Aletler"
+	task.41910A3BC6C0E838.title: "Prudentium Aletler"
+	task.4C906A47EBC15BC1.title: "Sulama Kapları"
+	task.4F6E8F2EC33DB910.title: "Uyandırılmış Supremium Aletler"
+	task.518B9569DCE0A771.title: "Tüm Hakları Saklıdır"
+	task.51A3E013D2B3D744.title: "Makine Yükseltmeleri"
+	task.64FADC78A8AD3FE4.title: "Tohumlar"
+	task.773CA1FDC4CEFCEF.title: "Tüm Hakları Saklıdır"
+	task.7D9A58EBADE91F54.title: "Inferium Aletler"
+}

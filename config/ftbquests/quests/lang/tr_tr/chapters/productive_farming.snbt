@@ -1,0 +1,97 @@
+{
+	quest.01B7B66FAAAAEAE5.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_anemone.png width:100 height:150 align:center}"]
+	quest.01B7B66FAAAAEAE5.quest_subtitle: "Beyaz"
+	quest.06B197EB778C17AC.quest_desc: ["&dÇiçekleri&r &6Çaprazladığımız&r gibi &2Mahsullerde&r de aynı işlemi yapabiliriz! \\n\\nBelirli &2Mahsullerin&r bulunduğu bir alanda &6Arılar Tozlaşma Yaptığında&r bazı mahsuller &6Mutasyona Uğrayabilir&r. \\n\\nHangi &2Mahsulleri&r çaprazlaman gerektiğini görmek için &lJEI&r'ye bak."]
+	quest.06B197EB778C17AC.title: "&6Mutasyonlar"
+	quest.095024BF19ABA326.quest_desc: ["Orange Bell Pepper ile Green Bell Pepper'ın birleşimi."]
+	quest.0D04BCF5940E2AF1.quest_desc: ["Blue Jade Corn ile Black Aztec Corn'u birleştirmek Sugar Pearl Corn verir."]
+	quest.126CCC6B187C0B18.quest_desc: ["Son olarak Black Aztec Corn ile Sugar Pearl Corn'u karıştırarak Rainbow Corn elde edebiliriz. "]
+	quest.15474BAF1997CD27.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_balloon.png width:100 height:150 align:center}"]
+	quest.15474BAF1997CD27.quest_subtitle: "Mor"
+	quest.15474BAF1997CD27.title: "&5Balloon Flower"
+	quest.158978D35BDA805D.quest_desc: ["Bunlar Raspberry ile... Sungold Tomato'nun birleşimi mi? \\n\\nAma biri bir meyve, diğeri bir domates? Bunun hiç mantığı yok!"]
+	quest.167554E0A562B60A.quest_desc: ["Red Bell Pepper ile Yellow Bell Pepper'ın birleşimi! \\n\\nAslında oldukça açık olmalı... sonuçta turuncu..."]
+	quest.1699BD1B8B348B7C.quest_desc: ["Blue Jade Corn ile Yellow Dent Corn'un birleşimi Black Aztec Corn'dur."]
+	quest.2117CE8C21A9EE98.quest_desc: ["Red Bell Pepper ile Black Bell Pepper'ın birleşimi."]
+	quest.223F47BDD763F306.quest_desc: ["Cherry Tomato'nun rastgele mutasyona uğrayıp Chocolate Pear Tomato'ya dönüşme olasılığı vardır. \\n\\nÇikolatanın veya armudun nereden geldiğini bilmiyorum; ama peki!"]
+	quest.244B10862943A802.quest_subtitle: "Krazy World"
+	quest.2AFB12E742596864.quest_desc: ["&aFarm Controller&r, bütün çiftlikler için kusursuz bir çoklu blok makinesi olan &a&lOtomatik Çiftliğin&r kalbidir! \\n\\nNasıl inşa edileceğini sonraki görevde açıklayacağım; burada yalnızca nasıl kullanılacağını anlatacağım. \\n\\nBu &a&lOtomatik Çiftlik&r, yapının içinde büyüyen bütün &2Mahsulleri&r yetiştirir, hasat eder ve yeniden eker. &a&lProductive Farming&r, &2&lMystical Agriculture&r ve &2&lVanilla&r &2Mahsullerinin&r hepsi yetiştirilebilir! \\n\\nDüşen bütün eşyaları kontrolcüde toplar; bunlar elle veya borularla çıkarılabilir."]
+	quest.2AFB12E742596864.title: "&a&lOtomatik Çiftlik"
+	quest.2BFC97460B4B49F1.quest_desc: ["Chocolate Pear Tomato ile Yellow Pear Tomato'nun birleşimi Sungold Tomato verir."]
+	quest.2CFD0DF119CC5E85.quest_desc: [
+		"Şimdi inşa kısmına geliyoruz. Önce kullanılacak blokları seçmeliyiz. \\n\\nGörevi tamamlamak için kullanılabilecek kocaman bir blok listesi görebilirsin. Bunların hepsi &a&lYapıyı&r oluşturabilir. \\n\\n(Temelde herhangi bir tuğla ve cam.) İstediğin blokları bir arada da kullanabilirsin; seçici değildir! \\n\\n&a&lYapının&r kendisi yalnızca duvarlardan ve iç alandan oluşur. Duvarlar bu bloklardan yapılmalı; iç hacim ise belirli bir blok sayısının altında kalmalıdır. \\n\\nYapabileceğin en küçük &a&lOtomatik Çiftlik&r 2x2'dir. En büyüğü, iç hacmi 200 bloğa ulaştırabildiğin herhangi bir düzendir. Hacim diyorum; çünkü mahsullerin kendisini de dâhil etmek için alanı 2 blok yüksekliğinde sayar. Bu, 10x10 iç alanın azami boyut olduğu anlamına gelir. \\n\\nİçeriye &2Tarım Arazisi&r, &9Su&r veya bitkileri ekeceğin başka bir şey yerleştirilir. &2Tarım Arazisini&r nemli tutmak için yine &9Su&r gerekir (XyCraft'ın &9Water Block&r bloğunu öneririm). \\n\\nBüyümelerini hızlandırmak için &2Mahsullerin &fyakınında veya &2Tarım Arazisinin&r üzerinde gübre ya da büyüme hızlandırıcıları kullanabilirsin!"
+		"{image:atm:textures/questpics/pro_farming/farm_autofarm.png width:150 height:100 align:center}"
+	]
+	quest.2CFD0DF119CC5E85.title: "İnşa Etmek"
+	quest.2DB404AA2832F81D.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_holly.png width:100 height:150 align:center}"]
+	quest.2DB404AA2832F81D.quest_subtitle: "Mavi"
+	quest.2DB404AA2832F81D.title: "&9Sea Holly"
+	quest.2F1B74D45E50A079.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_lobelia.png width:100 height:150 align:center}"]
+	quest.2F1B74D45E50A079.quest_subtitle: "Ultramarin"
+	quest.2F1B74D45E50A079.title: "&9Great Lobelia"
+	quest.3111C0CA63A82E7A.quest_desc: ["Blue Jade Corn, Yellow Dent Corn ve Cornflower ile yapılır. \\n\\nDemek Cornflower adında 'corn' (mısır) geçmesinin nedeni bu!"]
+	quest.33C3C334981AF72E.quest_desc: ["Cherry Tomato ile onun ikinci evrimi (bu şakayı daha önce yapmadım mı?) Chocolate Pear Tomato birleşerek Yellow Pear Tomato oluşturabilir. \\n\\nSarı renk nereden geldi? Ya da yine armut?"]
+	quest.383EDBE9AAAF4C99.quest_subtitle: "Mic Line"
+	quest.3BB39CC4E8F40B67.quest_subtitle: "1,2... 1,2"
+	quest.3CBF4D703AA17199.quest_desc: ["&a&lProductive Farming&r (bu görev hazırlanırken) en yeni Productive modudur. \\n\\nBu mod, otomatik çiftlik çoklu blok yapısını, yeni mahsulleri, daha fazla çiçeği ve onlar için yeni boya renklerini getirir! \\n\\nAyrıca &6&lProductive Bees&r ve &l&cD&6y&ee&an&ba&dm&ci&6c&es&r ile birlikte çalışır!"]
+	quest.3CBF4D703AA17199.quest_subtitle: "Daha kaç mod yapacak?"
+	quest.3CBF4D703AA17199.title: "&a&lProductive Farming"
+	quest.3E57854E27545581.quest_desc: ["Orange Bell Pepper ile Yellow Bell Pepper'ın birleşimi."]
+	quest.42AE629EBAA3AA94.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_skullcap.png width:100 height:150 align:center}"]
+	quest.42AE629EBAA3AA94.quest_subtitle: "Mor"
+	quest.42AE629EBAA3AA94.title: "&5Skullcap"
+	quest.439705A42B6DC4D1.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_cattail.png width:100 height:150 align:center}"]
+	quest.439705A42B6DC4D1.quest_subtitle: "Kahverengi"
+	quest.439705A42B6DC4D1.title: "&8Cattail"
+	quest.44DA8B6C651B3456.quest_desc: ["Goji Berry ile Golden Raspberry'nin birleşimi Miracle Berry verir. \\n\\nMiracle Berry, tat tomurcuklarını değiştirip ekşi tadı algılamalarını engelleyen harika bir özelliğe sahiptir. Bu yüzden ekşi olması gereken her şey tatlı gelir! \\n\\nHadi, dene!"]
+	quest.46932B57EF21D346.quest_desc: ["&9Watering Trough&r, hayvanlara yardımcı olan başka bir bloktur. \\n\\nAma &cHayvan Yemi&r yerine &9Su Kovaları&r alır! \\n\\nYavru hayvanlar &9Watering Trough&r'un yakınındayken, yakınında olmayan yavrulardan daha hızlı büyür. \\n\\nYine de onu &9Suyla&r doldurmayı sürdürmeyi unutma!"]
+	quest.46932B57EF21D346.title: "&9Watering Trough"
+	quest.48323FABB7E3D31E.quest_desc: ["Roma Tomato'yu onun ikinci evrimi Beefsteak Tomato ile birleştirerek Blue Beauty Tomato elde ederiz. \\n\\nAncak diğer 2 domatesten birinin çıkma olasılığı da vardır."]
+	quest.4B2754CD11FFE247.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_amaryllis.png width:100 height:150 align:center}"]
+	quest.4B2754CD11FFE247.quest_subtitle: "Bordo"
+	quest.4B2754CD11FFE247.title: "&4Amaryllis"
+	quest.507821D8F9C064CF.quest_desc: ["Green Grape ile Red Grape'i karıştırmak Concord Grape verir. \\n\\nMor üzüm olarak da bilinir!"]
+	quest.512A525B513DA118.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_chrysanthemum.png width:100 height:150 align:center}"]
+	quest.512A525B513DA118.quest_subtitle: "Eflatun"
+	quest.512A525B513DA118.title: "&dChrysanthemum"
+	quest.523AD3D448DE58A6.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hellebore.png width:100 height:150 align:center}"]
+	quest.523AD3D448DE58A6.quest_subtitle: "Gri"
+	quest.523AD3D448DE58A6.title: "&7Hellebore"
+	quest.53CD2E3D27601F3F.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_cape.png width:100 height:150 align:center}"]
+	quest.53CD2E3D27601F3F.quest_subtitle: "Buz Mavisi"
+	quest.53CD2E3D27601F3F.title: "&bCape Leadwort"
+	quest.540F3CA118762DDB.quest_desc: ["&cFeeding Trough&r, &a&lProductive Farming&r tarafından eklenen bir bloktur. \\n\\nHer biri bir yığın &cHayvan Yemi&r tutabilen 9 envanter yuvası vardır; yemlerin borularla aktarılması gerekir. \\n\\nPeki ne tür &cHayvan Yemi&r? \\n\\nAynı türden 2 hayvanı çiftleştirmek için kullanılan her şey işe yarar! Buğday mı? Evet! Bambu mu? Evet! Yalnızca bambunun yakınlarına dikildiğinden emin ol."]
+	quest.540F3CA118762DDB.title: "&cFeeding Trough"
+	quest.5854DA8F791AD71F.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_nettle.png width:100 height:150 align:center}"]
+	quest.5854DA8F791AD71F.quest_subtitle: "Yeşil"
+	quest.5854DA8F791AD71F.title: "&2Stinging Nettle"
+	quest.5969AEE09A61EC16.quest_desc: ["Roma Tomato'yu onun ikinci evrimi Beefsteak Tomato ile birleştirerek White Wonder Tomato elde ederiz. \\n\\nAncak diğer 2 domatesten birinin çıkma olasılığı da vardır."]
+	quest.5B21A7A5ED1DDABB.quest_desc: ["Beefsteak Tomato, Roma Tomato'nun rastgele mutasyona uğramasıyla elde edilebilir."]
+	quest.5E4DE1FFA8A45C6D.quest_desc: ["&dÇiçekler&r! Önce, bu yeni güzel &dÇiçekleri&r nasıl elde ederiz? \\n\\nBu &dÇiçekler&r diğer &dÇiçeklerle&r aynı şekilde, &2Çimenli Toprağa&r Kemik Tozu uygulayarak elde edilir. Üzgünüm, &dÇiçek Tarlaları&r &bGökyüzünde&r pek yardımcı olmaz. \\n\\nBu &dÇiçeklerin&r hepsinin görünüşünü kendi görevlerinde görebilirsin! \\n\\nAma renk değişebilir. Bunun nedeni yeni bir &6Çaprazlama&r yöntemimizin olmasıdır. \\n\\n&6Kovanlarındaki&r &aPolen Yükseltmeleriyle&r donatılmış &6Arılarımız&r varsa, &aTozlaşma Yaptıkları&r yerdeki &dÇiçeklerin&r türlerini ve renklerini &6Çaprazlarlar&r. \\n\\nYeni &dÇiçekler&r, eski &dÇiçeklerin&r yakınındaki &2Çimenli Toprakta&r oluşur. Önceki &dÇiçeklerle&r aynı türde, onların renklerinden biriyle veya iki rengin birleşimiyle ortaya çıkarlar. \\n\\nBu, &9Mavi Gelincikler&f, &4Bordo Cattail&r, hatta Beyaz Laleler elde edebileceğin anlamına gelir! Bir dakika, o zaten bir &2&lVanilla&r &dÇiçeği&r..."]
+	quest.5E4DE1FFA8A45C6D.title: "&dÇİÇEKLER"
+	quest.60521AAE8BAA32C5.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hydrangea.png width:100 height:150 align:center}"]
+	quest.60521AAE8BAA32C5.quest_subtitle: "Pembe"
+	quest.60521AAE8BAA32C5.title: "&dHydrangea"
+	quest.6479A38086A43E49.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_zinnia.png width:100 height:150 align:center}"]
+	quest.6479A38086A43E49.quest_subtitle: "Kehribar"
+	quest.6479A38086A43E49.title: "&eZinnia"
+	quest.66D27708343F9DB4.quest_desc: ["Green Grape ile Concord Grape'in birleşimi Cotton Candy Grape verir. \\n\\nTatları pamuk şekerden çok doğum günü pastası aromalı üzümlere benzer... yine de çok lezzetliler!"]
+	quest.699F91BC5CA58FE2.quest_desc: ["Bu &2Mahsulleri&r elde etmek için çiftçi köylülerden &2Tohumlarını &fveya &2Mahsullerin&r kendisini satın almalıyız. \\n\\nOnları nasıl elde ettiklerini sorma... \\n\\nÇiftçiler, yeni &2Tohum &fveya &2Mahsul&r bulunmayan 5. seviyeye kadar, &aZümrüt&r karşılığında &2Tohum &fveya &2Mahsul&r takası yapar. \\n\\nÇiftçinin hangi &2Tohumu &fveya &2Mahsulü&r satacağı tamamen rastgele değil mi? Evet! Öyleyse Gübre Varillerini değiştirirken iyi şanslar! \\n\\nVillage Artifacts'in yeni sürüme taşınması için tam zamanı."]
+	quest.699F91BC5CA58FE2.title: "&2Mahsuller"
+	quest.6AF7427DCA9D66D2.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_dahlia.png width:100 height:150 align:center}"]
+	quest.6AF7427DCA9D66D2.quest_subtitle: "Siyah"
+	quest.6AF7427DCA9D66D2.title: "&0Dahlia"
+	quest.6C31A50068FBA0EE.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_bearded.png width:100 height:150 align:center}"]
+	quest.6C31A50068FBA0EE.quest_subtitle: "Gri"
+	quest.6C31A50068FBA0EE.title: "&8Black Bearded Iris"
+	quest.7264CC40170E461A.quest_desc: ["Roma Tomato'yu onun ikinci evrimi Beefsteak Tomato ile birleştirerek Black Beauty Tomato elde ederiz. \\n\\nAncak diğer 2 domatesten birinin çıkma olasılığı da vardır."]
+	quest.739C0DB291B1563C.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_valerian.png width:100 height:150 align:center}"]
+	quest.739C0DB291B1563C.quest_subtitle: "Beyaz"
+	quest.7514CF65A077985E.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_himalayan.png width:100 height:150 align:center}"]
+	quest.7514CF65A077985E.quest_subtitle: "Açık Mavi"
+	quest.7514CF65A077985E.title: "&bHimalayan Poppy"
+	quest.7EF3DB8B5258FA34.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_motherwort.png width:100 height:150 align:center}"]
+	quest.7EF3DB8B5258FA34.quest_subtitle: "Şeftali"
+	quest.7EF3DB8B5258FA34.title: "&6Motherwort"
+	task.0A074866CCBD8FD5.title: "Çiftlik Blokları"
+}

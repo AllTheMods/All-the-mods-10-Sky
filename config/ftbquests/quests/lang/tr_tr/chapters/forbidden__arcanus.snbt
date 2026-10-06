@@ -1,0 +1,144 @@
+{
+	quest.02F2DF9D9DA7833A.quest_desc: ["&9Corrupt Soul&r'larımızı elde etmek için biraz &5Büyü&r yapmamız gerekecek! \\n\\n&5Soul Looting Büyüsü&r'nü arıyoruz. Silahlara uygulanır ve bir yaratık öldürdüğünüzde her seferinde &9Corrupt Soul&r doğurma şansı vardır. \\n\\nDoğan bu ruhlar daha sonra eşya olarak elde edilmek üzere öldürülebilir. Uçup gitmeyi sevdikleri için hızlıca öldürmeye çalışın! \\n\\nBelki de onları öldürmek istediğinizi biliyorlardır?"]
+	quest.02F2DF9D9DA7833A.title: "&5Soul Looting Büyüsü"
+	quest.03C54B07106091DD.quest_desc: ["&cSmelter Prism&r, bu ritüellerden elde edilen ve muhtemelen en çok kullanılan eşyadır. \\n\\nÜretmek için 4 &cBlaze Tozu&r, 2 &8Kömür&r ve bir &bArcane Crystal&r bloğu gerekir. &3Elementarium&r relic'ini de unutmayın! Aletlerle birlikte kullanılarak kırdıkları eşyaları eritmelerini sağlar: Ham cevherleri külçeye, kütükleri odun kömürüne, kumu cama dönüştürür. \\n\\nOcak yakıtı olarak da kullanabilirsiniz, ama pek iyi değildir. Adına bakınca daha iyi olmasını beklediğiniz için bu biraz saçma!"]
+	quest.03C54B07106091DD.title: "&cSmelter Prism"
+	quest.050CD33E92601651.quest_desc: [
+		"&c&lTier 1&r sizin için yeterli değil mi? O zaman yükseltme zamanı! \\n\\n&6&lForge&r'un orta yuvasına bir Edelwood Plank koyun ve kürsülere 4 &bArcane Crystal&r ile 4 Spawner Scrap yerleştirin. \\n\\nBir Gavel ile vurduğunuzda &c&lTier 1&r ocağınız &3&lTier 2 &6Forge&r seviyesine yükselir! \\n\\nArtık yeni ritüeller açılacak, &6&lForge&r daha fazla Öz depolayabilecek ve ikinci bir Relic kullanabileceksiniz!"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier1.png width:100 height:100 align:center}"
+	]
+	quest.050CD33E92601651.title: "&l&3Tier 2 &6Forge"
+	quest.07BEE6FEC14765DC.quest_desc: ["Kil, Demir, Balçık Topu ve daha fazlasını gerektiren oldukça basit bir tarif... \\n\\nManyetitleri ganimet sandıklarında aramak en iyisidir. &c&lNether&r'daki sandıklarda bolca bulunur, bu yüzden üretmek yerine bulmaya çalışın! \\n\\nBalmumu, Bal Şişesi ve Balçık Topu karışımıyla yapılan, &6&lForbidden \\& Arcanus&r'a özgü yeni bir eşyadır. \\n\\nHuniler ve borularla uyumlu çalışan &7Magnetized Pedestal&r'lar elde etmek için bunu bir &6Darkstone Pedestal&r üzerinde kullanabilirsiniz. \\n\\nEşyaların envanterinize çekilme menzilini artırmak için çizmelerinizle de birleştirebilirsiniz!"]
+	quest.092BB595F75D5536.quest_desc: ["&6&lForbidden \\& Arcanus&r moduna hoş geldiniz! \\n\\nBu moda başlamak için biraz Arcane Crystal gerekir. Gidip biraz Dust eleyin."]
+	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
+	quest.0AC8FE3B59D1B09D.quest_desc: ["Quantum Catcher, yaratıkları taşımak için çok kullanışlı bir alettir. \\n\\nYaratıkları yakalamak için üzerlerine sağ tıklamanız yeterlidir; serbest bırakmak için tekrar sağ tıklayın. \\n\\nAncak bunu kullanabilmek için belirli miktarda &bAureal&r sahibi olmalısınız. Gereken miktar yaratığın canına bağlıdır: canı ne kadar yüksekse o kadar çok &bAureal&r harcar! Yaratıkları serbest bırakmak ise tamamen ücretsizdir. \\n\\nAh bekle, sanırım bunu nasıl üreteceğinizi söylemeliyim! &7Rune&r'lar, &cMundabitur Dust&r ve &8Çakmaktaşı&r ile yapılan bir &7Quantum Core&r'a ihtiyacınız olacak! \\n\\nSpawner Scraps parçaları, İpeksi Dokunuş olmadan kırılan Spawner'lardan düşer."]
+	quest.0FD638380EECFFBD.quest_desc: [
+		"{image:atm:textures/questpics/forbidden/forbidden_forge1.png width:100 height:100 align:center}"
+		"Forge yapmaya başlamak için &9Polished Darkstone&r, &6Arcane Polished Darkstone&r ve &6Gilded Chiseled Polished Darkstone&r bloklarımızı resimdeki düzende yerleştirin."
+		"{image:atm:textures/questpics/forbidden/forbidden_forge2.png width:100 height:100 align:center}"
+		"Daha sonra Demirci Masasını içteki &6Gilded Chiseled Polished Darkstone&r üzerine yerleştirip ona &cMundabitur Dust&r ile tıkladığınızda &6&lHephaestus Forge&r'u elde edeceksiniz!\\n\\nSon olarak &6Darkstone Pedestal&r'larımızı dıştaki 8 &6Gilded Chiseled Polished Darkstone&r üzerine yerleştirin!"
+	]
+	quest.0FD638380EECFFBD.title: "&6&lForge&r İnşası"
+	quest.15849165CA8C00F9.quest_desc: [
+		"Son ve en güçlü &6&lForge&r; elbette bu, en pahalısı olduğu anlamına da geliyor! \\n\\n4 &5Obsidiansteel&r ile bir Nether Yıldızını birleştirerek yapılan 2 &5Dark Nether Star&r gerekir. \\n\\n&dEnder Ejderhası&r öldüğünde düşürdüğü 2 &dDragon Scale&r. \\n\\n&3Muhafızdan&r düşen veya Karanlık Derinliklerde İpeksi Dokunuşla alınabilen 4 &3Sculk Katalizörü&r. \\n\\nBir de yalnızca 9 &2Stellarite Piece&r ile yapılan &2Stellarite Block&r! \\n\\nBu, daha fazla Öz ve... son aşama tarifleri mi sağlıyor? Ben bu görev sayfasını nereden aldım ki?"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier5.png width:100 height:100 align:center}"
+	]
+	quest.15849165CA8C00F9.title: "&l&9Tier 5 &6Forge"
+	quest.185DBBDD252CBA0C.quest_desc: [
+		"&6&lForge&r, &6&lForbidden \\& Arcanus&r modundaki en önemli bloktur! Çoklu blok yapısını tamamladıktan sonra, yalnızca yapı üzerindeyken çalışmasına rağmen &6&lForge&r bloğunu kırıp taşıyabilirsiniz. \\n\\nOnu 4 özün tümüyle doldurmanız gerekecek: &bAureal&r, Ruhlar, &4Kan&r ve &aTecrübe&r! \\n\\nArdından gerekiyorsa Relic'leri yerleştirin. \\n\\nSon olarak, tarifteki ana eşyayı &6&lForge&r'un orta yuvasına, diğer eşyaları ise etraftaki &6Pedestal&r'lara yerleştirin."
+		"{image:atm:textures/questpics/forbidden/forbidden_gui.png width:135 height:100 align:center}"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier3.png width:100 height:100 align:center}"
+	]
+	quest.185DBBDD252CBA0C.title: "&l&cTier 1 &6Forge"
+	quest.198E9E90CC9606C4.quest_desc: ["Eşyaları kürsülere koyduk, &bAureal&r, Ruh, &4Kan&r ve &aTecrübe&r'yi elde ettik... ama ritüel bitmiyor mu? Neden bitmiyor? \\n\\nRitüeli gerçekten tamamlamak için bir Gavel (Tokmak) kullanmamız gerekecek! \\n\\nKazma gibi çalışır ancak ritüelleri bitirmek için sınırlı kullanım hakkı vardır, tek yapmanız gereken onunla &6&lForge&r'a Sağ Tıklamak!"]
+	quest.198E9E90CC9606C4.title: "Ritüeli Bitirmek"
+	quest.2002AB7D061007FA.quest_desc: ["&6Artisan Relic&r, 3. kademe Hephaestus Forge'da Blazegold, Alaz Yakıcı, biraz Obsidiyen ve Molten Core kullanılarak üretilebilir. \\n\\n&l&bClibano&r içinde kullanıldığında &5Obsidiansteel&r yapmanızı sağlar. \\n\\n&6&lForge'larda&r kullanıldığında harcanan &aTecrübeyi&r azaltır!"]
+	quest.2002AB7D061007FA.title: "&6Artisan Relic"
+	quest.230EEE4671B46D0C.quest_desc: ["&9Darkstone&r normalde yerin derinliklerinde bulunur. Ama... burada yer altı yok. Neyse ki Cobblegen Galore bizim için Darkstone sağlayabilir. \\n\\nBlock Generator'ın yanına Witch Water ve Lav, altına ise Arcane Crystal Block yerleştirin. Ancak lav tüketilecektir. \\n\\n&6&lForbidden \\& Arcanus&r modunda en çok kullanılan bloktur; bütün çok bloklu yapılar temellerinde onu kullanır. \\nBolca edinmeyi unutmayın!"]
+	quest.230EEE4671B46D0C.title: "&9Darkstone"
+	quest.29434DB0CC2E30E6.quest_desc: ["&cMundabitur Dust&r, &bArcane Crystal Dust&r, &8Odun Kömürü&r ve bir Altın Külçesini birleştirerek ilk alaşımımız olan &6Deorum Ingot&r'ı elde ederiz! \\n\\nBu &6&lForbidden \\& Arcanus&r modunun temel külçesidir ve çok sayıda üretmeniz gerekecek! \\n\\nÖzellikle çoklu blok makinelerde yapı bloğu olarak kullanılır."]
+	quest.29434DB0CC2E30E6.title: "&6Deorum"
+	quest.2ADA491A2485061C.quest_desc: [
+		"&aTecrübe&r, &6&lForge&r için gereken 4. kaynak yuvasıdır. \\n\\n&aTecrübe&r eklemek için tecrübe yuvasına şu 3 eşyadan birini koymanız gerekir: \\n\\n1. &aXpetrified Orb&r: En çok tecrübe puanını verir. \\n\\n2. &aTecrübe İksiri&r: Az tecrübe verir ama elde etmesi kolaydır. \\n\\n3. Büyülü Eşyalar: &6&lForge&r eşya üzerindeki büyüleri sökerek tecrübe puanına dönüştürür."
+		"{image:atm:textures/questpics/forbidden/forbidden_experience.png width:135 height:100 align:center}"
+	]
+	quest.2ADA491A2485061C.title: "&aTecrübe"
+	quest.2D3C8905B783A212.quest_desc: ["Çeşitli yaratık ganimetleri ve &bArcane Crystal Dust&r birleştirerek &cMundabitur Dust&r üretebilirsiniz. \\n\\nBu toz, çoklu blok yapıların inşasında ve tariflerde kritik bir role sahiptir. \\n\\nAyrıca &dEnd Şehirleri&r'ndeki sandıklarda da hazır olarak bulabilirsiniz."]
+	quest.2D3C8905B783A212.title: "&cMundabitur Dust"
+	quest.31AD9826FB036C98.quest_desc: ["&7Rune&r, Occultism'deki herhangi bir madenci ruh tarafından çıkarılabilir! \\n\\n&2Stellarite&r malzemesinden daha faydalı, ama &bArcane Crystal&r malzemesinden daha az faydalıdır."]
+	quest.31AD9826FB036C98.quest_subtitle: "Bunlar eskiden &5Mor&r idi!"
+	quest.31AD9826FB036C98.title: "&7Runes"
+	quest.356102D5B5F3CA1E.quest_desc: ["&6&lForbidden \\& Arcanus&r tarafından eklenen alaşımlardan biri &5Obsidiansteel&r'dir. \\n\\n&l&bClibano&r içinde Ham Demir ve &5Obsidiyen&r birleştirilerek oluşturulur. \\n\\nAlaşımı gerçekten yapabilmek için bir Artisan Relic'e ihtiyacınız olacak! \\n\\nAyrıca kalıntı olarak &6Bakır&r elde edersiniz, ki muhtemelen bunun olmaması gerekiyordu..."]
+	quest.356102D5B5F3CA1E.title: "&5Obsidiansteel&r"
+	quest.3999AE0921641E60.quest_desc: [
+		"&8Dark Matter&r, Edelwood odunu eritilerek elde edilir. \\n\\n&5Corrupti Dust&r ise &5Obsidiansteel&r ve çeşitli yaratık ganimetleriyle yapılır. \\n\\nBu ikisini aynı anda yere attığınızda bir &8Kara Delik&r oluşur! \\n\\n&8Kara Delik&r yakınına gelen her Eşyayı veya Mermiyi yok eder, ancak onu &aTecrübe&r ile beslememiz gerekir! \\n\\nYeterince tecrübe yuttuğunda size bir &aXpetrified Orb&r verir."
+		"{image:atm:textures/questpics/forbidden/forbidden_blackhole.png width:150 height:100 align:center}"
+	]
+	quest.3999AE0921641E60.title: "&8Kara Delik"
+	quest.3BEE1B1DF87783A8.quest_desc: ["Bu pakette Growing Edelwood elde etmenin üçüncü bir yolu var: Eleme. O güzel Edelwood'u elde etmek için Iron Mesh (veya daha iyisi) ile biraz yosun eleyin."]
+	quest.3D82C6639A6371CB.quest_desc: ["4 &7Quantum Core&r ve bir &cMundabitur Dust&r ile &7Quantum Injector&r elde edebilirsiniz. \\n\\n&7Quantum Injector&r bu aşamada pek kullanılmaz. Sağ tıkladığınızda havalı bir animasyon yapmaları dışında normalde ne yaptıklarını ben de bilmiyorum."]
+	quest.3D82C6639A6371CB.title: "&7Quantum Injector&r"
+	quest.40B757772D0FBAC9.quest_desc: [
+		"&4Kan&r, &6&lForge&r ocağında doldurulması gereken 3. kaynaktır. \\n\\n&4Kan&r eklemek için &6&lForge&r üzerinde veya yakınında yaratık öldürebilirsiniz. \\n\\nYa da &4Kan&r'ı &6&lForge&r'a aktarmak için dolu Test Tüplerini koyabilirsiniz. \\n\\nBir Test Tüpünü doldurmak için yaratıkları öldürürken tüpü İkinci Elinizde bulundurun."
+		"{image:atm:textures/questpics/forbidden/forbidden_blood.png width:135 height:100 align:center}"
+	]
+	quest.40B757772D0FBAC9.title: "&4Kan"
+	quest.414A35A72AFB5FF5.quest_desc: ["Bu muhtemelen üretimi en sinir bozucu olanlardan biridir: &bPrizmarin&r, &2Kaplumbağa Pulu&r, &9Lapis&r ve bir &3Denizin Kalbi&r gerektirir. \\n\\nUmarım &2&lMA&r'yı seviyorsunuzdur! \\n\\nKasklarla birleşir... büyük ihtimalle Solungaç veya Su Adaptasyonu vermek içindir, ama ben bir türlü çalıştıramadım..."]
+	quest.414A35A72AFB5FF5.title: "&9Sea Prism"
+	quest.46567ED894E9883C.quest_desc: [
+		"İşin eğlenceli kısmı burası! \\n\\n&3&lTier 2&r ocağınızı &e&lTier 3&r seviyesine yükseltmek için 4 &6Deorum&r Ingot, 4 &bArcane Crystal&r ve 1 &9Chiseled Polished Darkstone&r kullanın. \\n\\nArtık daha fazla Öz depolayabilir, daha fazla Relic ve tarif kullanabilirsiniz!"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier2.png width:100 height:100 align:center}"
+	]
+	quest.46567ED894E9883C.title: "&e&lTier 3 &6Forge"
+	quest.4707FB01F15F6E1F.quest_desc: [
+		"&b&lClibano&r, devasa bir fırın (Jumbo Furnace) gibi çalışan yeni bir çoklu blok yapıdır! İnşa etmek için şu adımları izleyin:"
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano1.png width:100 height:100 align:center}"
+		"İlk katman, köşeleri &9Polished Darkstone&r ve köşeler dışında kalan alanı &9Polished Darkstone Bricks&r ile doldurulan 3x3'lük bir alandır."
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano2.png width:100 height:100 align:center}"
+		"İkinci katmanda &9Polished Darkstone Bricks&r ve &bClibano Core&r kullanılır. Tam ortadaki bloğu boş bırakmayı unutmayın!"
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano3.png width:100 height:100 align:center}"
+		"Üst katman tamamen ilk katman ile aynıdır."
+		"{image:atm:textures/questpics/forbidden/forbidden_clibano4.png width:100 height:100 align:center}"
+		"Son olarak yapıyı tamamlamak için &cMundabitur Dust&r ile sağ tıklayın!"
+	]
+	quest.4707FB01F15F6E1F.title: "&b&lClibano"
+	quest.487C70679535DDDB.quest_desc: ["Quantum Catcher'ınızdaki kısıtlamalardan sıkıldınız mı? Muhafızları arkadaşlarınızın üssüne taşıyamıyor musunuz? \\n\\nArtık sorun değil! Quantum Catcher'ı 3 &2Stellarite Piece&r ve bir Nether Yıldızı ile birleştirerek Boss Catcher yapabilirsiniz. \\n\\nArtık tüm boss'ları dilediğiniz yere taşıyabilirsiniz!"]
+	quest.487C70679535DDDB.quest_subtitle: "Biliyorum, Trinity Gem; bana bağırmana gerek yok"
+	quest.49D0B6D3ED3DCCCD.quest_desc: ["&bArcane Crystal Dust&r elde etmek çok kolaydır: &bArcane Crystal&r eritmeniz yeterlidir! \\n\\nAyrıca birkaç adet &bArcane Crystals&r geri elde etmek için Clibano Çoklu Bloğunu da kullanabilirsiniz!"]
+	quest.49D0B6D3ED3DCCCD.title: "&bArcane Crystal Dust"
+	quest.4A564E8FE587C7E4.quest_desc: ["Ruhları elde etmenin en iyi yolu Soul Extractor kullanmaktır! \\n\\nBirkaç Nether Eşyası ve Bloğu ile bir Utrem Jar (üretmek için Edelwood gerekir) karşılığında ruh bulma aletinizi elde edebilirsiniz! \\n\\nRuh Kumu üzerinde Sağ Tıklayıp basılı tuttuğunda içindeki Ruhları çıkaracaktır. \\n\\nGeriye Kum olarak bırakır... hayır bekle Soulless Sand oluyor... Soulless Sand de neyin nesi?!?!?!"]
+	quest.4BE209D5DAF1F321.quest_desc: [
+		"&bAureal&r, &6&lForge&r için gereken ilk ve en önemli kaynaktır. \\n\\n&bArcane Crystal Obelisk&r ile otomatikleştirebilir veya &bAureal Bottle&r / iksirlerle doldurabilirsiniz! \\n\\n&bAureal Bottle&r şişelerini sandıklarda bulabilir veya &bArcane Crystal Dust&r ve Yenilenme II İksiri ile üretebilirsiniz."
+		"{image:atm:textures/questpics/forbidden/forbidden_aureal.png width:135 height:100 align:center}"
+	]
+	quest.4BE209D5DAF1F321.title: "&bAureal"
+	quest.4C93FCBAB7F3C00D.quest_desc: ["Skyblock dünyasında kazabileceğimiz cevher olmadığından, Rune ve Stellarite malzemelerini eleme yoluyla edinmenize izin vereceğimizi düşünmüş olabilirsiniz, değil mi? \\nYANLIŞ! Onlar için Miner Spirit kullanmamız gerekecek. Mod hakkında daha fazla bilgi için Occultism görev sayfasına bakın."]
+	quest.4C93FCBAB7F3C00D.quest_subtitle: "Burası Forbidden Arcanus görev sayfası değil miydi?"
+	quest.4C93FCBAB7F3C00D.title: "Occultism?"
+	quest.4CFE097D0A8683C8.quest_desc: ["&5Obsidian Skull&r, takıldığında sizi ateş ve lav hasarından koruyan bir kasktır! \\n\\nZamanla dayanıklılığı azalır; &5Obsidiansteel&r ile onarabilirsiniz. \\n\\n8 &5Obsidiansteel&r ve 1 İskelet Kafası ile üretilir."]
+	quest.4CFE097D0A8683C8.title: "&5Obsidian Skull"
+	quest.52472667678E10D1.quest_desc: ["&2Stellarite&r şu Y seviyeleri arasında oluşur... Bunu neden söylüyorum ki? Burada olmadığını biliyorsunuz... Galiba Skyblock dünyasında olduğumuzdan biraz fazla söz ediyorum. \\n\\nBu kadar geniş bir aralıkta kolay bulunacağını düşünürsünüz! Ama öyle değil; çok nadirdir! O kadar nadirdir ki yalnızca Marid ve Eldritch madencileri onu bulacak kadar beceriklidir! \\n\\nYine de çıkarırken dikkatli olun; kırıldığında PATLAR!"]
+	quest.52472667678E10D1.title: "&2Stellarite Pieces"
+	quest.52D4FCE72B15BC46.quest_desc: ["Daha gelişmiş bir kova ister misiniz? Edelwood Bucket tam size göre! \\n\\nBirkaç Edelwood Plank ile 4 kova su veya süt taşıyabilen gelişmiş bir kova elde edebilirsiniz. \\n\\nAğırlığından dolayı lav taşırken kapasitesi 3 kovadır."]
+	quest.539266A1C03C2EBA.quest_desc: [
+		"Ruhlar, &6&lForge&r için gereken 2. kaynaktır ve en küçük haznedir: Tamamen doldurmak için 10 adet yeterlidir. \\n\\nHer Soul ve Corrupt Soul 1 ruh sayılırken, Enchanted Soul tek başına 10 ruh yerine geçer!"
+		"{image:atm:textures/questpics/forbidden/forbidden_souls.png width:135 height:100 align:center}"
+	]
+	quest.539266A1C03C2EBA.title: "Ruhlar"
+	quest.53E2BEA626B35BFC.quest_desc: ["Oldukça pahalı bir tarif, ama kesinlikle buna değer! \\n\\n&6Spectral &4Eye&r kullanmak size &4Spectral Vision Effect&r verir. Bu etki, her yönde 100 blok yarıçap içindeki bütün yaratıklara &eParlama&r uygular! \\n\\nYer altındaki yapıları, Chaos Guardian tarafından çağrılan Guardian Wither'ları veya arkadaşınızın gizli aksolotl çiftliğini bulmak için harikadır!"]
+	quest.53E2BEA626B35BFC.quest_subtitle: "ATM6'da çok popülerdi!"
+	quest.53E2BEA626B35BFC.title: "&6Spectral &4Eye &7Amulet"
+	quest.580148D1141446A6.quest_desc: [
+		"&c&lNether&r sizin için fazla mı korkutucu? O zaman &2&lAna Dünya'da&r Soul arayabilirsiniz!\\n\\nDünyanızda dolaşan Lost Soul'lar bulabilirsiniz.\\n\\nDüşürdükleri Soul'lar için onları öldürebilirsiniz! Ama bu çok daha verimsizdir...\\n"
+		"Soul bulmakta zorlanıyorsanız kılıcınıza Soul Looting büyüsü eklemeye bakabilirsiniz. Bu büyüyle yaratık öldürmek zaman zaman Soul oluşturur."
+	]
+	quest.580148D1141446A6.title: "Kayıp Ruhlar"
+	quest.5A6FF0D4BA894306.quest_desc: ["&6&lForbidden \\& Arcanus&r modunun simgesi: &aEternal Stella&r. \\n\\n1 &bElmas&r, 3 &aXpetrified Orb&r ve bir &2Stellarite Piece&r ile bu modpack'teki en güçlü eşyalardan birini yapabiliriz! \\n\\n&aEternal Stella&r malzemesini bir eşya ve Apply Item Modifier ile kullanarak eşyaların dayanıklılığını kaybetmesini sağlayabilirsiniz. Hayır, durun; dayanıklılığa ihtiyaçlarını kaybetmelerini demek istedim! Yani esasen kırılmaz eşyalar. \\n\\n&bElmas Baltalardan&r oltalara, hatta &eİşlenmiş Işık Taşı Zırhına&r kadar dayanıklılığı olan hemen her eşyada kullanılabilir! \\n\\nBazı sınırları vardır: Yalnızca dayanıklılığı olan eşyalarda çalışır; İnfüzyon Kristalleri gibi kullanım sayısı veya Meka-Tool gibi enerji kullanan eşyalarda çalışmaz!"]
+	quest.5A6FF0D4BA894306.title: "&aEternal Stella"
+	quest.5CD0E6F349F2F32D.quest_desc: ["Korkmayın, bu bir öcü değil, tam büyümüş bir Edelwood! \\n\\nAğacın tepesinde bir Carved Edelwood Log kütüğü ve ondan çıkan Edelwood Branch dalları bulunacaktır; bunlar Edelwood Stick elde etmek için kırılabilir. \\n\\nKütüklerin içi boş olup bir Kazan ile benzer alana sahiptir. Komik bir şekilde, tıpkı bir Kazan gibi Su da tutabilir!"]
+	quest.5ED0DA95BAE43D88.quest_desc: ["Prizmaların sonuncusu, gerçi bu bir &dKristal&r ama fikri anladınız! \\n\\nİlk olarak, &b&lThe Other&r boyutunda bulunan bir &eDivine Pact&r Relic'ine ihtiyacınız olacak. \\n\\nArdından &3Enderpearl Fragments&r, &5Ametist&r ve Nether Kuvarsı gerekecek. Merak etmeyin, daha da zorlaşıyor! \\n\\nŞimdi her ruh türüne ihtiyacımız olacak. Diğer görevlerde Ruhları ve &9Corrupt Souls&r'ı nasıl elde edeceğinizi öğretmiştim, şimdi size &dEnchanted Souls&r hakkında bilgi vereceğim. \\n\\nDünyanızda etrafta uçuşan bir Lost Soul bulun ve üzerine bir &bSplash Potion of Aureal&r fırlatın! Ardından bir &dLost Enchanted Soul&r haline gelecektir, onu öldürün! \\n\\nBununla artık Aletlere ve Zırhlara uygulanarak Soulbound (Ruh Bağı) veren &dKristal&r'i yapabilirsiniz. Bu, öldüğünüzde envanterinizde bu eşyalarla yeniden doğacağınız anlamına gelir."]
+	quest.5ED0DA95BAE43D88.title: "&dSoul Binding Crystal"
+	quest.5F00A66CC1FE1F9F.quest_desc: ["Bu tarifin tek zor kısmı Yarasa Kanadı! Yarasaları ne sıklıkla öldürüyorsunuz ki? \\n\\nOldukça yeni bir eşyadır ve doğrudan zırhla birleşmez, yalnızca oyun sonu tariflerinde kullanılır."]
+	quest.63C95FDAA447CA47.quest_desc: ["&3&lTier 2&r gerektiren tek tarif &7Terrastomp Prism&r! \\n\\nDamla Taş Bloğu ve Sivri Damla Taş olmak üzere 2 farklı malzeme, Çakmaktaşı ve &bElmas Bloğu&r gereklidir. \\n\\nDiğer prizmalar gibi yapımında &3Elementarium&r kalıntısı gerektirir. \\n\\n&cFiery Prism&r gibi &7Terrastomp Prism&r de Aletlere takılabilir. Böylece tek blok yerine 3x3'lük alandaki 9 bloğu birden kazar!"]
+	quest.63C95FDAA447CA47.title: "&7Terrastomp Prism"
+	quest.66FE4552E09B5EFF.quest_desc: ["Prizmalar, &6&lForbidden \\& Arcanus&r tariflerinin çoğu ve ileride başka modlar için önemlidir! \\n\\nOnları üretmek için Hephaestus Forge'da çeşitli Dragon Scale'lerle yapılan &3Elementarium&r gerekir. \\n\\nBence nerede bulunamayacağını söylemek daha kolay olurdu!"]
+	quest.66FE4552E09B5EFF.title: "&3Elementarium"
+	quest.67CCEFEBA4D79429.quest_desc: ["&eDivine Pact&r elde etmesi en zor olanıdır; bunlar için birkaç Holy Hand Grenade yapmanız gerekir! \\n\\nSoul Binding Crystal üretmek için kullanılır ve... aslında başka hiçbir şey için değil..."]
+	quest.67CCEFEBA4D79429.title: "&eDivine Pact"
+	quest.692183ACBB2AABF7.quest_desc: ["Relic'ler, &2&lMinecraft&r dünyanızda nadir bulunan eşyalardır! Ama... Skyblock dünyasında pek ganimetimiz yok. Neyse ki artık onları Hephaestus Forge ile üretebilirsiniz. \\n\\n&6&lForge&r içinde merkez yuvanın çevresindeki karelerde kullanılabilirler; kademeleri yükselttikçe daha fazla kare açılır! \\n\\nYa da &l&bClibano&r içinde kullanabilirsiniz. \\n\\nBazıları yalnızca Yaratıcı Moddadır. Merak etmeyin; güçlü eşyalarınızı ne kadar sevdiğinizi biliyoruz ve onları eklemenin yollarını araştıracağız!"]
+	quest.692183ACBB2AABF7.title: "&lRelic'ler"
+	quest.6BA2BC09E23B34A9.quest_desc: [
+		"Bunun için 4 &7Rune&r ve 4 &2Stellarite Piece&r ile bir başka &9Chiseled Polished Darkstone&r gereklidir. \\n\\nBu &6&lForge&r, temel &6&lForbidden \\& Arcanus&r modunun son seviyesidir. \\n\\nYeni tarifleri açar ve Relic'ler için tüm yuvaları aktif hale getirir!"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier4.png width:100 height:100 align:center}"
+	]
+	quest.6BA2BC09E23B34A9.title: "&l&dTier 4 &6Forge"
+	quest.6F57BE412A7BE84E.quest_desc: ["&9Corrupt Soul&r 2 şey için kullanılır! \\n\\n1. &l&d4. Kademe &6Forge&r ile yapılan bir tarif; şimdilik bunu dert etmemize gerek yok. \\n\\n2. Growing Edelwood! \\n\\nGrowing Edelwood, Edelwood için fidan görevi görür. Artık elemenin yanında Edelwood elde etmenin tek yolu bunlardır."]
+	quest.6F57BE412A7BE84E.title: "&9Corrupt Souls"
+	quest.7671AFAA1EFD287F.quest_desc: ["&6&lForge&r için &bAureal&r üretimini otomatikleştirmek mi istiyorsunuz? 2 &bArcane Crystal Block&r, &6Arcane Polished Darkstone&r ve &cMundabitur Dust&r'a ihtiyacınız var! \\n\\n&6Arcane Polished Darkstone&r'ı yerleştirip üzerine iki &bArcane Crystal Block&r koyun. \\n\\nBu 1x3x1 yapıyı kurduktan sonra &cMundabitur Dust&r ile sağ tıklayarak &bObelisk&r oluşturun! \\n\\nBunları &6&lForge&r yapısında kürsülerin yerine koyarak &bAureal&r üretimini otomatikleştirebilirsiniz."]
+	quest.7671AFAA1EFD287F.title: "&bArcane Crystal Obelisk"
+	quest.79C9875A1A494762.quest_desc: ["Edelwood yetiştirmek için &9Corrupt Soul&r kullanmak istemiyorsanız şansınızı deneyebilirsiniz! \\n\\nGezgin Tüccar bazen ekilebilir Growing Edelwood fidanı satabilir. \\n\\nTüccarın gelişi rastgele olduğundan, Nerede doğacağını belirlemek için Tüccar Halıları (Trader Carpet) kullanabilirsiniz."]
+	quest.79C9875A1A494762.quest_subtitle: "Wandy T'den"
+	quest.79C9875A1A494762.title: "Edelwood Satın Almak"
+	task.63D5DE02A5E407A1.title: "Herhangi bir #occultism:miners"
+	task.763964008982F4ED.title: "Trader Carpet'lar"
+}

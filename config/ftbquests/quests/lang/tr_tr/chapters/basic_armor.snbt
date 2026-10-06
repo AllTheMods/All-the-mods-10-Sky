@@ -1,0 +1,326 @@
+{
+	quest.001B195541AE0FA1.quest_desc: ["Her yerde durmadan &azıplamak&r ve &atırmanmak&r için kullandığım eğlenceli bir zırh."]
+	quest.001B195541AE0FA1.quest_subtitle: "12"
+	quest.001B195541AE0FA1.title: "&aSlime Zırhı"
+	quest.004D61425172324F.quest_desc: ["&8Zincir Zırh&r Demirden biraz daha kötüdür. &l&2Minecraft&r'daki asıl kullanım alanı, yalnızca Ticaret ve Yaratık Düşürmeleri yoluyla elde edilebildiği için nadir olmasıydı. \\n\\nElbette bu modlanmış sürüm; artık üretebiliriz! Bu da kullanım amacını ortadan kaldırıyor..."]
+	quest.004D61425172324F.quest_subtitle: "12"
+	quest.004D61425172324F.title: "&8Zincir Zırh"
+	quest.03C059DFF8F1BF41.quest_desc: ["&2&lPickle Tweaks&r modunun eklediği &aZümrüt&r zırhı, elmas zırhına benzer özellikler sunar. &aZümrütler&r kolayca elde edildiği için bu set neredeyse bedavadır."]
+	quest.03C059DFF8F1BF41.quest_subtitle: "20"
+	quest.03C059DFF8F1BF41.title: "&aZümrüt Zırhı"
+	quest.04B31A600004F7CB.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya bir &2Topluluk katılımcısı&r tarafından oluşturulmuştur. \\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu görev açık izin olmadan &6AllTheMods Ekibi&r tarafından yayımlanmayan herkese açık paketlerde kullanılamaz. \\n\\nBu görev kasıtlı olarak gizlenmiştir, bunu görüyorsan düzenleme modundasın."]
+	quest.06B8539B731FE4BA.quest_desc: ["&b&lJust Dire Things&r modundaki &4Eclipse Alloy&r zırhı, &b&lJDT&r zırhlarının son ve en güçlü kademesidir. Elmas zırhının korumasını sağlasa da asıl işlevleri enerji kapasitesinden ve uygulanabilecek pek çok ama pek çok yükseltmeden gelir. "]
+	quest.06B8539B731FE4BA.quest_subtitle: "20"
+	quest.06B8539B731FE4BA.title: "&4Eclipse Alloy Zırhı"
+	quest.074EC1E636CD6605.quest_desc: ["&cNetherit Zırhı&r, &l&2Vanilla&r'da elde edebileceğin en iyisidir. &bElmas&r ile aynı Zırh Puanlarına sahiptir ancak daha fazla Zırh Sertliğine sahiptir. \\n\\nMuhtemelen onu yapmak için &bElmas&r'a ihtiyacın olduğu içindir!"]
+	quest.074EC1E636CD6605.quest_subtitle: "20"
+	quest.074EC1E636CD6605.title: "&cNetherit Zırhı"
+	quest.0ABB2264CBB82470.quest_desc: [
+		"&d&lArs&r zırhlarının Demir Zırhı.\\n"
+		"&5Arcanist&r seti, temel &5Ars Nouveau&r modundaki üç ana sihirli zırh türünden biridir; diğerleri &5Sorcerer&r ve &cBattlemage&r setleridir.\\n\\nÖzel avantajlar ve yetenekler sağlayan sihirli iplikler için orta sayıda yuva sunar. &cBattlemage&r zırhından daha çok yönlüdür, ancak &5Sorcerer&r zırhına kıyasla daha az ve daha zayıf yuvaları vardır. "
+	]
+	quest.0ABB2264CBB82470.quest_subtitle: "15"
+	quest.0ABB2264CBB82470.title: "&5Arcanist Outfit"
+	quest.0CE23DBBBFBCC372.quest_desc: ["&6Forbidden Arcanus&r modundaki &6Mortem Zırhı&r, deri zırhtan biraz daha iyi koruma sunan temel bir başlangıç setidir. Düşük kaynak maliyeti ve havalı görünüşüyle öne çıkar, ancak yalnızca geçici olarak kullanılacak bir ekipmandır.\\n\\n&4Düzenleme Modundakilere Not: Bu metin yazılırken Mortem Zırhının tarifi olmadığı için görev geçici olarak gizlenmiştir. Mortem Zırhı, Forbidden Arcanus veya KubeJS aracılığıyla üretilebilir hâle geldiğinde bu notu kaldırın ve görevi görünür yapın."]
+	quest.0CE23DBBBFBCC372.quest_subtitle: "11"
+	quest.0CE23DBBBFBCC372.title: "&6Mortem Zırhı"
+	quest.0E2515424291BB59.quest_desc: ["&d&lArs&r Zırhlarının &bElmas&r versiyonu!"]
+	quest.0E2515424291BB59.quest_subtitle: "20"
+	quest.0E2515424291BB59.title: "&5Battlemages Outfit"
+	quest.0F1D6F4729CC38F3.quest_desc: [
+		"Wild Hunt Wither Skeleton'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"
+	]
+	quest.0F1D6F4729CC38F3.quest_subtitle: "Nether Kalesi"
+	quest.0F1D6F4729CC38F3.title: "Kaburga Zırh Süslemesi"
+	quest.10AA2B20D86747F7.quest_desc: ["&bFerricore&r, Demir ile aynı istatistiklere sahiptir ancak Demirin keşke bende de olsaydı diyeceği başka yetenekleri vardır! \\n\\nNeler yapabilecekleri hakkında daha fazla bilgi edinmek için eşya açıklamalarına göz at!"]
+	quest.10AA2B20D86747F7.quest_subtitle: "15"
+	quest.10AA2B20D86747F7.title: "&bFerricore Zırhı"
+	quest.1245126B4338C019.quest_desc: [
+		"Wild Evoker'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"
+	]
+	quest.1245126B4338C019.quest_subtitle: "Orman Köşkü"
+	quest.1245126B4338C019.title: "Sinirbozan Zırh Süslemesi"
+	quest.13517D17E6BF015F.quest_desc: ["&bElmas Zırh&r ve birkaç &aInferium eşyası&r ile &aInferium Zırhı&r üretebiliriz! \\n\\nBu zırh, Tamirat sistemiyle de yükseltilebilir!"]
+	quest.13517D17E6BF015F.quest_subtitle: "21"
+	quest.13517D17E6BF015F.title: "&aInferium Zırh"
+	quest.17A68C4E9E9EA2B7.quest_desc: ["&eAltın Zırh&r, Demir ile &7Deri&r arasında yer alır. Ancak Dayanıklılığı &7Deri&r'ye çok daha yakındır. \\n\\nBiraz &eAltın Zırh&r giyerken Piglinlerin sana karşı Tarafsız olması dışında pek bir kullanımı yoktur."]
+	quest.17A68C4E9E9EA2B7.quest_subtitle: "11"
+	quest.17A68C4E9E9EA2B7.title: "&eAltın Zırh"
+	quest.19F58E291A543228.quest_desc: [
+		"&d&lArs&r zırhlarının &eAltın&r sürümü!"
+		""
+		"Temel savunması çok düşük olan, ancak &5sihirli&r yükseltmeler açısından en büyük potansiyele sahip bir &5sihir&r zırhı setidir. Diğer zırh setleri kadar hasara dayanamaz, fakat büyü gücünüzü büyük ölçüde artırır.\\n\\nBelki bunda Onarıma bile ihtiyacınız yoktur..."
+	]
+	quest.19F58E291A543228.quest_subtitle: "11"
+	quest.19F58E291A543228.title: "&5Sorcerer Kıyafeti"
+	quest.1A8440C0048EEB02.quest_desc: ["&cBlazegold&r, Demir ile aynı istatistiklere sahiptir ancak Demirin keşke bende de olsaydı diyeceği başka yetenekleri vardır! \\n\\nNeler yapabilecekleri hakkında daha fazla bilgi edinmek için eşya açıklamalarına göz at!"]
+	quest.1A8440C0048EEB02.quest_subtitle: "15"
+	quest.1A8440C0048EEB02.title: "&cBlazegold Zırhı"
+	quest.1C27C74722A19FC1.quest_desc: ["Çok miktarda pahalı &l&5Mekanism&r eşyası kullanarak &5Unobtainium Zırhını&r &aMekaSuit&r'e yükseltebilirsin! \\n\\nMekaSuit enerji depolar; hasar aldığında kalplerin azalmak yerine enerji tüketilir. \\n\\nYükseltme birimleri kullanarak onu daha da güçlendirebilirsin!"]
+	quest.1C27C74722A19FC1.quest_subtitle: "Sağlayabileceğin kadar Enerji"
+	quest.1C27C74722A19FC1.title: "&aMekaSuit"
+	quest.1CC627D3FB348C89.quest_desc: [
+		"Wild Horde Silverfish'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"
+	]
+	quest.1CC627D3FB348C89.quest_subtitle: "Yol Kalıntıları"
+	quest.1CC627D3FB348C89.title: "Şekillendirici Zırh Süslemesi"
+	quest.1D27EE427ECFD6CE.quest_desc: ["&cTertium&r'un yükseltilmiş versiyonu."]
+	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
+	quest.1D27EE427ECFD6CE.title: "&9Imperium Zırh"
+	quest.1D91E37BFD8CC911.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_emerald.png width:100 height:150 align:center}"]
+	quest.1D91E37BFD8CC911.title: "&2Zümrüt&r"
+	quest.1E3E688B3B52C4D2.quest_desc: [
+		"Wild Horde Silverfish'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"
+	]
+	quest.1E3E688B3B52C4D2.quest_subtitle: "Yol Kalıntıları"
+	quest.1E3E688B3B52C4D2.title: "Yükseltici Zırh Süslemesi"
+	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
+	quest.1EABF2E7AE7B8F22.title: "&8Netherit&r"
+	quest.1FAE4A884E083283.quest_desc: ["&d&lForbidden and Arcanus&r modundaki &6Tyr&r zırhı, modun en iyi savunma ekipmanıdır; güçlü koruma ve dayanıklılık sunar. &5Draco Arcanus&r zırhının yükseltilmiş hâlidir ve modun ileri aşamalarındaki &6Forge&r gerektirir."]
+	quest.1FAE4A884E083283.quest_subtitle: "37"
+	quest.1FAE4A884E083283.title: "&6Tyr Zırhı"
+	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
+	quest.1FC7ABEAB5018E79.title: "&4Redstone&r"
+	quest.211FD55DEB635A98.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_copper.png width:100 height:150 align:center}"]
+	quest.211FD55DEB635A98.title: "&6Bakır&r"
+	quest.2296CE4418AE62D4.quest_desc: ["&6Allthemodium Zırhı&r ama &d&lArs Nouveau&r Büyüleri için güçlendirmelerle!"]
+	quest.2296CE4418AE62D4.quest_subtitle: "24"
+	quest.2296CE4418AE62D4.title: "&6Allthemodium Arcanist Ekipmanı"
+	quest.243008D4DCD789D0.quest_desc: [
+		"Wild Spirits tarafından da dövülebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"
+	]
+	quest.243008D4DCD789D0.quest_subtitle: "Tropik Orman Tapınakları"
+	quest.243008D4DCD789D0.title: "Yabani Zırh Süslemesi"
+	quest.28408BFAA54E4FC6.quest_desc: ["&7Deri Zırh&r, elde edebileceğiniz en kötü vanilla zırh setidir. \\n\\nBunun asıl nedeni, &c&lMojang'ın&r onu diğer zırhlardan önce edinmenizi beklemesidir. \\n\\nAma ben o kadar çok &8İ&fn&8e&fk&r bulmakta zorlandığım için onu neredeyse hiç edinmiyorum. Kusura bakma, &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_subtitle: "7"
+	quest.28408BFAA54E4FC6.title: "&7Deri Zırh"
+	quest.2A4FE9644F3B9DC1.quest_desc: ["&2Prudentium&r'un yükseltilmiş versiyonu."]
+	quest.2A4FE9644F3B9DC1.quest_subtitle: "26"
+	quest.2A4FE9644F3B9DC1.title: "&cTertium Zırhı"
+	quest.2AC0FE608759AD53.quest_desc: ["&e&lCreate&r modunun dalış zırhı yalnızca koruma sağlamaz; su altında inşa etmek ve çalışmak için pek çok güçlendirme de sunar."]
+	quest.2AC0FE608759AD53.quest_subtitle: "7 ila 15"
+	quest.2AC0FE608759AD53.title: "&9Dalış Zırhı"
+	quest.2E0F82F7E1B74033.quest_desc: [
+		"&d&lArs Elemental&r &2Toprak Zırhı&r!\\n"
+		"&2Toprak&r gliflerini güçlendirerek toprak ve zehir tabanlı büyülerin etkisini artırır.\\n\\n&2Toprak&r tabanlı kaynaklardan alınan hasarı azaltır.\\n\\nTam set giyildiğinde alınan &2Toprak&r tabanlı hasarın bir kısmını manaya da dönüştürür."
+	]
+	quest.2E0F82F7E1B74033.quest_subtitle: "15"
+	quest.2E0F82F7E1B74033.title: "&2Jeomansör Kıyafeti"
+	quest.2EAA6BE598C83F24.quest_desc: [
+		"&d&lArs Elemental&r &3Su Zırhı!\\n"
+		"&3Su&r gliflerini güçlendirir.\\n\\n&3Su&r tabanlı kaynaklardan alınan hasarı azaltır.\\n\\nTam set giyildiğinde alınan &3Su&r tabanlı hasarın bir kısmını manaya dönüştürür."
+	]
+	quest.2EAA6BE598C83F24.quest_subtitle: "15"
+	quest.2EAA6BE598C83F24.title: "&3Aquamancer Kıyafeti"
+	quest.338BD467EBE6EE1F.quest_desc: [
+		"Wild Evoker'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"
+	]
+	quest.338BD467EBE6EE1F.quest_subtitle: "Yağmacı Karakolu"
+	quest.338BD467EBE6EE1F.title: "Nöbetçi Zırh Süslemesi"
+	quest.3403D7502F7BC897.quest_desc: ["Kelimenin tam anlamıyla yenilmezsin; hiçbir şey sana vurup hasar veremez. \\n\\nŞu anda &cNetherit Zırhını&r bir &eKuantum &bYükseltme&r ile yükseltmen gerekiyor, ancak &6&lATM Team&r bu tarifi zorlaştırmak için çalışıyor! \\n\\nBunu durdurmak için yapabileceğin hiçbir şey yok! &lBWAHAHAHAHA"]
+	quest.3403D7502F7BC897.quest_subtitle: "Yenilmez"
+	quest.3403D7502F7BC897.title: "&eKuantum &bZırhı&r (&l&7MI&r)"
+	quest.34D14B807A2DAC0F.quest_desc: ["Bütün eğlencenin &5&lMekanism&r ve &l&7Modern Industrialization'a&r kalacağını mı düşündünüz? \\n\\nBu &5Kuantum Zırhının&r varsayılan özellikleri &cNetherit Zırhına&r benzer, fakat &aMekaSuit&r gibi Enerjiyi kalkan olarak kullanabilir. \\nDaha da güçlü olmanızı sağlayacak yükseltmeler de takılabilir! Uçuş, Gece Görüşü ve hatta yeniden şarj olma gibi. \\n\\nAma en iyi yanı, Depolama Sisteminize bağlanabilmesidir! Böylece nerede olursanız olun sistemden otomatik olarak Enerji ve istediğiniz Eşyayı alabilirsiniz.\\n\\nÜstelik tam seti giymek, &aRadyasyonun&r sizi öldürmesini önleyebilir."]
+	quest.34D14B807A2DAC0F.quest_subtitle: "Sağlayabileceğiniz kadar Enerji"
+	quest.34D14B807A2DAC0F.title: "&5Kuantum Zırhı&r (&l&bAE2&r)"
+	quest.351159C55159C316.quest_desc: [
+		"Possessed Shulker'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"
+	]
+	quest.351159C55159C316.quest_subtitle: "End Şehri Sandıkları"
+	quest.351159C55159C316.title: "Sarmal Zırh Süslemesi"
+	quest.3512F47DADC07EAE.quest_desc: ["&5Unobtainium Zırh&r ama &d&lArs Nouveau&r Büyülerine güçlendirmeleri var!"]
+	quest.3512F47DADC07EAE.quest_subtitle: "40"
+	quest.3512F47DADC07EAE.title: "&5Unobtainium Arcanist Ekipmanı"
+	quest.3685B52446DEC809.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_gold.png width:100 height:150 align:center}"]
+	quest.3685B52446DEC809.title: "&eAltın&r"
+	quest.39796D8EE440F318.quest_desc: [
+		"Wild Horde Husk'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"
+	]
+	quest.39796D8EE440F318.quest_subtitle: "Çöl Piramitleri"
+	quest.39796D8EE440F318.title: "Kumul Zırh Süslemesi"
+	quest.3A840658A11D16A5.quest_desc: ["&7PneumaticCraft&r modundaki &7Pnömatik&r zırh, basınç ağınızdan gelen sıkıştırılmış havayla çalışan güçlü ve modüler bir son aşama setidir. Setin en iyi yanı yükseltmeleridir. Kuantum zırhından daha hızlı uçabilir, inanılmaz yükseğe zıplayabilir ve her türlü tehlikeden korunabilirsiniz."]
+	quest.3A840658A11D16A5.quest_subtitle: "15+"
+	quest.3A840658A11D16A5.title: "&7Pnömatik Zırh"
+	quest.3AA836E8EDB52097.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_lapis.png width:100 height:150 align:center}"]
+	quest.3AA836E8EDB52097.title: "&9Lapis Lazuli&r"
+	quest.3ABE7074E500494D.quest_desc: ["&7Çelik&r, &5&lMekanism&r'daki çoğu Makine için kullanılır... artı Zırh için de kullanılır, bu güzel!"]
+	quest.3ABE7074E500494D.quest_subtitle: "20"
+	quest.3ABE7074E500494D.title: "&5&lMekanism&r &7Çelik Zırhı"
+	quest.3AE0198177A8E91B.quest_desc: [
+		"Possessed Elder Guardian'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"
+	]
+	quest.3AE0198177A8E91B.quest_subtitle: "Gemi Enkazları ve Gömülü Hazine"
+	quest.3AE0198177A8E91B.title: "Kıyı Zırh Süslemesi"
+	quest.3C662D3A3537F514.quest_desc: ["&6&lOritech&r modundaki Exo Zırhı, çatışmadan çok kullanım kolaylığı ve keşif için tasarlanmış bir settir. Her parçası güzel faydalar sunar, ancak temel koruması çok azdır."]
+	quest.3C662D3A3537F514.quest_subtitle: "17"
+	quest.3C662D3A3537F514.title: "&7Exo Miğfer"
+	quest.3EA3A6414AB8A39C.quest_desc: [
+		"Wild Strong Breeze'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"
+	]
+	quest.3EA3A6414AB8A39C.quest_subtitle: "Sınama Odaları"
+	quest.3EA3A6414AB8A39C.title: "Akış Zırh Süslemesi"
+	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
+	quest.44CC11E67ADD0556.quest_desc: ["&d&lForbidden and Arcanus&r modundaki &5Draco Arcanus&r zırhı, iyi koruma özellikleri sunan yüksek kademeli bir settir. Modun &5Obsidiyen&r zırhının yükseltilmiş hâlidir; gerekli malzemeleri edinmek için modun &6Hephaestus Forge&r sistemine geçmeniz gerekir."]
+	quest.44CC11E67ADD0556.quest_subtitle: "30"
+	quest.44CC11E67ADD0556.title: "&5Draco Arcanus Zırhı"
+	quest.452DC5EB02D592B8.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_amethyst.png width:100 height:150 align:center}"]
+	quest.452DC5EB02D592B8.title: "&5Ametist&r"
+	quest.4915960FBC94AD0E.quest_desc: ["&7Compressed Iron&r zırhı, modun geri kalanına giriş sağlayan temel bir başlangıç setidir. Sıkıştırılmış demirin nasıl oluşturulduğunu tanıtmak için deri zırh ile &7sıkıştırılmış demir&r birleştirilerek üretilir.\\n\\nDeri zırha göre korumayı bir miktar artırır; demir zırha eşittir ve elmas zırhtan zayıftır."]
+	quest.4915960FBC94AD0E.quest_subtitle: "15"
+	quest.4915960FBC94AD0E.title: "&7Compressed Iron Zırh"
+	quest.497D222F74A52DF5.quest_desc: ["İşte bunu sevdim! Demir çok yaygındır ve Zırhı oyunun başları için harikadır. \\n\\nZombilerin ve İskeletlerin neredeyse hiç şansı yok!"]
+	quest.497D222F74A52DF5.quest_subtitle: "15"
+	quest.49E13245EE169048.quest_desc: ["&6Radyasyon Kıyafeti&r, savunma sağlamadığı için işe yaramaz görünebilir, ancak &aRadyasyonun&r sizi öldürmesini önlemenin tek yoludur (&aMekaSuit'in&r Radyasyon Koruma Birimi ve Advanced AE'nin &5Kuantum Zırhı&r dışında). \\n\\n&aRadyasyon Zehirlenmesini&r önlemek için setin tamamını giymelisiniz! \\n\\n&aRadyasyon&r yakınındaki diğer yaratıkları ve oyuncuları öldürür. Oyuncular &6Radyasyon Kıyafetleriyle&r korunabilir... ama yaratıklar o kadar şanslı değil!\\n\\n&aRadyasyon&r hakkında daha fazla bilgi için &5&lMekanism: Reaktörler&r görev sayfasına bakın."]
+	quest.49E13245EE169048.quest_subtitle: "0"
+	quest.49E13245EE169048.title: "&6Radyasyon Kıyafeti"
+	quest.4A9CB8778D37049F.quest_desc: ["&4Supremium Zırh&r üzerinde başka bir Uyanış Ritüeli yapmak üzere Eşyaları almak için bir Uyanış Ritüeli kullanman gerekecek. \\n\\nBence buna değer; bu &2&lMystical&r'dan alabileceğin en iyi Zırhtır!"]
+	quest.4A9CB8778D37049F.quest_subtitle: "36"
+	quest.4A9CB8778D37049F.title: "&6Uyandırılmış Supremium Zırh"
+	quest.4B9C54DA5CB6D5C9.quest_desc: [
+		"Wild Horde Silverfish'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"
+	]
+	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Yol Kalıntıları"
+	quest.4B9C54DA5CB6D5C9.title: "Ev Sahibi Zırh Süslemesi"
+	quest.4C2BB25A757CE834.quest_desc: ["&7Kauçuk&r zırhı, oyunun çok erken aşamalarına yönelik bir koruma setidir. Ciddi bir ekipmandan çok, orta aşamadaki teknolojilerin üretiminde kullanılan bir malzemedir. &7Kauçuk&r zırh çok az koruma sağlar; &4çatışma&r veya &2keşif&r için tasarlanmamıştır."]
+	quest.4C2BB25A757CE834.quest_subtitle: "+2"
+	quest.4C2BB25A757CE834.title: "&8Kauçuk Zırhı"
+	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
+	quest.4DF683461225690F.title: "&7Demir&r"
+	quest.5064D5F99E2C69C8.quest_desc: ["&9Imperium&r'un Yükseltilmiş versiyonu."]
+	quest.5064D5F99E2C69C8.quest_subtitle: "29"
+	quest.5064D5F99E2C69C8.title: "&4Supremium Zırh"
+	quest.5270883BF008AACE.quest_desc: ["Bu yalnızca bir geçiş görevi; böylece bağımlılıkları olan çok sayıda görevi Tek Ön Koşul Tamamlansın şeklinde işaretlemek zorunda kalmıyorum."]
+	quest.5270883BF008AACE.title: "Occultism VEYA Rastgele Zırh Süsü"
+	quest.52AFABA08674B6A8.quest_desc: ["&3Vibranium Zırh&r ama &d&lArs Nouveau&r Büyülerine güçlendirmelerle!"]
+	quest.52AFABA08674B6A8.quest_subtitle: "32"
+	quest.52AFABA08674B6A8.title: "&3Vibranium Arcanist Ekipmanı"
+	quest.52B61FB01D7C12A4.quest_desc: ["&aInferium&r'un Yükseltilmiş versiyonu."]
+	quest.52B61FB01D7C12A4.quest_subtitle: "23"
+	quest.52B61FB01D7C12A4.title: "&2Prudentium Zırh"
+	quest.537CDA57EBECD176.quest_desc: ["Gökyüzünde olduğumuz için, normalde zırh süslerini bulduğumuz çeşitli yapılar ortadan kalktı ve bütün zırh süslerini kaybettik... Ama bir çözümümüz var: Eski dostumuz Sieve. Golden Mesh ile Kum elemek size Rastgele Zırh Süsü verme şansı sunar."]
+	quest.56975E521D14BDC9.quest_desc: ["Occultism de çeşitli Possessed ve Wild yaratıklarından Zırh Süsleri elde etmenin bir yolunu sunar. Daha fazla bilgi için Occultism görev sayfasına ve Dictionary of Spirits'e bakın."]
+	quest.56975E521D14BDC9.title: "Gizli Ritüeller"
+	quest.57F3F5875F7CF80C.quest_desc: ["&b&lJust Dire Things&r modundaki &3Celestigem&r zırhı, elmas seviyesinde koruma sunan ve enerjiyle çalışan üçüncü kademe bir settir. Havalı işlevler, takıp enerjiyle çalıştırabileceğiniz yükseltmelerden gelir."]
+	quest.57F3F5875F7CF80C.quest_subtitle: "20"
+	quest.57F3F5875F7CF80C.title: "&3Celestigem Zırhı"
+	quest.5865951E4F81C91F.quest_desc: [
+		"&7Osmiyum&r + &6Işık Taşı&r = &eİşlenmiş Işık Taşı&r!\\n"
+		"&7Daha sağlam&r."
+	]
+	quest.5865951E4F81C91F.quest_subtitle: "20"
+	quest.5865951E4F81C91F.title: "&eİşlenmiş Işık Taşı Zırhı"
+	quest.59771D9B8CAD80C5.quest_desc: ["&7Çakmak Taşı&r kolayca elde edildiği için TTS'de muhtemelen edineceğiniz &3ilk&r zırh."]
+	quest.59771D9B8CAD80C5.quest_subtitle: "12"
+	quest.59771D9B8CAD80C5.title: "&7Çakmak Taşı Zırhı"
+	quest.5A21B16F7600561A.quest_desc: ["Karton Zırh bir şaka. Bütün modpack'teki EN kötü zırh. Gerçi gizlice dolaşırken bazı faydaları olabilir..."]
+	quest.5A21B16F7600561A.quest_subtitle: "4"
+	quest.5A21B16F7600561A.title: "&6Karton Zırh"
+	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
+	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
+	quest.5C83D5CDD980FD9A.quest_desc: [
+		"Possessed Hoglin'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"
+	]
+	quest.5C83D5CDD980FD9A.quest_subtitle: "Burç Kalıntıları"
+	quest.5C83D5CDD980FD9A.title: "Domuz Burnu Zırh Süslemesi"
+	quest.5DDC15AAFD2CAF47.quest_desc: ["&bElmas Zırh&r, &l&2Vanilla&r zincirinin bir sonraki halkasıdır, burası aynı zamanda genellikle ona Büyü basmaya başladığımız yerdir! \\n\\nKoruma ve onun çeşitli türlerini öneririm, modlu oynarken seçici olmamıza gerek yok!"]
+	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
+	quest.5DDC15AAFD2CAF47.title: "&bElmas Zırh"
+	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
+	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
+	quest.62161BDE9AAAA4BF.quest_desc: [
+		"Wild Horde Silverfish'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"
+	]
+	quest.62161BDE9AAAA4BF.quest_subtitle: "Yol Kalıntıları"
+	quest.62161BDE9AAAA4BF.title: "Yol Bulucu Zırh Süslemesi"
+	quest.65A529C8238E89F1.quest_desc: ["&5&lMekanism&r sayesinde artık &9Lapis Lazuli&r'den Zırh yapabiliriz! \\n\\nBayağı kötü gerçi..."]
+	quest.65A529C8238E89F1.quest_subtitle: "9"
+	quest.65A529C8238E89F1.title: "&9Lapis Lazuli Zırh"
+	quest.65E733AACBE62EDB.quest_desc: [
+		"Possessed Warden'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"
+	]
+	quest.65E733AACBE62EDB.quest_subtitle: "Antik Kentler"
+	quest.65E733AACBE62EDB.title: "Koğuş Zırh Süslemesi"
+	quest.66C21934DAFFAC7F.quest_desc: [
+		"Possessed Elder Guardian'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"
+	]
+	quest.66C21934DAFFAC7F.quest_subtitle: "Yaşlı Gardiyanlardan Düşer"
+	quest.66C21934DAFFAC7F.title: "Gelgit Zırh Süslemesi"
+	quest.68DABFFB6B3E1A57.quest_desc: [
+		"Possessed Enderman'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"
+	]
+	quest.68DABFFB6B3E1A57.quest_subtitle: "Kale (Stronghold)"
+	quest.68DABFFB6B3E1A57.title: "Göz Zırh Süslemesi"
+	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
+	quest.6B671CB07D046BEC.title: "&bElmas&r"
+	quest.6C5F9D0D447EFB9C.quest_desc: ["Sadece &l&2Vanilla&r var mı sandın? \\n\\n&6Allthemodium Zırh&r daha fazla zırh puanı ve Zırh Sertliği sağlar, ayrıca Büyüye karşı artırılmış Koruma ve &6&lAllthemodium&r Görev Sayfasında okuyabileceğin diğer güçlendirmeleri de var! \\n\\nBu arada, onu üretmek için &cNetherit&r gerekecek."]
+	quest.6C5F9D0D447EFB9C.quest_subtitle: "24"
+	quest.6C5F9D0D447EFB9C.title: "&6Allthemodium Zırh"
+	quest.6D45C78AD098AF87.quest_desc: ["Bu, &4çatışmada&r savunma sağlamaktan çok elektrik tehlikelerine karşı korumak için tasarlanmış, son derece özel bir zırh setidir. Bir \"Faraday kafesi\" gibi çalışarak &7kablolara&r ve &eTesla bobinlerine&r karşı bağışıklık sağlar. "]
+	quest.6D45C78AD098AF87.quest_subtitle: "7"
+	quest.6D45C78AD098AF87.title: "&7Faraday Zırhı"
+	quest.6F76DA3BBAE8337B.quest_desc: ["&6&lAllthemodium&r'dan elde edebileceğimiz en harika Zırh, &5Unobtainium&r! \\n\\nŞimdi %100 Geri İtme Direnci ve her yerde daha yüksek istatistiklerle! \\n\\nAyrıca yapmak için &3Vibranium Zırh&r gerekir."]
+	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
+	quest.6F76DA3BBAE8337B.title: "&5Unobtainium Zırh"
+	quest.71C552678A0F649F.quest_desc: ["&7Osmiyum&r, Kayrak Taşı çevresinde oluşur ve kazmak için yalnızca Demir seviyesinde bir Kazma gerekir; buna karşın &cNetheritten&r daha iyi değerler sağlar!"]
+	quest.71C552678A0F649F.quest_subtitle: "21"
+	quest.71C552678A0F649F.title: "&7Osmiyum Zırh"
+	quest.7279700A93E8630B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_unobtainium.png width:100 height:150 align:center}"]
+	quest.7279700A93E8630B.title: "&5Unobtainium&r"
+	quest.729DCB919A92B735.quest_desc: [
+		"Wild Breeze'lerden de elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"
+	]
+	quest.729DCB919A92B735.quest_subtitle: "Sınama Odaları"
+	quest.729DCB919A92B735.title: "Şimşek Zırh Süslemesi"
+	quest.72DDA413D73E3235.quest_desc: ["&6&lAllthemodium&r Zırhları için sırada olan &3Vibranium&r ile her şeyde çok daha yüksek istatistikler! \\n\\nBunu oluşturmak için &6Allthemodium Zırh&r'a ihtiyacın olacak."]
+	quest.72DDA413D73E3235.quest_subtitle: "32"
+	quest.72DDA413D73E3235.title: "&3Vibranium Zırh"
+	quest.76CDF08465700AA2.quest_desc: [
+		"Possessed Warden'lardan da elde edilebilir"
+		"{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"
+	]
+	quest.76CDF08465700AA2.quest_subtitle: "Antik Kentler"
+	quest.76CDF08465700AA2.title: "Sessizlik Zırh Süslemesi"
+	quest.79D3055DE0EEA6B0.quest_desc: [
+		"&d&lArs Elemental&r &cAteş Zırhı&r!\\n"
+		"Bu set &cAteş&r gliflerini güçlendirerek ateş tabanlı büyüleri daha etkili kılar.\\n\\n&cAteş&r hasarına karşı direnç sağlar; tam set giyildiğinde bu direnç artar.\\n\\nTam set giyildiğinde alınan &cAteş&r tabanlı hasarın bir kısmını manaya da dönüştürür."
+	]
+	quest.79D3055DE0EEA6B0.quest_subtitle: "15"
+	quest.79D3055DE0EEA6B0.title: "&cPyromancer Outfit"
+	quest.7B500E0577BDFF8F.quest_desc: ["&6Bronz&r, &6Bakır&r ve Kalay karışımıdır. \\n\\nAlaşımı yapmanın bir düzine farklı yolu var, sana doğru yolu söylemeyeceğim."]
+	quest.7B500E0577BDFF8F.quest_subtitle: "18"
+	quest.7B500E0577BDFF8F.title: "&6Bronz Zırh"
+	quest.7C1D407CF67786F6.quest_desc: [
+		"&d&lArs Elemental&r &eHava Zırhı&r!\\n"
+		"&eHava&r gliflerini güçlendirir; bu, yıldırım büyüleri ve Leap gibi hareketlilik büyüleri için yararlı olabilir.\\n\\n&eHava&r tabanlı kaynaklardan alınan hasarı azaltır. Tam set giyildiğinde alınan &eHava&r tabanlı hasarın bir kısmını manaya dönüştürür."
+	]
+	quest.7C1D407CF67786F6.quest_subtitle: "15"
+	quest.7C1D407CF67786F6.title: "&fAethermancer Outfit"
+	quest.7F11ABFB2E21B7E4.quest_desc: ["Zırh, &l&2Minecraft&r'ın çok önemli bir parçasıdır; seni hasardan korur. \\n\\nFarklı zırh parçaları farklı Zırh Puanları sağlar. Zırhın ne kadar etkili olduğunu bu puanlar belirler; ne kadar çoksa o kadar iyi!\\n\\nÇoğu zırh, zırh süslemeleriyle süslenebilir. Görünümü değiştirmek için bir zırh parçasını, bir zırh süslemesi ve renklendirme malzemesiyle birlikte kullan!"]
+	quest.7F11ABFB2E21B7E4.title: "&l&bTemel Zırhlar&r"
+	quest.7FABB77A60E7962C.quest_desc: ["Obsidiyeni &bElmaslarla&r aşılayarak İşlenmiş Obsidiyen Tozu elde edebiliriz! \\n\\nArdından &7Osmiyumu&r bu malzemeye sıkıştırarak külçe biçimini elde edebiliriz. \\n\\nSon olarak bu külçeleri, &6Allthemodium Zırhından&r bile daha iyi değerlere sahip zırha dönüştürebiliriz!"]
+	quest.7FABB77A60E7962C.quest_subtitle: "31"
+	quest.7FABB77A60E7962C.title: "&5İşlenmiş Obsidiyen Zırhı"
+	task.27B97C63DC58278E.title: "Dalış Başlıkları"
+	task.337C841AD2B16764.title: "Dalış Tüpleri"
+	task.4BDF268861CA744F.title: "Tüm Hakları Saklıdır"
+	task.57895147416291FE.title: "Tüm Hakları Saklıdır"
+	task.597120AD20EEBF1D.title: "Dalış Botları"
+	task.73142F195D9B100C.title: "Exo Göğüslükler"
+}

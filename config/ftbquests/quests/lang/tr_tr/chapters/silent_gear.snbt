@@ -1,0 +1,86 @@
+{
+	quest.002D65E4D7E8F62B.title: "Kademe 2 Sınıflandırma Katalizörü"
+	quest.036D5767E07005BC.quest_desc: ["&bDökümhane Drenajlarını&r, &7Eriyik Metalleri&r dışarı çıkarmak için kullanacağız. Evet, ne yazık ki bunlar ellerimizle veya kovalarla almak için fazla sıcak. \\n\\n&c&lDökümhane&r &7Musluğunu&r &bDökümhane Drenajına&r bağlayın. Musluğa sağ tıkladığınızda &7Eriyik Metaller&r dışarı akacaktır. \\n\\nAyrıca &c&lDökümhanenin&r içindeki sıvı miktarlarını, &bDökümhane Drenajına&r bakarken de görebilirsiniz!"]
+	quest.036D5767E07005BC.title: "&c&lDökümhane&r &bDrenajları"
+	quest.047F3F99035CE623.quest_subtitle: "Madenleri özlüyorum"
+	quest.061A51A0EC13CA0F.quest_desc: ["Artık bir &aDökümhane Kontrolcümüz&r, &bDökümhane Drenajlarımız&r ve &4Dökümhane Tanklarımız&r olduğuna göre birkaç bloğa daha ihtiyacımız var. \\n\\nİlk olarak &6Sıvı Isıtma Bobinleri&r gerekir. Bunlar &c&lDökümhanenin&r zeminini oluşturacak ve &c&lDökümhaneyi&r ısıtmak için gerekli olacaktır. \\n\\nSon olarak &c&lDökümhane&r Camları veya &cAteş Tuğlaları&r gerekir. Bunları yapının geri kalanında kullanacağız! Kelimenin tam anlamıyla yapı taşları. \\n\\n&c&lDökümhanenin&r çerçevesini inşa etmek gerekmez; dolayısıyla bütün köşeler boş kalabilir. Ancak yapının tamamlanması için 4 duvarı ve bir zemini olmalıdır. Eksik bir blok varsa &aDökümhane Kontrolcüsü&r size nerede eksik olduğunu söyleyecektir. \\n\\n&c&lDökümhanenin&r iç alanı, bir &aDökümhane Kontrolcüsü&r ve &6Sıvı Isıtma Bobinleri&r bulunduğu ve diğer duvarları dolu olduğu sürece 1x1 kadar küçük olabilir! \\n\\nYine de bu kadar küçük yapmanızı önermem; çünkü &c&lDökümhane&r ne kadar büyük olursa içinde o kadar fazla alan bulunur! \\n\\n&c&lDökümhanenin&r tamamlandığını, &aDökümhane Kontrolcüsü&r bir ocak gibi aydınlandığında ve &6Sıvı Isıtma Bobinleri&r &6turuncuya&r döndüğünde anlayacaksınız."]
+	quest.061A51A0EC13CA0F.title: "&c&lDökümhane&r İnşası"
+	quest.083ABBA1C45FF960.quest_subtitle: "Sadece bir Çim Biçme Makinesi"
+	quest.0947B4ED95B0267E.quest_desc: ["Eşyaları ve aletleri kaplar.\\n\\nNetherit, harika bir kaplama malzemesidir."]
+	quest.0947B4ED95B0267E.quest_subtitle: "Kesinlikle sadece Netherit için değil"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Hançerden daha yüksek Dayanıklılık, ancak daha düşük hasar ve hız."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Saplamalık"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["Bu Döküm Kalıbı ile klasik kılıcı yapabilirsin! Güvenilir hasar ve güvenilir hız."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Eski Güvenilir Dost"
+	quest.0EF9F10A2178451F.quest_desc: ["&c&lDökümhanenin&r bütün parçaları (Dökümhane Muslukları, Döküm Masaları ve Döküm Kazanları hariç) herhangi bir &zRenge&r boyanabilir. Farklı &zRenkler&r aynı &c&lDökümhanede&r bir arada da kullanılabilir; yani isterseniz çok renkli &c&lDökümhaneler&r yapabilirsiniz."]
+	quest.0EF9F10A2178451F.title: "&zBoyanabilir &c&lDökümhane&r &zParçaları"
+	quest.0FEAD3CA2CC4A8B1.title: "Kademe 3 Starlight Charger Katalizörü"
+	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear ekipmanları, &9Tamir Çantası (Repair Kit)&r kullanılarak onarılabilir.\\n\\nBir eşyayı onarmak için, Tamir Çantasını bir üretim ızgarasına yerleştir, ardından aleti onarmak için gereken malzemeleri yerleştir. Bu, Tamir Çantasını \"dolduracaktır\".\\n\\nAleti onarmak için, dolu Tamir Çantasını onarmak istediğin aletle bir üretim ızgarasında birleştir."]
+	quest.11B0B93D725ABE43.quest_subtitle: "Örs gerekmez"
+	quest.158B24939A269D83.quest_desc: ["Tip Upgrade, bir aletin madencilik seviyesini artırmak için kullanılır.\\n\\nÖrneğin: Bir Demir Kazman ve 1 Elmasın varsa Diamond Tip Upgrade yapıp bunu kazmana takabilirsin. Böylece kazma Obsidiyen kazabilir ve ayrıca bir istatistik artışı kazanır."]
+	quest.158B24939A269D83.quest_subtitle: "3 Elmas bulamadığın zamanlar için"
+	quest.2156C00E30424844.quest_desc: ["&4Dökümhane Tankları&r, &c&lDökümhanemize&r sıvı eklemek için yapılmıştır. \\n\\nÇoğunlukla yakıt. \\n\\nÇoğunlukla &cLav&r! \\n\\nGörünüşe göre &c&lDökümhaneye&r gerçekten yakıt sağlamanın tek yollarından biri bu."]
+	quest.2156C00E30424844.title: "&l&cDökümhane&r &4Tankları"
+	quest.222D08F43B995FED.quest_subtitle: "Bunu göçertmeyi dene"
+	quest.22A0A9C81A5C85A1.quest_subtitle: "Her şeyi bir arada tutmak"
+	quest.262036FE8E87F50A.quest_subtitle: "3x3 Madencilik"
+	quest.26F9DB31A835B69C.quest_desc: ["&nDökümhane&r: &aTamam&r \\n&nDökümhanedeki Eriyik Metal&r: &aTamam&r \\n\\nPeki bunu nasıl dışarı çıkaracağız? \\n\\nÖnceki dostumuzu hatırlıyor musunuz? &c&lDökümhane&r &bDrenajını&r? Onu yeni dostumuz &c&lDökümhane&r &7Musluğuyla&r tanıştırmamız gerekecek. \\n\\n&c&lDökümhane&r &7Musluğunu&r &bDökümhane Drenajına&r yerleştirin. Artık altına, &7Eriyik Metali&r içine akıtabileceğimiz bloklar koyabiliriz... \\n\\nÖrneğin &8Döküm Kazanı&r gibi bloklar; yaklaşık 900 mB &7Eriyik Metali&r tam bir &7Metal Bloğa&r dönüştürür. \\n\\nYa da ... üretmek için ihtiyaç duyacağımız &8Döküm Masası&r..."]
+	quest.26F9DB31A835B69C.title: "Eşya Dökümü"
+	quest.29131C3532610ADF.quest_desc: ["Bu, Starlight Charger için Kademe 2 Sütun Başlığıdır."]
+	quest.29131C3532610ADF.title: "Kademe 2 Starlight Charger Sütun Başlığı"
+	quest.2BF119DD5D977409.title: "Kademe 2 Starlight Charger Katalizörü"
+	quest.2EB96FF06627FD9A.quest_desc: ["Salvager, ekipmanları yapıldıkları malzemelere ayırmana olanak tanır.\\n\\nÖrneğin: Bir Elmas Çizme koyarsan 4 Elmas geri alırsın."]
+	quest.2EB96FF06627FD9A.quest_subtitle: "(Bazı) Eşyaları parçalara ayırmak!"
+	quest.2EB96FF06627FD9A.title: "Salvager"
+	quest.3722B43822F80470.quest_desc: ["Kılıçtan daha fazla hasar verir ama daha yavaş."]
+	quest.3722B43822F80470.quest_subtitle: "İçindeki Samurayı Serbest Bırak"
+	quest.3930404D5C8B44EB.quest_desc: ["Bu, özel alaşımlar oluşturmak için kullanılır.\\n\\nAyrıca Tyrian Steel'i elde etmenin tek yolu da bu!"]
+	quest.3930404D5C8B44EB.quest_subtitle: "Malzemeleri Birleştirir"
+	quest.39B85DB54B1037FE.quest_desc: ["Kılıçtan biraz daha hızlı, ama daha düşük hasar."]
+	quest.39B85DB54B1037FE.quest_subtitle: "Kalın Kılıç"
+	quest.3AC03D1FA5C341A7.quest_desc: ["Recrystallizer; silah, alet ve zırh yapımında kullanmak üzere yeni kristaller yapmak için farklı kristalleri bir araya getirmeni sağlar."]
+	quest.3B560B2ECE331CAF.quest_desc: ["Bu, Starlight Charger için Kademe 3 Sütun Başlığıdır."]
+	quest.3B560B2ECE331CAF.title: "Kademe 3 Starlight Charger Sütun Başlığı"
+	quest.3D2C6FF462B17205.quest_desc: ["Düşük hasar, çok yüksek saldırı hızı. Hedefin yenilmezlik süresini azaltır."]
+	quest.3D2C6FF462B17205.quest_subtitle: "Sapla da Sapla"
+	quest.3F39BEB788175CEF.quest_subtitle: "3x3 Kazma!"
+	quest.405DCD3E36232EEA.quest_desc: ["Kılıçtan daha az hasar verir ama daha uzun menzile sahip."]
+	quest.405DCD3E36232EEA.quest_subtitle: "İçindeki Spartalıyı Serbest Bırak"
+	quest.427516AA3E8C9442.quest_subtitle: "Çok Amaçlı Çapa"
+	quest.45899579D9B92D91.quest_desc: ["&aDökümhane Kontrolcüsü&r, &c&lDökümhanenin&r kalbidir. \\n\\nHer &c&lDökümhanenin&r kurulması için en az 1 tane gerekir. \\n\\n&c&lDökümhaneyi&r kullanarak &c&lDökümhanenin&r arayüzünü görüntüleyebiliriz. Burada &c&lDökümhanenin&r içindeki sıvı miktarlarını görebiliriz. \\n\\nAyrıca &c&lDökümhaneye&r eşya koymak ve buradan eşya almak için de kullanabiliriz."]
+	quest.45899579D9B92D91.title: "&c&lDökümhane&r &aKontrolcüsü"
+	quest.462C1F75A2FB9F02.quest_subtitle: "Willy nerede?"
+	quest.48D358470A019E7A.title: "Kademe 1 Starlight Charger Katalizörü"
+	quest.52CDB46F6CBF007B.quest_subtitle: "Bunu kazıyor musun?"
+	quest.63CAD77A4488F2CE.quest_subtitle: "Kazma + Balta + Kürek"
+	quest.657B3116A6419420.quest_subtitle: "Kendi Sapın!"
+	quest.67216EC5274F08B9.quest_subtitle: "Çobanlar tarafından kullanılır"
+	quest.69383DA579901E7E.quest_subtitle: "Sana şunu sormama izin ver (Let me Axe you this)"
+	quest.6A393C7A24899E3E.quest_desc: ["Bir külçeyi Sınıflandırma Katalizörü ile Material Grader'a yerleştirmek, malzemeye derece verecektir.\\n\\nDerece ne kadar iyi olursa, malzemeyle ilgili istatistikler de o kadar iyi olur.\\n\\nEn iyi derece \"MAX\"tır."]
+	quest.6A393C7A24899E3E.quest_subtitle: "Malzeme Test Cihazı"
+	quest.6B78378BC8036227.title: "Kademe 1 Sınıflandırma Katalizörü"
+	quest.6BBC440BD0AD0E93.quest_desc: ["Bazıları &9&lSilent Gear&r'ı severken bazıları &7&lTinker's Construct&r'ı sever. \\n\\nİkisi arasında seçim yapmak yerine, &9&lSilent Gear&r ve &c&lProductive Metalworks&r'ü kullanarak iki dünyanın da en iyi yanlarını birleştirmeye karar verdik! \\n\\n&c&lProductive Metalworks&r, &9&lSilent&r eşyalarımızı elde etme şeklimizi değiştirecek. Artık &9Taslaklar&r (Blueprints) yerine &8Döküm Kalıplarına&r (Casts) ve bir &c&lDökümhaneye&r ihtiyacımız olacak. \\n\\n&c&lDökümhane&r yapımına başlamak için &cAteş Kili&r ile başlayın."]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r ve &c&lProductive Metalworks"
+	quest.6BFD7854F078BF16.quest_subtitle: "Şunu Kavra"
+	quest.711826BBCA832EE2.quest_desc: ["Bütün &8Döküm Kalıpları&r eşit yaratılmıştır. Daha doğrusu, hepsinin aynı şekilde yapıldığını kastediyorum. \\n\\nBir &8Döküm Masasındaki&r eşyanın üzerine &8Çelik&r dökerek! \\n\\nPeki &8Çeliği&r nasıl yapacağız diye mi soruyorsunuz? Herhangi bir &8Çelik&r eşyayı veya külçeyi eritmeniz yeterlidir. Ya da 9 &7Demir&r ile 10 &0Kömürü&r alaşımlayabilirsiniz. \\n\\nAlaşımlama, &c&lDökümhane&r &6ısıtıldığında&r ve içinde farklı &7Eriyik Metaller&r doğru miktarlarda bulunduğunda gerçekleşir. Bu iki &7Eriyik Metal&r birleşerek tek bir &7Eriyik Metale&r dönüşür!"]
+	quest.711826BBCA832EE2.title: "&8Döküm Kalıpları"
+	quest.766C80E5D7B7A916.quest_subtitle: "Birini seç! (Pick one!)"
+	quest.769D5DE66D13B256.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	quest.7C3D763CF22D167A.quest_desc: ["Starlight Charger, \"Star Charged\" büyüsü ile malzemeleri \"büyüleyebilir\".\\n\\nOrtasında Starlight Charger bulunan bir yapı gece gökyüzüne bakacak şekilde inşa edilmelidir. Sadece gece boyunca Starlight Gücü kazanır.\\n\\nCharger, her köşesinde bir Sütun olacak şekilde 7x7'lik bir yapının ortasına yerleştirilmelidir. Her sütunda \"Starlight Charger Başlığı\" bulunmalıdır.\\n\\nAyrıca malzeme başına bir charger catalyst gerektirir."]
+	quest.7C3D763CF22D167A.quest_subtitle: "Malzemelerin \"Büyülenmesi\""
+	quest.7C3D763CF22D167A.title: "&dStarlight Charger"
+	quest.7D690A7D0FF6E328.title: "Kademe 3 Sınıflandırma Katalizörü"
+	quest.7E13007340A818C5.quest_desc: ["Bu, Starlight Charger için Kademe 1 Sütun Başlığıdır."]
+	quest.7E13007340A818C5.title: "Kademe 1 Starlight Charger Sütun Başlığı"
+	task.0EF203AF0BA514F7.title: "Tamir Çantaları"
+	task.155D4ED18738E127.title: "Dökümhane Tankları"
+	task.2AE89914A34BF3AD.title: "Ateş Tuğlaları veya Dökümhane Camları"
+	task.3B23E744D3B72AE8.title: "Ateş Tuğlaları veya Dökümhane Camları"
+	task.511ECEA2E9BD1F71.title: "Herhangi bir #productivemetalworks:foundry_drains"
+	task.51297F6E0D9BB58C.title: "Herhangi bir #productivemetalworks:foundry_tanks"
+	task.54EF988F476C9208.title: "Dökümhane Drenajları"
+	task.55E0635973A828B0.title: "Tüm Hakları Saklıdır"
+	task.6D9DBD885FE4C94C.title: "Tüm Hakları Saklıdır"
+	task.76E296A2AD3EFE92.title: "Herhangi bir #productivemetalworks:foundry_controllers"
+	task.7D9F2C8E7C65B654.title: "Dökümhane Kontrolcüleri"
+}

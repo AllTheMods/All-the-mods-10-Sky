@@ -1,0 +1,20 @@
+{
+	quest.102D82A38637FA84.quest_desc: ["&c&lBaubley Heart Canisters&r, güçlü ekipmanlara ve azami canı artırmaya odaklanan bir moddur. Temel kaynağı, yaratıkları öldürerek elde edebileceğiniz &cKalplerdir&r. Farklı kalpler farklı yaratıklardan düşer ve düşük seviyeli kalpler daha iyi olanlara dönüştürülebilir."]
+	quest.102D82A38637FA84.quest_subtitle: "Kalplerini Çalmak"
+	quest.102D82A38637FA84.title: "&c&lBaubley Heart Canisters"
+	quest.11AA616D7622370C.quest_desc: ["Daha fazla güçlendirme için kullanılabilen geliştirilmiş bir sürüm."]
+	quest.15AEC638E00516AB.quest_subtitle: "\"Soğuk\" bir kalp"
+	quest.29555A5CFB098858.quest_subtitle: "Şimdi bir yere varıyoruz"
+	quest.297289FD3DA90DB4.quest_desc: ["Neredeyse her düşman yaratık &cMiniature Red Heart&r düşürür. Bunlar oyunun başlarında canınızı artırmak için kullanılır."]
+	quest.297289FD3DA90DB4.quest_subtitle: "Yemeyin!"
+	quest.2B0E41A8E9A34238.quest_subtitle: "Gösterişli yara bandı"
+	quest.30880CC59EEF97A8.quest_desc: ["Miniature Red Heart eşyalarını eritip herhangi bir kalp \"kalıbıyla\" birleştirerek Miniature Yellow Heart yapabilirsiniz."]
+	quest.30880CC59EEF97A8.quest_subtitle: "Bir tane için bunca zahmet mi?"
+	quest.30880CC59EEF97A8.title: "Melted Red Heart"
+	quest.31DE7556AC49EE48.quest_subtitle: "Ejderhalardan yapıldı (ya da yapılmadı)"
+	quest.49F4B5361AA39709.quest_desc: ["Daha fazla can için kullanılabilen geliştirilmiş bir sürüm."]
+	quest.49F4B5361AA39709.quest_subtitle: "Ender Ejderhaları"
+	quest.5902FDE5D2D74534.quest_subtitle: "Güçlendirmenin temeli"
+	quest.75ADA254B6B548D1.quest_desc: ["Her kullanımda can çubuğunuzu tamamen doldurmaya yeter. Oldukça iyi!"]
+	quest.75ADA254B6B548D1.quest_subtitle: "20*50 = 1000 can"
+}

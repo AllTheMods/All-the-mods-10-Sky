@@ -1,0 +1,238 @@
+{
+	quest.03164C4C7813CE2B.quest_desc: [
+		"Kuantum Bilgisayarı, oldukça güçlü bir üretim işlemcisidir. Kendisine tahsis edilmiş depolama alanı bulunduğu sürece sınırsız sayıda üretim işi çalıştırabilir ve bunlar arasında eş işlemci iş parçacıklarını ortaklaşa kullanabilir."
+		""
+		"En az 3x3x3, en fazla 7x7x7 boyutlarında bir dikdörtgenler prizması biçiminde olmalıdır. Alternatif olarak: Tek bir Kuantum Bilgisayar Çekirdeği, kendi başına bir Kuantum Bilgisayarı olarak çalışabilir."
+		""
+		"Bir Kuantum Bilgisayarı yapısı için şunlar gereklidir:"
+		"- Yapının içinde boş alan bırakılamaz. Boşluklar ek bir fayda sağlamasa da Kuantum Üretim Birimi ile doldurulabilir."
+		"- Tam olarak 1 adet Kuantum Bilgisayar Çekirdeği"
+		"- En fazla 1 adet Kuantum Veri Karıştırıcı"
+		"- En fazla 1 adet Kuantum Bilgisayar Çoklu İşlemci"
+		"- Dış katmandaki tüm bloklar Kuantum Bilgisayar Yapısal Camı olmalıdır."
+		"- İç kısımdaki blokların hiçbiri Kuantum Bilgisayar Yapısal Camı olamaz."
+		""
+		"Umarız bol miktarda Tekillik üretmeye hazırsınızdır."
+	]
+	quest.03164C4C7813CE2B.title: "Sonsuz Üretim İşleri: Kuantum Bilgisayarı"
+	quest.034AB493E1EC2E63.quest_desc: [
+		"Birleştirici Matris Çekirdekleri; yapının şablon kapasitesini, üretim işlerini ve hızını belirleyen ana bileşenlerdir."
+		""
+		"Üretim Çekirdekleri, yapının azami paralel üretim işi kapasitesini 8 artırır."
+		"Şablon Çekirdekleri, yapıya 36 şablon yuvası ekler."
+		"Hız Çekirdekleri, tıpkı Hızlandırma Kartı gibi üretim işlerinin hızını artırır. 5'ten fazla Hız Çekirdeği eklemenin üretim hızına ekstra bir katkısı yoktur."
+	]
+	quest.034AB493E1EC2E63.title: "Birleştirici Matris Çekirdekleri"
+	quest.07E5B0BF7D8E055A.quest_subtitle: "+%30 Kaçınma Şansı"
+	quest.09F43EB79DDBD127.quest_desc: [
+		"Kuantum Veri Karıştırıcı, eşyaların birden fazla boyutta depolanmasını sağlayarak Kuantum Bilgisayar çok bloklu yapısındaki üretim depolamasını fiilen 4 ile çarpar. Örneğin 256M kuantum üretim depolaması artık 1G Üretim Depolaması sağlar."
+		""
+		"&lBir Kuantum Bilgisayar çok bloklu yapısında bunlardan yalnızca 1 tane bulunabilir."
+	]
+	quest.09F43EB79DDBD127.title: "Gereksiz Derecede Büyük Depolama: Kuantum Veri Karıştırıcı"
+	quest.0A354B4707894A62.quest_subtitle: "+3'e Kadar Zıplama Yüksekliği"
+	quest.0B4CE3969067FA31.quest_desc: [
+		"Kuantum Zırhı, çeşitli yükseltmelerle geliştirilebilir."
+		""
+		"Kuantum Zırhınızı yükseltmek için ilgili tuşa (varsayılan olarak N) basarak Kuantum Zırhı Yapılandırma Menüsünü açın."
+	]
+	quest.0B4CE3969067FA31.title: "Kuantum Zırhı İçin Yükseltmeler"
+	quest.0D8B4DAB82ABEF9D.quest_desc: ["Kuantum Bilgisayar Hızlandırıcılarının her biri, Kuantum Bilgisayar çok bloklu yapısına 8 eş işlemci iş parçacığı ekler. Kuantum Bilgisayarın yürüttüğü bütün üretim işlerinin tüm eş işlemcileri paylaşabildiğini unutmayın; bu yüzden bunlardan çok sayıda kullanmak iyi bir fikirdir."]
+	quest.0D8B4DAB82ABEF9D.title: "Eş İşlemci Çılgınlığı: Kuantum Bilgisayar Hızlandırıcısı"
+	quest.0E06F323BF8C1D73.quest_desc: [
+		"Tomurcuklanan Entroize Fluiksin bozulması kaçınılmaz olduğundan bunları otomatik olarak elde etmenin başka yollarını isteyebilirsiniz."
+		""
+		"Neyse ki bunun için bir arı var."
+	]
+	quest.0E06F323BF8C1D73.quest_subtitle: "Bozulmayla başa çıkamadığınız zamanlar için"
+	quest.0E06F323BF8C1D73.title: "Entro Kristalleri Otomasyonu"
+	quest.12749A25600C7FF3.quest_desc: [
+		"Kuantum Üretici, oldukça güçlü ve özelleştirilebilir bir otomatik üreticidir. ME ağının tüm envanterine erişebildiği için aralıksız üretim yapmak çocuk oyuncağı haline gelir. Üretim işlerini inanılmaz bir hızla tamamlar. Ayrıca sıvı ikamelerini ve özyinelemeli üretimleri (Demirci Şablonu çoğaltma gibi) çalıştırabilir."
+		""
+		"Ayrıca her bir bileşenden ne kadar tutmak istediğinizi ve üründen stokta en fazla ne kadar bulundurmak istediğinizi ayarlayabilirsiniz."
+		""
+		"Ancak Şablon Sağlayıcılardan gelen üretim taleplerini kabul etmeyecektir."
+	]
+	quest.12749A25600C7FF3.title: "Tam Otomatik Üretim: Kuantum Üretici"
+	quest.14FC9E4A3C80C0AE.quest_desc: [
+		"Reaksiyon Odası; bir katalizör sıvı ve yüksek miktarda güç kullanarak dünyadaki reaksiyonları hızlandırabilir. Kontrollü ortamı sayesinde bu reaksiyonları daha verimli hale getirerek çok daha fazla malzeme elde etmenizi sağlar."
+		""
+		"Ancak oldukça fazla güç tüketir; ME ağınızda sağlam bir güç üretimi ve Enerji Hücreleri bulundurmanızda fayda var."
+		""
+		"Bu makine ayrıca Advanced AE'deki Kuantum tarifleri için de gereklidir."
+	]
+	quest.14FC9E4A3C80C0AE.title: "Reaksiyon Verimliliği: Reaksiyon Odası"
+	quest.18499D33BA12A8A9.quest_desc: ["Oluşum Düzleminin bir Depolama Veriyolu gibi davranmasının otomasyonda hantal kaldığını hiç düşündünüz mü? Aktif Oluşum Düzlemi tam size göre. Tıpkı bir ME Dışa Aktarma Veriyolu gibi iş görür ancak eşyaları doğrudan dünyaya yerleştirir. Bunun için ayrı bir alt ağ kurmanıza da gerek kalmaz."]
+	quest.18499D33BA12A8A9.quest_subtitle: "ÇIK DIŞARI: Aktif Sürüm"
+	quest.18499D33BA12A8A9.title: "Ağdan Aktif Olarak Yerleştirme: Aktif Oluşum Düzlemi"
+	quest.1A20BBBAFBEDF911.quest_desc: [
+		"Kuantum Bilgisayar Çoklu İşlemci, Kuantum Bilgisayar çok bloklu yapısındaki eş işlemci iş parçacıklarının sayısını 4 ile çarpar. Örneğin yapıda bu blok bulunduğunda bir Kuantum Bilgisayar Hızlandırıcısı 32 eş işlemci iş parçacığı sağlar."
+		""
+		"&lBir Kuantum Bilgisayar çok bloklu yapısında yalnızca bir Kuantum Bilgisayar Çoklu İşlemci bulunabilir.&r"
+	]
+	quest.1A20BBBAFBEDF911.title: "Sonsuzluğa Uzanan Eş İşlemciler: Kuantum Bilgisayar Çoklu İşlemci"
+	quest.1A815711703E4A24.quest_desc: ["Bu Görev, &6AllTheMods&r mod paketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katılımcı&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm hakları saklıdır&r lisansına sahip olduğundan, bu Görevin &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir açık pakette açık izin alınmadan kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.1B90B94D07BBDD09.quest_desc: [
+		"ExtendedAE cihazlarını üretmek için sıradan bir çalışma masası, çekiç ve pense yeterli olmayacaktır."
+		""
+		"Bu karmaşık işlemleri halledebilecek bir makine olan Kristal Birleştiriciye geçme zamanı."
+		""
+		"Bu makineyle ExtendedAE'nin çeşitli cihazlarını üretebilirsiniz."
+		""
+		"Kristal Birleştirici, dünyadaki reaksiyonları da gerçekleştirebilir (Reaksiyon Odası kadar verimli olmasa da) ve aynı anda 4 adet işlemciyi birleştirebilir."
+		""
+		"Ekranlı yüzeyi ME ağına bağlanamaz."
+	]
+	quest.1B90B94D07BBDD09.title: "Karmaşık Üretici: Kristal Birleştirici"
+	quest.1E535784A9D3DE89.quest_desc: ["Bunlar ExtendedAE'nin Entro Kristali gerektirmeyen cihazlarıdır."]
+	quest.27FC0C092EE00532.quest_desc: ["ME Kutulayıcı; kova, kimyasal tankı gibi sıvı, kimyasal veya enerji barındırabilen kapları doldurabilir ya da boşaltabilir. Kapları doldurmak için bir şablon kullanıldığında eşyayı otomatik olarak Şablon Sağlayıcıya aktarır."]
+	quest.27FC0C092EE00532.quest_subtitle: "ME Caner ile karıştırılmamalıdır"
+	quest.27FC0C092EE00532.title: "Bu Sıvıyı Kutula: ME Kutulayıcı"
+	quest.2E61219FC0BAB675.quest_subtitle: "+5'e Kadar Uzanma Mesafesi"
+	quest.3347CB6478F486C6.quest_subtitle: "Gittiğiniz Her Yerde Hücre Çalışma Tezgahı"
+	quest.33B7C1D2A229EB5C.quest_desc: ["Nihai Kuantum Bilgisayar düzenini hiç istediniz mi? İşte eş işlemci iş parçacıklarının sayısını en üst düzeye çıkarmaya odaklanan bir düzen.\\n\\n218 Quantum Computer Structural Glass, 123 Kuantum Bilgisayar Hızlandırıcısı, 1 Kuantum Bilgisayar Çekirdeği ve 1 Kuantum Bilgisayar Çoklu İşlemci gerekiyor. Bu düzen toplam 3968 eş işlemci iş parçacığı sağlar. Çekirdeğin sağladığı 256M üretim depolaması zaten fazlasıyla yeterli olduğu için burada çekirdek dışında depolama kullanmadığımı unutmayın. Veri Karıştırıcı görevinin isteğe bağlı olmasının bir nedeni var.\\n\\n200 Quantum Computer Structural Glass ve 100 Kuantum Bilgisayar Hızlandırıcısı edinin; kalanını ben vereceğim, çünkü Apothic Enchanting bölümü kadar cömertim."]
+	quest.33B7C1D2A229EB5C.title: "Nihai Kuantum Bilgisayarı"
+	quest.34FBD04361657724.quest_desc: [
+		"ExtendedAE boyunca kaynak olarak sık sık &aEntro Kristalleri &rkullanacaksınız."
+		""
+		"&aEntro Kristali&r elde etmek için bir Fluiks Bloğu ve Entro Tohumu gerekir. Fluiks Bloğuna Entro Tohumuyla sağ tıklayın."
+		""
+		"Bu, Tomurcuklanan Certus Kuvars gibi çevresinde Entro Tomurcukları büyüten &aTomurcuklanan Entroize Fluiks&r oluşturur. Certus'un aksine bunun bozulması kaçınılmazdır."
+		""
+		"&aTomurcuklanan Entroize Fluiks&r, hangi durumda olursa olsun kırıldığında daima &lbir &r&aEntro Tozu&r düşürür. Entro Tomurcukları tam büyümemişken Entro Parçaları düşürür."
+	]
+	quest.34FBD04361657724.quest_subtitle: "Zaman kristalleri ile karıştırılmamalıdır"
+	quest.34FBD04361657724.title: "Uzay ve Zamanın Kristalleri: Entro Kristalleri"
+	quest.3621155A4138EBCA.quest_desc: [
+		"ME Boşluk Hücresinin kullanılmadan önce Hücre Çalışma Tezgahı üzerinde filtrelenmesi gerekir. Sistemde öncelikli olduğu sürece, filtreye uyan ve ME ağına giren tüm eşyaları siler ya da tıpkı Madde Yoğunlaştırıcı gibi Madde Topu veya Tekillik haline getirir."
+		""
+		"Yapılandırma arayüzünü açmak için sağ tıklayın."
+	]
+	quest.3621155A4138EBCA.title: "Hücredeki Madde Yoğunlaştırıcı: ME Boşluk Hücresi"
+	quest.36FB694262102CFD.quest_desc: [
+		"ExtendedAE yeni bir depolama hücresi türü sunar: ME Sonsuz Hücresi."
+		""
+		"Bu hücreler Su, Kırık Taş, Lav gibi belirli kaynak türlerinden sınırsız tedarik sağlar."
+	]
+	quest.36FB694262102CFD.quest_subtitle: "Sink, ama hücre formunda"
+	quest.36FB694262102CFD.title: "İhtiyacınız Olandan Daha Fazla Kaynak: ME Sonsuz Hücreleri"
+	quest.38D0BBD5F699EF41.quest_desc: ["Bu yükseltme, Kablosuz Erişim Noktasına bağlanmış Kuantum Zırhı parçanızın ME sisteminiz üzerinden şarj olmasını sağlar. Kuantum Göğüslüğü üzerine takılırsa envanterinizdeki diğer eşyaları da şarj eder. AppliedFlux modu yüklüyse özel bir etkileşimi bulunur: Ağınızda FE Hücreleri varsa enerjiyi doğrudan onlardan çeker."]
+	quest.3916B48D7F294932.quest_desc: ["ME Kablosuz Dağıtıcı, ME Kablosuz Bağlayıcı için geliştirilmiş bir sürümdür. Artık 8 farklı Kablosuz Bağlayıcı veya Dağıtıcıya bağlanabilir. Dağıtıcının toplamda yalnızca 32 kanal aktarabileceğini unutmayın."]
+	quest.3916B48D7F294932.title: "Bağlantı Dalları: ME Kablosuz Dağıtıcı"
+	quest.3972EE0ECB215843.quest_desc: ["Extended ve Advanced AE, Applied Energistics 2 eklentileridir. Her ikisi de kullanıcı deneyimini iyileştirmeye, çeşitli cihazların geliştirilmiş sürümlerini eklemeye ve daha fazlasına odaklanır."]
+	quest.3972EE0ECB215843.title: "Extended \\& Advanced AE"
+	quest.3B3F1DE1AF6EBC1E.quest_subtitle: "+10 Güç"
+	quest.3CF32F2314839B1D.quest_desc: [
+		"Tomurcuklanan Sertus Kuvars ve Entroize Fluiks kristallerinizin bozulmasından yoruldunuz mu? Çözümü burada! Kristal Düzeltici ile Tomurcuklanan Sertus Kuvarsı Şarj Olmuş Sertus Kuvars Kristali ile, Entroize Fluiksi ise Ender Tozu ile onarabilirsiniz."
+		""
+		"Hatta Kusursuz Tomurcuklanan Sertus Kuvars elde etme şansınız da bulunur."
+	]
+	quest.3CF32F2314839B1D.title: "Kristallerinizi Onarın: Kristal Düzeltici"
+	quest.3FE739EA7E297DF3.quest_desc: [
+		"Genişletilmiş cihazlar; daha yüksek kapasiteye, daha fazla hıza veya her ikisine birden sahip AE2 cihaz türevleridir."
+		""
+		"Örneğin: ME Genişletilmiş Şablon Sağlayıcı, standart bir Şablon Sağlayıcıdan 4 kat daha fazla olan 36 şablon yuvasına sahiptir."
+		""
+		"Ayrıca ME Genişletilmiş Dışa Aktarma ve İçe Aktarma Veriyolları, standart veriyollarından yaklaşık 8 kat daha hızlı çalışır ve daha fazla yükseltme kartı destekler."
+		""
+		"Çoğu sadece temel sürümlerin geliştirilmiş modelleri olduğundan her biri için ayrı görev açılmamıştır."
+	]
+	quest.3FE739EA7E297DF3.title: "Daha Hızlı ve Daha Büyük: Genişletilmiş Cihazlar"
+	quest.411A463E98C3B102.quest_desc: [
+		"Kuantum Bilgisayarı, Kuantum Üretici ve Kuantum Zırhı üretmek için ihtiyaç duyacağınız bazı bileşenler."
+		""
+		"Parçalanmış Tekillik, Reaksiyon Odasında 1 Tekillik, 2 Ender Tozu, 2 Gökyüzü Taşı Tozu ve 100 mB Lav ile üretilir."
+		""
+		"1 kova Kuantum İnfüzyonu; 4 kova Su ve Yazıcı ya da Mekanism Ezicisinde Parçalanmış Tekilliğin ezilmesiyle elde edilen Kuantum Aşılanmış Toz ile hazırlanır."
+		""
+		"Kuantum Alaşımı; 1 kova Kuantum İnfüzyonu, 4 Bakır Külçesi, 4 Parçalanmış Tekillik ve 4 normal Tekillik ile üretilir."
+	]
+	quest.411A463E98C3B102.title: "Kuantum Bileşenleri"
+	quest.4818C8387C0DBBE7.quest_desc: [
+		"ExtendedAE; Applied Energistics 2 için çeşitli cihazların geliştirilmiş sürümlerini ekleyen ve AE2'nin eski sürümlerindeki bazı özellikleri geri getiren bir eklentidir."
+		""
+		"Başlamak için bir Fluiks Bloğu edinin."
+	]
+	quest.4818C8387C0DBBE7.title: "ExtendedAE"
+	quest.48357A7486125C52.quest_desc: [
+		"Yazıcının yavaşlığından yoruldunuz mu?"
+		""
+		"Karşınızda Devre Dilimleyici! Altın Bloklar gibi blokları devrelere dilimleyerek tek seferde 9 devreye kadar (Sertus veya Entro devrelerinde 4 adede kadar) üretim yapabilir."
+		""
+		"Devre Dilimleyicinin bağlantı noktası bulunmayan cam yüzeyleri ME ağına bağlanamaz."
+	]
+	quest.48357A7486125C52.title: "Bloklardan Devrelere: Devre Dilimleyici"
+	quest.4AC3EA41234BC5F0.quest_subtitle: "+20 Maksimum Can"
+	quest.52CD31F48715B17C.quest_desc: [
+		"ME Kablosuz Bağlayıcı, tıpkı Kuantum Köprüsü gibi bir ME ağının iki noktasını kablosuz bağlamak için kullanılır. Kuantum Köprüsünden farklı olarak yalnızca 1000 bloğa kadar uzaklıktaki Kablosuz Bağlayıcılara bağlanabilir ve boyutlar arasında bağlantı kuramaz."
+		""
+		"&lBir bağlantı kurmak için bağlamak istediğiniz iki Kablosuz Bağlayıcı üzerinde ME Kablosuz Kurulum Ekipmanı kullanın.&r"
+		""
+		"Ayrıca Renk Uygulayıcı ile bir Kablosuz Bağlayıcının rengini değiştirebilirsiniz. Bu, onun farklı renkteki kablolara veya Kablosuz Bağlayıcılara bağlanmasını engelleyecektir."
+	]
+	quest.52CD31F48715B17C.title: "Uzun Mesafeli Bağlantılar: ME Kablosuz Bağlayıcı"
+	quest.534D827A628907F4.quest_desc: [
+		"Genişletilmiş Şablon Erişim Terminali, standart Şablon Erişim Terminali ile aynı mantıkta çalışır ancak 3 ek özelliği bulunur."
+		""
+		"&l&nGeliştirilmiş Şablon Arama&r"
+		""
+		"Girdi/çıktı bileşenlerinin adına göre bir şablon arayabilirsiniz."
+		""
+		"&l&nŞablon Vurgulama&r"
+		""
+		"Bazen şablonların grup halinde görüntülenmesi nedeniyle aradığınız şablonu bulmak zorlaşır. Bu terminal ile aradığınız şablon arayüzde belirginleşir."
+		""
+		"&l&nDünyada Şablon Sağlayıcı Vurgulama&r"
+		""
+		"Büyük üretim işleri yaparken hangi Şablon Sağlayıcının tıkandığını bulmak sinir bozucu olabilir. Genişletilmiş Şablon Erişim Terminali, Şablon Sağlayıcıların dünyadaki yerini vurgulayarak tespit etmenizi kolaylaştırır."
+	]
+	quest.534D827A628907F4.title: "Daha İyi Şablon Erişimi: Genişletilmiş Şablon Erişim Terminali"
+	quest.55DFC96B4CDBFA7D.quest_desc: ["Kuantum Bilgisayar Çekirdeği, Kuantum Bilgisayarın kalbidir. Tek başına 256M üretim depolaması ve 8 eş işlemci iş parçacığı sağlar. Ayrıca bağlantı noktalarının bulunduğu üst veya alt taraftan güç verildiğinde tek başına bir Kuantum Bilgisayar oluşturabilen tek bloktur. Ancak çok bloklu bir yapıda kullanılarak çok daha güçlü bir bilgisayar oluşturulabilir."]
+	quest.55DFC96B4CDBFA7D.title: "Üretimlerin Kalbi: Kuantum Bilgisayar Çekirdeği"
+	quest.56DE217FEAE3F036.quest_desc: [
+		"ME Gelişmiş Şablon Sağlayıcı; standart veya Genişletilmiş bir Şablon Sağlayıcıyı, şablondaki herhangi bir eşyanın hangi yüzeye gönderileceğini yapılandırma imkanıyla geliştiren yeni bir Şablon Sağlayıcı türüdür. Bu özellik; Mekanism'deki Metalurjik İnfüzer gibi spesifik girdiler için belirli yüzeylere ihtiyaç duyan makinelerin, hiçbir boru veya alt ağ kullanmadan tek bir blokla otomatikleştirilmesini sağlar."
+		""
+		"Bu özelliği kullanmak için her bir bileşenin makinenin hangi tarafına gönderileceğini belirleyen bir Gelişmiş Şablon Kodlayıcı gerekir."
+	]
+	quest.56DE217FEAE3F036.quest_subtitle: "Gözüm üzerinde, Mekanism"
+	quest.56DE217FEAE3F036.title: "Yön Ayarlı Şablonlar: Gelişmiş Şablon Sağlayıcı"
+	quest.5E610C059737628B.quest_subtitle: "+3'e Kadar Adım Yüksekliği"
+	quest.6033ABA2088BA70C.quest_subtitle: "Uçuş Kayması Yok"
+	quest.6559C57A1A476489.quest_subtitle: "+5 Saldırı Hızı"
+	quest.658DEAAD1E68E549.quest_desc: ["Bu bloklar Kuantum Çekirdeğinin üretim depolamasını genişletir. Kuantum Bilgisayarının aynı anda yürütebileceği görev sayısını artırırlar. Ayrıca bir Kuantum Bilgisayar Çekirdeği üretmek için de gereklidirler."]
+	quest.658DEAAD1E68E549.title: "Devasa Üretim Depolaması: Kuantum Bilgisayar Depolaması"
+	quest.67C7EF299BEC37DE.quest_subtitle: "Yaratıcı Uçuş"
+	quest.763A19067AEEF6D5.quest_subtitle: "+2 Şans"
+	quest.7725CB7D0AE55180.quest_desc: [
+		"Advanced AE; Applied Energistics 2 için, ME sisteminizi yönetirken kullanıcı deneyimini iyileştirmeye ve oyun sonu sistemlerinin sınırlarını genişletmeye odaklanan bir eklentidir."
+		""
+		"Bir makinenin belirli yüzeylerine ürün iletebilen bir Şablon Sağlayıcıdan, sınırsız üretim işi çalıştırabilen ve eş işlemcileri bu üretimler arasında ortaklaşa kullandırabilen çoklu blok bir bilgisayara kadar pek çok yenilik sunar."
+	]
+	quest.7725CB7D0AE55180.title: "Advanced AE"
+	quest.78215D704E6095B0.quest_desc: ["Oyun sonu zırh setlerinde tüm eğlencenin &5&lMekanism&r ve &l&7Modern Industrialization&r'a ait olduğunu mu sanıyordunuz? \\n\\nBu &5Kuantum Zırhı&r, &cNetherit Zırhına&r benzer temel istatistiklere sahiptir ancak tıpkı &aMekaSuit&r gibi enerjiyi kalkan olarak kullanabilir. \\nAyrıca sizi daha da güçlendirmek için takılabilecek yükseltmeleri de var! Uçuş, Gece Görüşü ve hatta şarj olma yeteneği gibi. \\n\\nEn iyi yanı ise Depolama Sistemine bağlanabilmesidir! Böylece nerede olursanız olun sistemden otomatik olarak enerji çekebilir ve sistemdeki istediğiniz eşyayı alabilirsiniz. \\n\\nDahası, tam seti giymek &aRadyasyonun&r sizi öldürmesini önleyebilir."]
+	quest.78215D704E6095B0.quest_subtitle: "Sizi tamamen yenilmez yapmaz"
+	quest.78215D704E6095B0.title: "Zırh Olarak ME Sistemi: Kuantum Zırhı"
+	quest.7900A4836CC55428.quest_desc: [
+		"Birleştirici Matrisi, birden fazla Moleküler Birleştirici ve Şablon Sağlayıcıyı tek bir kanalda barındırabilen çoklu blok bir yapıdır."
+		""
+		"Birleştirici Matrisi en az 3x3x3, en fazla 7x7x7 boyutlarında bir dikdörtgenler prizması biçiminde olmalıdır. Şunları gerektirir:"
+		"- Birleştirici Matris Çerçevelerinden oluşan kenarlar"
+		"- Birleştirici Matris Duvarı/Camı ile oluşturulmuş yüzler"
+		"- Birleştirici Matris Şablon/Üretim/Hız Çekirdeklerinden oluşan iç yapı"
+		""
+		"Geçerli bir Birleştirici Matrisinin içinde en az 1 adet Şablon Çekirdeği ve Üretim Çekirdeği bulunmalıdır. İçi tamamen doldurulmalı ve boşluk kalmamalıdır. Yapı doğru kurulup güç verildiğinde çerçeve üzerindeki çizgiler maviye dönecektir."
+		""
+		"{@pagebreak}"
+		""
+		"Bu örnekte, esas olarak Üretim ve Şablon Çekirdekleri arasındaki dengeye odaklanan 7x7x7'lik bir Birleştirici Matrisi kuracağız."
+		""
+		"İlk 43 Birleştirici Matris Çerçevesini ve ilk 125 Birleştirici Matris Duvarını üretin. (Toplam 68 çerçeveye ve 150 duvara ulaşmak için) bu görevin ödülleri arasında her birinden 25'er adet hediye edilecektir."
+	]
+	quest.7900A4836CC55428.quest_subtitle: "Tek Bir Kanalda Birçok Moleküler Birleştirici ve Şablon Sağlayıcı"
+	quest.7900A4836CC55428.title: "Hepsini Barındıran Birleştirici: Birleştirici Matrisi"
+	task.13FF4A021BBF1451.title: "ME Sonsuz Hücreleri"
+	task.1B927BD83D40F37D.title: "Entro Olmayan Şeyler"
+	task.3A76350DDF5A318D.title: "Gelişmiş Şablon Sağlayıcıları"
+	task.3E8E72F0861329B6.title: "Tüm hakları saklıdır"
+	task.475B673DC78361D2.title: "Genişletilmiş Cihazlar"
+}

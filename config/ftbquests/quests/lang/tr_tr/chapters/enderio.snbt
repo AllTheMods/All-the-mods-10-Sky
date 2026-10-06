@@ -1,0 +1,229 @@
+{
+	quest.0061B0577B1C4AEF.quest_desc: ["&7&bEnder IO&7 yolculuğumuza garip, parlayan bir malzemenin izini sürerek başlıyoruz.\\n&6Sonsuzluk Taneleri&r, &7Katman Kayasını&r veya &5Obsidiyen 1x'i&r &cateşe&r vererek elde edilir. Bir Katman Kayası bloğunu tutuşturmak, bu eşyanın düşmesini küçük bir olasılıkla sağlar. Toz elemek de bu eşyayı verebilir.\\n&aİpucu:&r Başlamak için bunlardan yalnızca bir avuç gerekir; çünkü basit &6Alaşım Eritici&r dâhil neredeyse bütün temel Ender IO tariflerinin başlangıç malzemesidir."]
+	quest.0061B0577B1C4AEF.quest_subtitle: "&7Katman Kayasının gücünden bir kıvılcım"
+	quest.0061B0577B1C4AEF.title: "&d&lSonsuzluk Taneleri"
+	quest.00E6B3F670E20454.quest_desc: [
+		"&7&lSoularyum&r, &6Alaşım Eriticide&r &6Altın&r ve &7Ruh Kumu&r kullanılarak üretilir."
+		"&5Ruh Şişelerinin&r ve &5Ruh Bağlayısı&r gibi ruhları yakalayıp bağlayan bütün makinelerin temelindeki malzemedir."
+	]
+	quest.00E6B3F670E20454.quest_subtitle: "&7Azap çeken bir ruhla bağlanmış altın"
+	quest.00E6B3F670E20454.title: "&5&lSoularyum Külçesi"
+	quest.03EC3173343B11F5.quest_desc: ["&7&7Koyu Çelik Külçelerinden&r üretilen bu kılıcın işlevleri, en iyi dönemine kıyasla çok daha sınırlıdır. Şu anda yalnızca yaratıkların başını kesmek için kullanışlıdır; bunun olasılığı 7%'dir."]
+	quest.03EC3173343B11F5.quest_subtitle: "&7Bizimle birlikte gelişen bir kılıç"
+	quest.03EC3173343B11F5.title: "&7&lThe Ender"
+	quest.0527CE6921ADB079.quest_desc: [
+		"&7&5Ruh Bağlayısı&r, dolu bir &5Ruh Şişesindeki&r ruhu &7Kırılmış Canavar Çağırıcıya&r bağlamak gibi özel üretimler için &9µI&r enerjisi ve sıvı tecrübe tüketir."
+		"Bir &7Experience Rod&r kullanarak veya sıvı oluğuyla içine &2Sıvı Tecrübe&r aktararak makineyi tecrübeyle doldurabiliriz."
+	]
+	quest.0527CE6921ADB079.quest_subtitle: "&7Enerjinin sıvı tecrübeyle buluştuğu yer"
+	quest.0527CE6921ADB079.title: "&5&lRuh Bağlayısı"
+	quest.05352452468E8375.quest_desc: [
+		"&7&bİletken Alaşım&r, &6Alaşım Eriticide&r &6Altın&r, &cRedstone&r ve &eIşık Taşı Tozundan&r üretilir."
+		"Bunu gelişmiş enerji oluklarının yanı sıra çeşitli öğütücü bilyeler ve orta aşama makineler üretmek için kullanacağız."
+	]
+	quest.05352452468E8375.quest_subtitle: "&7Altın, Redstone ve Işık Taşı bir arada"
+	quest.05352452468E8375.title: "&b&lİletken Alaşım Külçesi"
+	quest.082DEC8CBA6D23E5.quest_desc: [
+		"&7&lKoyu Çelik&r, Ender IO'da üreteceğimiz en önemli alaşımlardan biridir."
+		"&6Alaşım Eriticide&r &fDemir&r, &8Toz Kömür&r ve &5Obsidiyeni&r birleştirerek elde ederiz."
+		"&aİpucu:&r Bu külçe, Koyu Çelik aletlerin, zırhların ve çeşitli gelişmiş makinelerin temel malzemesidir; bu yüzden her zaman bir miktar stok bulundurmalıyız."
+	]
+	quest.082DEC8CBA6D23E5.quest_subtitle: "&7Demir, kömür ve Obsidiyenden üretilir"
+	quest.082DEC8CBA6D23E5.title: "&7&lKoyu Çelik Külçesi"
+	quest.0C220E9B2A780082.quest_desc: [
+		"&7Bataryamızı &bAdvanced Capacitor Bank&r seviyesine yükseltmek, hem enerji kapasitesini hem de aletlerimizi şarj etme hızını artırır."
+		"Bunu bir &bBasic Capacitor Bank&r ve &aDouble-Layer Capacitor&r kullanarak üretiriz."
+	]
+	quest.0C220E9B2A780082.quest_subtitle: "&7Daha büyük enerji deposu, daha hızlı şarj"
+	quest.0C220E9B2A780082.title: "&b&lAdvanced Capacitor Bank"
+	quest.0EAB51C9B13A959B.quest_desc: [
+		"&7&9Kablosuz Şarj Cihazı&r, yakınında durduğumuz sürece elimizde tuttuğumuz veya giydiğimiz RF ile çalışan aletleri, zırh parçalarını ve eşyaları şarj eder."
+		"Hiçbir şeyi elle bağlamadan, kapasitörle çalışan ekipmanlarımızın şarjını dolu tutmanın rahat bir yoludur."
+	]
+	quest.0EAB51C9B13A959B.quest_subtitle: "&7Kabloya gerek kalmadan şarj"
+	quest.0EAB51C9B13A959B.title: "&9&lKablosuz Şarj Cihazı"
+	quest.128E4A78E76F366C.quest_desc: [
+		"&7Bir &7Kırılmış Canavar Çağırıcıyla&r başlarız. Ardından, istediğimiz yaratığı içeren &5Ruh Şişesini&r &5Ruh Bağlayısında&r kullanarak ruhu çağırıcıya bağlarız."
+		"Bunu &cGüçlendirilmiş Canavar Çağırıcı&r kasasıyla birleştirdiğimizde, yakında bir oyuncu bulunması yerine &9µI&r ile çalışan, o yaratığa ait tam işlevli bir çağırıcı elde ederiz."
+		"&eNot:&r Bu görevde bir &fHuzurveren&r kullandık; ancak Ruh Şişesiyle neredeyse her yaratık yakalanabilir."
+	]
+	quest.128E4A78E76F366C.quest_subtitle: "&7Her yaratık çağırıcısını emrimize almak"
+	quest.128E4A78E76F366C.title: "&c&lGüçlendirilmiş Canavar Çağırıcı"
+	quest.141101C9A381905C.quest_desc: [
+		"&7Ender IO makinelerinin neredeyse &lhepsine&r &9µI&r enerjisini depolayıp kullanabilmeleri için bir kapasitör takılması gerekir."
+		"&aBasit Kapasitör&r, &eEnerjik Alaşımdan&r üretilen başlangıç seçeneğimizdir. Kapasitör olmadan makinelerimiz çalışmaz."
+	]
+	quest.141101C9A381905C.quest_subtitle: "&7Her makinenin kalbi"
+	quest.141101C9A381905C.title: "&a&lBasit Kapasitör"
+	quest.19456F38224A24DB.quest_desc: [
+		"&7&8SAG Değirmeni&r, &9µI&r kullanarak cevherleri ve diğer eşyaları kırılmış veya toz biçimine öğütür. Çoğu zaman normal bir ocak ya da üretim tarifine göre ek çıktılar sağlar."
+		"Yükseltme yuvasına &7Öğütücü Bilyeler&r yerleştirerek hızını, verimliliğini ve hatta çıktımızın iki katına çıkma ihtimalini artırabiliriz."
+		"&aİpucu:&r Ham cevherleri doğrudan eritmek yerine burada öğütmek, uzun vadede genellikle cevher başına daha fazla külçe sağlar."
+	]
+	quest.19456F38224A24DB.quest_subtitle: "&7Cevherleri öğüterek daha fazla kaynak elde etmek"
+	quest.19456F38224A24DB.title: "&8&lSAG Değirmeni"
+	quest.1AF97F48B4C13020.quest_desc: [
+		"&7&6Yeta Anahtarı&r, Ender IO bloklarıyla etkileşim için temel aletimizdir: makineleri döndürmek için sağ tıklayın; envanterlerini veya yükseltmelerini kaybetmeden kaldırmak için eğilerek sağ tıklayın."
+		"Ayrıca &bolukları&r yapılandırmak için vazgeçilmezdir. Giriş ve çıkış taraflarıyla renkleri ayarlayarak eşyaların, enerjinin ve sıvıların tam istediğimiz yere akmasını sağlar."
+	]
+	quest.1AF97F48B4C13020.quest_subtitle: "&7Makineler ve oluklar için çok amaçlı aletimiz"
+	quest.1AF97F48B4C13020.title: "&6&lYeta Anahtarı&r &f\\& &2&lOluklar"
+	quest.1D0725DC4463F895.quest_desc: [
+		"&7&fÜretici&r, oluklardan veya hunilerden doğru malzemeleri aldığı sürece içinde ayarladığımız tarifi otomatik olarak üretir."
+		"Otomatik fabrikaların temelini oluşturur ve bir daha çalışma masasına dokunmadan seri üretim yapmamızı sağlar."
+	]
+	quest.1D0725DC4463F895.quest_subtitle: "&7Çalışma masamızı otomatikleştirmek"
+	quest.1D0725DC4463F895.title: "&f&lÜretici"
+	quest.224BF0C9690FBEBF.quest_desc: [
+		"&7&5Büyülendirici&r, &5Büyü Masasının&r rastgeleliğiyle uğraşmadan kitaplara &dBüyü&r uygulamamızı sağlar."
+		"Özellikle Koyu Çelik veya Ender araç ve silahlarımıza birden fazla büyü eklemek için kullanışlıdır."
+	]
+	quest.224BF0C9690FBEBF.quest_subtitle: "&7Kitaplara büyü uygulama"
+	quest.224BF0C9690FBEBF.title: "&5&lBüyülendirici"
+	quest.262B331BB96336F5.quest_desc: [
+		"&7Üssümüz &boluklarla&r dolduğunda görüntü karmaşıklaşabilir. &fOluk Cephesi&r, bir oluk demetini seçtiğimiz herhangi bir blok gibi göstermemizi sağlar."
+		"&aİpucu:&r Cepheyi oluğun üzerine yerleştirin; altındaki sistem sorunsuz çalışmaya devam ederken yapılarınıza görsel olarak uyum sağlar."
+	]
+	quest.262B331BB96336F5.quest_subtitle: "&7Olukları göz önünde gizlemek"
+	quest.262B331BB96336F5.title: "&f&lOluk Cephesi"
+	quest.2802D606849ED924.quest_desc: [
+		"&7&6Boya Makinesi&r, bloklara otomatik olarak bir cephe dokusu uygular. Böylece büyük miktarda yapı bloğunun görünümünü elle yerleştirmeden değiştirebiliriz."
+		"&aİpucu:&r Görünümünü değiştirmek istediğimiz blokları ve benzemelerini istediğimiz bloğu makineye verin; bütün yığını bizim yerimize işlesin."
+	]
+	quest.2802D606849ED924.quest_subtitle: "&7Bloklarımızın görünümünü topluca değiştirmek"
+	quest.2802D606849ED924.title: "&6&lBoya Makinesi"
+	quest.2AD8903E9EE3269E.quest_desc: [
+		"&7&5Ruh Zinciri&r, &5Soularyumdan&r üretilir ve ruhlarla ilgili makinelerde ve ekipmanlarda bileşen olarak kullanılır."
+		"Ender IO'nun üretim ağacının daha mistik, Ender etkisi taşıyan tarafını temsil eder."
+	]
+	quest.2AD8903E9EE3269E.quest_subtitle: "&7Soularyumdan üretilir"
+	quest.2AD8903E9EE3269E.title: "&5&lRuh Zinciri"
+	quest.2C7D1CD63680FA80.quest_desc: [
+		"&7&2Dilimle'V'Birleştir&r, iki büyülü eşyayı tek eşyada birleştirir. Büyülerini normal bir örs gibi birleştirir; ancak &9µI&r ile çalışır."
+		"Bunu uygun malzemeler gerekmeksizin aletlerimizi ve zırhlarımızı onarmak için de kullanabiliriz. Bu, zaman içinde çok miktarda kaynak tasarrufu sağlar."
+	]
+	quest.2C7D1CD63680FA80.quest_subtitle: "&7Büyüleri birleştirmek ve aletleri onarmak"
+	quest.2C7D1CD63680FA80.title: "&2&lDilimle'V'Birleştir"
+	quest.32191922242B11B5.quest_desc: [
+		"&7&5Ruhlandırılmış Şase&r, temel &8Hiçlik Şasesini&r bir &5Ruh Zinciriyle&r yükselterek ona ruhlara bağlı bir büyü dokunuşu katar."
+		"Ender IO'nun ruh temalı daha gelişmiş makinelerinden bazılarını üretmek için gereklidir ve modun Ender anlatısındaki yolculuğumuzu daha derine taşır."
+	]
+	quest.32191922242B11B5.quest_subtitle: "&7Bir ruhla bağlanmış gövde"
+	quest.32191922242B11B5.title: "&5&lRuhlandırılmış Şase"
+	quest.3294189EF3C0D5E5.quest_desc: [
+		"&7&dSeyahat Asası&r, ışınlanmayı besleyecek kadar tecrübemiz olduğu sürece dünyaya yerleştirdiğimiz &dSeyahat Çapaları&r arasında anında ışınlanmamızı sağlar."
+		"Keşfetmeyi ve eve dönmeyi kolaylaştırmak için üssümüze ve uzak karakollarımıza birer &dSeyahat Çapası&r yerleştirmeliyiz."
+	]
+	quest.3294189EF3C0D5E5.quest_subtitle: "&7Seyahat Çapalarımız arasında ışınlanmak"
+	quest.3294189EF3C0D5E5.title: "&d&lSeyahat Asası"
+	quest.3DBAC2CDD75763F3.quest_desc: [
+		"&7&9Elektromıknatıs&r, &bİletken Alaşım&r ve &eEnerjik Alaşımdan&r üretilir."
+		"Esas olarak gelişmiş Ender IO makinelerinin ve metal malzemeleri çekmesi veya işlemesi gereken eşyaların üretiminde bileşen olarak kullanılır."
+	]
+	quest.3DBAC2CDD75763F3.quest_subtitle: "&7Metali uzaktan çekmek"
+	quest.3DBAC2CDD75763F3.title: "&9&lElektromıknatıs"
+	quest.402A53010DFB2D69.quest_desc: [
+		"&7&6Stirling Jeneratörü&r, makinelerimiz için &9µI&r enerjisi üretmek üzere kömür veya odun kömürü gibi katı yakıtları yakar."
+		"Basit ve güvenilirdir; daha büyük jeneratörlere geçmeden önce ilk Ender IO sistemimizi çalıştırmak için ideal bir seçenektir."
+	]
+	quest.402A53010DFB2D69.quest_subtitle: "&7İlk enerji kaynağımız"
+	quest.402A53010DFB2D69.title: "&6&lStirling Jeneratörü"
+	quest.435B180FCE208A7B.quest_desc: [
+		"&7&aDouble-Layer Capacitor&r seviyesine yükseltmek, makinelerimize daha fazla enerji depolama kapasitesi ve daha yüksek işlem hızı sağlar."
+		"Bunu &eEnerjik Alaşım&r ve &aBasit Kapasitörden&r üretiriz. Bu yüzden enerji üretimimiz büyüdüğünde atılacak doğal bir sonraki adımdır."
+	]
+	quest.435B180FCE208A7B.quest_subtitle: "&7Daha fazla enerji, daha yüksek hız"
+	quest.435B180FCE208A7B.title: "&a&lDouble-Layer Capacitor"
+	quest.448CCD89539AEBAC.quest_desc: [
+		"&7&9Kablolu Şarj Cihazı&r, oluklarla doğrudan enerji ağımıza bağlanır ve içine yerleştirilen RF ile çalışan eşyaları şarj eder."
+		"Biz başka bir işle uğraşırken aletleri şarjda bırakmak istediğimiz sistemlerde Kablosuz Şarj Cihazının iyi bir tamamlayıcısıdır."
+	]
+	quest.448CCD89539AEBAC.quest_subtitle: "&7Ekipmanımızı doğrudan şarja bağlamak"
+	quest.448CCD89539AEBAC.title: "&9&lKablolu Şarj Cihazı"
+	quest.4557E63F1A6971DA.quest_desc: [
+		"&7&bVibrant Capacitor Bank&r, enerji depolamamızın son aşamasıdır ve çok büyük miktarda &9µI&r tutar."
+		"Üretmek için bir &bAdvanced Capacitor Bank&r ve &aOktadik Kapasitörler&r gerekir. Bu yüzden enerji ağımız için iyi bir uzun vadeli hedeftir."
+	]
+	quest.4557E63F1A6971DA.quest_subtitle: "&7Nihai enerji deposu"
+	quest.4557E63F1A6971DA.title: "&b&lVibrant Capacitor Bank"
+	quest.477F0905998597FE.quest_desc: [
+		"&7&bDrenaj&r, ineklerden gelen süt gibi yakındaki varlıkların bıraktığı sıvıları otomatik olarak doğrudan bağlı bir tanka toplar."
+		"Hayvanlarla elle etkileşime girmeden sıvı toplamayı otomatikleştirmenin kullanışlı bir yoludur."
+	]
+	quest.477F0905998597FE.quest_subtitle: "&7Yakındaki yaratıklardan sıvı toplamak"
+	quest.477F0905998597FE.title: "&b&lDrenaj"
+	quest.47F7BA8E81383714.quest_desc: [
+		"&7&dEnder Kristal&r, içinde bir &dEnderman&r bulunan &5Ruh Şişesi&r kullanılarak &5Ruh Bağlayısında&r üretilir."
+		"Ender IO'nun en gelişmiş eşyalarından bazıları için temel bir üretim bileşenidir ve modun Ender temalı büyüsüyle yakından bağlantılıdır."
+	]
+	quest.47F7BA8E81383714.quest_subtitle: "&7End'den kristalleşmiş bir parça"
+	quest.47F7BA8E81383714.title: "&d&lEnder Kristal"
+	quest.490B64C64BDE76F7.quest_desc: [
+		"&7&8Hiçlik Şasesi&r, jeneratörlerden işlem makinelerine kadar Ender IO'nun erken ve orta aşama makinelerinin çoğunda kullanılan temel gövdedir."
+		"Üssümüz büyüdükçe bunlardan epey üreteceğiz; bu yüzden bunun için &6Koyu Çelik Külçesi&r stoklamak faydalıdır."
+	]
+	quest.490B64C64BDE76F7.quest_subtitle: "&7Makinelerimizin temel gövdesi"
+	quest.490B64C64BDE76F7.title: "&8&lHiçlik Şasesi"
+	quest.4A7DBDB179F30BC3.quest_desc: [
+		"&7&eEnerjik Alaşım&r, &6Alaşım Eriticide&r &cRedstone&r, &eIşık Taşı Tozu&r ve &6Altını&r birleştirerek elde edilir."
+		"&6Kapasitörlerimizin&r temel bileşenidir; dolayısıyla makinelerimizin enerjisini sağlamak için bundan çok miktarda üreteceğiz."
+	]
+	quest.4A7DBDB179F30BC3.quest_subtitle: "&7Redstone, Işık Taşı ve altın"
+	quest.4A7DBDB179F30BC3.title: "&e&lEnerjik Alaşım Külçesi"
+	quest.5D327D85B91E5032.quest_desc: [
+		"&7&dSonsuzluk Tanelerimiz&7 hazır olduğunda, Ender IO'nun başlangıç aşamasının kalbi olan &6Alaşım Eriticiyi&r sonunda üretebiliriz."
+		"Bu makine, cevherleri bir ocak gibi eritmek ve Koyu Çelik gibi özel &6alaşımlar&r üretmek için Ender IO'nun kendi enerji türü olan &9Micro Infinity (µI)&r kullanır."
+		"&eNot:&r Çalışması için en azından bir &6Basit Kapasitör&r takılması gerekir; bu parçayı unutmayalım!"
+	]
+	quest.5D327D85B91E5032.quest_subtitle: "&7İlk gerçek makinemiz"
+	quest.5D327D85B91E5032.title: "&6&lAlaşım Eritici"
+	quest.60A8F55648685236.quest_desc: [
+		"&7&aOktadik Kapasitör&r, üretebileceğimiz en güçlü kapasitördür. &dTitreşen Alaşım&r ile &aDouble-Layer Capacitor&r birleştirilerek elde edilir."
+		"Bu kapasitörün takıldığı makineler en yüksek hızlarına ve enerji depolama kapasitelerine ulaşır; oyun sonundaki yapılarımız için idealdir."
+	]
+	quest.60A8F55648685236.quest_subtitle: "&7En iyi kapasitör aşamamız"
+	quest.60A8F55648685236.title: "&a&lOktadik Kapasitör"
+	quest.62788B8B97AF2D76.quest_desc: [
+		"&7&6Alaşım Eriticide&r &eEnerjik Alaşımı&r bir &dEnder İncisiyle&r birleştirerek &dTitreşen Alaşım&r elde ederiz."
+		"Bu alaşım, en iyi kapasitörlerimizi ve çeşitli oyun sonu makinelerini besler; bu yüzden fazladan Ender İncisi harcamaya değer."
+	]
+	quest.62788B8B97AF2D76.quest_subtitle: "&7Ender büyüsünün dokunduğu Enerjik Alaşım"
+	quest.62788B8B97AF2D76.title: "&d&lTitreşen Alaşım Külçesi"
+	quest.6B37B24E3D25BF5C.quest_desc: [
+		"&7&2VAT&r, End Taneleri gibi organik malzemeleri zaman içinde mayalayarak &dBoşluğun Çiyi&r gibi özel sıvılara dönüştürür."
+		"Makineye doğru malzemeleri sağlamalı ve sabırlı olmalıyız; çünkü mayalanma anında gerçekleşmez."
+	]
+	quest.6B37B24E3D25BF5C.quest_subtitle: "&7Mayalayarak Boşluğun Çiyine ulaşmak"
+	quest.6B37B24E3D25BF5C.title: "&2&lVAT"
+	quest.720A9D781C5B9B2D.quest_desc: [
+		"&7&bBasic Capacitor Bank&r, &9µI&r enerjisini daha sonra kullanmak üzere depolar ve üssümüz için bir batarya gibi çalışır."
+		"Envanterine yerleştirilen alet ve zırhları da şarj edebilir; &aBasit Kapasitörler&r kullanılarak üretilir."
+	]
+	quest.720A9D781C5B9B2D.quest_subtitle: "&7İlk bataryamız"
+	quest.720A9D781C5B9B2D.title: "&b&lBasic Capacitor Bank"
+	quest.726857C4BE6ADCDE.quest_desc: [
+		"&7&eLevity Asası&r, şarjlı olduğu sürece bizi düşme hasarından korur ve yere yavaşça süzülmemizi sağlar. Her kullanımda tecrübe tüketir."
+		"&aİpucu:&r Yüksek yapıları keşfederken veya gökyüzünde köprüler inşa ederken hayat kurtarır."
+	]
+	quest.726857C4BE6ADCDE.quest_subtitle: "&7Yavaşça düş, daha yükseğe zıpla"
+	quest.726857C4BE6ADCDE.title: "&e&lLevity Asası"
+	quest.729B89CA30BE3B28.quest_desc: [
+		"&7&eİmpuls Huni&r, yakındaki düşmüş eşyaları ve tecrübe kürelerini doğrudan envanterine çekerek çiftliklerimiz ve öğütme sistemlerimiz için bir süpürge gibi çalışır."
+		"Bir eşya oluğuyla birleştirerek topladığı her şeyi doğrudan depolama sistemimize aktarabiliriz."
+	]
+	quest.729B89CA30BE3B28.quest_subtitle: "&7Yerdeki eşyaları ve tecrübeyi çekmek"
+	quest.729B89CA30BE3B28.title: "&e&lİmpuls Huni"
+	quest.7717E30B48E53462.quest_desc: [
+		"&7&2TP Vakumu&r, dolaşırken yakındaki tecrübe kürelerini doğrudan tecrübe çubuğumuza çeken, giyilebilir bir yükseltmedir."
+		"&2Vakumlu Sandık&r aynı işlemi düşmüş eşyalar için yapar. Eşyaları envanterine çekerek büyük bir yaratık çiftliğindeki ganimetleri bir daha kaybetmememizi sağlar."
+	]
+	quest.7717E30B48E53462.quest_subtitle: "&7Bir daha ganimetleri geride bırakmamak"
+	quest.7717E30B48E53462.title: "&2&lTP Vakumu&r &2\\& &lVakumlu Sandık"
+	quest.79590DE87595F3C6.quest_desc: [
+		"&7Bir &5Soularyum Külçesinden&r üretilerek veya külçe ufalanarak elde edilen bu parça, malzemeden yalnızca az miktar gerektiren bazı tariflerde kullanılır."
+		"Bir yığın parça bulundurmak, küçük üretimler için bütün külçeleri parçalamamıza gerek bırakmaz."
+	]
+	quest.79590DE87595F3C6.quest_subtitle: "&7Ruhla bağlanmış altından küçücük bir parça"
+	quest.79590DE87595F3C6.title: "&5&lSoularyum Parçası"
+	task.57477AFF1BFD16C9.title: "İletim Hatları"
+}

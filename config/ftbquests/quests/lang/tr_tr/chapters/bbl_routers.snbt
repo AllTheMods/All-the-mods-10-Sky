@@ -1,0 +1,29 @@
+{
+	quest.0A497EC17534D248.quest_desc: ["&#53BAEDBBL Routers&r tamamen kablosuz çalışan bir lojistik modudur. Yalnızca &#8B53EDImporter&r ve &#EDB753Exporter&r gerekir; bunlarla eşya, sıvı, enerji, kimyasal ve Kaynak aktarılabilir."]
+	quest.0A497EC17534D248.title: "&#45A5EDBBL Routers'a Hoş Geldiniz"
+	quest.222446C143B43770.title: "Kaynak Aktarımı"
+	quest.33A1316FD66C6428.quest_subtitle: "Importer/Exporter'ın çalışması için yükseltmeler gerekir"
+	quest.3584DE12E1D7D14F.quest_desc: [
+		"Bu modda 2 filtre türü vardır. Filtreyi elinizde tutarken &7Sağ Tıklayarak&r ayarlayabilirsiniz:"
+		""
+		"1. &#EDDE53Mod Filter&r: Filtreyi ayarlamak için modun tam adını boşluk bırakmadan yazmalısınız."
+		""
+		"2. &#EDDE53Tag Filter&r: Filtreyi ayarlamak için etiketi # işareti olmadan yazmalısınız."
+	]
+	quest.3584DE12E1D7D14F.title: "Filtre Yükseltmeleri"
+	quest.3E14842D5F454F98.title: "Çalışma Hızını Artırmak"
+	quest.401A518B2D1BDB9A.quest_subtitle: "Alıcı envanterin üzerine yerleştirin"
+	quest.5312BD7BDC054E48.title: "Eşya Aktarımı"
+	quest.548676DCD1E09A7F.quest_subtitle: "Gönderici envanterin üzerine yerleştirin"
+	quest.6420E8B38993D8E3.title: "Enerji İletimi"
+	quest.671141CF874D89A4.title: "Sıvı Aktarımı"
+	quest.68ABBA8CB99AF6A1.quest_desc: [
+		"Bir eşyanın üzerine gelip &#EDD353Shift&r tuşuna basılı tutarak onun hakkında bilgi alabilirsiniz."
+		""
+		"&#537CEDConnector&r kullanmak için önce &#EDB553Importer&r üzerine &7Sağ Tıklayın&r, ardından bağlantıyı kurmak için &#5360EDExporter&r üzerine &7Sağ Tıklayın&r."
+	]
+	quest.6B11A21220723520.title: "Kimyasal Aktarımı"
+	quest.7742D896461A4632.quest_subtitle: "Exporter içine koymanız yeterli"
+	task.368EEAEC5B950F4D.title: "Connector Kullanımı"
+	task.7ECFB3665B40F251.title: "Yükseltmeler"
+}

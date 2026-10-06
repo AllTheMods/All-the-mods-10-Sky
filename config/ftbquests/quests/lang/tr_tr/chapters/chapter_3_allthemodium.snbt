@@ -1,0 +1,104 @@
+{
+	quest.0143D41FAD499FD0.quest_desc: ["Hayır, &3Vibranium Demirci Şablonu&r için özel bir üretim yöntemi gerekmeyecek. \\n\\nNormal üretim yeterli! \\n\\nİlkini yapmak için bir &6AllTheModium Demirci Şablonu&r, 7 &6Allthemodium Külçesi&r ve bir &3Vibranium Bloğu&r gerekir. \\n\\nDiğer &3Vibranium Demirci Şablonları&r için yalnızca başka bir &3Vibranium Demirci Şablonu&r, 7 &6Allthemodium Külçesi&r ve &3Antik Taş&r gerekir."]
+	quest.0143D41FAD499FD0.title: "&3Vibranium Demirci Şablonu"
+	quest.03F381C22741F1E6.quest_desc: ["Burada pek farklı bir yenilik yok; her zamanki gibi yalnızca daha hızlı ve daha güçlüler!"]
+	quest.052FDEEDAAC3F932.quest_desc: ["&3Vibranium Kılıç&r artık 36 &4Hasar&r verir ve 3.6 saldırı hızına sahiptir. \\n\\n&3Vibranium Balta&r 38 &4Hasar&r verir; saldırı hızı &2&lVanilla&r baltalarla aynıdır, kazma hızı ise 16'dır. \\n\\n&6Allthemodium Topuzu&r &3Vibranium Topuza&r yükseltmek için bir &3Vibranium Bloğu&r gerekir. &3Vibranium&r olanı 26 &4Hasar&r verir ve 20 saldırı hızına sahiptir. \\n\\nEvet, gürzler düşerken daha fazla hasar verir."]
+	quest.078C16A9D3BAEA45.quest_desc: ["&9Ruh Lavıyla&r &3Antik Taş&r yapabiliriz. \\n\\nBunun için &9Ruh Lavı&r ve bir &7Stone Block Generator&r gerekir. \\n\\n&7Stone Block Generator&r bloğunun yanlarında &9Ruh Lavı&r ve &bSert Buz&r kullanabiliriz, ama altına bir &6Allthemodium Bloğu&r koymalıyız. \\n\\nDaha ucuz bir seçenek mi istiyorsunuz? &bSert Buz&r yerine &bMavi Buz&r kullanın; böylece altına bir &aOksitlenmiş Bakır Bloğu&r yerleştirebilirsiniz. "]
+	quest.078C16A9D3BAEA45.title: "&3Antik Taş"
+	quest.09EFBC2297441B77.quest_desc: ["Ne? &cNetherite Furnace&r size yetmiyor mu! \\n\\nO hâlde onları &6Allthemodium Furnace&r hâline getirebilirsiniz. \\n\\nPişirme süresi &cNetherite Furnace&r ile aynıdır: 5 tik (0.25 saniye). Ama &6Allthemodium Furnace&r, aynı anda 16 eşya pişirir. \\n\\nYani tam bir yığın eşya bir saniyede pişer."]
+	quest.09EFBC2297441B77.title: "&6Allthemodium Furnace"
+	quest.0DD626A1DB5A589F.quest_desc: ["&5Unobtainium Kılıç&r, 51 &4Hasar&r ve 4.4 saldırı hızı sunar. Bu, &d&lEnder Ejderhasını&r 3 vuruşta öldürmek demek! \\n\\n&5Unobtainium Balta&r, 51 &4Hasar&r ve 1.2 saldırı hızına sahip... bir dakika, bu &5Kılıçla&r aynı mı? En azından kazma hızı 18. \\n\\nAynı düzeni izleyerek &5Külçe&r yerine bir &5Unobtainium Bloğuna&r ihtiyacımız olacak. &5Unobtainium Topuz&r, 36 &4Hasar&r verir ve 22 saldırı hızına sahiptir."]
+	quest.15672B8686426197.quest_desc: ["&3Vibranium Kazma&r (veya eşdeğeri) ile &5Unobtainium Cevherini&r kazabiliriz! \\n\\nCevheri işlemeyi unutmayın! Elinizdeki malzemeden en yüksek verimi alın! "]
+	quest.15672B8686426197.title: "&5&lUnobtainium"
+	quest.17378FE70654852D.quest_desc: ["ME Sonsuz Hücresi, bir ME Sürücüde normal hücreler gibi çalışır; ancak eşya depolamak yerine o eşyadan sonsuz miktarda sağlar! \\n\\nHepsi için 256M MEGA Depolama Bileşeni ve bir milyar eşya gerekir... tamam, bir milyar değil, ama ona yakın. \\n\\nBunlara ek olarak birer Allthemodium, Vibranium ve Unobtainium Külçesi de gerekir."]
+	quest.17378FE70654852D.title: "&lME Sonsuz Hücreleri"
+	quest.19D9C6110D72EA7E.quest_desc: ["&bSieve&r'da elenebilen bütün bloklar bunlar. \\n\\n&2Yosun &fve &cKızıl Kum&r için 5x Sıkıştırılmış blok kullanılır; listelenen diğer her şey için 6x Sıkıştırılmış blok gerekir."]
+	quest.19E8DD3B8554BF57.quest_desc: ["&5Unobtainium Demirci Şablonu&r da aynı düzeni izler. \\n\\nBir &5Unobtainium Bloğu&r, 7 &3Vibranium Külçesi&r ve bir &3Vibranium Demirci Şablonu&r gerekir. \\n\\nBaşka 7 &3Vibranium Külçesi&f ve tek bir &eEnd Taşı&r ile bunları çoğaltabilirsiniz!"]
+	quest.19E8DD3B8554BF57.title: "&5Unobtainium Demirci Şablonu"
+	quest.1C29E6147752EE97.quest_desc: ["Arıları sevmiyor musunuz? GeOre kullanmayı tercih edebilirsiniz. &c&lDökümhaneyi&r kullanarak 9 &6Allthemodium Külçesini&r Kum 5x (toplam 59 049 Kum) üstüne dökün; böylece bir &6Budding Allthemodium GeOre&r oluşturursunuz. &3Vibranium&r ve &5Unobtainium&r için de aynısı geçerlidir; yalnızca kendi malzemelerini dökmeniz gerekir."]
+	quest.1C29E6147752EE97.title: "Budding ATM Metal GeOre'ları"
+	quest.208734A50051ECEC.quest_desc: [
+		"Herhangi bir şeyi &6Allthemodium&r seviyesine yükseltirken olduğu gibi, bir &6Allthemodium Külçesi&f ve &6AllTheModium Demirci Şablonu&r gerekir. \\n\\nBunlara ek olarak bir &dArchmage Büyü Kitabı&r da gerekecek! \\n\\n&6Allthemodium &dSpell Book&r, Seviye 4 glifleri kullanabilir. Aslında elimizde böyle glifler yok... ama yine de bir büyüde en fazla 12 glif kullanmamızı sağlar. Gliflerin yanında şu şekilde bir ok olup olmadığına dikkat edin:"
+		"{image:atm:textures/questpics/chap3/spell_book_arrow.png width:300 height:50 align:center}"
+	]
+	quest.208734A50051ECEC.title: "&6Allthemodium &dSpell Book"
+	quest.21A953649550C761.quest_desc: ["&6Allthemodium Aletler&r, &cNetherit Aletlerin&r yükseltilmiş hâlidir. \\n\\nDaha hızlı, daha güçlü ve kırılmazlar mı? Evet, dayanıklılıkları bile yok! \\n\\n&6Allthemodium Kazma&r, &cNetherit&r ve daha düşük seviyeli aletlerin kazamadığı blokları kazabilir... &6Kürek&r ve &6Çapa&r ise kırılmaz ve daha hızlı olmaları dışında yeni bir şey yapmaz."]
+	quest.225C6EB3287BC8A2.quest_desc: ["Yeni elde ettiğimiz &bElit Çalışma Masasının&r 7x7 üretim alanıyla &bKristaltin Külçeleri&r yapabiliriz! \\n\\nYalnızca 10 &9Lapis Lazuli&r, 8 &bElmas&r, 4 &eAltın&r, 4 &7Demir&r ve 2 Nether Yıldızıyla 4 &bKristaltin Külçesi&r yapabiliriz. \\n\\nÜretmek için belirli bir yerleşim düzeni kullanmalısınız."]
+	quest.225C6EB3287BC8A2.title: "&bKristaltin Külçesi"
+	quest.24CE75F2FA3F08C9.quest_desc: ["&aEnder Üreticiye&r geri dönüyoruz! \\n\\n&bKristaltin Külçesini&r ortadaki yuvaya koyun, ardından etrafını &7GeOre Shard&r eşyalarıyla doldurun. \\n\\nHangi &7Shard&r türleri? Kuvars, &7Demir&r, &eAltın&r, &bElmas&r, &aZümrüt&r, &aUranyum&r ve 2 &2Uraninit&r! \\n\\nArtık sonunda &3Vibranium&r elde ettik. "]
+	quest.24CE75F2FA3F08C9.title: "&3&lVibranium"
+	quest.258C1375A5DB4253.quest_desc: ["&6Allthemodium&r olanından daha iyisi nedir? &3Vibranium&r olanı! \\n\\n&3Vibranium Furnace&r, 3 tik pişirme süresine sahiptir ve aynı anda 32 eşya pişirir. \\n\\nTam bir yığın eşya 6 tikte pişer!"]
+	quest.258C1375A5DB4253.title: "&3Vibranium Furnace"
+	quest.2A9F546586CAC34E.quest_desc: ["Bir &d&lArs&r oyuncusunun isteyebileceği en iyisi! \\n\\n40 zırh puanı, ama yalnızca 24 zırh dayanıklılığı ve en kötüsü... geri tepme direnci yok. \\n\\nEn azından daha fazla mana ve büyü gücü elde ediyoruz!"]
+	quest.2BC31E5B6BD68A35.quest_desc: ["Artık tek bir büyüde 15 glif kullanabiliyoruz."]
+	quest.2BC31E5B6BD68A35.title: "&3Vibranium &dSpell Book"
+	quest.2C2BF70590DBF943.quest_desc: ["&aEnder Üretici&r, bir Çalışma Masasına benzemesine rağmen ondan çok farklıdır! \\n\\nOnun ve &aEnder Alternatörün&r üretimi oldukça basittir. Çalışma Masası, &aEnder Gözleri&r ve &2Ender Külçeleri&r gerekir. Külçeler de yalnızca &aEnder İncileri&r ve &7Demirle&r yapılır. \\n\\n&aAlternatörden&r söz açılmışken, ortasında &aEnder Üretici&r bulunan 7x7x7 büyüklüğündeki bir alana bir tane yerleştirmemiz gerekir.  "]
+	quest.2C2BF70590DBF943.title: "&aEnder Üretici"
+	quest.2D7FCB751FC563E5.quest_desc: ["&5Unobtainium Zırh&r, bütün zırhlar arasındaki en yüksek zırh puanına ve zırh dayanıklılığına sahiptir! Yalnızca Kuantum Zırhı veya MekaSuit'ten daha fazla koruma sağlamaz. \\n\\n40 zırh puanı ve 60 zırh dayanıklılığı sunar. Üstelik %100 geri tepme direnci! Kimse sizi istediği yere itemez.\\n\\nÖnceki zırhların verdiği diğer etkilerin yanında artık %90 &dBüyü Hasarı Direnci&r de elde ederiz.\\n\\nHem kabul edin, görünüşü de açık ara en iyi zırh seti!"]
+	quest.2D7FCB751FC563E5.title: "&5Unobtainium Zırh"
+	quest.31C384EB37DD24BC.quest_desc: ["Alışılmış 2 silahın yanında (biraz) yeni olan &8Gürz&r de var! \\n\\n&6Kılıç&r 18 &4Hasar&r verir ve 2.6 saldırı hızına sahiptir. Bu, 1.6 hızındaki &2&lVanilla&r kılıçlardan çok daha hızlıdır! \\n\\n&6Balta&r hem alet hem de silah olarak kullanılabilir! Verimlilik ve Keskinlik büyülerini alabilir. &6Allthemodium Balta&r 22 &4Hasar&r verir, ama saldırı hızı 0.8'dir... 1 saldırı hızındaki normal baltalardan daha yavaştır. \\n\\n&6Gürz&r, &2&lVanilla Minecraft&r'ın en yeni silahı olduğu için tabii ki bir &6Allthemodium&r sürümü de var! \\n\\nAma önce bir &8Gürz&r gerekir. Elde etmek için Wild Breeze çağırarak &7Esinti Çubukları&r alın. Ardından bu &7Esinti Çubuklarıyla&r bir Wild Breeze çağırıp Sınama Anahtarları elde edebilirsiniz. Bu anahtarlarla sonunda bir Strong Wild Breeze çağırarak &8Ağır Çekirdeğimizi&r alabiliriz. \\n\\nYükseltmek için bir &6AllTheModium Demirci Şablonu&r ve bir &6Allthemodium Bloğu&r gerekir. &6Topuz&r, 13 &4Hasar&r ve 19 saldırı hızı sunar! Ve evet, ne kadar yüksekten düşerseniz o kadar fazla hasar verir."]
+	quest.337022C12CE5FD07.quest_desc: ["&6Allthemodium&r üretimini çiftlikle yapmak için önce birkaç &cAntik Arı&r gerekir. Birkaç diyorum, çünkü onların bir &cÇağırma Yumurtasına&r ihtiyacınız olacak. \\n\\nBu da &bElmas Arılarına&r yedirmek için bir sürü &cNetherit Bloğu&r gerekeceği anlamına gelir. \\n\\nBir &cAntik Arı Çağırma Yumurtası&r elde ettiğinizde, &c&lDökümhaneyi&r kullanıp &cÇağırma Yumurtasının&r üstüne 4 &6Allthemodium Külçesi&r dökerek bir &6Allthemodium Arısı Çağırma Yumurtası&r oluşturun. \\n\\nHarcamak zorunda olduğunuz tek &6Allthemodium&r bu sanmayın! &6Arı&r için çiçek bloğu olarak bir &6Allthemodium Bloğu&r da gerekecek."]
+	quest.337022C12CE5FD07.title: "&6Allthemodium Arısı"
+	quest.38256909C87DCD36.quest_desc: ["&dAllTheArcanist Gear&r ekipmanları, &6Allthemodium&r ile benzer şekilde yapılır; yalnızca &cNetherit&r yerine &2Geo&f/Aether/&bAqua&f/&cPyro&r-mancer &dEkipmanını&r yükseltirsiniz. \\n\\nBunlar 24 zırh puanı verir, ama yalnızca 16 zırh dayanıklılığı sunar ve geri tepme dirençleri yoktur. \\n\\nBunu daha yüksek azami mana, mana yenilenmesi ve büyü gücü vererek telafi ederler!\\n\\nAyrıca &6Allthemodium Zırhın&r sağladığı ek güçlendirmelerin neredeyse hepsini taşırlar."]
+	quest.3D4CCEA2ED727AE4.quest_desc: ["Bütün &6Allthemodium Ekipmanlarımızı&r elde etmek için şunlar gerekir: &6Allthemodium Külçesi&r, &6AllTheModium Demirci Şablonu&r ve &cNetherit Ekipman&r (veya &dArcanist Ekipmanında&r olduğu gibi ilgili modun en iyi ekipmanı)."]
+	quest.3D4CCEA2ED727AE4.title: "&6AllTheModium Demirci Şablonu"
+	quest.4AEA51A241D61D15.quest_desc: ["Yeterince Hayaletimsi Arıyı ezip birleştirerek bir Hayaletimsi Arı Çağırma Yumurtası yapabiliriz. \\n\\n&c&lDökümhaneyi&r kullanarak üstüne bir kovalık &9Ruh Lavı&r döktüğümüzde bir &9Soul Lava Arısı&r elde ederiz! \\n\\nBu &9Arı&r, çiçek bloğu olarak &9Ruh Lavı&r kullanır. Merak etmeyin, ateşe dayanıklıdır! \\n\\nAma diğer arılar öyle olmayabilir... belki bunları ayrı bölmelerde tutsanız iyi olur..."]
+	quest.4AEA51A241D61D15.title: "&9Soul Lava Arısı"
+	quest.4D525B47CCCAC0B3.quest_desc: ["&6Allthemodium Arısı Çağırma Yumurtasını&r nasıl elde edeceğinizi zaten biliyorsunuz; o yüzden doğrudan konuya girelim! \\n\\nBir &6Allthemodium Arısı Çağırma Yumurtasının&r üstüne 4 &3Vibranium Külçesi&r dökün. \\n\\nÇiçek bloğu olarak bir &3Vibranium Bloğu&r gerekir. \\n\\nHepsi bu!"]
+	quest.4D525B47CCCAC0B3.title: "&3Vibranium Arısı"
+	quest.4D96FBB5645ADC84.quest_desc: ["Bazı oyuncular yakıt yerine enerji kullanmayı tercih eder. Tek sorun, &cElektrikli Isıtma Bobinlerinin&r yalnızca 1500 C sıcaklığa ulaşabilmesidir. \\n\\nBir dakika, bunun bir çözümü var! &bHigh Powered Heating Coil&r! \\n\\nBöylece enerji kullanıp 3000 C sıcaklığa kadar çıkabiliriz."]
+	quest.4D96FBB5645ADC84.title: "&bHigh Powered Heating Coil"
+	quest.5319D267A6A2C625.quest_desc: ["&2&lVanilla&r'daki 16 &cB&eo&ay&baların&r hepsi! Kusura bakma &l&cD&6y&ee&an&ba&9m&5i&dc&cs&r, seninkileri üretmek gerekecek. \\n\\nAynı renkteki &cB&eo&bya&r için 6x Sıkıştırılmış Beton gerekir."]
+	quest.5319D267A6A2C625.title: "Sonsuz &cB&eo&ay&balar"
+	quest.538C9CDF7BEC18D8.quest_desc: ["Bütün glifler! İSTİSNASIZ HEPSİ!!! \\n\\n\\n\\nKullanılabilir. Tek bir büyüde en fazla 20 tane kullanabilirsiniz."]
+	quest.538C9CDF7BEC18D8.title: "&5Unobtainium &dSpell Book"
+	quest.53A6BC88439B6767.quest_desc: ["&6Allthemodium&r, &6Parçalardan&r yapılır; 9 adet &6Allthemodium Parçasıyla&r 1 &6Külçe&r elde edersiniz. \\n\\n&6Parçayı&r ilk olarak &b&leleme&r yoluyla elde edersiniz. \\n\\nDiamond Mesh veya Netherite Mesh gerekir; Netherite daha yüksek şans sağlar. \\n\\n&0Crushed Blackstone&r veya &eKum&r &b&leleyebilirsiniz&r. &0Karataş&r, &6Allthemodium&r düşürme açısından daha yüksek şansa sahiptir!"]
+	quest.53A6BC88439B6767.title: "&lBölüm 3: &6Allthemodium"
+	quest.54A9C70D01935A16.quest_desc: ["Aynı düzeni izleyin; bir Vibranium Arısı Çağırma Yumurtasının üstüne 4 Unobtainium Külçesi dökün. \\n\\nÇiçek bloğu olarak da bir Unobtainium Bloğu kullanın. \\n\\nİşte bu! Neredeyse bedava Unobtainium!"]
+	quest.54A9C70D01935A16.title: "&5Unobtainium Arısı"
+	quest.55E56A748C8681AC.quest_desc: ["Geri kalan Sonsuz Hücreleri buraya attım... \\n\\n&7Kil&r, &0Kivi&r, &bGökyüzü Taşı&r ve &3Antik Taş&r var. \\n\\nHepsi için 5x Sıkıştırılmış blok gerekir."]
+	quest.55E56A748C8681AC.title: "Diğer Sonsuz Bloklar"
+	quest.5663FA8B7C8570C5.quest_desc: ["Merak etmeyin, &5Unobtainium&r hâlâ eski usulle elde edilebiliyor! \\n\\nEvet, tam da şu bildiğiniz &dEnd Dağlıklarında&r."]
+	quest.5663FA8B7C8570C5.title: "&d&lEnd"
+	quest.589A36B5AEC1E588.quest_desc: ["&6Allthemodium &dArcanist Ekipmanının&r yükseltilmiş hâli, &3Vibranium &dArcanist Ekipmanıdır&r. \\n\\n&3Vibranium&r gibi yine 32 zırh puanı verir, ama &6Allthemodium &dArcanist Ekipmanında&r olduğu gibi zırh dayanıklılığı (20) ve geri tepme direnci (0) daha düşüktür. \\n\\nBunun yerine azami mana, mana yenilenmesi ve büyü gücü verir! Hem de &6Allthemodium&r olanından daha fazla!"]
+	quest.5A21264D1043A0DA.quest_desc: ["Bunlar &belemeyle&r ilgili olmayan &7Taşlar&r! \\n\\nOnlarla yapı inşa etmeyi düşünüyorsanız çok kullanışlılar. \\n\\nHepsi için 5x Sıkıştırılmış blok gerekir; &7Bazalt&r ise 6x kullanır."]
+	quest.615CE400A733C804.quest_desc: ["Artık &6Allthemodium Külçemizi&r yapabiliriz! \\n\\nGerçi tek başına pek bir işe yaramaz... \\n\\nBir &c&lDökümhanede&r eritip bir &cAntik Arının&r üstüne dökerek &6Allthemodium&r üretimini otomatikleştirmeye başlayabiliriz. \\n\\nYa da bir &6AllTheModium Demirci Şablonu&r yapmak için bir &6Bloğunu&r kullanabiliriz. Merak etmeyin, ilkinden sonra &cNetherit Külçeleri&r ve &8Kayrak Taşıyla&r çoğaltabilirsiniz."]
+	quest.615CE400A733C804.title: "&6&lAllthemodium"
+	quest.63BF3A8C26F37498.quest_desc: [
+		"&bElit Çalışma Masası&r, &8&lExtended Crafting&r modunun üçüncü seviyesidir. \\n\\n&bKristaltin Külçesi&r üretmek için gereken 7x7 üretim alanına sahiptir. \\n\\nBu masayı yapmak için 2 &eGelişmiş Çalışma Masası&r gerekir. Bunların her biri için de 2 Temel Çalışma Masası gerekir."
+		"{@pagebreak}"
+		"Hesaplarsak 8 Çalışma Masası, 4 &7Demir Bloğu&r, 4 &8Siyah Demir Levha&r, 16 Temel Bileşen ve 4 Temel Katalizör gerekir. Bunların hepsi, 4 Temel Çalışma Masası içindir. \\n\\n&eGelişmiş Çalışma Masaları&r için 4 Temel Çalışma Masası, 2 &eAltın Bloğu&r, 2 &8Siyah Demir Levha&r, 8 &eGelişmiş Bileşen&r ve 2 &eGelişmiş Katalizör&r kullanacaksınız. \\n\\nSon olarak 2 &eGelişmiş Çalışma Masasını&r bir &bElmas Bloğu&r, bir &8Siyah Demir Levha&r, 4 &bElit Bileşen&r ve 1 &bElit Katalizörle&r birleştirebilirsiniz."
+	]
+	quest.63BF3A8C26F37498.quest_subtitle: "Seviye 3"
+	quest.63BF3A8C26F37498.title: "&bElit Çalışma Masası"
+	quest.6599BB9DCA903F65.quest_desc: ["Hayal edebileceğiniz en iyi &5ocak&r! \\n\\n&5Unobtainium Furnace&r yalnızca 1 tikte pişirir. Saniyenin 1/20'sinde! \\n\\nÜstelik aynı anda tam bir yığın eşya pişirir."]
+	quest.6599BB9DCA903F65.title: "&5Unobtainium Furnace"
+	quest.665980EC12F695E9.quest_desc: ["&9Ruh Lavı&r elde etmek için epey &lIndustrial Foregoing&r makinesine ihtiyacımız olacak. \\n\\nİlk olarak bir &3&lMuhafızı&r hapsetmeliyiz (ne kadar ironik). Yavaşlatma alanı oluşturmak için bir &8Durağanlık Odası&r kullanıp enerji sağlayın. Ardından bir &3&lMuhafızı&r bu alanın içine alın. \\n\\nBir &3&lMuhafız&r elde etmenin pek çok yolu var; özellikle &3Sculk Core&r kullanılmış &3Sculk Çığırtkanları&r aracılığıyla. \\n\\nSonrasında &bSıvı Lazer Merkezini&r doğrudan &3&lMuhafızın&r üstüne yerleştirmeliyiz. &bSıvı Lazer Merkezine&r bir &9Mavi Lazer Mercek&r koyun; bu zorunludur! \\n\\nSon olarak &bSıvı Lazer Merkezine&r dönük ve enerji verilen Lazer Matkaplar gerekir. Ardından yavaş yavaş &9Ruh Lavı&r elde edeceğiz!"]
+	quest.665980EC12F695E9.title: "&9Ruh Lavı Yapmak"
+	quest.69AD0D65488065A4.quest_desc: ["&cNetherit&r yeterince zırh sağlamıyor mu? Neden &6Allthemodium&r kullanmıyorsunuz! \\n\\nBütün istatistikleri daha yüksek! Üstelik kırılmaz! \\n\\n24 zırh puanı, 20 zırh dayanıklılığı ve %50 geri tepme direnci sunar. \\n\\nAyrıca üzerine zırh süsü uygulayabilirsiniz!\\n\\nNe, yalnızca bunları mı sağladıklarını düşündünüz?\\n\\n&6Miğferler&r: &9Su Altında Nefes Alma&r, &3&lMuhafızın&r &0Karanlık Etkisine&r bağışıklık ve &7Elitra&r hasarı almama. \\n&6Göğüslük&r: %50 &dBüyü Hasarı Direnci&r ve &cAteş Direnci&r. \\n&6Pantolon&r: &9Derin Koşucu&r ve &0Solma&r etkisine bağışıklık. \\n&6Botlar&r: Düşme hasarına direnç, &bToz Kar&r ve &cLav&r üzerinde yürüyebilme."]
+	quest.69AD0D65488065A4.title: "&6Allthemodium Zırh"
+	quest.6B04292F127FC8CB.quest_desc: ["&3Vibranium Zırh Setinin&r istatistikleri &6Allthemodium&r olanından da iyidir. \\n\\n32 zırh puanı, 36 zırh dayanıklılığı ve %80 geri tepme direnci elde ederiz!\\n\\nNe yazık ki yeni etkiler veya yetenekler yok... ama daha fazla &dBüyü Hasarı Direnci&r var! Artık %75!"]
+	quest.6B04292F127FC8CB.title: "&3Vibranium Zırh"
+	quest.6F37F7ABBBA910B2.quest_desc: ["Sonunda 1,000mB &9Ruh Lavı&r elde ettiğimizde bunu bir &7Kovaya&r koyabiliriz! Bundan sonra pek çok seçeneğimiz var. \\n\\nTarifler için sonraki görevleri izleyebilir, bunu &cCrucible&r veya &6Termo Jeneratörler&r için bir &6Isı Kaynağı&r olarak kullanabilir ya da bir &cMagmator&r içine atabiliriz! \\n\\nSeçim sizin, ama bir &9Soul Lava Arısı&r edinmenizi öneririm."]
+	quest.6F37F7ABBBA910B2.title: "&9&lRuh Lavı"
+	quest.6F930E97EB804F15.quest_desc: ["&3Vibranium Külçesi&r için rahatsız edici miktarda &7GeOre&r gerekir. \\n\\nÇoğu oldukça basittir; &c&lDökümhaneyle&r &eSıkıştırılmış Kumun&r üstüne ilgili &7Cevheri&r dökün... ama &2Uraninit&r farklıdır. \\n\\n&aEnder Üreticimizi&r kullanarak 4 &2Uraniniti&r bir &aBudding Uranium GeOre&r ile birleştirmemiz gerekir. \\n\\n&2Uraninit&r elde etmek için Diamond veya Netherite Mesh ile &eKum&r &b&leleyebilirsiniz&r!"]
+	quest.6F930E97EB804F15.title: "&2Uraninite GeOre"
+	quest.737A779F82686366.quest_desc: ["Atıştırmalık yapabilecekken neden &6Allthemodium&r malzemenizi &6Aletler&r ve &6Zırh&r gibi gereksiz şeylere harcayasınız! \\n\\n&6Allthemodium Havuç&r 20 besin puanı verir. Bu, 5 bifteğe eşittir! Ayrıca 160 doyma puanı verir. Bu da 21 &eAltın Havuçtan&r biraz daha fazladır! \\nUzun süre açlık konusunda endişelenmenize gerek kalmaz. \\n\\n&6Allthemodium Elma&r ise yalnızca 10 açlık puanı ve 40 doyma puanıyla daha azını verir. \\n\\nO hâlde neden &6Elma&r yapıp yiyesiniz? Belki de Yenilenme ve Emilim verdiği için!"]
+	quest.737A779F82686366.title: "&6Allthemodium&r Yiyecekleri mi?"
+	quest.783D0526952AD0BD.quest_desc: ["&9Ruh Lavı&r elde etmenin alternatif bir yolu da &2VAT&r kullanmaktır. Lavı &3Muhafız'ın Asma Filizi&r ve Ruh Kumu 1x ile karıştırarak &9Ruh Lavına&r dönüştürün. Evet, bunun için de bir &3&lMuhafız&r gerekiyor."]
+	quest.783D0526952AD0BD.quest_subtitle: "Daha Az Matkaplı Bir Alternatif"
+	quest.783D0526952AD0BD.title: "&2VAT"
+	quest.7DE7E266A42E822E.quest_desc: ["&5Unobtainium&r kazmak için &3Vibranium Kazma&r gerekir. \\n\\n&3Kürek &fve &3Çapa&r yalnızca işlerini daha hızlı yapar. \\n\\nYani &3Kazma&r da öyle, ama onun işi biraz daha özel!"]
+	task.2954E9A84730D187.title: "&6Allthemodium Silahlar"
+	task.2FCC2AAD26F80D20.title: "&6Allthemodium &dArcanist Ekipmanı"
+	task.3A705CAF7547846A.title: "Sonsuz &7Taşlar"
+	task.44B02FBFAD918254.title: "ME Sonsuz Boya Hücreleri"
+	task.464877B75929C3C4.title: "&5Unobtainium Aletler"
+	task.51CB2D73F130E55A.title: "&5Unobtainium Silahlar"
+	task.5C5BD15346C75F38.title: "Sonsuz &bSieve&r Blokları"
+	task.6C22DF8825A25915.title: "&3Vibranium Aletler"
+	task.6EAD7AAB2A57424E.title: "&3Vibranium Silahlar"
+	task.6EFE20C8ED04A071.title: "&5Unobtainium &dArcanist Ekipmanı"
+	task.7226040F3B42C6E1.title: "&3Vibranium &dArcanist Ekipmanı"
+	task.7F534695D6EC391F.title: "&6Allthemodium Aletler"
+}

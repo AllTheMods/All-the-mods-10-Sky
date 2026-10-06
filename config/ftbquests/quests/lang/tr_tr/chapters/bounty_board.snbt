@@ -1,0 +1,39 @@
+{
+	quest.08B60D8A25008CCC.quest_desc: ["Bu Görev, &6AllTheMods&r ekibi veya AllTheMods mod paketlerinde kullanılmak üzere bir &2topluluk katılımcısı&r tarafından hazırlanmıştır. \\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan herhangi bir herkese açık pakette kullanılmasına izin verilmez. \\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.09C82CDDA800D8C9.quest_desc: ["Wither ikinci Minecraft Patron'udur, bu isteğe bağlı bir Patron'dur. \\n\\nOnu ortaya çıkarmak için Wither'ı inşa etmen gerekecek. T şeklinde 4 Ruh Kumu ve üstüne 3 Wither İskeleti Kafatası yerleştirmek onu ortaya çıkaracaktır! \\n\\n300 Kalbi vardır ve etrafta uçarak Oyunculara veya Yaratıklara Wither Kafaları fırlatır. \\n\\nYarı Sağlığa düştüğünde, Uzak Mesafe Saldırılarına karşı bir kalkan kazanacak ve Kılıç veya Balta ile öldürülmesi gerekecektir. \\n\\nOnu öldürdüğünde şunları düşürecek: Nether Yıldızı, Solduran Ruh için şans ve tonlarca Corail Eşyası."]
+	quest.09C82CDDA800D8C9.title: "Wither'ı Öldür"
+	quest.0E20A9B79D1C6637.quest_desc: ["Muhafız 1.20'de eklenen bir patrondur. \\n\\nDoğal olarak oluşan 3 Sculk Çığırtkanının arka arkaya tetiklenmesiyle veya ilk Muhafız ortaya çıktıktan sonra herhangi bir Çığırtkanın tetiklenmesiyle ortaya çıkar. \\n\\n500 Kalbi ve 20 Kalpten fazla hasar veren saldırılarıyla Minecraft tarafından eklenen en güçlü yaratıktır. \\n\\nSaldırıları arasında sana vurmak ve daha uzaktakiler için Sonar Patlamaları yer alır. \\n\\nTek zayıflığı kör olması, ama tıpkı Daredevil gibi bu onun diğer duyularını çok daha güçlü hale getirdi! Eğer yakındaysan kokunu alabilir bu yüzden gürültü yapmamaya dikkat et! \\n\\nEğer onu bir şekilde öldürürsen, şunları düşürecektir: Sculk Katalizörleri, Muhafız Karapaksı ve Derinin Kalbi."]
+	quest.0E20A9B79D1C6637.title: "Muhafız'ı Öldür"
+	quest.0F55D0B4D5094EDB.quest_desc: ["ATM7 için birçok görev serisi hazırlarken, Seyyar Tüccar beni görev ekranında sürekli itip durmanın komik olacağını düşündü.\\n\\n\"Hepsini yok et. Hepsini.\"\\n\\n- AlfredGG \\n\\n\"Bunu destekliyorum!\" \\n\\n- Toshiba"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "“Bu Kişisel Bir Mesele” - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Seyyar Tüccar'ı ve Onun Sinir Bozucu Lamalarını Öldür"
+	quest.17F3AC15ADCFB175.title: "&l&9End Ödülü:&r&e Enderman'ler"
+	quest.1F18B64C84C8809D.title: "&l&9Ana Dünya Ödülü:&r&e Örümcekler"
+	quest.2B05A29C62676EB2.title: "&l&9Ana Dünya Ödülü:&r&e Zombiler"
+	quest.2BD077EFE77B8EBB.quest_desc: ["Zombilerin başka biyomlarda doğan farklı türleri vardır. "]
+	quest.2BD077EFE77B8EBB.title: "Zombi Çeşitleri"
+	quest.3371F9248D403664.title: "&l&cNether Ödülü:&r&e Wither İskeletleri"
+	quest.3813F5C1760C3A79.quest_desc: ["Piglin Barbarlarının burada olması tartışmalı olabilir ama ben onları küçük bosslar olarak görüyorum. \\n\\nNormal Piglinlerle birlikte Burçlarda doğarlar ancak bunlar tarafsız değil, saldırgandır. Şahsen bundan nefret ediyorum; özellikle de onlara vurursanız bütün Piglinler size saldırgan hâle gelir. \\n\\n50 kalpleri ve size vurmak için bir Altın Baltaları vardır. Normalde Altın Baltalar pek hasar vermez ama onların elinde nedense müthiştir! \\n\\nHiçbir şey düşürmezler ve Burçlarda daha çok bir engel görevi görürler!"]
+	quest.3813F5C1760C3A79.title: "Bir Zalim Piglin Öldür"
+	quest.41C0948CD9D50322.quest_desc: ["Burada, düşmanları öldürerek elde edebileceğin tüm ödülleri bulacaksın."]
+	quest.41C0948CD9D50322.quest_subtitle: "Bütün Şeyleri Öldürmek"
+	quest.41C0948CD9D50322.title: "Ödül Panosu"
+	quest.42822B1E8A53D051.title: "&l&9Ana Dünya Ödülü:&r&e İskeletler"
+	quest.56DA46DC82F6665D.quest_desc: ["Yabani Chimera, Ars Nouveau tarafından eklenen bir Patron'dur ve ilerlemek için gereklidir. \\n\\nBir ritüel aracılığıyla çağrılması ve sonra da savaşılması gerekiyor!"]
+	quest.56DA46DC82F6665D.title: "Yabani Chimera'yı Öldür"
+	quest.5AC497F76A086A5C.title: "&l&9Ana Dünya Ödülü:&r&e Cadılar"
+	quest.6141DE779232C8AA.title: "&l&cNether Ödülü:&r&e Blaze'ler"
+	quest.6827836C8E675A94.quest_desc: ["Zombiler gibi İskeletlerin de farklı türleri vardır!"]
+	quest.6827836C8E675A94.title: "İskelet Çeşitleri"
+	quest.728BE1816DA23DC0.quest_desc: ["Ender Ejderhası, End'i koruyan Patron'dur. \\n\\nEnd Geçidine girdiğinde, Ejderha'nın ortaya çıktığı End Adasına varacaksın. \\n\\n200 Kalbi vardır ve Ateş Topları ile saldırabilir veya sana çarpabilir. \\n\\nOnu öldürebilmek için, onu iyileştiren sütunlardaki End Kristallerini kırman gerekecek! \\n\\nOnu öldürdüğünde şunları düşürecek: Arcane Öz, Epik Gölgelendirici Çantaları, Ejderha Derisi, iki farklı moddan Ejderha Pulları ve tonlarca TP! \\n\\nSonra Geçit açılacak, böylece Ana Dünyaya dönebilir veya dış adaları keşfetmek için bir End Geçidi bulabilirsin. Ayrıca Geçitte bir Ejderha Yumurtası bulacaksın."]
+	quest.728BE1816DA23DC0.title: "Ender Ejderhasını Öldür"
+	quest.77FC692AC94D2EEF.title: "&l&9Ana Dünya Ödülü:&r&e Creeper'lar"
+	task.00CBF98DE4E9CC90.title: "Tüm Hakları Saklıdır"
+	task.171FD27057746E80.title: "1 Wither Öldür"
+	task.1809F1F9A3043683.title: "1 Ender Ejderhası Öldür"
+	task.1D136D138EF82DA9.title: "2 Tüccar Laması Öldür"
+	task.452B65E139D9E12D.title: "1 Yabani Chimera'yı Öldür"
+	task.596ABB45C0612AAF.title: "1 Seyyar Tüccar Öldür"
+	task.65E53C9C5AE98B69.title: "Tüm Hakları Saklıdır"
+	task.69678CAC075C8EA5.title: "1 Muhafız Öldür"
+}

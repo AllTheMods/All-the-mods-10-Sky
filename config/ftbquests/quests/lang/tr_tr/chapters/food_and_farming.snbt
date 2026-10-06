@@ -1,0 +1,141 @@
+{
+	quest.04D0543FE2820F64.quest_desc: ["İp yetiştirme zamanı! Bunlardan bazıları doğrudan ip yetiştirmenizi sağlar; diğerleri ise tariflerde kullanılabilen bir alternatif verir."]
+	quest.04D0543FE2820F64.quest_subtitle: "Örümceklere kimin ihtiyacı var ki?"
+	quest.04D0543FE2820F64.title: "Flax String"
+	quest.0500DA5C4D383DC6.quest_desc: ["Bunları zombi öldürerek veya toprak eleyerek elde edin."]
+	quest.0500DA5C4D383DC6.quest_subtitle: "Sebzelerinizi yiyin"
+	quest.083309154A8974DA.quest_desc: ["En temel iyileştirmeler"]
+	quest.083309154A8974DA.quest_subtitle: "Küçük bir güçlendirme"
+	quest.083309154A8974DA.title: "Altın Kaplı Yiyecekler"
+	quest.0893EFCAC7031FEA.quest_desc: ["Süt ve yumurtaların hazırsa, pasta yapma zamanı."]
+	quest.0893EFCAC7031FEA.quest_subtitle: "Hem Pastan Dursun Hem Karnın Doysun"
+	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunner'lar Bunu Seviyor"
+	quest.0A1C2A7A8617D3E4.title: "Buğday"
+	quest.0A7F53BFE6A4DFDC.quest_desc: ["Yalnızca yapabildiğiniz tarifleri görmekten sıkıldınız mı? Bununla oyundaki her yiyeceğin nasıl yapıldığını görebilirsiniz."]
+	quest.0A7F53BFE6A4DFDC.quest_subtitle: "Yemek pişirme ansiklopedisi"
+	quest.0A7F53BFE6A4DFDC.title: "Filtresiz Yemek Kitabı"
+	quest.0AC713AEEBCF2CD2.quest_desc: ["Ya da MA kullanabilirsiniz... ama kim yapar ki bunu?"]
+	quest.0AC713AEEBCF2CD2.quest_subtitle: "İnsancıl yumurta toplama"
+	quest.0AC713AEEBCF2CD2.title: "Yumurta Üretimini Otomatikleştirme"
+	quest.0CB4CF33BD96D730.quest_desc: ["Productive Farming, ekinlerin özelliklerini değiştirerek verimlerini artırmanızı sağlar! (Görevler yakında)"]
+	quest.0EFF1AA37772156B.quest_desc: ["Bu blok çok bloklu mutfağa su sağlar.\\n\\nAyrıca suyu kablolar veya borular aracılığıyla dışarı pompalayarak sonsuz su sağlayabilir."]
+	quest.0EFF1AA37772156B.quest_subtitle: "1 blok işini görür!"
+	quest.0EFF1AA37772156B.title: "Lavabo = Sonsuz Su"
+	quest.0FE88A567578C720.quest_desc: ["Bunlar, elmaya bağlı olarak çeşitli güçlendirmeler sağlayan süper yiyeceklerdir."]
+	quest.0FE88A567578C720.quest_subtitle: "Kristalleşmiş elmalar"
+	quest.12139F09C0F1361D.quest_desc: ["Büyüme hızını artırır; yeşil gübreyle birlikte kullanılamaz."]
+	quest.12139F09C0F1361D.quest_subtitle: "Üretken mantarlar"
+	quest.13AFCD3B6F62B986.quest_desc: ["Buz ve Kar tarifleri sunar!"]
+	quest.13AFCD3B6F62B986.quest_subtitle: "Buz, buz, bebeğim!"
+	quest.13AFCD3B6F62B986.title: "Soğutma Ünitesi"
+	quest.1515B32545F51266.quest_desc: ["Ocağa güç bağlamanı sağlar."]
+	quest.1515B32545F51266.title: "Isıtma Ünitesi"
+	quest.1697CC05D08B388D.quest_subtitle: "Nefiss, Kızarmış Tavuk!"
+	quest.1697CC05D08B388D.title: "Tavuklar Gitmeli"
+	quest.1827DEEA2DF1B144.quest_desc: ["Yemek ve Tarım bölümüne hoş geldin!\\n\\nBurada, gıda yetiştirmek ve yapmak için farklı yollar bulacaksın!"]
+	quest.1827DEEA2DF1B144.title: "Yemek ve Tarım"
+	quest.18EADBAFC932F864.quest_desc: ["Koyun kırkmak için makas gerekir, başka türlü yün elde edemezsin... değil mi?"]
+	quest.18EADBAFC932F864.quest_subtitle: "Pasifist Yolu"
+	quest.18EADBAFC932F864.title: "Kırpma Zamanı"
+	quest.1B4A74D744F39516.quest_desc: ["Biraz Meşe Yaprağı kırın."]
+	quest.1B4A74D744F39516.quest_subtitle: "Her alet işe yarar (yumruğunuz dâhil)"
+	quest.1B4A74D744F39516.title: "Yaprakları Kırın"
+	quest.1D2EF12FD7FDD217.quest_desc: ["Tavuklar bunları doğal olarak yumurtlar. Sanırım bu pek doğal sayılmaz...\\n\\nSanırım tavuklar sadece... &oEgg-zersiz!!!&r yapıyor."]
+	quest.1D2EF12FD7FDD217.quest_subtitle: "...yoksa yapacak mıyım?"
+	quest.1D2EF12FD7FDD217.title: "Yumurtayla kelime oyunu yapmayacağım"
+	quest.1D48298525EEADC9.quest_desc: ["İhtiyacın olan her şeye zaten sahip olmalısın."]
+	quest.1D48298525EEADC9.quest_subtitle: "Üzerime biraz Şeker dök!"
+	quest.1D48298525EEADC9.title: "Çok tatlısın"
+	quest.1DCAA0310AA55F1C.quest_desc: ["Ama genelde 5'te kapatıyor, yani kimin umurunda?"]
+	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Gurur Duyardı"
+	quest.1DCAA0310AA55F1C.title: "Bir Balıkçının Başlangıcı"
+	quest.1E7A4F84CEDBE2AF.quest_desc: ["Kemik Tozu, veriminizi artırmanın en temel yoludur."]
+	quest.1E7A4F84CEDBE2AF.quest_subtitle: "O kemikleri kullanmak lazım"
+	quest.1E7A4F84CEDBE2AF.title: "Büyümeyi İyileştirme"
+	quest.1F114EB0AAB86DB4.quest_desc: ["Marketler, doğru miktarda zümrüte sahipsen sana her şeyi satabilecek köylü verir.\\n\\nSpoiler: Genellikle eşya başına sadece 1 Zümrüt, neyse ki HER ŞEY var."]
+	quest.1F114EB0AAB86DB4.quest_subtitle: "Köylünün Ortaya Çıkması için birden fazla yol var"
+	quest.1F114EB0AAB86DB4.title: "Çiftlik Malzemeleri Satın Alma"
+	quest.2786D5AC19163524.quest_desc: ["Bu blok, mutfak çoklu blok yapınızda eritme tariflerinin kullanılmasını sağlar!"]
+	quest.2786D5AC19163524.quest_subtitle: "Zamanlayıcıya Gerek Yok"
+	quest.2786D5AC19163524.title: "Tatlım, Mutfakta bir Ocak var"
+	quest.28C9EDBF6607E180.quest_desc: ["Bu blok, çok bloklu bir mutfağın parçasıdır.\\n\\nBu, envanterinde bulunan veya mutfak çoklu bloğunda depolanan yiyeceklerle kullanabileceğin her tarifi gösterecektir.\\n\\nSonunda Minecraft'ta güzel bir mutfak oluşturabilirsin."]
+	quest.28C9EDBF6607E180.quest_subtitle: "Betty White, Dilimlenmiş Ekmek'ten önce doğmuştu"
+	quest.28C9EDBF6607E180.title: "DİLİMLENMİŞ EKMEKTEN BU YANA EN İYİ ŞEY"
+	quest.2E9C035EEE7E5C34.quest_desc: ["Klasik Kayış. Hayvanları çiftlik alanına götürmek için bunu kullan.\\n\\nBu cevherle aynı şey değildir."]
+	quest.2E9C035EEE7E5C34.quest_subtitle: "İyi yolculuklar küçük Köpekçik"
+	quest.2E9C035EEE7E5C34.title: "Bunu Eski Usul yapıyoruz"
+	quest.2FBF54AC8273E8DF.quest_desc: ["Productive Trees, her biri kendine özgü ürünlere sahip pek çok yeni ağaç ekler. Yapraklarını kırarak bu meyveleri toplayabilirsiniz."]
+	quest.2FBF54AC8273E8DF.quest_subtitle: "Meyveler, meyveler ve daha çok meyve"
+	quest.2FBF54AC8273E8DF.title: "Productive Trees"
+	quest.34F29677E6B5E40C.quest_desc: ["Hasat başına elde edilen ürün miktarını artırır; kırmızı gübreyle birlikte kullanılamaz."]
+	quest.34F29677E6B5E40C.quest_subtitle: "Üretken küf"
+	quest.361DFDB1E1352D6B.quest_desc: ["Suyun yakınında biraz şeker kamışı bul."]
+	quest.361DFDB1E1352D6B.title: "Şeker Şeker"
+	quest.37CA6F9F0226F10E.quest_desc: ["Bu blok, pişirmek için kullanılan eşyaları saklar.\\n\\nÜzerine tost makinesi ve İnekli Kavanoz gibi diğer çok bloklu mutfak eşyalarını da yerleştirebilirsin."]
+	quest.37CA6F9F0226F10E.quest_subtitle: "Daha fazla pişirme alanına ihtiyacımız var"
+	quest.37CA6F9F0226F10E.title: "Daha fazla pişirme alanına mı ihtiyacın var?"
+	quest.3EA883C0BB7BD38F.quest_desc: ["Hadi birkaç tane yün toplayalım!"]
+	quest.3EA883C0BB7BD38F.quest_subtitle: "Kimin Postu....Gökkuşağı'ydı?"
+	quest.3EA883C0BB7BD38F.title: "Mary'nin Küçük Bir Kuzusu Vardı"
+	quest.43021923E220CF68.quest_desc: ["Toprağı tarlaya dönüştürmek için bir çapaya ihtiyacın olacak."]
+	quest.43021923E220CF68.quest_subtitle: "Bunun için Makineleri elde edene kadar bekle."
+	quest.43021923E220CF68.title: "Ekici"
+	quest.45F83C2750F70F9B.quest_desc: ["Devam et, Ocağa bir Kitap koy ve onu pişir."]
+	quest.45F83C2750F70F9B.quest_subtitle: "Kesinlikle alev almaz..."
+	quest.45F83C2750F70F9B.title: "Kitapla birlikte Mutfak yapmak"
+	quest.460969C070B5C8E5.quest_desc: [
+		"Bence üretmek en kolay yol..."
+		"Burada durmak zorunda değiliz!"
+	]
+	quest.460969C070B5C8E5.quest_subtitle: "Vanilla'nın sınırı..."
+	quest.460969C070B5C8E5.title: "\"Notch\" elması"
+	quest.47764EFC822E462A.quest_desc: ["Bu blok zamanla süt üretir ve mutfak çoklu bloğu için süt tariflerini mümkün kılar.\\n\\nİneği kavanoza sokmak için kavanozu bir deliğe yerleştir. İneği kavanozun üzerindeki söz konusu deliğe düşmesi için cezbet, ardından üzerine bir örs bırak.\\n\\nBu camın neyden yapıldığına dair hiçbir fikrim yok ama Tavuk ile olan aramızdaki bağdan daha güçlü."]
+	quest.47764EFC822E462A.quest_subtitle: "Olağanüstü Süt Sağma Gücü.. Ufacık tefecik yaşam alanı"
+	quest.47764EFC822E462A.title: "İnekli Kavanoz"
+	quest.528304AA09EA8C23.quest_desc: ["Hepsini yakalamak lazım!"]
+	quest.528304AA09EA8C23.quest_subtitle: "Bitmek bilmeyen balıkçılık"
+	quest.528304AA09EA8C23.title: "Balık Tutmaya Gittim"
+	quest.55C4824DAD905512.quest_desc: ["Bu Görev, &6AllTheMods&r ekibi veya AllTheMods mod paketlerinde kullanılmak üzere bir &2topluluk katılımcısı&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan herkese açık herhangi bir pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.58495CFBF4F20CE9.quest_desc: ["Bu tıpkı mutfak tezgahı gibi çalışıyor, tek farkı havada olması.\\n\\nVe üzerine bir şey koyamazsın."]
+	quest.58495CFBF4F20CE9.quest_subtitle: "Aktiviteler için çok fazla alan!"
+	quest.58495CFBF4F20CE9.title: "Daha Fazla Depolama Alanı"
+	quest.58D5BD3106BFD94A.quest_desc: ["Kitabın bir sonraki versiyonunu hazırla. Sana söz veriyorum, buna değecek.\\n\\nHatta sana bir Elmas bile vereceğim."]
+	quest.58D5BD3106BFD94A.quest_subtitle: "Buna kesinlikle değer"
+	quest.58D5BD3106BFD94A.title: "Elmasların gücüyle pişirme"
+	quest.60053279577A59C1.quest_desc: ["Zıplarken ekinlerinizi mahvetmekten sıkıldınız mı? Şanslısınız! Diğer iki türle birlikte kullanılabilir."]
+	quest.60053279577A59C1.quest_subtitle: "Üretken altın"
+	quest.63050A2CACD6ADC9.quest_subtitle: "Yoksa değil mi?"
+	quest.63050A2CACD6ADC9.title: "En Üst Seviyedeki Olta"
+	quest.635620A03E3505BF.quest_desc: ["Bunları nasıl bulduğunu bilmek istemiyorum."]
+	quest.635620A03E3505BF.quest_subtitle: "Ama....İnekler kırkılamaz..."
+	quest.635620A03E3505BF.title: "Deri"
+	quest.659A903F97F93BE2.quest_subtitle: "Hızlı ve Basit"
+	quest.659A903F97F93BE2.title: "Yaşam Ekmeği"
+	quest.72717D1135486D7F.quest_desc: ["Biraz tohum toplayalım."]
+	quest.72717D1135486D7F.quest_subtitle: "Blok El 1, blok Çimen 0"
+	quest.72717D1135486D7F.title: "Çimenleri Yumrukla"
+	quest.73B8A70240E6070E.quest_desc: ["İnek Bul ve Kovayla Sağ Tıkla.\\n\\nCidden, neden Boğa yok?"]
+	quest.73B8A70240E6070E.quest_subtitle: "Oyunda neden Boğalar yok?"
+	quest.73B8A70240E6070E.title: "İnek Sağ - Kâr"
+	quest.791AE62ACACBD5BA.quest_subtitle: "Açarsın, kapatırsın, sonra tekrar açarsın, çünkü sıkılmışsındır"
+	quest.79DD2C115A5FC23B.quest_desc: ["Her kademe yeni bir olumlu etki verir. Bunların epey güçlü olduğunu rahatlıkla söyleyebiliriz..."]
+	quest.79DD2C115A5FC23B.quest_subtitle: "Kademeli elmalar"
+	quest.79DD2C115A5FC23B.title: "MA Elmaları"
+	quest.7FB5AFB3A30830D4.quest_desc: ["En temel meyveleri elde etmek için bu fidanı yetiştirin."]
+	quest.7FB5AFB3A30830D4.title: "Ağaçlardan Meyveler"
+	task.003A07A0E816B302.title: "Productive Farming"
+	task.1D8904E53906D972.title: "Tüm Hakları Saklıdır"
+	task.2725700B5EA1CD75.title: "Makaslar"
+	task.323A434E1AF54408.title: "Çapalar"
+	task.32791AD78C17C814.title: "Farmer's Delight Aletleri"
+	task.3824DC29D8790DAB.title: "Değerli Taş Elmaları"
+	task.3DA0D9582AEFCBCF.title: "Keten Tohumu"
+	task.5805158E69C05AED.title: "Tüm Hakları Saklıdır"
+	task.669DEA201002793D.title: "Buzdolapları"
+	task.690D9E03BB024BCF.title: "Allthemodium metali"
+	task.6DF92BBEC7E3EC10.title: "Allthemodium yiyecekleri"
+	task.73E843FE4FCCEA33.title: "MA Elmaları"
+	task.78D7794707E4BD83.title: "Mahsuller"
+	task.7C686DA23151A0F3.title: "Altın yiyecekler"
+	task.7F08D4E77359BF4A.title: "Yün"
+}
