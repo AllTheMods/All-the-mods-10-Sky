@@ -303,7 +303,7 @@
 	#Supports any IntelliJ Theme file with '.theme.json' extension.
 	#If you prefer standard Swing look and feel, use 'Swing'.
 	#Look out our guide about theme support: https://github.com/KostromDan/Crash-Assistant/blob/pages/guides/Theme%20Support/Getting%20Started.md
-	theme_file_name = "FlatLightLaf"
+	theme_file_name = "FlatDarkLaf"
 	#Will hide Upload All Button from GUI.
 	disable_upload_all_button = false
 	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
