@@ -23,6 +23,9 @@ RecipeViewerEvents.addEntries("item", (allthemods) => {
   allthemods.add("ironfurnaces:upgrade_allthemodium")
   allthemods.add("ironfurnaces:upgrade_vibranium")
   allthemods.add("ironfurnaces:upgrade_unobtainium")
+  allthemods.add(
+    'excessive_utilities:magical_snow_globe[excessive_utilities:magical_snow_globe_progress={amount_required:3,biomes:{"minecraft:is_end":0b,"minecraft:is_nether":0b,"minecraft:is_overworld":0b}}]'
+  )
 })
 
 RecipeViewerEvents.registerSubtypes("item", (allthemods) => {
@@ -30,6 +33,7 @@ RecipeViewerEvents.registerSubtypes("item", (allthemods) => {
     "compactmachines:machine_color",
     "compactmachines:room_template"
   ])
+  allthemods.useComponents("excessive_utilities:magical_snow_globe", "excessive_utilities:magical_snow_globe_progress")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.
