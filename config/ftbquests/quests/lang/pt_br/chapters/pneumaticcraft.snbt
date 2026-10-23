@@ -131,7 +131,7 @@
 	quest.371A34B297C8A8EF.title: "PneumaticCraft: Repressurizado"
 	quest.39F142224D5210A9.quest_desc: ["O &3Biodeisel&r pode ser usado para fazer &3Lubrificante&r e &3Plástico Derretido&r."]
 	quest.39F142224D5210A9.quest_subtitle: "Bio/Diesel"
-	quest.39F142224D5210A9.title: "Biodeisel"
+	quest.39F142224D5210A9.title: "Biodiesel"
 	quest.3A9AC6AB4407DC32.quest_desc: ["Embora nem toda receita exija os mesmos componentes, você pode configurar suas &3Linhas de Montagem&r com tudo instalado. Uma configuração simples de &3Linha de Montagem&r que pode ser usada para tudo é mostrada na imagem abaixo. Leia as missões de cada componente para obter informações importantes sobre eles.\\n\\nAs Melhorias de Velocidade tornam isso muito mais rápido!"]
 	quest.3A9AC6AB4407DC32.quest_subtitle: "Requer Montagem"
 	quest.3A9AC6AB4407DC32.title: "Usando Linhas de Montagem"

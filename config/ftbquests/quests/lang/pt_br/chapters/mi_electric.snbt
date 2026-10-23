@@ -19,9 +19,7 @@
 	quest.1351D0594F1E6551.quest_desc: ["Esses &#55EDA4Componentes Básicos&r nos levarão ao próximo avanço no processamento."]
 	quest.1351D0594F1E6551.title: "&5Componentes de Circuito"
 	quest.162807D14C173CB4.quest_desc: [
-		"A &#5599EDCentrífuga&r confirmou nossa teoria: se girarmos algo rápido o suficiente, um novo material simplesmente aparece. "
-		""
-		"Ela tem muitos usos, mas você vai precisar principalmente para o processamento de &#F2AAE5Cromo&r e &#AD3497Monazita&r."
+		"A &#5599EDCentrífuga&r confirmou nossa teoria: se girarmos algo rápido o suficiente, um novo material simplesmente aparece. Ela tem muitos usos, mas você vai precisar principalmente para o processamento de &#F2AAE5Cromo&r e &#AD3497Monazita&r."
 	]
 	quest.162807D14C173CB4.quest_subtitle: "Você me deixa tonto, tonto.."
 	quest.162807D14C173CB4.title: "&5Centrífuga"
@@ -100,11 +98,11 @@
 	quest.604C003EE6B1CC6B.quest_subtitle: "Igual ao do vapor"
 	quest.604C003EE6B1CC6B.title: "&5Máquina de Corte Elétrica"
 	quest.6256612D46C88C0C.quest_desc: [
-		"&5Transformadores&r convertem uma faixa de energia em outra."
+		"&#723CFATransformadores&r convertem uma faixa de energia em outra."
 		""
-		"&5Transformadores&r &#EBC471LV&r para &#DDE548MV&r: Converte energia &#EBC471LV&r em energia &#DDE548MV&r, possui 5 entradas e 1 saída."
+		"&#723CFATransformadores&r &#EBC471LV&r para &#DDE548MV&r: Converte energia &#EBC471LV&r em energia &#DDE548MV&r, possui 5 entradas e 1 saída."
 		""
-		"&5Transformadores&r &#DDE548MV&r para &#EBC471LV&r: Converte energia &#DDE548MV&r em energia &#EBC471LV&r, possui 1 entrada e 5 saídas."
+		"&#723CFATransformadores&r &#DDE548MV&r para &#EBC471LV&r: Converte energia &#DDE548MV&r em energia &#EBC471LV&r, possui 1 entrada e 5 saídas."
 	]
 	quest.6256612D46C88C0C.quest_subtitle: "\"A liberdade é um direito de todos os seres conscientes.\""
 	quest.6256612D46C88C0C.title: "&5Transformadores &eLV&f &5para &eMV"
@@ -114,9 +112,7 @@
 	quest.6A25ED4059E224D2.quest_desc: [
 		"A &#ED5585Destilaria&r é usada para destilar certos líquidos e obter saídas melhores e mais adequadas para nosso uso."
 		""
-		"Você deve &cbloquear&r a receita para obter o que deseja se uma única entrada produzir várias saídas. "
-		""
-		"Primeiro, clique no ícone de cadeado na interface, clique na seta e então no ícone &7'+'&r na receita desejada."
+		"Você deve &cbloquear&r a receita para obter o que deseja se uma única entrada produzir várias saídas. Primeiro, clique no ícone de cadeado na interface, clique na seta e então no ícone &7'+'&r na receita desejada."
 	]
 	quest.6A25ED4059E224D2.quest_subtitle: "Bloquear a receita"
 	quest.6A25ED4059E224D2.title: "&5Destilaria"
@@ -126,14 +122,11 @@
 	quest.744E620B7DEBB483.quest_subtitle: "De Boa no Gelo"
 	quest.76660075F254597E.quest_desc: ["O &#F5B758Melhoria Avançada&r adiciona &#EDE02F16 EU/t&r de uso máximo por melhoria."]
 	quest.7E3B19796870C2B1.quest_desc: [
-		"O &#9955EDReator Químico&r será uma das máquinas mais úteis para você daqui para frente. "
-		""
-		"Ele será usado para criar diversos produtos químicos."
+		"O &#9955EDReator Químico&r será uma das máquinas mais úteis para você daqui para frente. Ele será usado para criar diversos produtos químicos."
 	]
 	quest.7E3B19796870C2B1.title: "&5Reator Químico"
 	quest.7EDBE88A2CFAB353.quest_desc: [
 		"As &#562FD6Montadoras&r são usadas para fabricar muitos componentes e máquinas. Elas conseguem realizar trabalhos de fabricação de forma automática."
-		""
 		"Também oferecem variantes &amuito mais baratas&r de algumas receitas que você já utilizou."
 	]
 	quest.7EDBE88A2CFAB353.quest_subtitle: "Você vai precisar de muitos"

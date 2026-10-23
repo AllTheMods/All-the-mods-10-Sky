@@ -317,7 +317,7 @@
 		""
 		"Blazegold concede a habilidade intrínseca de Reparo com Lava a ferramentas e armaduras. O Reparo com Lava repara a ferramenta/armadura quando jogada em uma fonte de lava, convertendo o bloco de fonte em obsidiana em troca da reparação da ferramenta/armadura."
 	]
-	quest.2D86D4403E0F4EB9.title: "Blazegold"
+	quest.2D86D4403E0F4EB9.title: "Ouro-Blaze"
 	quest.2F86FB9E4D49E4B0.quest_desc: [
 		"Melhorias Válidas:"
 		"- Scanner de Mob"
@@ -398,7 +398,7 @@
 		"Faz com que as Flechas busquem ativamente seus alvos."
 	]
 	quest.40C5C355B6DA1893.quest_desc: ["O Gerador de Bolso é um gerador portátil que usa itens combustíveis para carregar itens e ferramentas no inventário do jogador, o Gerador de Bolso é compatível com o Recipiente de Combustível."]
-	quest.41E8C93A44559E48.quest_desc: ["A &7Máquina do Paradoxo&r pode, por um preço alto de Poder e &aFluido do Tempo&r, tirar uma Captura de Blocos e Entidades na área designada; depois, ela pode duplicá-los. \\n\\nMuitos Blocos e Entidades estão na lista negra por configurações, então nada de duplicar Abelhas!"]
+	quest.41E8C93A44559E48.quest_desc: ["A &7Máquina de Paradoxo&r pode, por um preço alto de Poder e &aFluido de Tempo&r, tirar uma Captura de Blocos e Entidades na área designada; depois, ela pode duplicá-los.\\n\\nFazer isso acumula &5Energia de Paradoxo&r na &7Máquina de Paradoxo&r e, uma vez cheia, um &5Paradoxo&r ocorrerá. Ele consome blocos, itens e entidades próximos, crescendo em tamanho. Um &aCristal de Tempo&r pode ser lançado no &5Paradoxo&r para fechá-lo.\\n\\nMuitos Blocos e Entidades estão na lista-negra por configurações, então nada de duplicar Abelhas!"]
 	quest.433117EEA55B6A54.quest_desc: ["Apenas um simples colocador de fluidos."]
 	quest.441F37A95AB66E6B.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
 	quest.4458F8829800A950.quest_desc: ["O Fluido Polimórfico é a base de todos os Fluidos / Combustíveis no JDT. O Fluido Polimórfico é criado ao jogar Catalisador Polimórfico na água."]
@@ -408,7 +408,7 @@
 		""
 		"&lFunção da Habilidade:&r"
 		""
-		"Permite que o jogador passe através de blocos quando aplicado às calças. Existe uma tag de bloco para adicionar blocos à lista negra, impedindo que sejam atravessados."
+		"Permite que o jogador passe através de blocos quando aplicado às calças. Existe uma tag de bloco para adicionar blocos à lista-negra, impedindo que sejam atravessados."
 		"Quando aplicado a um arco, permite que as flechas atravessem paredes."
 	]
 	quest.454CA1F8CC198D9D.quest_desc: [
@@ -445,7 +445,7 @@
 		"- Não Pisotear"
 		"- Crescimento Acelerado de Plantações I"
 	]
-	quest.48E4D75FD3145AD6.quest_desc: ["O Fluido do Tempo é usado pela Máquina do Paradoxo e pela Varinha do Tempo. Ele é obtido ao jogar um Cristal do Tempo no Fluido Polimórfico.\\n\\nPara um cristal tão difícil de obter, fico feliz que tenham nos dado um fluido fácil dessa vez."]
+	quest.48E4D75FD3145AD6.quest_desc: ["O Fluido de Tempo é usado pela Máquina do Paradoxo e pela Varinha do Tempo. Ele é obtido ao jogar um Cristal do Tempo no Fluido Polimórfico.\\n\\nPara um cristal tão difícil de obter, fico feliz que tenham nos dado um fluido fácil dessa vez."]
 	quest.49636B3C6E6D0C2A.quest_desc: ["Não tem utilidade, mas é legal."]
 	quest.4987759CF379C1EB.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -513,7 +513,7 @@
 		"- Colheita Automática"
 		"- Crescimento Acelerado de Culturas II"
 	]
-	quest.53F9E5CE7EE6F852.quest_desc: ["O Capturador de Criaturas permite o transporte de mobs. Mobs podem ser colocados na lista negra através de uma tag de entidade."]
+	quest.53F9E5CE7EE6F852.quest_desc: ["O Capturador de Criaturas permite o transporte de mobs. Mobs podem ser colocados na lista-negra através de uma tag de entidade."]
 	quest.567005978482235F.quest_desc: [
 		"Melhorias Válidas:"
 		"- Flecha de Poção"
@@ -635,9 +635,10 @@
 		"- Quebra Instantânea"
 	]
 	quest.6ADE6F9E004055F7.quest_desc: [
-		"Os Cristais do Tempo são um novo material adicionado por JDT. Eles crescem nos Blocos de Cristal do Tempo em Botão, que são criados ao realizar a espalhabilidade de goo sobre o Bloco de Cristal do Tempo em Botão ou um Bloco de Cristal do Tempo.\\n\\nNO ENTANTO, o Bloco de Cristal do Tempo em Botão deve coletar tempo do Mundo Superior, Nether e O End para poder crescer Aglomerados de Cristais do Tempo. Você NÃO PODE quebrar ou usar toque suave no Bloco de Cristal do Tempo em Botão. Você deve usar um Troca, Caixa de Papelão ou Gadget de Cortar e Colar para movê-los.\\n\\nApós um tempo, o Bloco de Cristal do Tempo em Botão ficará sem energia e precisará fazer outra viagem ao Mundo Superior, Nether e O End."
+		"Os Cristais de Tempo são um novo material adicionado pelo JDT. Eles crescem em Blocos de Drusa de Cristal do Tempo, que são criados ao espalhar gosma sobre uma Drusa de Ametista ou um Bloco de Cristal do Tempo.\\n\\nPORÉM, o Bloco de Drusa de Cristal do Tempo precisa coletar tempo do &9Overworld&r, do &6Nether&r e do &aEnd&r para poder cultivar Agregados de Cristal do Tempo. Você NÃO PODE quebrar ou usar Toque Suave no Bloco de Drusa de Cristal do Tempo. Você deve usar um Trocador, uma Caixa de Papelão ou um Gadget de Recortar e Colar para movê-los.\\n\\nDepois de um tempo, o Bloco de Drusa de Cristal do Tempo &2ficará sem energia&r e precisará fazer outra viagem ao &9Overworld&r, ao &6Nether&r e ao &aEnd&r."
 		"{@pagebreak}"
-		"Para automatizar esse processo, veja o vídeo linkado na imagem acima desta missão."
+		"Para automatizar esse processo, veja o vídeo vinculado na imagem acima desta missão.\\n\\nE se a &zcodificação de cores&r da página anterior não foi suficiente, adicionei uma imagem para ajudá-lo a saber qual estágio é qual Bloco de Drusa de Cristal do Tempo."
+		"{image:atm:textures/questpics/justdirethings/budding_time_crystal_reference.png width:250 height:125 align:center}"
 	]
 	quest.6ADE6F9E004055F7.quest_subtitle: "Tempo Louco"
 	quest.6D9CFCD81A23BB3B.quest_desc: [
@@ -689,7 +690,7 @@
 		"Melhorias Válidas:"
 		"- Invulnerabilidade"
 	]
-	quest.76B1C5AFC5D6B7CF.quest_desc: ["A Varinha do Tempo pode ser usada para acelerar blocos, de forma semelhante ao Tempo na Garrafa, até uma velocidade de x256. Ao contrário do TIAB, ela usa FE e Fluido do Tempo em vez de tempo armazenado como combustível, tornando muito mais fácil de reabastecer.\\n\\nEla está na lista negra para jogadores falsos, no entanto. Não queremos que você automatize ISSO."]
+	quest.76B1C5AFC5D6B7CF.quest_desc: ["A Varinha do Tempo pode ser usada para acelerar blocos, de forma semelhante ao Tempo na Garrafa, até uma velocidade de x256. Ao contrário do TIAB, ela usa FE e Fluido de Tempo em vez de tempo armazenado como combustível, tornando muito mais fácil de reabastecer.\\n\\nEla está na lista-negra para jogadores falsos, no entanto. Não queremos que você automatize ISSO."]
 	quest.76B1C5AFC5D6B7CF.quest_subtitle: "&fPrima do Tempo na Garrafa"
 	quest.78840993C7832E89.quest_desc: [
 		"Melhorias Válidas:"

@@ -1,0 +1,8 @@
+{
+    "kleeslabs.configuration.mode": "Modo",
+    "kleeslabs.configuration.mode.tooltip": "Controla se o KleeSlabs deve disparar ALWAYS, ONLY_WHEN_SNEAKING ou ONLY_WHEN_NOT_SNEAKING",
+    "kleeslabs.configuration.disabledCompat": "Compatibilidade Desativada",
+    "kleeslabs.configuration.disabledCompat.tooltip": "IDs de mods cuja compatibilidade deve ser desativada.",
+    "kleeslabs.configuration.dumpSlabs": "Despejo de Lajes para Depuração",
+    "kleeslabs.configuration.dumpSlabs.tooltip": "Para fins de desenvolvimento. Defina como verdadeiro para que o KleeSlabs despeje uma lista de itens contendo a palavra 'slab' no nome ao carregar o mundo."
+}

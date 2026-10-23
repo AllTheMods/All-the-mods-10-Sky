@@ -1,0 +1,186 @@
+{
+	quest.02306C4616627B02.quest_desc: ["Ele usa &cFE&r em vez de combustível como Carvão para fundir itens."]
+	quest.03F585616CDC979A.quest_desc: ["Para fazer &lLingotes Instáveis&r, você precisará de um &cSímbolo da Divisão&r. Eles são ocasionalmente dropados por Withers, ou podem ser encontrados como espólio em Fortalezas, Minas, Masmorras e Templos em desertos."]
+	quest.053ACC174F0D1E46.quest_desc: ["&3Lírios Ender&r são ocasionalmente encontrados nas ilhas externas d&3O End&r, e podem ser usados para cultivar Pérolas de Ender.\\n\\nEles NÃO gostam de ser regados por Regadores, e irão teletransportar para longe. Também não gostam de Farinha de Osso, e regridem seu crescimento se for usada neles. Não se importam com Regadores Reforçados, porém.\\n\\nCrescem muito mais rápido em &3Núcleos Ender&r."]
+	quest.0712DD2EAE8FE53C.quest_desc: ["A geração de &9GP&r do Moinho de Vento oscila entre 0.5 e 2.5. Chuva aumenta o &9GP&r gerado em 1. Trovão aumenta o &9GP&r gerado em 2."]
+	quest.07609654842FA968.quest_desc: ["O &3Gerador Ender&r usa Pérolas de Ender ou Olhos de Ender para gerar &cFE&r."]
+	quest.07609654842FA968.quest_subtitle: "Teletransporte"
+	quest.08AF237C41E4AEF9.quest_desc: ["O Gerador da Morte usa espólios de mobs mortos-vivos para gerar &cFE&r. Ele também aplica o efeito de Perdição em entidades próximas enquanto opera, matando-as em 1 minuto a menos que sejam curadas com Leite."]
+	quest.08AF237C41E4AEF9.quest_subtitle: "13° do Tarô"
+	quest.08CF0F0BC5B82681.quest_desc: ["O Gerador de Poções usa Poções para gerar &cFE&r. Quanto mais complexa a Poção for, mais &cFE&r será gerado."]
+	quest.08CF0F0BC5B82681.quest_subtitle: "Prepare a Página"
+	quest.0951A1A3FC49AEBC.quest_desc: ["O &cRessonador&r pode transformar certos itens, ocupando uma quantidade variável de &9GP&r no processo."]
+	quest.0AAA8E411D877A63.quest_desc: ["A &bEscavadeira Quântica&r tem três espaços, que podem conter o seguinte:\\nUm Marcador de Bioma, para fazer a &bEscavadeira&r priorizar o bioma definido nele (só funciona com biomas do Mundo Superior).\\nLivros Encantados: Aplica o efeito do encantamento à &bEscavadeira&r (exemplo: Eficiência torna a &bEscavadeira&r mais rápida, Fortuna aumenta o valor dos minérios).\\nFiltro de Itens: Permite filtrar quais itens são aceitos pela &bEscavadeira&r. Todos os itens fora do filtro são descartados."]
+	quest.0AAA8E411D877A63.title: "Modificadores da Escavadeira Quântica"
+	quest.0F94689A7F6709FA.quest_desc: ["A &aMadeira Mágica&r é usada como ingrediente de criação para certas coisas, e também conta como 5 Estantes em uma só (também concede &a10 Eterna (Máx 30)&r)."]
+	quest.1339E6B956AA0744.quest_desc: ["Ela esmaga coisas, como flores em corante, carpetes em linha."]
+	quest.1408F665D8E66289.quest_desc: [
+		"&cNós de Transferência de Energia&r movem energia do bloco anexado para blocos adjacentes a ele ou a Tubos de Transferência conectados. &cNós de Recuperação de Energia&r movem energia de blocos conectados a ele por Tubos de Transferência ou diretamente adjacentes a ele para o bloco anexado."
+		"{image:atm:textures/questpics/excessiveutilities/energy_transfer_node.png width:200 height:125 align:center fit:true}"
+	]
+	quest.14D6614F0FD61549.quest_desc: ["O &lMachado da Cura&r ocasionalmente o alimenta um pouco enquanto segurado. Quando você ataca uma entidade com este Machado, ela será curada, ao custo da sua própria vida. Essa interação causa dano aumentado a mobs mortos-vivos em vez disso. Também é inquebrável."]
+	quest.16AA1B9379753CC9.quest_desc: ["Gotas do Mal às vezes dropam de Esqueletos Wither."]
+	quest.1876ADF135DEF33B.quest_desc: ["&l&eExcessive Utilities&r adiciona geradores de &cForge Energy&r também.\\n\\nMelhorias de Velocidade são compatíveis com Geradores também, aumentando sua saída de &cFE&r em até 64 vezes enquanto consomem seu respectivo tipo de combustível mais rápido, ao custo de &9Grid Power&r (não se preocupe, os geradores não usam &9GP&r sem essas melhorias)."]
+	quest.1876ADF135DEF33B.title: "Geradores de FE"
+	quest.18CF6BE2AB854289.quest_desc: ["A Terra Amaldiçoada pode ser feita usando uma Gota do Mal em Terra. Ela faz nascer mobs hostis rapidamente. Se pegar fogo, se espalha rapidamente para outras Terras Amaldiçoadas próximas, queimando-as e virando Terra."]
+	quest.18CF6BE2AB854289.title: "Terra Amaldiçoada"
+	quest.1954642BB8E8C5C8.quest_desc: ["Quando comido, redefine as opções oferecidas por uma &5Mesa de Encantamentos&r."]
+	quest.19FEB11411AA2C66.quest_desc: ["O Anel da Lula Voadora é uma melhoria do Anel de Asa de Galinha, permitindo que você se impulsione para cima enquanto segura ESPAÇO (por padrão). O anel ocupa 16 &9GP&r durante esse processo. Além disso, assim como seu predecessor, só funciona enquanto tiver carga."]
+	quest.19FEB11411AA2C66.quest_subtitle: "Voo Limitado"
+	quest.1B4027ADAFB83900.quest_desc: ["É duas vezes melhor para encantar do que a Madeira Mágica (conta como 10 Estantes em um bloco). Também faz &3Lírios Ender&r crescerem mais rápido."]
+	quest.1B4027ADAFB83900.quest_subtitle: "Não é o coremod do EnderIO"
+	quest.1C4E3C45ADB9DA6F.quest_desc: ["O &dGerador de Halitose&r usa o Bafo fedorento de um Dragão Ender para gerar &cFE&r."]
+	quest.1C4E3C45ADB9DA6F.quest_subtitle: "Já toma um chiclete de menta"
+	quest.1E387B934B7DBB8C.quest_desc: ["O &6Gerador de Redstone Aquecida&r é uma melhoria do &cGerador Magmático&r. Além da &cLava&r, agora requer Redstone para gerar &cFE&r, mas produz mais que seu predecessor."]
+	quest.1E387B934B7DBB8C.quest_subtitle: "C-c-c-galinha"
+	quest.204C2EFF9A0A2360.quest_desc: ["O &cGerador Explosivo&r usa &8Pólvora&r ou &cDinamite&r para gerar &cFE&r."]
+	quest.204C2EFF9A0A2360.quest_subtitle: "Kabum"
+	quest.23C68F458B1571D9.quest_desc: [
+		"&eNós de Transferência de Itens&r movem itens do bloco anexado para blocos adjacentes a ele ou a Tubos de Transferência conectados. &eNós de Recuperação de Itens&r movem itens de blocos conectados a ele por Tubos de Transferência ou diretamente adjacentes a ele para o bloco anexado."
+		"{image:atm:textures/questpics/excessiveutilities/item_transfer_node.png width:200 height:100 align:center fit:true}"
+	]
+	quest.272DC75EAFD7B9B0.quest_desc: ["O &cGerador Magmático&r usa &cLava&r para produzir &cFE&r."]
+	quest.272DC75EAFD7B9B0.quest_subtitle: "L-l-l-lava"
+	quest.29D6491A130B2657.quest_desc: ["Várias máquinas, algumas consumindo &cForge Energy&r, outras não, oferecidas pelo &e&lExcessive Utilities&r."]
+	quest.29D6491A130B2657.title: "Máquinas"
+	quest.2AA309648AE573B6.quest_desc: ["Melhorias de Velocidade tornam certas máquinas do Excessive Utilities mais rápidas. Porém, elas têm um custo de &9GP&r, baseado em quantas melhorias estão na máquina de uma vez, baseado na seguinte função:\\nstackSize*(122+4*stackSize)/126\\n\\nMelhorias de Velocidade também têm limites variados de empilhamento, baseados em seu tier:\\n4 (Básica)\\n16 (Mágica)\\n64 (Suprema)\\n\\nEntão, para um grupo cheio de cada tier, o custo de &9GP&r seria 4.38, 23.62, 192, para cada tier respectivo."]
+	quest.2AA309648AE573B6.title: "Melhorias de Velocidade"
+	quest.2AF19F2FA48D2742.quest_desc: ["O &aQ.E.D.&r (&aQuadrado Enigmático de Dedução&r) é, apesar de parecer uma Bancada de Trabalho, muito diferente! \\n\\nVocê precisará de pelo menos 1 &aCristal de Fluxo Ender&r numa área de 9x9x9 com o &aQ.E.D.&r (&aQuanta Energia Dinâmica&r) no centro. Quanto mais &aCristais de Fluxo Ender&r você tiver, mais rápido o &aQ.E.D.&r (&aDecoração Bastante Cara&r) opera."]
+	quest.2AF19F2FA48D2742.quest_subtitle: "Quasar/Elétron Decorativo"
+	quest.2B4EE8B84907CC01.quest_desc: ["O Bloco Anjo pode ser colocado no ar, sem precisar de andaimes. Útil para construir enquanto voa."]
+	quest.2B4EE8B84907CC01.quest_subtitle: ""
+	quest.2B5A210AA7C6FCC3.quest_desc: ["O Anel de Asa de Galinha permite que você desacelere sua queda segurando ESPAÇO (por padrão). O anel ocupa 1 &9GP&r durante esse processo. Além disso, só funciona enquanto tiver carga, que se esgota enquanto desacelera sua queda, e recarrega quando não usado."]
+	quest.2B5A210AA7C6FCC3.quest_subtitle: "Mal dá para chamar de voo"
+	quest.2BB843CB01B962A4.quest_desc: ["O &9Gerador com Overclock&r é o terceiro gerador \"tipo Fornalha\". Ele queima combustível de fornalha instantaneamente, recebendo toda a energia de uma vez, mas é o menos \"eficiente\" entre seus pares."]
+	quest.2BB843CB01B962A4.quest_subtitle: "Rápido"
+	quest.2EAB38B23F5171B9.quest_desc: ["O Moinho de Água produz 4 &9GP&r por água corrente adjacente. Não conta blocos de fonte de água, e blocos fluindo pelo lado de cima ou de baixo."]
+	quest.307F4A1E8FD8098C.quest_desc: ["&cOrquídeas Vermelhas&r podem ser plantadas em &cMinério de Redstone&r, e encontradas nele, e, quando totalmente crescidas, podem ser colhidas para obter uma pilha de &cPó de Redstone&r."]
+	quest.348DAEB7B58443C0.quest_desc: [
+		"Ao dividir um Lingote de Ferro com um Diamante, você obterá um &lLingote Instável&r.\\n\\n&cComo divisões por Diamante equivalem a divisões por zero, o Lingote Instável só dura 10 segundos antes de explodir. Certifique-se de fabricar algo com ele rapidamente antes disso! Tentar sair do menu de fabricação enquanto tem este lingote resultará numa explosão prematura e, possivelmente, também na sua morte.&r\\n\\n&8Lingotes Instáveis criados por automação são considerados \"inaceitáveis\" e não podem ser usados em receitas de fabricação.&r\\n\\n\"Espero que você seja bom em fabricar sob pressão.\" - Jonh09"
+	]
+	quest.348DAEB7B58443C0.quest_subtitle: "1337/0="
+	quest.348DAEB7B58443C0.title: "Lingote Instável"
+	quest.360FFC95F4CA5338.quest_desc: ["O Gerador Culinário usa comida para gerar &cFE&r."]
+	quest.360FFC95F4CA5338.quest_subtitle: "Nham nham nham, nham nham"
+	quest.37B9EB97518670E6.quest_desc: ["O &cCarvão Vermelho&r, quando usado numa fornalha, queima 8 vezes mais que o Carvão comum, desde que 4 &9GP&r estejam disponíveis. Caso contrário, queima pelo mesmo tempo que o Carvão comum."]
+	quest.3952EA91C6467B5F.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos modpacks AllTheMods.\\n\\nComo todos os packs &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em packs públicos não lançados pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão é intencionalmente oculta, se você está vendo isto, você está no modo de edição."]
+	quest.3A51ABBA9043D617.quest_desc: ["O Moinho de Lava gera 2 &9GP&r se Lava estiver horizontalmente adjacente a ele."]
+	quest.3B7BD8408919EC8B.quest_desc: ["Filtros de &eItens&r e de &9Fluidos&r podem ser usados para filtrar certas coisas, como Nós de &eItens&r e de &9Fluidos&r. Você pode selecionar até 16 &eItens&r/&9Fluidos&r diferentes por filtro. Por padrão o filtro usa lista-branca de &eItens&r/&9Fluidos&r. Você pode até colocar outro Filtro de &eItens&r/&9Fluidos&r dentro de um Filtro para aninhá-lo, permitindo filtrar ainda mais coisas.\\n\\nAs seguintes opções também podem ser aplicadas a Filtros:\\nInverter: Transforma o filtro em lista-negra.\\nUsar Tags: Filtra pelas tags dos &eItens&r/&9Fluidos&r selecionados\\nIgnorar Dano: Ignora dano de durabilidade nos &eItens&r filtrados. Exclusivo dos Filtros de &eItens&r.\\nIgnorar Todos os Componentes: Ignora todo NBT/Componentes nos &eItens&r/&9Fluidos&r."]
+	quest.3B7BD8408919EC8B.title: "Filtros"
+	quest.3FB0BE9989720FD2.quest_desc: ["O Moinho de Fogo produz 4 &9GP&r se houver fogo diretamente abaixo dele."]
+	quest.437AA94E591D82B5.quest_desc: ["O Gerador de Desencantamento usa Livros Encantados para gerar &cFE&r."]
+	quest.437AA94E591D82B5.quest_subtitle: "Este Encantamento"
+	quest.447E2A8170040BFE.quest_desc: [
+		"&9Nós de Transferência de Fluidos&r movem fluidos do bloco anexado para blocos adjacentes a ele ou a Tubos de Transferência conectados. &9Nós de Recuperação de Fluidos&r movem fluidos de blocos conectados a ele por Tubos de Transferência ou diretamente adjacentes a ele para o bloco anexado."
+		"{image:atm:textures/questpics/excessiveutilities/fluid_transfer_node.png width:200 height:100 align:center fit:true}"
+	]
+	quest.44B1C048770E2333.quest_desc: ["&4Lingotes Demoníacos&r podem ser obtidos jogando &6Lingotes de Ouro&r na lava em &cO Nether&r, e usados para criar &4Tambores Demoniacamente Gigantescos&r."]
+	quest.45E7D789F14BDCC4.quest_desc: ["O Cortador de Vidro permite quebrar vidro como se você tivesse Toque Suave.\\n\\nA Colher de Pedreiro permite que blocos minerados mais rápido com Pás sejam coletados como se Toque Suave tivesse sido usado."]
+	quest.45E7D789F14BDCC4.quest_subtitle: "ou é?"
+	quest.45E7D789F14BDCC4.title: "Toque Suave Barato"
+	quest.464B13D89C180C88.quest_desc: ["O Moinho do Ovo de Dragão produz 500 &9GP&r se um Ovo de Dragão estiver em cima dele."]
+	quest.464B13D89C180C88.quest_subtitle: "O Moinho Definitivo"
+	quest.475C38CB8BE2DD32.quest_desc: ["O &e&lExcessive Utilities&r é uma continuação do &e&lExtra Utilities 1&r e &e&l2&r, oferecendo vários itens úteis e afins. Alguns de vocês devem lembrar do mod de versões antigas do Minecraft modificado. Seja esta a primeira vez que você vê este mod, ou a milésima, estas missões ajudarão você a se alinhar com o mod."]
+	quest.475C38CB8BE2DD32.title: "&l&eExcessive Utilities"
+	quest.49DAA43DA7DC6F04.quest_desc: ["O &zGerador Arco-Íris&r produz &c25 milhões de FE/t&r &lse pelo menos 1 de todos os outros Geradores estiverem funcionando simultaneamente&r. Você só pode ter 1 &zGerador Arco-Íris&r ativo."]
+	quest.49DAA43DA7DC6F04.quest_subtitle: "ÚLTIMA JARONA!"
+	quest.49DAA43DA7DC6F04.title: "&zGerador Arco-Íris!"
+	quest.4CDFDBB4A370423D.quest_desc: ["O &#FF69B4Gerador Rosa&r usa &#FF69B4Corante Rosa&r ou &#FF69B4Itens Rosas&r para gerar &cFE&r."]
+	quest.4CDFDBB4A370423D.quest_subtitle: "Dica: Faça uma Célula de Corante Rosa do Infinito para este Gerador"
+	quest.4DD2A3F8DB678A15.quest_desc: ["Tubos de Transferência são usados para conectar Nós de Transferência aos seus destinos, ou Nós de Recuperação à origem de onde puxam. Este tubo pode lidar com &eItens&r, &9Fluidos&r e &cEnergia&r ao mesmo tempo, mas não faz nada sem Nós de Transferência ou Recuperação."]
+	quest.504D6F3C682E466E.quest_desc: [
+		"O &c&oSímbolo da Pseudoinversão&r é a contraparte inquebrável do &cSímbolo da Divisão&r. Obtê-lo requer um rito particularmente exigente.\\n\\nA qualquer momento, você pode agachar e clicar com o botão direito no Sinalizador com um &cSímbolo da Divisão&r para ver o próximo passo deste rito.\\n\\n1. Em &dO End&r, providencie uma área plana de pelo menos 11x11 blocos e coloque um Sinalizador no centro.\\n2. Coloque um baú em cada uma das 4 direções cardeais a 5 blocos de distância do Sinalizador.\\n3. Faça um padrão de Pó de Redstone e Linha em espiral, como mostrado nesta imagem."
+		"{image:atm:textures/questpics/excessiveutilities/pseudo_rite_example.png width:125 height:125 align:center}"
+		"&cVermelho&r corresponde a Redstone, e &3Ciano&r corresponde a Linha."
+		"&lPróxima Página ->&r"
+		"{@pagebreak}"
+		"4. Em cada baú, insira os seguintes conteúdos (verifique as tarefas desta missão para ver quais itens são válidos para cada baú):\\n4.1. O baú do Norte: os &o&cFilhos do Fogo&r, 12 itens únicos que são produzidos com uma Fornalha.\\n4.2. O baú do Sul: os &2&oPresentes da Terra&r, 12 itens únicos que geram naturalmente no Mundo Superior.\\n4.3. O baú do Leste: os &9&oDescendentes da Água&r, 12 poções.\\n4.4. O baú do Oeste: os &e&oTemperos do Ar&r, 12 Discos de Música únicos.\\n5. Uma vez que todos os passos anteriores foram cumpridos, inicie o ritual através do sacrifício de um Golem de Ferro perto do Sinalizador.\\n6. Uma onda de vários mobs hostis nascerá na área. Derrote 100 deles para inverter seu &cSímbolo da Divisão&r no &c&oSímbolo da Pseudoinversão&r. O ritual falhará se você morrer ou sair d&dO End&r enquanto a onda ainda estiver em andamento."
+	]
+	quest.504D6F3C682E466E.title: "Símbolo da Pseudoinversão"
+	quest.52205630EEDD8221.quest_desc: ["Nós de Transferência Planos são uma variação do Nó de Transferência. Eles cabem entre blocos, e extraem do bloco em que você o colocou, transferindo itens ou fluidos para um bloco adjacente. Use outro Nó de Transferência Plano ou uma Chave-Inglesa para acessar o Nó de Transferência Plano. Clique com o botão direito para colocar um Filtro dentro, ou com o esquerdo para desgrudar o Nó."]
+	quest.52205630EEDD8221.quest_subtitle: "Quase a mesma coisa. Bem-vindos de volta, Rótulos de Transferência"
+	quest.585DE309D29512FA.quest_desc: ["O &dPainel Lunar&r faz o oposto do que o &9Painel Solar&r faz. Mesma funcionalidade do Painel Solar, exceto que só funciona durante a noite em vez do dia."]
+	quest.592C3B758F748C6E.quest_desc: ["Tambores podem armazenar quantidades variadas de fluidos.\\n\\n&8Pedra&r: 16 baldes (1 balde = 1000 mB).\\n&7Ferro&r: 256 baldes\\n&6Grande Reforçado&r: 4 096 baldes. \\n&4Demoniacamente Gigantesco&r: 65 536 baldes.\\n&8Bedrônio&r: 1 048 576 baldes."]
+	quest.595F93FB9A7D34B5.quest_desc: ["O &bGerador Congelante&r usa &bGelo&r ou Neve para gerar &cFE&r."]
+	quest.595F93FB9A7D34B5.quest_subtitle: "Não. Toque. NO TERMOSTATO!"
+	quest.5AF1D24170DCC895.quest_desc: ["Espinhos podem causar dano a mobs que entram em contato com eles.\\n\\nMadeira: 1 de dano por golpe, não pode causar dano fatal, não dropa experiência, não conta como abate do jogador.\\nPedra: 2 de dano por golpe, não pode causar dano fatal, dropa experiência, conta como abate do jogador.\\nFerro: 4 de dano por golpe, não pode causar dano fatal, dropa experiência, não conta como abate do jogador\\nOuro: 2 de dano por golpe, pode causar dano fatal, dropa experiência, não conta como abate do jogador.\\nDiamante: 8 de dano por golpe, pode causar dano fatal, dropa experiência, conta como abate do jogador.\\nNetherita: 10 de dano por golpe, pode causar dano fatal, dropa experiência, conta como abate do jogador."]
+	quest.5BCF082BCC4A0714.quest_desc: ["A Tocha Magnum, o pai da Mega Tocha do Torchmaster, impede o nascimento de mobs num raio de 64 blocos ao seu redor. Segure uma Tocha Magnum na mão para ver o raio das Tochas Magnum colocadas."]
+	quest.5C1D18FBB1BBF6E9.quest_desc: ["Podem ser usadas para descartar itens, energia e fluidos, respectivamente."]
+	quest.5C1D18FBB1BBF6E9.title: "Lixeiras"
+	quest.600EC6ED1AE8AB95.quest_desc: ["Esses blocos e itens usam &9GP&r, reservando parte da capacidade disponível enquanto estão ativos. Se seu uso de &9GP&r for maior que sua capacidade de &9GP&r, sua grade está sobrecarregada. Consumidores de &9GP&r sobrecarregados param de funcionar até que o uso caia ou você adicione mais geração."]
+	quest.6038714CE3699B63.quest_desc: ["O &9Globo de Neve Mágico&r é um mundo inteiro, contido totalmente dentro de um pequeno globo de vidro.\\n\\nPara ativá-lo, você deve levá-lo a 7 dos seguintes tipos de bioma:\\n- Montanha\\n- Selva\\n- Pântano\\n- End\\n- Nevado\\n- Oceano\\n- Nether\\n- Floresta\\n- Mágico\\n- Colinas\\n- Arenoso\\n- Planície\\n\\nQuando terminar sua jornada, você pode usar o &9Globo de Neve&r para criar a &bEscavadeira Quântica&r."]
+	quest.612BCFD0BFBFC6F6.quest_desc: ["O Arco Composto é um arco inquebrável que pode disparar flechas sem precisar de nenhuma no seu inventário (como um Arco encantado com Infinidade). As flechas disparadas também ignoram a gravidade.\\n\\nEncantamentos aplicados nele através de uma Bigorna são dobrados (exemplo: aplicar um livro de Força V resulta em Força X aplicada ao arco)."]
+	quest.612BCFD0BFBFC6F6.quest_subtitle: "Gravidade? Quem liga para gravidade?"
+	quest.623B1C7C1BE9B13B.quest_desc: ["Algumas coisas que não se encaixam nas outras categorias."]
+	quest.62486A3D1B896A85.quest_desc: ["O Machado de Fogo é um machado inquebrável que pode derrubar árvores inteiras de uma vez.\\n\\nEncantamentos aplicados nele através de uma Bigorna são dobrados (exemplo: aplicar um livro de Afiação V resulta em Afiação X aplicada ao machado)."]
+	quest.62486A3D1B896A85.quest_subtitle: "Perfeito para bombeiros"
+	quest.672F6CB4404B1A3C.quest_desc: ["A Kikoku é uma espada inquebrável que pode causar dano de Dilaceração de Almas, reduzindo a Vida Máxima dos oponentes atingidos por ela.\\n\\nTambém é 10 vezes mais provável de conceder Fragmentos de Alma quando você mata um mob.\\n\\nEncantamentos aplicados nela através de uma Bigorna são dobrados (exemplo: aplicar um livro de Afiação V resulta em Afiação X aplicada à espada)."]
+	quest.672F6CB4404B1A3C.quest_subtitle: "A Espada de Trafalgar D. Water Law"
+	quest.6A77E32457EC3140.quest_desc: ["A &lEspada Etérea&r tem atributos similares aos da Espada de Diamante, mas é inquebrável. Quando você clica com o botão direito, você ganha um Fragmento de Alma, ao custo da sua Vida Máxima. Você pode usar o Fragmento de Alma para pagar sua dívida de Vida Máxima. Fragmentos de Alma também podem ser obtidos muito raramente ao derrotar Mobs, e podem até permitir que você tenha um excedente de HP Máximo."]
+	quest.6A77E32457EC3140.quest_subtitle: "E Fragmentos de Alma"
+	quest.6AB33864599E059A.quest_desc: [
+		"Melhorias de Velocidade: Fazem o Nó transferir/recuperar itens mais rápido. Confira a missão respectiva na seção &9Grid Power&r para mais informações.\\n\\nMelhoria de Agrupamento: Faz os Nós de &eItens&r e de &9Fluidos&r moverem uma quantidade maior de &eItens&r/&9Fluidos&r de uma vez. 64 itens/operação para Nós de &eItens&r, 1000 mB/operação para Nós de &9Fluidos&r.\\n\\nMelhoria de Interação com Entidade do Mundo: Permite as seguintes interações no mundo com Nós de Transferência de &eItens&r e de &9Fluidos&r:\\nEm Pedregulho adjacente a fontes de Lava e Água, Pedregulho é gerado.\\nEm Solo de Almas adjacente a Gelo Azul e Lava, Basalto é gerado.\\nEm Pedra adjacente a uma fonte de Lava com Água atrás dela, Pedra é gerada.\\nEm um bloco de fonte de Água com pelo menos 2 outros blocos de fonte de Água adjacentes, Água é gerada.\\n\\n&lPróxima Página ->&r"
+		"{@pagebreak}"
+		"Melhoria de Busca em Largura: Faz os Nós pesquisarem Tubos de Transferência do mais próximo ao mais distante. Melhor para redes com vários ramos curtos.\\n\\nMelhoria de Busca em Profundidade: Faz os Nós lembrarem do caminho que seguiram ao chegar num beco sem saída. Útil para redes de tubos com muitos ramos. Essas duas melhorias são mutuamente exclusivas entre si.\\n\\nMelhoria Pseudo Round-Robin: Faz os Nós passarem para o próximo destino após cada transferência bem-sucedida.\\n\\n&3Transmissor do Ender&r: Permite que Nós de Transferência movam itens, fluidos e energia sem fio, incluindo entre dimensões. Usa uma frequência compartilhada com um &3Receptor do Ender&r.\\n\\n&3Receptor do Ender&r: Permite que Nós de Recuperação recebam itens, fluidos e energia pela mesma frequência de um &3Transmissor do Ender&r."
+	]
+	quest.6AB33864599E059A.title: "Melhorias Relacionadas à Logística"
+	quest.6CF4BCFEC9A8BACE.quest_desc: ["O &9Regador&r pode ser usado para acelerar o crescimento de plantações numa área. Clique com o botão direito na Água para encher o &9Regador&r, e segure o botão direito para regar a área. O &9Regador&r não gosta de ser usado por Jogadores Falsos (Roteadores Modulares, Clicadores, etc.), e vai quebrar.\\n\\nO &9Regador Reforçado&r é sua forma melhorada, regando numa área maior, sem custo de água, e pode ser usado por Jogadores Falsos sem quebrar. Vem com um preço bem salgado, porém."]
+	quest.6CF4BCFEC9A8BACE.title: "Regadores"
+	quest.6DA3E7DF9332B8DE.quest_desc: ["O &aGerador Pegajoso&r usa &aBolas de Slime&r e Leite para produzir &cFE&r."]
+	quest.6DA3E7DF9332B8DE.quest_subtitle: "Pula-pula!"
+	quest.6DCDC3700202B3A5.quest_desc: ["Foices podem quebrar certas plantas num raio, dependendo de seu tier."]
+	quest.6E3482C45E4AF3DA.quest_desc: ["Silenciadores de Som abafam qualquer som num raio de 8 blocos ao seu redor. Isso também impede que vibrações cheguem a Sentinelas e Sensores de Sculk."]
+	quest.6E3482C45E4AF3DA.quest_subtitle: "Apenas siga meus movimentos, e ande agachado"
+	quest.70054D4060B8949C.quest_desc: ["O &8Gerador Sobrevivencialista&r é uma opção incrivelmente barata para produzir &cFE&r. Usa o mesmo combustível que uma Fornalha. É a opção mais lenta, porém mais \"eficiente\", entre os geradores \"tipo Fornalha\" do &eExcessive Utilities&r."]
+	quest.70054D4060B8949C.quest_subtitle: "Lento"
+	quest.70F9EE602AE0033C.quest_desc: ["Esses blocos são capazes de gerar &9GP&r de várias formas, aumentando a capacidade da Grade do dono, e pertencem ao jogador que os colocou."]
+	quest.71D1B0CEDA9241A3.quest_desc: ["A &lPicareta da Destruição&r pode minerar pedra e netherrack instantaneamente, enquanto também as descarta. Não pode minerar mais nada. Também é inquebrável."]
+	quest.724006CD3818C9E5.quest_desc: ["O &5Encantador&r requer o equivalente a 15 Estantes (equivalente a &a30 Eterna&r para os acostumados com o &5&lApothic Enchanting&r, estantes daquele mod não contam aqui), assim como &cFE&r para operar. Pode &5encantar&r itens específicos. Equipamentos, porém, não."]
+	quest.724401B0C60DCE7A.quest_desc: ["O &e&lExcessive Utilities&r oferece &f&lLogística&r também. Quase como a logística do &3&lIntegrated Dynamics&r, de certa forma.\\n\\nAnexe o Nó específico de onde você quer tirar itens (ou mover itens para, se usar Nós de Recuperação) e use a Chave-Inglesa de Tubos para configurar qual lado não conecta.\\n\\nOutras Chaves-Inglesas também funcionam com o &e&lExcessive Utilities&r!"]
+	quest.724401B0C60DCE7A.title: "Logística"
+	quest.73996E64F65F7C87.quest_desc: ["A &lPá da Erosão&r pode ser usada para minerar terra, areia e cascalho instantaneamente enquanto também os descarta. Não pode minerar mais nada. Também é inquebrável."]
+	quest.7635D2262741BE75.quest_desc: ["O &eAnel de Anjo&r concede voo criativo enquanto usado. Isso requer 64 &9GP&r. Diferente de seus predecessores, não usa carga, permitindo que você voe livremente, infinitamente, desde que mantenha seu GP.\\n\\nEspero que você não esteja usando muitos &cAnéis dos Sete Pecados Capitais&r."]
+	quest.7635D2262741BE75.quest_subtitle: "Voo Criativo"
+	quest.7635D2262741BE75.title: "Anel de Anjo"
+	quest.763BF9F230D515BF.quest_desc: [
+		"A &lEnxada da Inversão&r pode \"rejuvenescer\" certos blocos quando usada.\\n\\nExemplos:\\nAreia -> Cascalho -> Pedregulho -> Pedra\\nTerracota -> Argila\\nBloco de Magma -> Lava <- Obsidiana"
+	]
+	quest.7887212A36D7D1CA.quest_desc: ["&9Grid Power&r (ou &9GP&r) é um tipo de energia alternativo que o &e&lExcessive Utilities&r oferece. Diferente da &cForge Energy&r, o &9GP&r é por jogador, não se move por cabos, baterias, Pontos de Fluxo, ou qualquer outra coisa normalmente usada para transportar &cFE&r."]
+	quest.7887212A36D7D1CA.title: "Grid Power"
+	quest.79616A764789FEDA.quest_desc: ["Núcleos de Opínio são a personificação de opiniões.\\n\\nEles vêm em 9 tiers:\\n- Patético\\n- Medíocre\\n- Passável\\n- Decente\\n- Bom\\n- Muito Bom\\n- Incrível\\n- Inspirador\\n- Perfeito\\n\\nUm único Núcleo de Opínio Perfeito requer:\\n- 1024 Carvões Vermelhos\\n- 4609 Lingotes de Ferro\\n- 2304 Lingotes de Ouro\\n- 1152 Diamantes\\n- 576 Esmeraldas\\n- 32 Flores de Chorus\\n- 16 Frascos de Encantamento\\n- 8 Élitros\\n- 4 Estrelas do Nether\\n\\nNa minha opinião, uma opção muito mais passável do que &5Antimatéria&r para a &6&lEstrela ATM&r."]
+	quest.7A6800A767A83592.quest_desc: ["O Gerador de Fornalha é um pouco mais caro que o equivalente Sobrevivencialista. Assim como o Sobrevivencialista, usa combustível de fornalha. Queima combustível mais rápido, mas é menos \"eficiente\". O meio-termo dos 3 geradores \"tipo Fornalha\"."]
+	quest.7A6800A767A83592.quest_subtitle: "Meio"
+	quest.7AF82ADEB07747EF.quest_desc: ["O Lustre impede o nascimento de mobs hostis num raio de 16 blocos ao seu redor. Segurar um na mão mostra o raio dos Lustres colocados."]
+	quest.7B7254B1E6208F9B.quest_desc: ["O Gerador de Estrela do Nether usa Estrelas do Nether...ou Estrelas de Fogos de Artifício para gerar &cFE&r. Também aplicará o efeito de decomposição em entidades próximas numa grande área enquanto opera."]
+	quest.7B7254B1E6208F9B.quest_subtitle: "Precisa de suporte do Patrick e da Estrela ATM (não realmente)"
+	quest.7C9F22EBA3AD673B.quest_desc: ["O Moinho Manual produz 15 &9GP&r por jogador virando a manivela. Uma vez que você clicar nele, você automaticamente continuará virando até olhar para outro lugar ou se afastar demais."]
+	quest.7D0A549135F997BD.quest_desc: ["O Gerenciador de Energia permite que você veja onde estão todos os seus geradores e consumidores de &9GP&r."]
+	quest.7D34FE128DE0A262.quest_desc: ["A &bEscavadeira Quântica&r é capaz de minerar blocos de uma dimensão hipotética que pode ter existido (uma dimensão muito parecida com o Mundo Superior).\\n\\nPara a &bEscavadeira&r funcionar, cada um de seus lados deve estar cercado por &bAtuadores de Escavadeira Quântica&r. Qualquer um dos &bAtuadores&r aceita &cFE&r. Ela envia os itens que obtém da dimensão hipotética para inventários adjacentes, como Baús."]
+	quest.7EE006106678065F.quest_desc: ["O &9Painel Solar&r gera 1 &9GP&r enquanto é dia e tem linha de visão livre para o céu. Durante clima chuvoso, a saída é reduzida em 5%."]
+	quest.7F715693079A424D.quest_desc: ["Laços podem ser usados para segurar mobs.\\n\\nO &6Laço Dourado&r só pode segurar mobs passivos, como animais de criação. O &0Laço Amaldiçoado&r só pode segurar mobs hostis, e apenas quando estão com metade da vida ou menos."]
+	quest.7F715693079A424D.title: "Laços"
+	task.066049562C71FC75.title: "Descendentes da Água"
+	task.07852949080EB10E.title: "Melhorias Relacionadas à Distribuição"
+	task.0A67C41F200E40A7.title: "Melhorias de Velocidade"
+	task.0A98FF4AE3286B35.title: "Chaves-Inglesas"
+	task.0F471C075366E4BA.title: "...e todo o resto"
+	task.1496A3209F882ED1.title: "Temperos do Ar"
+	task.16DBC44A15A456C9.title: "Nós de Energia"
+	task.1AA337C311CDDFF2.title: "Lingote Instável"
+	task.1F2A89DB93022E75.title: "TodosDireitosReservados"
+	task.2BCCA0132588F8DC.title: "Espinhos"
+	task.2F803AA87E983560.title: "Foices"
+	task.3545BF4C0B91439C.title: "Nós de Itens"
+	task.4337573D4A87EA06.title: "Filhos do Fogo"
+	task.4F4E65B7C0EF3CEB.title: "Consumidores de GP"
+	task.51C7179C61D09118.title: "Nós de Fluidos"
+	task.51E57DCA86EBE446.title: "Livros Encantados"
+	task.57A2468289498485.title: "Geradores de GP"
+	task.5D1660D8BE43A3D1.title: "Tambores"
+	task.5D8B9FC35CEA9F2D.title: "Núcleos de Opínio"
+	task.62D27E5D7D7056DA.title: "TodosDireitosReservados"
+	task.673D90BCCE595515.title: "Nós de Transferência Planos"
+	task.689481339BA7EC6C.title: "Melhorias de Velocidade"
+	task.6B13B246728B3A5A.title: "Anéis de Anjo"
+	task.6D193DD176E16A65.title: "Presentes da Terra"
+}

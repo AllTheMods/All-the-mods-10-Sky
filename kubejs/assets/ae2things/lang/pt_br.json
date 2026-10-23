@@ -1,0 +1,14 @@
+{
+    "item.ae2things.disk_drive_1k": "Unidade de Disco ME de 1k",
+    "item.ae2things.disk_drive_4k": "Unidade de Disco ME de 4k",
+    "item.ae2things.disk_drive_16k": "Unidade de Disco ME de 16k",
+    "item.ae2things.disk_drive_64k": "Unidade de Disco ME de 64k",
+    "item.ae2things.disk_drive_256k": "Unidade de Disco ME de 256k",
+    "item.ae2things.disk_housing": "Cápsula de Disco ME",
+    "text.ae2things.disk_drives": "Unidades de Disco ME",
+    "command.ae2things.recover_success": "%s recuperou uma Unidade de Disco com o UUID de [%s].",
+    "command.ae2things.recover_fail": "Falha ao recuperar a Unidade de Disco: O UUID [%s] não existe.",
+    "command.ae2things.getuuid_success": "O UUID do Disco fornecido é: [%s]",
+    "command.ae2things.getuuid_fail_nouuid": "Erro, o Disco fornecido está vazio/nenhum uuid encontrado.",
+    "command.ae2things.getuuid_fail_notdisk": "Erro, o item fornecido não é um Disco."
+}

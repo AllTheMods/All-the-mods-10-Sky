@@ -6,9 +6,6 @@
 	quest.043AB8772206FF71.title: "&8Sílex"
 	quest.04ACC7E762537FB4.quest_desc: ["Não precisaremos de um bilhão de Máquinas chiques para Duplicar Minérios aqui... precisaremos apenas de algumas! \\n\\nO &3&lEspremedor&r do &3&lID&r pode transformar &7Blocos de Minério Bruto&r em &7Minério Bruto&r. \\n\\nPara usá-lo, basta colocar o &7Bloco de Minério Bruto&r no &3&lEspremedor&r e Pular sobre ele para empurrá-lo para baixo. Uma vez que seja Esmagado, o &7Minério Bruto&r será expelido. Raramente, pode até dar mais! \\n\\nMas espere! Isso não é tudo! \\n\\nTambém temos os Martelos de Minério, que podem quebrar &7Minérios Brutos&r em 2 &7Pós&r, que podem ser Fundidos em &7Barras&r."]
 	quest.04ACC7E762537FB4.title: "Duplicação Fácil de Minérios"
-	quest.057A182F4DC408CE.quest_desc: ["Se você escolheu o mapa Skyfactory, também conhecido como aquele com apenas um bloco de terra e uma árvore, você não tem grama! Olhe para o bloco de terra para ganhar seu pedaço de grama."]
-	quest.057A182F4DC408CE.quest_subtitle: "Guru do mapa Skyfactory"
-	quest.057A182F4DC408CE.title: "Se Você É Extremo..."
 	quest.091F1D752FA3BAAC.quest_desc: ["Com apenas 2 &0Sílex&r podemos fazer &0Tesouras de Sílex&r. Elas funcionam como tesouras normais, só que mais baratas. \\n\\nNós precisaremos delas para obter &2Folhas&r! \\n\\nE Lã... se você precisar de Lã."]
 	quest.091F1D752FA3BAAC.title: "Coletando &2Folhas"
 	quest.0BD70DFE33D84323.quest_desc: [
@@ -27,9 +24,21 @@
 	quest.11032183CCCA206D.title: "&aCriaturas Passivas"
 	quest.128A1EEAF8F45042.quest_desc: ["&5Esporos de Micélio&r vêm raramente ao &bPeneirar&r Terra. \\n\\nEles funcionam como &2Sementes de Grama&r, coloque-os na Terra ou &2Grama&r para obter &5Micélio&r!"]
 	quest.128A1EEAF8F45042.title: "Traga o Mofo!"
-	quest.145917B219D0D28D.quest_desc: ["Todos os mundos de &bSkyblock&r surgem com o essencial. &2Grama &fe uma &2Árvore&r. \\n\\nPrecisaremos da &2Árvore&r para obter &6Madeira&r e tudo que vem da &6Madeira&r. E quanto à &2Grama&r? \\n\\nBem, primeiro: &aCriaturas Passivas&r precisam de &2Grama&r para nascer. Segundo: a &2Grama&r se espalha para outros blocos de Terra. Terceiro: podemos usar Shift + Clique com o Botão Direito na &2Grama&r para obter &7Seixos&r!"]
-	quest.145917B219D0D28D.quest_subtitle: ""
+	quest.145917B219D0D28D.quest_desc: ["Todos os mundos de &bSkyblock&r surgem com o essencial. &2Grama &fe uma &2Árvore&r. \\n\\nPrecisaremos da &2Árvore&r para obter &6Madeira&r e tudo que vem da &6Madeira&r. E quanto à &2Grama&r? \\n\\nBem, primeiro: &aCriaturas Passivas&r precisam de &2Grama&r para nascer. Segundo: a &2Grama&r se espalha para outros blocos de Terra. Terceiro: podemos usar Shift + Clique com o Botão Direito na &2Grama&r para obter &7Seixos&r! \\n\\nSe a sua ilha surgir sem &2Grama&r, use &2Sementes de Grama&r (obtidas &bpeneirando&r Terra) na Terra para criar um pouco."]
 	quest.145917B219D0D28D.title: "&2Grama"
+	quest.162AB6F9257EB71E.quest_desc: [
+		"Há várias formas de gerar seus primeiros bocados de energia."
+		""
+		"Pegue um &4Gerador Magmático&r do &bExcessive Utilities&r e uma boa geração de lava, e vá em frente! Se quisermos começar com automação no ATM10:TTS, vamos precisar mergulhar mais fundo em energia e alguns mods novos!"
+		""
+		"Aqui estão alguns dos mods que ele inclui!"
+		""
+		"&bExcessive Utilities&r (Geradores e mais)"
+		""
+		"&bTiers de Aceleradores de Crescimento&r (recomendamos o direcional, é super rápido!)"
+		""
+		"&bGeOres&r (Cultive os materiais que estão faltando!)&r"
+	]
 	quest.162AB6F9257EB71E.title: "O Próximo Capítulo"
 	quest.1B186F14606C07D7.quest_desc: ["Combinar &ePedra Luminosa&r com &cLava&r em um &6&lBarril&r (de preferência um de &7&lPedra&r) criará &ePedra do End&r. \\n\\nAssim como o &4Netherrack&r, podemos usar um &8Martelo&r para Triturá-lo e depois &bPeneirar&r as partes Trituradas! \\n\\nIsso nos dará &3Pérolas do Ender&r, &aOlhos do Ender&r, e mais..."]
 	quest.1B186F14606C07D7.title: "&ePedra do End"
@@ -44,7 +53,7 @@
 	quest.23E71537225B8392.title: "Infestando nossas &2Árvores"
 	quest.25B49E9D15BAEF3E.quest_desc: ["A &9Água&r pode vir de algumas maneiras diferentes. \\n\\n&9Chuva&r, Compostagem em &6&lBarril&r, &bGelo&r! \\n\\nSeja como for que você faça, crie instantaneamente uma &9Fonte de Água Infinita&r colocando 2 &9Fontes de Água&r na diagonal uma da outra em uma área de 2x2. \\n\\nAgora não precisaremos mais nos preocupar em obter &9Água&r!"]
 	quest.25B49E9D15BAEF3E.title: "&9Água"
-	quest.29F82373417B2006.quest_desc: ["Ficou sem mudas? Você pode obter algumas mudas de emergência no canto superior direito do menu de missões! E é repetível também: não há necessidade de reiniciar seu mundo se algo ruim acontecer!\","]
+	quest.29F82373417B2006.quest_desc: ["Ficou sem mudas? Você pode obter algumas mudas de emergência no canto superior direito do menu de missões! E é repetível também: não há necessidade de reiniciar seu mundo se algo ruim acontecer!","]
 	quest.29F82373417B2006.title: "Mudas de Emergência"
 	quest.2A3BF8D20EEED292.quest_desc: [
 		"O &6&lBarril (de Carvalho)&r é muito diferente dos Barris do &2&lMinecraft&r. \\n\\nNa verdade, precisaremos dele para muitos Itens e Blocos diferentes! \\n\\nPodemos usá-lo para Misturar Itens com Líquidos, colocando um Líquido dentro e Jogando um Item nele. \\n\\nOu até mesmo para Mistura de Líquidos, colocando ambos no &6&lBarril&r. \\n\\nA propósito, para Misturar com &cLava&r, você deve usar um &7&lBarril de Pedra&r. Os de &6Madeira&r queimarão! \\n\\nSe estiver &9Chovendo&r, ele se encherá de &9Água&r."
@@ -69,7 +78,7 @@
 	quest.3C5AAFC9672F2CF7.title: "&2Sementes de Grama"
 	quest.441200BE0C75C2AD.quest_desc: ["As Malhas podem ser aprimoradas! E precisarão ser aprimoradas para obter novos Itens! \\n\\nVocê pode verificar no JEI todos os Itens, mas basicamente, quanto melhor a Malha, melhores os Itens obtidos. \\n\\nTanto os Itens obtidos quanto a Taxa de Obtenção mudam com a Malha."]
 	quest.441200BE0C75C2AD.title: "Malhas Aprimoradas"
-	quest.469E414BC7F0C238.quest_desc: ["Os &3Baldes de Porcelana&r funcionam como &7Baldes de Ferro&r. \\n\\nSó que são mais baratos, mais fáceis de obter no início do jogo e quebram depois de colocar &cLava&r! \\n\\nEspere, o quê? \\n\\nSim, eles não lidam bem com o calor e, depois que você coloca a &cLava&r, o &3Balde&r quebra. \\n\\nCom &9Água&r está tudo bem, no entanto!"]
+	quest.469E414BC7F0C238.quest_desc: ["Os &3Baldes de Porcelana&r funcionam como &7Baldes de Ferro&r. \\n\\nSó que são mais baratos, mais fáceis de obter no início do jogo e quebram depois de colocar &cLava&r! \\n\\nEspere, o quê? \\n\\nSim, eles não lidam bem com o calor e, depois que você coloca a &cLava&r, o &3Balde&r quebra. \\n\\nCom &9Água&r está tudo bem, no entanto!\\n\\nVocê ainda pode usar &7Baldes de Ferro&r para completar esta missão, se desejar."]
 	quest.469E414BC7F0C238.title: "&3Balde de Porcelana"
 	quest.488C8BDF45B9CA0F.quest_desc: [
 		"Os &aPortais&r são maneiras fáceis de obter &aCriaturas Passivas&r e Recompensas de Saque! \\n\\nOk, talvez não seja fácil. Você precisará Lutar contra Ondas de &cMonstros&r. Além disso, você precisará de um &aOlho do Ender&r para criá-lo. \\n\\nMas vale a pena! \\n\\nDiferentes &aPortais&r dão diferentes Recompensas e &cMonstros&r. Este aqui dará 6 de cada Animal de Fazenda."
@@ -120,5 +129,12 @@
 	quest.7CC729E68A89D962.quest_desc: ["Podemos combinar &9Água&r e Leite em um &6&lBarril&r para obter &aBlocos de Slime&r! \\n\\nComo isso funciona? \\n\\nEu não sei! \\n\\nE eu realmente não quero saber!"]
 	quest.7CC729E68A89D962.quest_subtitle: "Gosmento e pegajoso"
 	quest.7CC729E68A89D962.title: "&aSlime"
+	task.16149AC27DE92A7D.title: "Baldes"
 	task.2019707AE4DAC703.title: "Mudas de Emergência"
+	task.518973EFC99E5792.title: "Baldes de Lava"
+	task.6249DAB966E77A4C.title: "Baldes de Água"
+	quest.057A182F4DC408CE.quest_desc: ["Se você escolheu o mapa Skyfactory, também conhecido como aquele com apenas um bloco de terra e uma árvore, você não tem grama! Olhe para o bloco de terra para ganhar seu pedaço de grama."]
+	quest.057A182F4DC408CE.quest_subtitle: "Guru do mapa Skyfactory"
+	quest.057A182F4DC408CE.title: "Se Você É Extremo..."
+	quest.145917B219D0D28D.quest_subtitle: ""
 }

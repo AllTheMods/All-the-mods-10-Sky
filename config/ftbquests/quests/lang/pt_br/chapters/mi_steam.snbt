@@ -1,14 +1,10 @@
 {
-	quest.088CA7B6D4899846.quest_desc: [
-		"A &#65C2A6Empacotadora&r é usada para fabricar &#53E67BCabos&r, &#53E67BBarras Duplas&r, &#53E67BPós&r, &#53E67BChapas Grande&r, &#53E67BBarras em Blocos&r e &#53E67BLâminas&r. "
-		""
-		"Além disso, há muitos outros usos para a máquina, mas esses serão os principais para você."
-	]
+	quest.088CA7B6D4899846.quest_desc: ["O &#65C2A6Empacotador&r é usado para criar &#53E67BLingotes Duplos&r, &#53E67BLâminas&r e &#53E67BCabos&r. Além disso, há muitos outros usos para a máquina, mas esses serão os principais para você."]
 	quest.088CA7B6D4899846.title: "&fO &7Empacotador"
 	quest.0DAF5D42694EA8C9.quest_desc: [
-		"O &9Martelo de Forja&r é o começo da sua jornada. Ele tem muitos usos, como obter um &#B53A3Amelhor rendimento&r dos seus minérios até fabricar &#DBD25Acomponentes&r para receitas futuras."
+		"O &#6E6D6D&nMartelo de Forja&r é o começo da sua jornada. Ele tem muitos usos, como obter um &#B53A3Amelhor rendimento&r dos seus minérios até fabricar &#DBD25Acomponentes&r para receitas futuras."
 		""
-		"O &9Martelo&r que você fabricou não é necessário para nenhuma receita, mas fornecerá um melhor rendimento nos &#DBD25Acomponentes&r que você fabricar."
+		"O &7Martelo&r que você fabricou não é necessário para nenhuma receita, mas fornecerá um melhor rendimento nos &#DBD25Acomponentes&r que você fabricar."
 	]
 	quest.0DAF5D42694EA8C9.title: "&9Martelo de Forja"
 	quest.1036837C9AD3F301.quest_desc: ["O &#6E6D6DMartelo de Forja&r permitirá que você esmague facilmente &#FFAC3BCobre&r, seja em forma de barra ou minério, transformando-o em pó."]
@@ -50,9 +46,7 @@
 	quest.21A4FE1741E4E78C.quest_subtitle: "Recursos infinitos"
 	quest.21A4FE1741E4E78C.title: "&fA &7Mineradora a Vapor"
 	quest.23708582B1064C9D.quest_desc: [
-		"Um &#46DBBBCircuito&r exigirá alguns desses componentes básicos para funcionar. "
-		""
-		"Automatizar partes disso será útil no futuro."
+		"Um &#46DBBBCircuito&r exigirá alguns desses componentes básicos para funcionar. Automatizar partes disso será útil no futuro."
 	]
 	quest.23708582B1064C9D.title: "Capacitância e Resistência"
 	quest.24285F25F9563B02.quest_desc: ["O &#467FDB&nCircuito Analógico&r, ah! você finalmente o fez. Normalmente, outras pessoas levavam metade do tempo que você, mas não vou guardar rancor por isso..."]
@@ -65,17 +59,13 @@
 	quest.357DDE894EB512F7.quest_desc: ["A &#65C2A6Cortador de Fios&r é capaz de aplicar exatamente a quantidade certa de força para fazer &#53E67BFios&r para nós. Eletrizante!! Eu sei..."]
 	quest.357DDE894EB512F7.title: "&fO &7Cortador de Fios"
 	quest.3AA4D1B60E4E71A5.quest_desc: [
-		"Todos os &cMultiblocos&r são definidos pelas &eEscotilhas&r instalados neles. "
-		""
-		"Atualizar essas &eEscotilhas&r nos &cMultiblocos&r atualizará a máquina como um todo."
+		"Todos os &cMultiblocos&r são definidos pelas &eEscotilhas&r instalados neles. Atualizar essas &eEscotilhas&r nos &cMultiblocos&r atualizará a máquina como um todo."
 	]
 	quest.3AA4D1B60E4E71A5.title: "&fNíveis dos Multiblocos"
 	quest.41877F44CD3D1EDB.quest_desc: ["A &#E3BC19Fornalha de Bronze&r funciona como uma comum, só que a grande diferença é que ela usa vapor e é duas vezes mais rápida."]
 	quest.41877F44CD3D1EDB.title: "&fA &#ED9553Fornalha de Bronze"
 	quest.458BFDB636F8B495.quest_desc: [
-		"Combinar o &6Pó de Coque&r com &8Ferro&r resultará em &8Pó de Aço Cru&r. "
-		""
-		"Cozinhá-lo na &eFornalha a Vapor&r gerará &8Barras de Aço&r necessários para o progresso futuro."
+		"Combinar o &6Pó de Coque&r com &8Ferro&r resultará em &8Pó de Aço Bruto&r. Cozinhar-lo na &eAlto-forno de Vapor&r gerará &8Barras de Aço&r necessárias para o progresso futuro."
 	]
 	quest.458BFDB636F8B495.title: "&fPó de Aço Cru"
 	quest.478C1AF86610A8B7.quest_desc: ["O &#EDD653&nCompressor&r é usado para fazer &#53EDAAChapas&r, &#53EDAACurvas&r e &#53EDAAAnéis&r."]
@@ -87,20 +77,16 @@
 	quest.55C6BBC996B51838.quest_desc: [
 		"A &#ED9553Caldeira de Bronze&r converte &9água&r em vapor. O vapor atuará como combustível para suas máquinas funcionarem na &7&nEra do Vapor&r."
 		""
-		"Para usar a máquina, basta fornecer &9água&r e qualquer &#ED5353combustível de fornalha&r. "
-		""
-		"Isso aumentará a temperatura da máquina; na temperatura máxima, ela poderá operar 4 máquinas simultaneamente."
+		"Para usar a máquina, basta fornecer &9água&r e qualquer &#ED5353combustível de fornalha&r. Isso aumentará a temperatura da máquina; na temperatura máxima, ela poderá operar 4 máquinas simultaneamente."
 	]
 	quest.55C6BBC996B51838.quest_subtitle: "Fervendo água"
 	quest.55C6BBC996B51838.title: "&fA &#ED9553Caldeira de Bronze&r"
 	quest.589DFDB8FB7211AA.quest_desc: [
-		"A produção de &7Borracha&r para sua transição para a &#C1DB46&nEra Elétrica&r é simples. "
-		""
-		"Automatizá-la o quanto antes vai te levar mais longe do que imagina."
+		"A produção de &7Borracha&r para sua transição para a &#C1DB46&nEra Elétrica&r é simples. Automatizá-la o quanto antes vai te levar mais longe do que imagina."
 	]
 	quest.589DFDB8FB7211AA.title: "&fA &7Borracha&f e &cPlaca de Circuito"
 	quest.5CCF92238B23EDC9.quest_desc: [
-		"O &9Modern Industrialization&r é um mod semelhante ao &#D93D3DIC2&r e ao &#D93D3DGregTech&r em sua natureza, mas você deve progredir de forma diferente desses dois mods."
+		"O &#A0DE45&nModern Industrialization&r é um mod semelhante ao &#D93D3DIC2&r e ao &#D93D3DGregTech&r em sua natureza, mas você deve progredir de forma diferente desses dois mods."
 		""
 		"Através dessas quests, eu vou te guiar para criar as peças necessárias para a &#43E898Armadura do Infinito&r."
 	]
@@ -125,9 +111,7 @@
 		"Você também pode agachar e clicar com o botão direito em uma &6Máquina de Bronze&r com a melhoria para aplicá-la diretamente."
 	]
 	quest.7282DCB1547CEB63.quest_desc: [
-		"O &#ED9553Bronze&r será o bloco de construção da &7&nEra do Vapor&r. "
-		""
-		"Cozinhar esse pó renderá as &#ED9553Barras de Bronze&r que usaremos adiante."
+		"O &#ED9553Bronze&r será o bloco de construção da &7&nEra do Vapor&r. Cozinhar esse pó renderá as &#ED9553Barras de Bronze&r que usaremos adiante."
 	]
 	quest.7282DCB1547CEB63.title: "&#EDD653Bronze"
 	quest.7493CDDE7861709C.title: "&fCarcaça de Máquina de &7Aço"

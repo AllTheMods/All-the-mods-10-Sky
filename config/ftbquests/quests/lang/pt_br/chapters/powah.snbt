@@ -17,7 +17,7 @@
 		"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
 	]
 	quest.3DDF87A1E5F5D009.title: "O &9Orbe Energizante"
-	quest.4F1FFC02F4EAA2E6.title: "Tier: &4Nitro"
+	quest.4F1FFC02F4EAA2E6.title: "Nível: &4Nitro"
 	quest.52E59FCB39D66BCF.quest_desc: ["Uma das melhores opções para \"Energia Passiva\", o &9Gerador Térmico&r produzirá FE quando colocado sobre uma &cFonte de Calor&r e receber um suprimento constante de água.\\n\\nAtualmente, existem 3 blocos sobre os quais você pode colocar isso: um bloco de Magma que produz o mínimo, um bloco de fonte de lava que é um pouco melhor, ou um &cBloco de Cristal Flamejante&r, que fornece o maior calor. "]
 	quest.562BD37539EE318E.title: "Tier: &cFlamejante"
 	quest.5BCA3F716348ECCD.quest_desc: ["O &9Funil de Energia&r carregará qualquer item carregável dentro do inventário do bloco para o qual ele está apontado, como um baú."]

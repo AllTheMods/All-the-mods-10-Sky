@@ -105,7 +105,7 @@
 	quest.48BA8ACFADE3C8CE.quest_subtitle: "Citron + Cereja Silvestre"
 	quest.4AEB4BF7624ABA0F.quest_subtitle: "Buscafogo + Árvore da Alma"
 	quest.4AFA3CB55F6C10C2.quest_subtitle: "Pandanus + Coco"
-	quest.4C3B7BAEA653587B.quest_desc: ["Você pode fazer esses com 8 &9Imperfeitos&r ou 1 &cP&6e&er&ff&de&5c&4t&r Gema Solar"]
+	quest.4C3B7BAEA653587B.quest_desc: ["Você pode fazer esses com 8 &9Imperfeitos&r ou 1 Gema Solar &zPerfeita&r"]
 	quest.4C3B7BAEA653587B.quest_subtitle: "Dogwood + Gemas Solares"
 	quest.4D562F5D72038083.quest_subtitle: "Amieiro + Lariço Europeu"
 	quest.4E802144C6E40D43.quest_subtitle: "Ébano do Ceilão + Cerejeira"
@@ -125,7 +125,7 @@
 	quest.543F00603790AD3E.title: "Descascando"
 	quest.54E7967B45B20F36.quest_subtitle: "Azevinho + Murta de Crepe Roxa"
 	quest.5577F49A93ADB19C.quest_desc: ["&lProdutctive Trees&r é um Mod irmão de &lProductive Bees&r.\\n\\nPara obter as diferentes Árvores, você precisará de Folhas Polinizadas. Para obter Folhas Polinizadas, você precisa de Pólen. Para Pólen, você precisa de Abelhas.\\n\\nAs abelhas que florescem perto das Árvores polinizarão automaticamente as Folhas, ou você pode usar uma Melhoria de Peneira de Pólen na Colmeia para obter e usar o Pólen você mesmo! Pegue uma por conta da casa!"]
-	quest.5577F49A93ADB19C.title: "&fProdutctive Trees"
+	quest.5577F49A93ADB19C.title: "Productive Trees"
 	quest.5753E0138A072A3F.quest_subtitle: "Cerejeira + Carvalho/Carvalho Escuro"
 	quest.577A5FC500E14C05.quest_subtitle: "Cipreste de Lawson + Carvalho"
 	quest.5A84A64CB3D3E6F5.quest_subtitle: "Salgueiro Branco + Carvalho/Bétula/Tília Prateada"

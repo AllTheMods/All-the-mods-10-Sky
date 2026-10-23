@@ -1,0 +1,229 @@
+{
+	quest.0061B0577B1C4AEF.quest_desc: ["&7Começamos nossa jornada no &bEnder IO&7 rastreando um material estranho e brilhante.\\n&6Grãos do Infinito&r são obtidos colocando &7Bedrock&r ou &5Obsidiana 1x&r em &cchamas&r. Acender um bloco de bedrock tem uma pequena chance de fazê-lo dropar este item. Peneirar Poeira também pode dropar este item.\\n&aDica:&r Só precisamos de um punhado deles para começar, já que são a semente de quase toda receita básica do Ender IO, incluindo a humilde &6Fundição de Ligas&r."]
+	quest.0061B0577B1C4AEF.quest_subtitle: "&7Uma fagulha do poder da Rocha Matriz"
+	quest.0061B0577B1C4AEF.title: "&d&lGrãos do Infinito"
+	quest.00E6B3F670E20454.quest_desc: [
+		"&7O &lAlmário&r é forjado a partir de &6Ouro&r e &7Areia das Almas&r no &6Fundidor de Ligas&r."
+		"É o material por trás dos &5Frascos de Alma&r e de toda máquina relacionada à captura e vínculo de almas, como o &5Vinculador de Almas&r."
+	]
+	quest.00E6B3F670E20454.quest_subtitle: "&7Ouro ligado a uma alma atormentada"
+	quest.00E6B3F670E20454.title: "&5&lLingote de Almário"
+	quest.03EC3173343B11F5.quest_desc: ["&7Criada a partir de &7Lingotes de Aço Sombrio&r, esta espada tem funcionalidade muito mais limitada do que em seu auge. Atualmente, só é útil para decapitar mobs, com 7% de chance."]
+	quest.03EC3173343B11F5.quest_subtitle: "&7Uma lâmina que evolui conosco"
+	quest.03EC3173343B11F5.title: "&7&lO Ender"
+	quest.0527CE6921ADB079.quest_desc: [
+		"&7O &5Vinculador de Almas&r consome energia &9µI&r e XP líquido para fabricar itens especiais, como vincular um &5Frasco de Alma&r preenchido a um &7Gerador Quebrado&r."
+		"Podemos abastecê-lo com experiência usando uma &7Vara de Experiência&r, ou canalizando &2XP Líquido&r até ele com um condutor de fluidos."
+	]
+	quest.0527CE6921ADB079.quest_subtitle: "&7Onde a energia encontra a experiência líquida"
+	quest.0527CE6921ADB079.title: "&5&lVinculador de Almas"
+	quest.05352452468E8375.quest_desc: [
+		"&7A &bLiga Condutiva&r é forjada no &6Fundidor de Ligas&r a partir de &6Ouro&r, &cRedstone&r e &ePó de Pedra Luminosa&r."
+		"Vamos usá-la para fabricar condutes de energia avançados, além de Esferas de Trituração e máquinas de nível intermediário."
+	]
+	quest.05352452468E8375.quest_subtitle: "&7Ouro, redstone e pedra luminosa combinados"
+	quest.05352452468E8375.title: "&b&lLingote de Liga Condutiva"
+	quest.082DEC8CBA6D23E5.quest_desc: [
+		"&7O &lAço Sombrio&r é uma das ligas mais importantes que vamos fabricar no Ender IO."
+		"Nós o produzimos no &6Fundidor de Ligas&r combinando &fFerro&r, &8Pó de Carvão&r e &5Obsidiana&r."
+		"&aDica:&r Esse lingote é a base das ferramentas e armaduras de Aço Sombrio, além de várias máquinas avançadas, então vale a pena mantermos sempre um estoque dele."
+	]
+	quest.082DEC8CBA6D23E5.quest_subtitle: "&7Forjado com ferro, carvão e obsidiana"
+	quest.082DEC8CBA6D23E5.title: "&7&lLingote de Aço Sombrio"
+	quest.0C220E9B2A780082.quest_desc: [
+		"&7Ao evoluirmos nossa bateria para o &bBanco de Capacitores Avançado&r, aumentamos tanto sua capacidade de energia quanto a velocidade de recarga de nossas ferramentas."
+		"Nós o construímos a partir de um &bBanco de Capacitores Básico&r e &aCapacitores de Camada Dupla&r."
+	]
+	quest.0C220E9B2A780082.quest_subtitle: "&7Mais capacidade, carga mais rápida"
+	quest.0C220E9B2A780082.title: "&b&lBanco de Capacitores Avançado"
+	quest.0EAB51C9B13A959B.quest_desc: [
+		"&7O &9Carregador Sem Fio&r recarrega qualquer ferramenta, peça de armadura ou item movido a RF que estejamos segurando ou vestindo, desde que fiquemos por perto."
+		"É uma forma prática de manter nossos equipamentos com capacitor sempre carregados, sem precisar conectar nada manualmente."
+	]
+	quest.0EAB51C9B13A959B.quest_subtitle: "&7Nos carregando sem nenhum cabo"
+	quest.0EAB51C9B13A959B.title: "&9&lCarregador Sem Fio"
+	quest.128E4A78E76F366C.quest_desc: [
+		"&7Começamos com um &7Gerador Quebrado&r, depois usamos um &5Frasco de Alma&r contendo o mob desejado dentro de um &5Vinculador de Almas&r para ligar aquela alma a ele."
+		"Ao combinarmos com a estrutura do &cGerador Energizado&r, obtemos um spawner totalmente funcional para aquele mob, alimentado por &9µI&r em vez de precisar de um jogador por perto."
+		"&eObservação:&r Qualquer mob pode ser capturado com um Frasco de Alma."
+	]
+	quest.128E4A78E76F366C.quest_subtitle: "&7Transformando qualquer spawner ao nosso gosto"
+	quest.128E4A78E76F366C.title: "&c&lGerador Energizado"
+	quest.141101C9A381905C.quest_desc: [
+		"&7Quase &ltoda&r máquina do Ender IO precisa de um capacitor instalado para armazenar e usar energia &9µI&r."
+		"O &aCapacitor Básico&r é nossa opção inicial, feito com &eLiga Energética&r. Sem um deles, nossas máquinas simplesmente não ligam."
+	]
+	quest.141101C9A381905C.quest_subtitle: "&7O coração de toda máquina"
+	quest.141101C9A381905C.title: "&a&lCapacitor Básico"
+	quest.19456F38224A24DB.quest_desc: [
+		"&7O &8Triturador SAG&r tritura minérios e outros itens em suas formas moídas ou em pó usando &9µI&r, muitas vezes nos dando produtos extras em comparação a uma fornalha ou receita normal."
+		"Ao colocarmos &7Esfera de Trituração&r no slot de melhoria, podemos aumentar sua velocidade, eficiência e até a chance de dobrar nossa produção."
+		"&aDica:&r Moer minérios brutos aqui em vez de fundi-los diretamente costuma render mais lingotes por minério a longo prazo."
+	]
+	quest.19456F38224A24DB.quest_subtitle: "&7Moendo minérios em riqueza extra"
+	quest.19456F38224A24DB.title: "&8&lTriturador SAG"
+	quest.1AF97F48B4C13020.quest_desc: [
+		"&7A &6Chave Yeta&r é nossa ferramenta favorita para interagir com blocos do Ender IO: clique com o botão direito para girar máquinas, ou agache e clique para pegá-las sem perder o inventário ou as melhorias."
+		"Ela também é essencial para configurar &bcondutores&r, permitindo definir os lados de entrada/saída e as cores, para que itens, energia e fluidos fluam exatamente para onde queremos."
+	]
+	quest.1AF97F48B4C13020.quest_subtitle: "&7Nossa ferramenta multiuso para máquinas e condutes"
+	quest.1AF97F48B4C13020.title: "&6&lChave Yeta&r &f\\& &2&lCondutes"
+	quest.1D0725DC4463F895.quest_desc: [
+		"&7O &fFabricador&r fabrica automaticamente qualquer receita que configurarmos dentro dele, desde que receba os ingredientes corretos por condutes ou funis."
+		"É a espinha dorsal das fábricas automatizadas, nos permitindo produzir itens em massa sem nunca mais precisar tocar em uma mesa de trabalho."
+	]
+	quest.1D0725DC4463F895.quest_subtitle: "&7Automatizando nossa mesa de trabalho"
+	quest.1D0725DC4463F895.title: "&f&lFabricador"
+	quest.224BF0C9690FBEBF.quest_desc: [
+		"&7O &5Encantador&r nos permite aplicar &dEncantamentos&r em Livros sem lidar com a aleatoriedade da &5Mesa de Encantamentos&r."
+		"É especialmente útil para acumular encantamentos em nossas ferramentas e armas de Aço Sombrio ou do Ender."
+	]
+	quest.224BF0C9690FBEBF.quest_subtitle: "&7Aplicando encantamentos em livros"
+	quest.224BF0C9690FBEBF.title: "&5&lEncantador"
+	quest.262B331BB96336F5.quest_desc: [
+		"&7Depois que nossa base fica coberta de &bcondutores&r, tudo pode ficar bagunçado. A &fFachada de Condutor&r nos permite disfarçar qualquer feixe de condutores com o bloco que quisermos."
+		"&aDica:&r Basta aplicar a fachada sobre um condutor para que ele se misture visualmente com nossas construções, continuando a funcionar perfeitamente por dentro."
+	]
+	quest.262B331BB96336F5.quest_subtitle: "&7Escondendo nossos condutes à vista de todos"
+	quest.262B331BB96336F5.title: "&f&lFachada de Condutor"
+	quest.2802D606849ED924.quest_desc: [
+		"&7A &6Máquina de Pintura&r aplica uma textura de fachada em blocos automaticamente, permitindo repaginar grandes lotes de blocos de construção sem precisar posicioná-los manualmente."
+		"&aDica:&r Basta alimentá-la com os blocos que queremos disfarçar e o bloco que queremos que eles pareçam, e deixá-la processar a pilha inteira por nós."
+	]
+	quest.2802D606849ED924.quest_subtitle: "&7Repaginando nossos blocos em massa"
+	quest.2802D606849ED924.title: "&6&lMáquina de Pintura"
+	quest.2AD8903E9EE3269E.quest_desc: [
+		"&7A &5Corrente de Almas&r é fabricada a partir de &5Almário&r e usada como componente em máquinas e equipamentos relacionados a almas."
+		"Ela representa o lado mais místico e ligado ao Ender da árvore de fabricação do Ender IO."
+	]
+	quest.2AD8903E9EE3269E.quest_subtitle: "&7Forjada a partir de Almário"
+	quest.2AD8903E9EE3269E.title: "&5&lCorrente de Almas"
+	quest.2C7D1CD63680FA80.quest_desc: [
+		"&7O &2Fatiar e Unir&r combina dois itens encantados em um só, mesclando seus encantamentos de forma parecida com uma bigorna, mas usando energia &9µI&r."
+		"Também podemos usá-lo para reparar nossas ferramentas e armaduras sem precisar de materiais iguais, o que economiza muitos recursos ao longo do tempo."
+	]
+	quest.2C7D1CD63680FA80.quest_subtitle: "&7Mesclando encantamentos e reparando ferramentas"
+	quest.2C7D1CD63680FA80.title: "&2&lFatiar e Unir"
+	quest.32191922242B11B5.quest_desc: [
+		"&7A &5Estrutura de Almas&r aprimora o &8Chassis do Vazio&r básico usando uma &5Corrente de Almas&r, dando a ele um toque da magia vinculada a almas."
+		"Ele é necessário para fabricar algumas das máquinas mais avançadas e ligadas a almas do Ender IO, continuando nossa jornada mais fundo na lore do Ender."
+	]
+	quest.32191922242B11B5.quest_subtitle: "&7Uma estrutura vinculada a uma alma"
+	quest.32191922242B11B5.title: "&5&lEstrutura de Almas"
+	quest.3294189EF3C0D5E5.quest_desc: [
+		"&7O &dCajado de Viagem&r nos permite teletransportar instantaneamente entre &dÂncoras de Viagem&r que colocarmos pelo mundo, desde que tenhamos XP suficiente para custear o salto."
+		"Devemos colocar uma &dÂncora de Viagem&r em nossa base e em qualquer posto avançado distante, para tornar a exploração, e o retorno, muito mais fáceis."
+	]
+	quest.3294189EF3C0D5E5.quest_subtitle: "&7Teletransporte-se entre nossas Âncoras de Viagem"
+	quest.3294189EF3C0D5E5.title: "&d&lCajado de Viagem"
+	quest.3DBAC2CDD75763F3.quest_desc: [
+		"&7O &9Eletroímã&r é fabricado com &bLiga Condutiva&r e &eLiga Energética&r."
+		"Ele é usado principalmente como componente de fabricação para máquinas e itens avançados do Ender IO que lidam com materiais metálicos."
+	]
+	quest.3DBAC2CDD75763F3.quest_subtitle: "&7Atraindo metal à distância"
+	quest.3DBAC2CDD75763F3.title: "&9&lEletroímã"
+	quest.402A53010DFB2D69.quest_desc: [
+		"&7O &6Gerador Stirling&r queima combustíveis sólidos, como carvão ou carvão vegetal, para produzir energia &9µI&r para nossas máquinas."
+		"É simples, confiável e uma ótima forma de colocarmos nossa primeira estrutura do Ender IO para funcionar antes de partirmos para geradores maiores."
+	]
+	quest.402A53010DFB2D69.quest_subtitle: "&7Nossa primeira fonte de energia"
+	quest.402A53010DFB2D69.title: "&6&lGerador Stirling"
+	quest.435B180FCE208A7B.quest_desc: [
+		"&7Ao evoluirmos para o &aCapacitor de Camada Dupla&r, nossas máquinas ganham mais armazenamento de energia e velocidade de processamento."
+		"Ele é fabricado com &eLiga Energética&r e um &aCapacitor Básico&r, sendo o próximo passo natural assim que nossa geração de energia crescer."
+	]
+	quest.435B180FCE208A7B.quest_subtitle: "&7Mais energia, mais velocidade"
+	quest.435B180FCE208A7B.title: "&a&lCapacitor de Camada Dupla"
+	quest.448CCD89539AEBAC.quest_desc: [
+		"&7O &9Carregador com Fio&r recarrega qualquer item movido a RF colocado dentro dele, conectado diretamente à nossa rede de energia através de condutes."
+		"É um ótimo complemento ao Carregador Sem Fio para situações em que queremos deixar ferramentas carregando enquanto fazemos outra coisa."
+	]
+	quest.448CCD89539AEBAC.quest_subtitle: "&7Conectando nosso equipamento direto na rede"
+	quest.448CCD89539AEBAC.title: "&9&lCarregador com Fio"
+	quest.4557E63F1A6971DA.quest_desc: [
+		"&7O &bBanco de Capacitores Vibrante&r é o nível final do nosso armazenamento de energia, guardando uma quantidade enorme de &9µI&r."
+		"Precisamos de um &bBanco de Capacitores Avançado&r e &aCapacitores Octádicos&r para construí-lo, sendo uma ótima meta de longo prazo para nossa rede de energia."
+	]
+	quest.4557E63F1A6971DA.quest_subtitle: "&7O armazenamento de energia definitivo"
+	quest.4557E63F1A6971DA.title: "&b&lBanco de Capacitores Vibrante"
+	quest.477F0905998597FE.quest_desc: [
+		"&7O &bDreno&r coleta automaticamente fluidos liberados por entidades próximas, como leite de vacas, direto para um tanque conectado."
+		"É uma forma prática de automatizar a coleta de fluidos sem precisar interagir manualmente com os animais."
+	]
+	quest.477F0905998597FE.quest_subtitle: "&7Extraindo fluidos de mobs próximos"
+	quest.477F0905998597FE.title: "&b&lDreno"
+	quest.47F7BA8E81383714.quest_desc: [
+		"&7O &dCristal do Ender&r é fabricado no &5Vinculador de Almas&r usando um &5Frasco de Alma&r preenchido com um &dEnderman&r."
+		"É um componente de fabricação essencial para alguns dos itens mais avançados do Ender IO, profundamente ligado à magia temática do Ender."
+	]
+	quest.47F7BA8E81383714.quest_subtitle: "&7Um fragmento cristalizado do End"
+	quest.47F7BA8E81383714.title: "&d&lCristal do Ender"
+	quest.490B64C64BDE76F7.quest_desc: [
+		"&7O &8Chassis do Vazio&r é a estrutura básica usada para fabricar a maioria das máquinas iniciais e intermediárias do Ender IO, de geradores a máquinas de processamento."
+		"Vamos fabricar vários desses conforme nossa base cresce, então vale a pena estocar &6Lingotes de Aço Sombrio&r para isso."
+	]
+	quest.490B64C64BDE76F7.quest_subtitle: "&7A estrutura por trás de nossas máquinas"
+	quest.490B64C64BDE76F7.title: "&8&lChassis do Vazio"
+	quest.4A7DBDB179F30BC3.quest_desc: [
+		"&7A &eLiga Energética&r combina &cRedstone&r, &ePó de Pedra Luminosa&r e &6Ouro&r no &6Fundidor de Ligas&r."
+		"Ela é o componente base dos nossos &6Capacitores&r, então vamos fabricar bastante dela para manter as máquinas energizadas."
+	]
+	quest.4A7DBDB179F30BC3.quest_subtitle: "&7Redstone, pedra luminosa e ouro"
+	quest.4A7DBDB179F30BC3.title: "&e&lLingote de Liga Energética"
+	quest.5D327D85B91E5032.quest_desc: [
+		"&7Com nossos &dGrãos do Infinito&7 em mãos, finalmente podemos construir o &6Fundidor de Ligas&r, o coração do progresso inicial do Ender IO."
+		"Essa máquina usa &9Micro Infinity (µI)&r, a energia própria do Ender IO, para fundir minérios como uma fornalha e para forjar &6ligas&r especiais, como o Aço Sombrio."
+		"&eObservação:&r Precisamos instalar pelo menos um &6Capacitor Básico&r antes que ela funcione, então não podemos esquecer dessa peça!"
+	]
+	quest.5D327D85B91E5032.quest_subtitle: "&7Nossa primeira máquina de verdade"
+	quest.5D327D85B91E5032.title: "&6&lFundidor de Ligas"
+	quest.60A8F55648685236.quest_desc: [
+		"&7O &aCapacitor Octádico&r é o capacitor mais forte que podemos fabricar, combinando &dLiga Vibrante&r com um &aCapacitor de Camada Dupla&r."
+		"Máquinas equipadas com ele atingem velocidade e energia máximas, perfeitas para nossas construções mais avançadas."
+	]
+	quest.60A8F55648685236.quest_subtitle: "&7Nosso melhor nível de capacitor"
+	quest.60A8F55648685236.title: "&a&lCapacitor Octádico"
+	quest.62788B8B97AF2D76.quest_desc: [
+		"&7Ao combinarmos &eLiga Energética&r com uma &dPérola de Ender&r no &6Fundidor de Ligas&r, criamos a &dLiga Vibrante&r."
+		"Essa liga alimenta nossos melhores capacitores e diversas máquinas avançadas, então vale muito a pena gastar as pérolas extras."
+	]
+	quest.62788B8B97AF2D76.quest_subtitle: "&7Liga Energética tocada pela magia do Ender"
+	quest.62788B8B97AF2D76.title: "&d&lLingote de Liga Vibrante"
+	quest.6B37B24E3D25BF5C.quest_desc: [
+		"&7O &2Crisol de Fermentação&r fermenta materiais orgânicos, como Grãos do End, transformando-os em fluidos especiais como o &dOrvalho do Vazio&r ao longo do tempo."
+		"Devemos mantê-lo abastecido com os ingredientes certos e ter paciência, já que a fermentação não é instantânea."
+	]
+	quest.6B37B24E3D25BF5C.quest_subtitle: "&7Fermentando nosso caminho até o Orvalho do Vazio"
+	quest.6B37B24E3D25BF5C.title: "&2&lCrisol de Fermentação"
+	quest.720A9D781C5B9B2D.quest_desc: [
+		"&7O &bBanco de Capacitores Básico&r armazena energia &9µI&r para uso posterior, funcionando como uma bateria para nossa base."
+		"Ele também pode recarregar ferramentas e armaduras colocadas em seu inventário, e é construído usando &aCapacitores Básicos&r."
+	]
+	quest.720A9D781C5B9B2D.quest_subtitle: "&7Nossa primeira bateria"
+	quest.720A9D781C5B9B2D.title: "&b&lBanco de Capacitores Básico"
+	quest.726857C4BE6ADCDE.quest_desc: [
+		"&7O &eCajado de Levitação&r nos protege do dano de queda e nos permite planar suavemente até o chão enquanto estiver carregado, consumindo XP a cada uso."
+		"&aDica:&r Ele salva vidas quando estamos explorando estruturas altas ou construindo pontes lá no alto do céu."
+	]
+	quest.726857C4BE6ADCDE.quest_subtitle: "&7Caia suavemente, pule mais alto"
+	quest.726857C4BE6ADCDE.title: "&e&lCajado de Levitação"
+	quest.729B89CA30BE3B28.quest_desc: [
+		"&7O &eFunil de Impulso&r puxa itens derrubados e orbes de experiência próximos direto para seu inventário, funcionando como um aspirador para nossas fazendas e moedores de mobs."
+		"Podemos combiná-lo com um condutor de itens para levar tudo o que ele coleta direto para nosso sistema de armazenamento."
+	]
+	quest.729B89CA30BE3B28.quest_subtitle: "&7Sugando itens e XP do chão"
+	quest.729B89CA30BE3B28.title: "&e&lFunil de Impulso"
+	quest.7717E30B48E53462.quest_desc: [
+		"&7O &2Vácuo de XP&r é uma melhoria vestível que puxa orbes de experiência próximos direto para nossa barra de XP enquanto caminhamos."
+		"O &2Baú de Vácuo&r faz o mesmo com itens derrubados, sugando-os para seu inventário para que nunca mais percamos loot de uma grande fazenda de mobs."
+	]
+	quest.7717E30B48E53462.quest_subtitle: "&7Nunca mais deixe loot para trás"
+	quest.7717E30B48E53462.title: "&2&lVácuo de XP&r &2e &lBaú de Vácuo"
+	quest.79590DE87595F3C6.quest_desc: [
+		"&7Fabricada, ou obtida ao triturarmos um &5Lingote de Almário&r, essa pepita é usada em algumas receitas que precisam de apenas uma pequena quantidade do material."
+		"Manter uma pilha de pepitas guardada nos evita ter que quebrar lingotes inteiros para fabricações menores."
+	]
+	quest.79590DE87595F3C6.quest_subtitle: "&7Um pequeno pedaço de ouro vinculado"
+	quest.79590DE87595F3C6.title: "&5&lPepita de Almário"
+	task.57477AFF1BFD16C9.title: "Condutores"
+}

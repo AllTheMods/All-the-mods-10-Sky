@@ -1,5 +1,5 @@
 {
-	quest.104EBBC08B4733F5.quest_desc: ["A &dCâmara de Simulação&r é a máquina principal dentro do HNN.\\n\\nQuando recebe energia, ela executa simulações baseadas no &bModelo de Dados&r que é colocado dentro. A energia necessária também depende do Modelo de Dados colocado dentro, e pode ser vista na dica de ferramenta do Modelo. \\n\\nA máquina também requer pelo menos uma &9Matriz de Previsão&r para executar uma simulação.\\n\\nO resultado da simulação será exibido na Matriz. As simulações sempre produzirão algum tipo de &ePrevisão Generalizada&r, que pode ser usada em várias receitas de fabricação. Elas também variam dependendo da origem do mob no Modelo de Dados.\\n\\nSe a simulação for bem-sucedida, você receberá uma &dPrevisão de Mob&r baseada no modelo. Quanto maior o nível do Modelo de Dados usado, maior será a taxa de sucesso de uma simulação."]
+	quest.104EBBC08B4733F5.quest_desc: ["A &dCâmara de Simulação&r é a máquina principal dentro do HNN.\\n\\nQuando recebe energia, ela executa simulações baseadas no &bModelo de Dados&r que é colocado dentro. A energia necessária também depende do &bModelo de Dados&r colocado dentro, e pode ser vista na dica de ferramenta do &bModelo&r. \\n\\nA máquina também requer pelo menos uma &9Matriz de Previsão&r para executar uma simulação.\\n\\nAs simulações têm dois modos.\\n\\n&a&lTreinamento:&r\\nO &bModelo de Dados&r ganha dados, sem produzir nenhuma &ePrevisão Generalizada&r ou &dPrevisão de Mob&r. Custa mais &cEnergia Forge&r em comparação com a &2&lInferência&r.\\n\\n&2&lInferência:&r\\nO resultado da simulação será exibido na Matriz, sem que o &bModelo de Dados&r ganhe dados.\\n\\nAs simulações sempre produzirão algum tipo de &ePrevisão Generalizada&r, que pode ser usada em várias receitas de fabricação. Elas também variam dependendo da origem do mob no Modelo de Dados.\\n\\nSe a simulação for bem-sucedida, você receberá uma &dPrevisão de Mob&r baseada no modelo. Quanto maior o nível do Modelo de Dados usado, maior será a taxa de sucesso de uma simulação.\\n\\nMais rápida em comparação com o &a&lTreinamento&r."]
 	quest.104EBBC08B4733F5.title: "&aSimulando Mortes"
 	quest.10E8BC20D406D9FB.quest_subtitle: "Faz vários Materiais do Nether"
 	quest.12AE2856444996F6.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
@@ -13,17 +13,29 @@
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
 	quest.37EBB8E0D6E5F821.title: "Bem-vindo ao &9Hostile Neural Networks&r!"
+	quest.364A1936C5AFFB4E.quest_desc: ["&bGuardiões Anciões&r não nascem naturalmente no &b&lCéu&r. Para obter este &bModelo de Dados&r você vai precisar invocar um, por exemplo com uma melhoria de invocação do &dArs Nouveau&r, e então treinar o modelo nele com seu &9Aprendiz Profundo&r."]
 	quest.3E3CBDCEAB0FF28F.quest_desc: ["O &9Aprendiz Profundo&r é um dos componentes centrais do HNN.\\n\\nCom este item, você pode clicar com o botão direito para abrir um HUD e armazenar &6Modelos de Dados&r para coletar dados enquanto mata mobs.\\n\\nCada Aprendiz pode conter 4 Modelos de Dados, e contanto que você tenha o Aprendiz em qualquer lugar do seu inventário, ele coletará dados para os modelos colocados dentro!\\n\\nNota: Você pode ter vários Aprendizes Profundos em seu inventário, e ele contará as mortes para todos os Modelos de Dados dentro de todos os Aprendizes."]
 	quest.3E3CBDCEAB0FF28F.quest_subtitle: "O HUD de Aprendizagem"
 	quest.3E3CBDCEAB0FF28F.title: "&aAprendendo sobre Mobs"
-	quest.54E7ABFDFAA024E5.quest_desc: [ ]
-	quest.54E7ABFDFAA024E5.quest_subtitle: ""
-	quest.54E7ABFDFAA024E5.title: ""
+	quest.3F3F3174BD9D03BD.quest_desc: [
+		"O &dCentro de &5Dados&r é um multibloco 7x7x7 que combina as funcionalidades da &dCâmara de Simulação&r e do &5Fabricador de Saques&r de uma forma única.\\n\\nEle é capaz de processar 25 &6Modelos de Dados &bAutoconscientes&r simultaneamente, com os mesmos efeitos das simulações de &2&lInferência&r, com a seguinte diferença:\\n\\nEm vez de produzir Previsões de Criaturas, o &dCentro de &5Dados&r produz saques diretamente, com os mesmos modos disponíveis no &5Fabricador de Saques&r."
+		"{@pagebreak}"
+		"Para construir o multibloco, o piso (primeira camada) deve ser feito de Obsidiana (confira a tarefa Obsidianas para ver quais formas de Obsidiana são aceitas pelo &dCentro de &5Dados&r).\\n\\nAs paredes e o teto do multibloco devem ser feitos de Vidro Preto. O controlador pode substituir um bloco da parede inferior, e as Portas de E/S podem substituir o Vidro Preto."
+		"{image:atm:textures/questpics/hnn/datacenterintheend.png width:100 height:100 align:center}"
+	]
+	quest.3F3F3174BD9D03BD.quest_subtitle: "Nenhuma IA Generativa foi usada para criar esta missão"
+	quest.3F3F3174BD9D03BD.title: "O &dCentro de &5Dados"
 	quest.58C2ABED43B2EA61.quest_desc: ["&9Estruturas de Modelo&r são o ponto de partida para a criação de Modelos de Dados.\\n\\nPara começar a coletar dados sobre um mob específico, você vai querer fazer uma dessas e depois clicar com o &9botão direito&r no mob sobre o qual gostaria de coletar dados. Quando feito corretamente, a Estrutura de Modelo se transformará no Modelo de Dados do mob em que você clicou.\\n\\nPara coletar dados para esse mob, coloque o Modelo de Dados recém-criado dentro de um &aDeep Learner&r e comece a matar esse mob específico com o Deep Learner em seu inventário."]
 	quest.58C2ABED43B2EA61.quest_subtitle: "\"Coletando Dados\""
 	quest.58C2ABED43B2EA61.title: "&9Modelando Mobs"
 	quest.5A23107C363A209E.quest_subtitle: "Faz vários Materiais do End"
 	task.15D2A03410859443.title: "TodosOsDireitosReservados"
+	task.5392CADA51B80879.title: "Vidro Preto"
 	task.6B580F95A2E5A465.title: "TodosOsDireitosReservados"
+	task.6B84DAA99028ACEA.title: "Obsidianas"
 	task.7F17E48ACE65C84E.title: "Modelos de Dados"
+	quest.54E7ABFDFAA024E5.quest_desc: [
+	]
+	quest.54E7ABFDFAA024E5.quest_subtitle: ""
+	quest.54E7ABFDFAA024E5.title: ""
 }

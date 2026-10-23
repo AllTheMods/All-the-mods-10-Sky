@@ -73,7 +73,9 @@
 	quest.22C4318523A43B49.quest_desc: ["Os &eTerminais&f fornecem acesso a qualquer conteúdo de uma rede ME. O &eTerminal ME&f padrão simplesmente lista tudo na rede como uma grande grade para retirar e inserir, semelhante a um único inventário.\\n\\nO &eTerminal de Criação ME&f é uma extensão do Terminal ME que também fornece uma grade de criação embutida, permitindo a criação conveniente usando qualquer item contido na rede e visível através da tela do terminal."]
 	quest.22C4318523A43B49.quest_subtitle: "[piada de usuário Linux vai aqui]"
 	quest.22C4318523A43B49.title: "Terminais"
-	quest.234DC1702333EB18.quest_desc: ["O add-on &dAEInfinityBooster&f fornece dois amplificadores sem fio personalizados que permitem alcance de conectividade infinito, com suporte opcional entre dimensões."]
+	quest.234DC1702333EB18.quest_desc: [
+		"O addon &dAEInfinityBooster&f fornece dois amplificadores sem fio exclusivos, permitindo alcance de conectividade infinito, com suporte opcional entre dimensões."
+	]
 	quest.234DC1702333EB18.quest_subtitle: "Não vou escrever a frase de Toy Story"
 	quest.234DC1702333EB18.title: "Amplificador Infinito"
 	quest.25DBA00422301EDC.quest_desc: ["O segundo nível MEGA de componente de armazenamento, fornecendo &e4194304&f (4096k) bytes de armazenamento."]
@@ -156,7 +158,7 @@
 	quest.51DE3157DE3E57B8.quest_subtitle: "Pode pedir"
 	quest.51DE3157DE3E57B8.title: "Criação Automática"
 	quest.5233A447BAA4593C.quest_desc: ["O &bCabo Inteligente ME&f e o &bCabo Inteligente Denso&f funcionam de forma idêntica aos cabos cobertos em termos de distribuição de canais, mas também exibirão visivelmente a quantidade de canais que estão usando como linhas coloridas ao longo de si mesmos."]
-	quest.5233A447BAA4593C.quest_subtitle: "'S.M.R.T.'"
+	quest.5233A447BAA4593C.quest_subtitle: "Mais canais que TV a cabo!"
 	quest.5233A447BAA4593C.title: "Cabeamento Avançado"
 	quest.523853C1C4E688BA.quest_desc: ["O quarto nível de componente de armazenamento, fornecendo &e65536&f bytes de armazenamento."]
 	quest.523853C1C4E688BA.quest_subtitle: "x4^3"
@@ -226,7 +228,7 @@
 		"Neste pacote, isso é feito diretamente na prensa de inscrição. Não vê a receita? Confira a próxima página para a que não duplica a prensa, mas cria a sua primeira."
 	]
 	quest.74FC0DDDB91DB172.quest_desc: ["Para tornar a vida muito mais fácil, o AE2 fornece um conjunto completo de dispositivos para a manipulação de dados ME, ou seja, mover itens armazenados pelo mundo.\\n\\nA &bInterface ME&r é um desses dispositivos. Como dispositivo de entrada, a Interface permite que qualquer item/fluido/etc seja canalizado externamente através dela, que é então automaticamente armazenado na Rede ME à qual a interface está conectada.\\n\\nComo dispositivo de saída, a Interface pode ser configurada para manter uma certa quantidade disponível de um item armazenado em estoque, da rede ME para seu próprio inventário interno. Isso permite que os itens sejam recebidos por alguma fonte externa, como outro jogador ou algum cano."]
-	quest.74FC0DDDB91DB172.quest_subtitle: "OI, OI, OI!"
+	quest.74FC0DDDB91DB172.quest_subtitle: "Nem entrada, nem saída… é tudo ao mesmo tempo!"
 	quest.74FC0DDDB91DB172.title: "O IO"
 	quest.77C9EE701F72586D.quest_desc: [
 		"As &bCélulas Portáteis&f funcionam de forma idêntica às células normais, podendo ser inseridas em um baú ou drive e preenchidas de acordo."

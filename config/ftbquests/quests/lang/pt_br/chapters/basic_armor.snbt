@@ -58,9 +58,9 @@
 	quest.1A8440C0048EEB02.quest_desc: ["&cBlazegold&r tem os mesmos status do Ferro, mas tem outras habilidades que o Ferro gostaria de ter! \\n\\nConfira as descrições dos Itens para saber mais sobre o que eles podem fazer!"]
 	quest.1A8440C0048EEB02.quest_subtitle: "15"
 	quest.1A8440C0048EEB02.title: "&cArmadura de Blazegold"
-	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r você pode aprimorar a &5Armadura de Unobtainium&r para o &aMekaSuit&r! \\n\\nAgora ele pode armazenar Energia e em vez de receber dano nos corações, ele consumirá Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
+	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r você pode aprimorar a &5Armadura de Unobtainium&r para o &aTraje-Meka&r! \\n\\nAgora ele pode armazenar Energia e em vez de receber dano nos corações, ele consumirá Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
 	quest.1C27C74722A19FC1.quest_subtitle: "Quanta Energia você puder fornecer"
-	quest.1C27C74722A19FC1.title: "&aMekaSuit"
+	quest.1C27C74722A19FC1.title: "&aTraje-Meka"
 	quest.1CC627D3FB348C89.quest_desc: [
 		"Também pode ser obtido de Silverfish da Horda Selvagem."
 		"{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"
@@ -96,7 +96,7 @@
 	]
 	quest.243008D4DCD789D0.quest_subtitle: "Templos da Selva"
 	quest.243008D4DCD789D0.title: "Ornamento de Armadura: Selvagem"
-	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de armadura vanilla que você pode obter. \\n\\nIsso é principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque tenho dificuldade em encontrar tantas &8v&fa&8c&fa&fs&r, desculpe &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de armadura vanilla que você pode obter. \\n\\nIsso é principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque tenho dificuldade em encontrar tantas &zvacas&r, desculpe &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7Armadura de Couro"
 	quest.2A4FE9644F3B9DC1.quest_desc: ["Versão aprimorada do &2Prudentium&r."]
@@ -126,7 +126,7 @@
 	quest.3403D7502F7BC897.quest_desc: ["Literalmente invencível, nada pode te atingir e causar dano. \\n\\nAtualmente você precisa aprimorar a &cArmadura de Netherita&r com um &eAprimoramento &bQuântico&r, mas seus amigos da &6&lEquipe ATM&r estão trabalhando para tornar essa receita mais difícil! \\n\\nE você não pode fazer nada para impedir! &lBWAHAHAHAHA"]
 	quest.3403D7502F7BC897.quest_subtitle: "Invencível"
 	quest.3403D7502F7BC897.title: "&eArmadura &bQuântica&r (&l&7MI&r)"
-	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r e o &l&7Modern Industrialization&r podem ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aMekaSuit&r, pode usar Energia como um escudo. \\nEla também tem melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar automaticamente Energia dela e pegar qualquer Item, não importa onde você esteja.\\n\\nAlém disso, usar o conjunto completo pode impedir que a &aRadiação&r te mate."]
+	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r e o &l&7Modern Industrialization&r podem ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aTraje-Meka&r, pode usar Energia como um escudo para Negar 30% do Dano. \\nEla também tem melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar automaticamente Energia dela e pegar qualquer Item, não importa onde você esteja.\\n\\nAlém disso, usar o conjunto completo pode impedir que a &aRadiação&r te mate."]
 	quest.34D14B807A2DAC0F.quest_subtitle: "Quanta Energia você puder fornecer"
 	quest.34D14B807A2DAC0F.title: "&5Armadura Quântica&r (&l&bAE2&r)"
 	quest.351159C55159C316.quest_desc: [
@@ -180,7 +180,7 @@
 	quest.4915960FBC94AD0E.title: "&7Armadura de Ferro Comprimido"
 	quest.497D222F74A52DF5.quest_desc: ["Agora sim! Ferro é muito comum e sua Armadura é incrível para o início do jogo. \\n\\nZumbis e Esqueletos quase não têm chance!"]
 	quest.497D222F74A52DF5.quest_subtitle: "15"
-	quest.49E13245EE169048.quest_desc: ["O &6Traje de Material Perigoso&r pode parecer inútil sem valor defensivo, mas é a única maneira de impedir que a &aRadiação&r te mate (além da Unidade de Blindagem Contra Radiação do &aMekaSuit&r e a &5Armadura Quântica&r do Advanced AE). \\n\\nVocê precisa usar o conjunto completo para evitar a &aIntoxicação por Radiação&r! \\n\\n&aRadiação&r matará outros Mobs e Jogadores próximos, os Jogadores podem ser salvos com &6Trajes de Material Perigoso&r... mas os Mobs não têm tanta sorte!\\n\\nPara mais informações sobre a &aRadiação&r, consulte a página da missão &5&lMekanism: Reactores&r."]
+	quest.49E13245EE169048.quest_desc: ["O &6Traje de Material Perigoso&r pode parecer inútil sem valor defensivo, mas é a única maneira de impedir que a &aRadiação&r te mate (além da Unidade de Blindagem Contra Radiação do &aTraje-Meka&r e a &5Armadura Quântica&r do Advanced AE). \\n\\nVocê precisa usar o conjunto completo para evitar a &aIntoxicação por Radiação&r! \\n\\n&aRadiação&r matará outros Mobs e Jogadores próximos, os Jogadores podem ser salvos com &6Trajes de Material Perigoso&r... mas os Mobs não têm tanta sorte!\\n\\nPara mais informações sobre a &aRadiação&r, consulte a página da missão &5&lMekanism: Reactores&r."]
 	quest.49E13245EE169048.quest_subtitle: "0"
 	quest.49E13245EE169048.title: "&6Traje de Material Perigoso"
 	quest.4A9CB8778D37049F.quest_desc: ["Você precisará usar um Ritual do Despertar para obter os Itens para fazer outro Ritual do Despertar na &4Armadura de Supremium&r. \\n\\nAcho que vale a pena; é a melhor Armadura que você pode obter do &2&lMystical&r!"]
@@ -243,8 +243,8 @@
 		"Também pode ser obtido de Silverfish da Horda Selvagem."
 		"{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"
 	]
-	quest.62161BDE9AAAA4BF.title: "Ornamento de Armadura: Explorador"
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Ruínas da Trilha"
+	quest.62161BDE9AAAA4BF.title: "Ornamento de Armadura: Explorador"
 	quest.65A529C8238E89F1.quest_desc: ["Graças ao &5&lMekanism&r agora podemos fazer Armadura de &9Lápis-lazúli&r! \\n\\nMas é meio ruim..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
 	quest.65A529C8238E89F1.title: "&9Armadura de Lápis-lazúli"
@@ -258,6 +258,7 @@
 		"Também pode ser obtido de Guardiões Anciãos Possuídos."
 		"{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"
 	]
+	quest.66C21934DAFFAC7F.quest_subtitle: "Dropado de Guardiões Anciões"
 	quest.66C21934DAFFAC7F.title: "Ornamento de Armadura: Maré"
 	quest.68DABFFB6B3E1A57.quest_desc: [
 		"Também pode ser obtido de Enderman Possuídos."

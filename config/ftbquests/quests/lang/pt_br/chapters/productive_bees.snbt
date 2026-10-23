@@ -3,7 +3,7 @@
 	quest.003AA945CACCD641.title: "&fAbelha das Profundezas"
 	quest.003FF3813A864BA1.quest_subtitle: "Alimente uma Abelha de Lava com um Balde de Matéria Estranha"
 	quest.003FF3813A864BA1.title: "&fAbelha de Matéria Estranha"
-	quest.0072C4F028C327CB.quest_subtitle: "Magmatic + Nomad"
+	quest.0072C4F028C327CB.quest_subtitle: "Magmática + Nômade"
 	quest.0072C4F028C327CB.title: "&fAbelha de Blaze"
 	quest.00A17728A387B426.quest_desc: ["Ninhos de Madeira são usados para atrair Abelhas Carpinteiras e a Abelha de Faixa Azul.\\n\\nNinhos de Carvalho Escuro atraem 3 abelhas diferentes.\\n\\nEstes podem ser colocados em qualquer Bioma do Mundo Superior."]
 	quest.00A17728A387B426.quest_subtitle: "Pode ser usado em qualquer bioma do Mundo Superior"
@@ -51,7 +51,7 @@
 	quest.065196033249A0AA.title: "&fAbelha de Bioaço"
 	quest.0691BDE968724213.quest_subtitle: "Feito na Fundição de Ligas"
 	quest.0691BDE968724213.title: "&fAbelha de Liga Vibrante"
-	quest.069247036385D7CF.quest_desc: ["Afeta o horário do dia em que uma abelha pode trabalhar. Existem 3 níveis disso: &aDiurno&r, &dNoturno&r, &cMetaturnal&r. Abelhas &aDiurnas&r só podem trabalhar durante o dia, abelhas &dNoturnas&r só podem trabalhar à noite, abelhas &cMetaturnas&r podem trabalhar a qualquer hora do dia. &cMetaturnal&r é o que estamos procurando. A BeeBee naturalmente tem a característica &cMetaturnal&r, mas, como mencionado antes, está de férias, então precisaremos buscar medidas alternativas. Precisaremos prender algumas abelhas em uma cerca durante a noite para torná-las &dNoturnas&r, e depois deixá-las na cerca durante o dia para torná-las &cMetaturnas&r. Podemos pular uma dessas etapas com uma Abelha Fantasmagórica, que é naturalmente &dNoturna&r."]
+	quest.069247036385D7CF.quest_desc: ["Afeta o horário do dia em que uma abelha pode trabalhar. Existem 3 níveis disso: &aDiurno&r, &dNoturno&r, &cMetaturno&r. Abelhas &aDiurnas&r só podem trabalhar durante o dia, abelhas &dNoturnas&r só podem trabalhar à noite, abelhas &cMetaturnas&r podem trabalhar a qualquer hora do dia. &cMetaturno&r é o que estamos procurando.\\n\\nA BeeBee naturalmente tem a característica &cMetaturno&r, mas, como mencionado antes, está de férias, então precisaremos buscar medidas alternativas.\\n\\nPrecisaremos prender algumas abelhas em uma cerca durante a noite para torná-las &dNoturnas&r, e depois deixá-las na cerca durante o dia para torná-las &cMetaturnas&r. Podemos pular uma dessas etapas com uma Abelha Fantasmagórica, que é naturalmente &dNoturna&r."]
 	quest.069247036385D7CF.quest_subtitle: "Dormir é para os fracos"
 	quest.069247036385D7CF.title: "&l&eComportamento das Abelhas"
 	quest.06B352AE90DD0D3E.quest_desc: ["Uma &8Abelha de Blaze&r polinizando um &4Ovo Gerador de Abelha Obsidiana&r irá convertê-lo em um &2Ovo Gerador de Abelha Infinita&r."]
@@ -86,7 +86,7 @@
 	quest.0CD6F30BBEE20E15.quest_subtitle: "Pedra Luminosa + Ósmio"
 	quest.0CD6F30BBEE20E15.title: "&fAbelha de Pedra Luminosa Refinada"
 	quest.0D5D76B3551CD5A7.quest_desc: ["Sim, é chamada de Abelha de Alumínio."]
-	quest.0D5D76B3551CD5A7.quest_subtitle: "Crystalline + Ashy Mining"
+	quest.0D5D76B3551CD5A7.quest_subtitle: "Cristalina + Mineira Cinzenta"
 	quest.0D5D76B3551CD5A7.title: "&fAbelha de Alumínio"
 	quest.0D97CDE92F3B1A83.quest_subtitle: "Despeje Endério Derretido sobre um Ovo Gerador de Abelha de chumbo/diamante/platina"
 	quest.0D97CDE92F3B1A83.title: "&fAbelha de Endério"
@@ -139,7 +139,7 @@
 		"Certifique-se de verificar em qual bioma você precisa estar para atrair as Abelhas certas!"
 	]
 	quest.131EC039435B8878.title: "&6Guloseimas de Mel"
-	quest.13AA91D39A2CABF2.quest_desc: ["Bem-vindo ao &6Productive Bees&r!\n\nPara começar com o mod, você precisará primeiro encontrar alguns Favos de Mel e Garrafas de Mel! Plante algumas árvores perto de flores para um Ninho de Abelhas (ou obtenha um Foliot para fornecer Favos de Mel), e deixe as abelhas fazerem seu trabalho por um tempo. Ao tosquiar quando estiver cheio, você obterá Favos de Mel, e garrafas de vidro darão Garrafas de Mel!\n\n&9Nota Importante&r: Com as missões de abelha exigindo colmeias, as receitas não serão exibidas. Certifique-se de procurá-las no JEI se precisar delas!"]
+	quest.13AA91D39A2CABF2.quest_desc: ["Bem-vindo ao &6Productive Bees&r!\\n\\nPara começar com o mod, você precisará primeiro encontrar alguns Favos de Mel e Garrafas de Mel! Plante algumas árvores perto de flores para um Ninho de Abelhas (ou obtenha um Foliot para fornecer Favos de Mel), e deixe as abelhas fazerem seu trabalho por um tempo. Ao tosquiar quando estiver cheio, você obterá Favos de Mel, e garrafas de vidro darão Garrafas de Mel!\\n\\n&9Nota Importante&r: Com as missões de abelha exigindo colmeias, as receitas não serão exibidas. Certifique-se de procurá-las no JEI se precisar delas!"]
 	quest.13AA91D39A2CABF2.quest_subtitle: "Abelhas que produzem até nosso café! Por quê não?!"
 	quest.13AA91D39A2CABF2.title: "&6Productive Bees&f!"
 	quest.13C5C06278DD9C95.quest_subtitle: "Combine um Ovo Gerador de Abelha de Diamante com um Ovo Gerador de Abelha de Níquel"
@@ -188,10 +188,7 @@
 	quest.18F948FF9FE015FB.quest_subtitle: "Dê TNT a uma Abelha Vanilla"
 	quest.18F948FF9FE015FB.title: "&fAbelha Creeper"
 	quest.196E55B64667AE35.quest_desc: [
-		"Você pode colocar Flores em Lajes de Alimentação e determinados itens para a alimentação de cada tipo de Abelha, são colocadas na frente das Colmeias. "
-		""
-		"Como demonstrado na imagem abaixo.\\n"
-		""
+		"Você pode colocar Flores de Abelha em Lajes de Alimentação posicionadas na frente das Colmeias, como mostrado na imagem abaixo.\\n"
 		"{image:atm:textures/questpics/bees/feeder.png width:175 height:100 align:center fit:true}"
 	]
 	quest.196E55B64667AE35.quest_subtitle: "Colocando uma Laje"
@@ -205,7 +202,7 @@
 	quest.1A4FAE5705B53753.title: "&fAbelha de Essência do Ar"
 	quest.1ACB3EDBCB732514.quest_subtitle: "Alimente uma Abelha de Enxofre com um Bloco de Monazite"
 	quest.1ACB3EDBCB732514.title: "&fAbelha de Monazita"
-	quest.1B135C28E29F249F.quest_desc: ["Afeta a agressividade da abelha e a probabilidade de ela te picar. Esta é uma das características menos importantes, embora valha a pena não ter uma abelha agressiva quando você quiser trabalhar com ela no mundo. Existem 4 níveis disso: &aPassiva&r, &9Normal&r, &cHostil&r, &dAgressiva&r. Vou ser honesto, não sei exatamente o que cada nível de Temperamento faz. Tudo o que sei é que as abelhas &dAgressivas&r VÃO te picar, mesmo que não haja provocação. As abelhas se tornarão menos agressivas se você as alimentar com Guloseimas de Mel."]
+	quest.1B135C28E29F249F.quest_desc: ["Afeta a agressividade da abelha e a probabilidade de ela te picar. Esta é uma das características menos importantes, embora valha a pena não ter uma abelha agressiva quando você quiser trabalhar com ela no mundo. Existem 4 níveis disso: &aPassiva&r, &9Padrão&r, &cHostil&r, &dAgressiva&r.\\n\\nVou ser honesto, não sei exatamente o que cada nível de Temperamento faz. Tudo o que sei é que as abelhas &dAgressivas&r VÃO te picar, mesmo que não haja provocação. As abelhas se tornarão menos agressivas se você as alimentar com Guloseimas de Mel."]
 	quest.1B135C28E29F249F.quest_subtitle: "Para de me picar já!"
 	quest.1B135C28E29F249F.title: "&l&4Temperamento"
 	quest.1C0F4D1610530FEC.quest_subtitle: "Feito na Forja de Aço do Dragão"
@@ -336,7 +333,7 @@
 	quest.35E8F1CC0080E45E.title: "&fAbelha de Rubi"
 	quest.35EAB77C195E594E.quest_subtitle: "Alimente uma Abelha de Diamante com Ametista"
 	quest.35EAB77C195E594E.title: "&fAbelha de Ametista"
-	quest.35FCF2D4A89D55F6.quest_desc: ["As abelhas possuem diferentes características que podem afetar como elas trabalham, quando trabalham, sua agressividade e a probabilidade de perderem o ferrão ao te atacar. Nessas missões, vou explicar como obter as melhores características possíveis, assim como como usá-las.\n\nPara obter essas Amostras de Genes, consulte a missão do Engarrafador, que é uma dependência dessa. Para aplicar essas Amostras de Genes nas suas abelhas, você precisará combiná-las com uma Guloseima de Mel em uma grade de criação. Todas as características, exceto o Tipo, podem ser aplicadas às suas abelhas alimentando-as com a Guloseima de Mel. O Tipo funciona de forma diferente e deve ser usado com o Incubador para criar um Ovo de Desova da respectiva abelha."]
+	quest.35FCF2D4A89D55F6.quest_desc: ["As abelhas possuem diferentes características que podem afetar como elas trabalham, quando trabalham, sua agressividade e a probabilidade de perderem o ferrão ao te atacar. Nessas missões, vou explicar como obter as melhores características possíveis, assim como como usá-las.\\n\\nPara obter essas Amostras de Genes, consulte a missão do Engarrafador, que é uma dependência dessa. Para aplicar essas Amostras de Genes nas suas abelhas, você precisará combiná-las com uma Guloseima de Mel em uma grade de criação. Todas as características, exceto o Tipo, podem ser aplicadas às suas abelhas alimentando-as com a Guloseima de Mel. O Tipo funciona de forma diferente e deve ser usado com o Incubador para criar um Ovo de Desova da respectiva abelha."]
 	quest.35FCF2D4A89D55F6.quest_subtitle: "Para fazer a abelha definitiva"
 	quest.35FE9C3395491433.quest_subtitle: "Pressurize o Ovo Gerador de Abelha de Ferro"
 	quest.35FE9C3395491433.title: "Abelha de Ferro Comprimido"
@@ -345,7 +342,7 @@
 	quest.369D3AF332181DA8.quest_desc: ["O Ninho de Pedra pode ser colocado em qualquer bioma do Mundo Superior para atrair uma Abelha Pedreira ou uma Abelha Escavadora."]
 	quest.369D3AF332181DA8.quest_subtitle: "Atrai Abelhas em qualquer Bioma do Mundo Superior"
 	quest.369D3AF332181DA8.title: "&fNinho de &7Pedra"
-	quest.36C06EB2F3B9E6B2.quest_desc: ["Afeta a capacidade de uma abelha trabalhar sob condições climáticas adversas. Existem 3 níveis disso: &aNenhum&r, &dChuva&r, &cQualquer&r. &cQualquer&r é o que estamos procurando. Você poderia prender a abelha a uma cerca durante uma tempestade, se quisesse, mas vamos lá, isso é só cruel. Eu te ofereço uma solução mais fácil. Pesca. Isso mesmo, você pode pescar abelhas. Abelhas de Água ou Prismarina naturalmente vêm com a capacidade de tolerar qualquer condição climática. Podemos aproveitar isso! Elas nem têm requisitos de bioma aqui!"]
+	quest.36C06EB2F3B9E6B2.quest_desc: ["Afeta a capacidade de uma abelha trabalhar sob condições climáticas adversas. Existem 3 níveis disso: &aNenhum&r, &dChuva&r, &cQualquer&r. &cQualquer&r é o que estamos procurando.\\n\\nVocê poderia prender a abelha a uma cerca durante uma tempestade, se quisesse, mas vamos lá, isso é só cruel.\\n\\nEu te ofereço uma solução mais fácil. Pesca. Isso mesmo, você pode pescar abelhas. Abelhas de Água ou Prismarina naturalmente vêm com a capacidade de tolerar qualquer condição climática. Podemos aproveitar isso! Elas nem têm requisitos de bioma aqui!"]
 	quest.36C06EB2F3B9E6B2.quest_subtitle: "A menor das grandes"
 	quest.36C06EB2F3B9E6B2.title: "&9&lTolerância ao Clima"
 	quest.37045B986619A03D.quest_subtitle: "Abelha Carpinteira Amarela + Verde"
@@ -576,7 +573,7 @@
 	]
 	quest.6F978C4D561F35EC.quest_subtitle: "Querida, Esmaguei as Abelhas"
 	quest.6F978C4D561F35EC.title: "&fEngarrafador"
-	quest.6FD944282C44BCE1.quest_desc: ["Afeta a probabilidade de a abelha perder seu ferrão sempre que atacar algo. Esta característica é menos importante em comparação com as primeiras 3 que mencionei, mas vou falar sobre ela mesmo assim. Existem 4 níveis disso: &aFraco&r, &9Normal&r, &dMédio&r, &cForte&r. &cForte&r é o que vou focar. Certas Abelhas, como Dracônicas, Obsidianas e algumas outras abelhas que eu não mencionei, naturalmente têm uma resistência forte, permitindo que mantenham seu ferrão."]
+	quest.6FD944282C44BCE1.quest_desc: ["Afeta a probabilidade de a abelha perder seu ferrão sempre que atacar algo. Esta característica é menos importante em comparação com as primeiras 3 que mencionei, mas vou falar sobre ela mesmo assim. Existem 4 níveis disso: &aFraco&r, &9Normal&r, &dMédio&r, &cForte&r. &cForte&r é o que vou focar.\\n\\nCertas Abelhas, como Dracônicas, Obsidianas e algumas outras abelhas que eu não mencionei, naturalmente têm uma resistência forte, permitindo que mantenham seu ferrão."]
 	quest.6FD944282C44BCE1.quest_subtitle: "Uma das menos importantes"
 	quest.6FD944282C44BCE1.title: "&l&bResistência"
 	quest.70C878DB6AE413B2.quest_subtitle: "Magmatic + Carvão"
@@ -610,8 +607,7 @@
 	quest.761D21C6FBD13EE1.quest_subtitle: "Alimente uma Abelha de Diamante com Peridoto"
 	quest.761D21C6FBD13EE1.title: "&fAbelha de Peridoto"
 	quest.76E94639E90FEB4E.quest_desc: [
-		"Coloque algumas &eColmeias Avançadas&r vazias em uma área não iluminada. \\n"
-		"As abelhas aparecerão com o tempo."
+		"Coloque algumas &eColmeias Avançadas&r vazias em uma área não iluminada. As abelhas se mudarão com o tempo, à noite."
 	]
 	quest.76E94639E90FEB4E.quest_subtitle: "Colmeias, sozinhas e no escuro, revelam grandes surpresas!"
 	quest.76E94639E90FEB4E.title: "&fAbelha Esquelética"
@@ -657,7 +653,7 @@
 	quest.7E57964F6AD5B060.title: "&fAbelha Chá"
 	quest.7EAFF64FFE8B5378.quest_subtitle: "Ferro + Suor"
 	quest.7EAFF64FFE8B5378.title: "&fAbelha de Zinco"
-	quest.7F61CAC8922A3A2A.quest_desc: ["Afeta a quantidade de colmeias que você recebe sempre que uma abelha produz colmeias de mel. Existem 4 níveis disso: &aNormal&r, &9Médio&r, &dAlto&r, &cMuito Alto&r. &cMuito Alto&r é o que estamos buscando. Ele é encontrado na KamikazBee e na BeeBee. No entanto, a BeeBee está de férias lá embaixo, então a KamikazBee é nossa única opção. Para conseguir uma KamikazBee, você precisa de um Capacete de Ninho de Abelha. Seja atacado por mobs (ou se atire com uma flecha) enquanto estiver usando o capacete para ter 30% de chance de fazer uma KamikazBee emergir. Ela é bem rápida e picará o agressor (a menos que seja você), então é melhor pegá-la rapidamente ou usar o Pegador."]
+	quest.7F61CAC8922A3A2A.quest_desc: ["Afeta a quantidade de colmeias que você recebe sempre que uma abelha produz colmeias de mel. Existem 4 níveis disso: &aNormal&r, &9Médio&r, &dAlto&r, &cMuito Alto&r. &cMuito Alto&r é o que estamos buscando. Ele é encontrado na KamikazBee e na BeeBee.\\n\\nNo entanto, a BeeBee está de férias lá embaixo, então a KamikazBee é nossa única opção.\\n\\nPara conseguir uma KamikazBee, você precisa de um Capacete de Ninho de Abelha. Seja atacado por mobs (ou se atire com uma flecha) enquanto estiver usando o capacete para ter 30% de chance de fazer uma KamikazBee emergir. Ela é bem rápida e picará o agressor (a menos que seja você), então é melhor pegá-la rapidamente ou usar o Pegador."]
 	quest.7F61CAC8922A3A2A.quest_subtitle: "A grande"
 	quest.7F61CAC8922A3A2A.title: "&a&lProdutividade"
 	task.01C9E075D831E1AD.title: "&fNinho de Neve"
@@ -667,7 +663,7 @@
 	task.09F5BBEBACBA280D.title: "&fNinho de &ePedra Luminosa"
 	task.0A77407CE9055F04.title: "Abelha de Suor"
 	task.0CDFF60D581118E3.title: "Abelha Cuco Neon"
-	task.0EF1CA8DED2FF38C.title: "Advanced Beehives"
+	task.0EF1CA8DED2FF38C.title: "Colmeias Avançadas"
 	task.0F2BCC279B5731AB.title: "Favo de Ametista"
 	task.10D83EFF8DF8830B.title: "&fLocalizador de &6Ninhos"
 	task.11931CBFE67ADBBB.title: "TodosOsDireitosReservados"

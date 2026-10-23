@@ -24,9 +24,9 @@
 	quest.1C4ABF4518638A82.title: "Maçã de &4Supremium"
 	quest.1CC4F8570A7A99EB.quest_desc: ["A &dEssence&r é o ponto de partida para todas as suas necessidades de cultivo no Mystical Agriculture.\\n\\nA &eInferium Essence&r é o nível base de todas as essências. Você pode obtê-la minerando, matando monstros ou criando sementes para cultivá-las! \\n\\nPara fazer as essências maiores e melhores, você precisará criar um &9Infusion Crystal&r. "]
 	quest.1CC4F8570A7A99EB.quest_subtitle: "Nível: &e1"
-	quest.1CC4F8570A7A99EB.title: "&aInferium"
+	quest.1CC4F8570A7A99EB.title: "&aInfério"
 	quest.1CF8263756EE8F2A.quest_desc: ["Este &ePó&r especial é dropado pelo Wither e pelo Ender Dragon quando mortos por uma &dEssence Weapon&r encantada com &dMystical Enlightenment&r."]
-	quest.1CF8263756EE8F2A.title: "&5Cognizant Dust&r"
+	quest.1CF8263756EE8F2A.title: "&5Pó Cognitivo&r"
 	quest.1E0F92F07FDD162E.quest_desc: ["Você precisará de &bBases de Sementes de Prosperidade&r para criar culturas de recursos."]
 	quest.1E0F92F07FDD162E.quest_subtitle: "Eu sou todo sobre essa Base (de Semente)"
 	quest.1E0F92F07FDD162E.title: "&bBase de Semente de Prosperidade"
@@ -38,7 +38,7 @@
 	quest.1F88C697817A7680.title: "&aMaçã de Inferium"
 	quest.202B1F54D3F06DAB.quest_desc: ["Esta é a Essência de Nível 6, feita combinando 4 Supremium com um Cristal de Infusão."]
 	quest.202B1F54D3F06DAB.quest_subtitle: "Nível: &56"
-	quest.202B1F54D3F06DAB.title: "&5Insanium"
+	quest.202B1F54D3F06DAB.title: "&5Insânio"
 	quest.20851E0CF315F722.quest_desc: ["Para sementes deste nível, você precisará de um núcleo do mesmo tipo colocado abaixo da terra arável para que as sementes cresçam."]
 	quest.20851E0CF315F722.title: "&5Terra Arável de Insanium"
 	quest.212EF8601746C500.quest_desc: ["Bônus:\\n\\n - Absorção II (3:00)\\n - Velocidade II (3:00)\\n - Resistência II (3:00)\\n - Regeneração II (3:00)"]
@@ -62,7 +62,7 @@
 	quest.2C73E3C5113BF2AC.quest_subtitle: "Nível: &a2"
 	quest.2C9C9CB71941DC01.quest_desc: ["Esta é a Essência de Nível 3, feita combinando 4 Prudentium com um Cristal de Infusão."]
 	quest.2C9C9CB71941DC01.quest_subtitle: "Nível: &63"
-	quest.2C9C9CB71941DC01.title: "&cTertium"
+	quest.2C9C9CB71941DC01.title: "&cTértio"
 	quest.2DDA04088C8220D2.quest_desc: ["Fragmentos de Prosperidade são um ingrediente central de fabricação no mod. Você pode obtê-los peneirando Areia da Alma com uma Peneira de Ferro ou superior."]
 	quest.2DDA04088C8220D2.quest_subtitle: "Podemos finalmente ter Prosperidade?"
 	quest.2DDA04088C8220D2.title: "&bFragmentos de Prosperidade"
@@ -108,7 +108,11 @@
 	quest.4F137DB561F45306.title: "Armadura de &2Prudentium&r"
 	quest.52BB58D470560219.quest_subtitle: "Alcance: &c54&r Blocos"
 	quest.52BB58D470560219.title: "Growth Accelerators de Supremium Despertado"
-	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r é um mod de geração de recursos que permite cultivar uma grande variedade de recursos vanilla e de mods usando &aSementes&r."]
+	quest.54735C5FCD2077B3.quest_desc: [
+		"&aMystical Agriculture&r é um mod de geração de recursos que permite cultivar uma grande variedade de recursos vanilla e de mods usando &aSementes&r."
+		""
+		"Atenção: muitas das sementes foram removidas neste modpack — sim, eu sei! Como pudemos? Bem, existem algumas alternativas com GeOres que podem preencher esse vazio ;)"
+	]
 	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
 	quest.54D72C234EA76054.quest_subtitle: "Nível: &e1"
 	quest.56201F98819478AB.quest_subtitle: "Nível: &a2"
@@ -128,17 +132,17 @@
 	quest.6501A410F1543C70.title: "&dFertilizante Místico"
 	quest.66C52B137A4FF869.quest_desc: ["Esta é a Essência de Nível 4, feita combinando 4 Tertium com um Cristal de Infusão."]
 	quest.66C52B137A4FF869.quest_subtitle: "Nível: &b4"
-	quest.66C52B137A4FF869.title: "&9Imperium"
+	quest.66C52B137A4FF869.title: "&9Imperita"
 	quest.67DBE6C59C0D9D1B.quest_desc: ["Esta é a Essência de Nível 4, feita combinando 4 Imperium com um Cristal de Infusão."]
 	quest.67DBE6C59C0D9D1B.quest_subtitle: "Nível: &c5"
-	quest.67DBE6C59C0D9D1B.title: "&4Supremium"
+	quest.67DBE6C59C0D9D1B.title: "&4Suprêmio"
 	quest.67DDFA6FB1F9EECA.title: "Ferramentas de &9Imperium"
 	quest.685C4A646E092A82.title: "Armadura de Supremium &6Desperta"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Nível: &63"
 	quest.712EB19B26D405DD.quest_subtitle: "Nível: &e1"
 	quest.73350AD668200E99.quest_desc: ["Esta é a Essência de Nível 2, feita combinando 4 Inferium com um Cristal de Infusão."]
 	quest.73350AD668200E99.quest_subtitle: "Nível: &a2"
-	quest.73350AD668200E99.title: "&2Prudentium"
+	quest.73350AD668200E99.title: "&2Prudêncio"
 	quest.75560045ED084900.quest_desc: [
 		"A maioria das sementes é simples de fazer, mas para fazer &9Sementes de Mob&r, você precisará ir ao Nether para pegar um pouco de &8Soulium&r. "
 		""

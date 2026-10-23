@@ -97,6 +97,9 @@
 		"Sempre há novas maneiras de usar cada recurso aparentemente mundano para maximizar sua experiência com o modpack. Feliz fabricação de rituais!"
 	]
 	quest.29C83B00AC4AFC23.title: "O que vem a seguir?"
+	quest.2A3D132CDBDC8174.quest_desc: ["Você pode estar se perguntando: Por que há um item do Ars Nouveau no capítulo do Occultism? Isso é porque temos o Ars Ocultas, para unir os dois mods. Particularmente, Espíritos, como nosso Triturador Foliot, podem trabalhar nessas jarras. Você pode até inserir itens nas jarras via tubos para os espíritos interagirem, e eles os enviarão para inventários adjacentes (descobri que a parte inferior da jarra é o lugar mais confiável para onde eles enviam). Se eles não puderem enviar para um inventário, eles jogarão os itens no mundo."]
+	quest.2A3D132CDBDC8174.quest_subtitle: "Espíritos podem trabalhar em Jarras de Contenção"
+	quest.2A3D132CDBDC8174.title: "Ars Ocultas: Jarras de Espírito"
 	quest.2A5004EB99AE4F96.quest_desc: [
 		"Há mais itens do Outro Mundo que você precisará coletar, e comer &cFruta do Sonho do Demônio&r toda vez que precisar do efeito do &7Terceiro Olho&r se torna irritante."
 		""
@@ -232,11 +235,12 @@
 		""
 		"É assim que o ritual se parecerá."
 		""
-		"{image:atm:textures/questpics/occultism/aviarcirclenew.png width:200 height:200 align:1}"
+		""
+		"{image:atm:textures/questpics/occultism/aviarcirclenew.png width:200 height:200 align:center}"
 	]
 	quest.4F35D04721DFC9FF.quest_subtitle: "Círculo de Aviar"
 	quest.4F35D04721DFC9FF.title: "&bNosso Primeiro &dRitual"
-	quest.5316DF321B45D2CA.quest_desc: ["Bem-vindo ao &dOccultism&r!\n\nEste mod tem como objetivo ajudar o jogador de várias maneiras, convocando a ajuda de &c&mDemônios&r e &bEspíritos&r! Não se preocupe, a maioria deles é amigável. &oA maioria&r.\n\nPara começar, você precisará obter algumas &aSementes do Sonho do Demônio&r. Quebre algumas gramas para consegui-las."]
+	quest.5316DF321B45D2CA.quest_desc: ["Bem-vindo ao &dOccultism&r!\\n\\nEste mod tem como objetivo ajudar o jogador de várias maneiras, convocando a ajuda de &c&mDemônios&r e &bEspíritos&r! Não se preocupe, a maioria deles é amigável. &oA maioria&r.\\n\\nPara começar, você precisará obter algumas &aSementes do Sonho do Demônio&r. Quebre algumas gramas para consegui-las."]
 	quest.5316DF321B45D2CA.title: "Sonhando com &cDemônios"
 	quest.53DEA3DFEDC4809E.quest_desc: [
 		"Não se preocupe, este é o último da série de rituais de Abras. Ele é usado para invocar um demônio &9Marid&r, mas mesmo que use Giz Vermelho, não é poderoso o suficiente para &9vincular&r o Demônio. Isso significa que, infelizmente, você terá que lutar contra ele."
@@ -246,13 +250,11 @@
 	quest.53DEA3DFEDC4809E.quest_subtitle: "É um Pássaro? É um Avião? Não, é um &9Marid&r desvinculado!"
 	quest.53DEA3DFEDC4809E.title: "&4Atração de Tibira"
 	quest.54378277B8D28B1D.quest_desc: [
-		"Uma \"melhoria\" para o Giz Arco-Íris, para aqueles que não gostam das runas de cores que mudam rapidamente arruinando sua estética meticulosamente criada."
-		""
-		"Tem a mesma função que o Giz Arco-Íris, exceto que todas as runas aparecerão em branco, e agora também funciona com o Giz de Fundação."
+		"Uma alternativa ao Giz Arco-Íris, para aqueles que preferem as cores do Giz de Fundação.\\n\\nTem a mesma função do Giz Arco-Íris, exceto que todas as runas alternarão apenas entre as cores do Giz de Fundação."
 	]
-	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Invocada&r é o nível máximo de &5Rituais de Possessão&r. Ele tem apenas dois usos: criar Essência da Crueldade, o principal ingrediente do Giz Marrom, e criar um Golem de Iesnium, que é basicamente um Golem de Ferro imortal e que causa mais dano."]
+	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r é o nível máximo de &5Rituais de Possessão&r. Ele tem apenas dois usos: criar Essência da Crueldade, o principal ingrediente do Giz Marrom, e criar um Golem de Iesnium, que é basicamente um Golem de Ferro imortal e que causa mais dano."]
 	quest.56EC79AF11B0869E.quest_subtitle: "Possessão Máxima"
-	quest.56EC79AF11B0869E.title: "&9Xeovrenth Invocada"
+	quest.56EC79AF11B0869E.title: "&9Xeovrenth Adjure"
 	quest.57282D7E31EE61EE.quest_desc: [
 		"Depois de coletar alguns &aMinérios Brutos de Iesnium&r, você provavelmente vai querer usar os primeiras Barras para fazer uma &dPicareta de Iesnium&r. Ela não só minera Iesnium como a Picareta Infundida, mas também dura muito mais."
 		""
@@ -289,10 +291,26 @@
 		"Os Gizes Coloridos são os mais comumente usados, mas a cor do Giz não se correlaciona diretamente com seu poder da mesma forma que os Gizes de Fundação."
 	]
 	quest.5ACE97EE75813006.title: "Os Fundamentos dos Rituais"
-	quest.5AE80FF518B1BBA6.quest_desc: ["Cansado de carregar Gizes, Velas, Crânios e Cristais por aí? Apenas fabrique uma Bolsa Ritualística!\\n\\nAo agachar (shift) + clicar com o botão direito com a Bolsa Ritualística em sua mão, você pode enchê-la com todos os materiais necessários para desenhar um círculo de ritual.\\n\\nDepois de carregar a Bolsa, basta clicar com o botão direito em qualquer bloco de visualização para começar a colocar (lentamente) e automaticamente todas as runas para o ritual selecionado. \\n\\nSe um pedaço de giz dentro da bolsa cair para 1 de durabilidade, o brilho de encantamento neste item desaparecerá para sinalizar que pode ser hora de reparar ou substituir alguns de seus Gizes. A Bolsa também parará de usar esse giz para evitar que ele seja destruído."]
+	quest.5AE80FF518B1BBA6.quest_desc: [
+		"Cansado de carregar Gizes, Velas, Crânios e Cristais por aí? Apenas fabrique uma Bolsa Ritualística!"
+		""
+		"Ao agachar + clicar com o botão direito com a Bolsa Ritualística na mão, você pode enchê-la com todos os materiais necessários para desenhar um círculo de ritual."
+		""
+		"Depois de carregar a Bolsa, basta clicar com o botão direito em qualquer bloco de pré-visualização para começar a colocar (lentamente) todas as runas do ritual selecionado automaticamente."
+		""
+		"Se um pedaço de giz dentro da bolsa cair abaixo de 40% de durabilidade, o brilho de encantamento neste item desaparecerá para sinalizar que pode ser hora de reparar ou substituir alguns de seus Gizes."
+	]
 	quest.5AE80FF518B1BBA6.quest_subtitle: "Ritual de Bolso!"
 	quest.5AE80FF518B1BBA6.title: "Ferramentas do Ofício: Bolsa Ritual"
-	quest.61999669BDE127F9.quest_desc: ["Se você ainda não percebeu, fabricar e recriar rituais repetidamente desgasta muito a durabilidade de seus Gizes.\\n\\nSe você está preocupado com a quebra do seu Giz, mas não está com vontade de fazer todo o ritual para fabricar um novo giz novamente, então este ritual é para você!\\n\\nUsando o poder de um &aDjinni&r, você pode reparar qualquer cor de Giz ao seu máximo!\\n\\nAlternativamente, você pode usar algo como a &aStella Eterna&r do mod Forbidden Arcanus para preservar permanentemente seus Gizes!"]
+	quest.61999669BDE127F9.quest_desc: [
+		"Se você ainda não percebeu, fabricar e recriar rituais repetidamente desgasta muito a durabilidade de seus Gizes."
+		""
+		"Se você está preocupado com a quebra do seu Giz, mas não está com vontade de fazer todo o ritual para fabricar um novo giz novamente, então este ritual é para você!"
+		""
+		"Usando o poder de um &aDjinni&r, você pode reparar qualquer cor de Giz ao seu máximo!"
+		""
+		"Alternativamente, você pode usar algo como a &aStella Eterna&r do mod Forbidden Arcanus para preservar permanentemente seus Gizes!"
+	]
 	quest.61999669BDE127F9.quest_subtitle: "Você quebra, &m_nós_&r Demônios consertamos!"
 	quest.61999669BDE127F9.title: "Reparo de Giz"
 	quest.6581D4AF1A6DE230.quest_desc: ["Demônios gostam de Velas. Eu acho.\\n\\nPara quase todo Ritual para invocar nossos amigos, você precisará de algumas Velas. Você pode criar a &aFaca de Açougueiro&r e matar alguns porcos, vacas, ovelhas, cavalos ou até mesmo as Lhamas do Comerciante para obter um pouco de &aSebo&r para fazê-las. Na verdade, você definitivamente deveria encontrar as Lhamas do Comerciante. Ouvi dizer que elas dão boas velas. &mEu totalmente não acabei de inventar isso&r.\\n\\nCaso contrário, Velas da Vanilla também funcionam!\\n\\n&9Cristais Sintonizados com Espírito&r também são usados em vários Rituais, então é melhor fazer alguns agora!"]
@@ -307,9 +325,7 @@
 	quest.67884BFA27870CCE.quest_subtitle: "Para aqueles de nós menos inclinados a câmaras de teste"
 	quest.67884BFA27870CCE.title: "&dO Chamado Desvinculado de Osorin"
 	quest.690B89D23134B624.quest_desc: [
-		"Pegue seus Gizes, desenhe seu ritual de &dContato de Ronaza&r e prepare-se para criar o GIZ DEFINITIVO*!"
-		""
-		"Em vez de ter que carregar um conjunto completo de 16 Gizes, você pode usar o Giz Arco-Íris para pintar uma Runa que muda de cor e que conta como qualquer um deles! (exceto pelo Giz de Fundação, procure pelo Giz do Vazio para adicionar esses à mistura)! "
+		"Pegue seus Gizes, desenhe seu ritual de &dContato de Ronaza&r e prepare-se para criar o GIZ DEFINITIVO*!\\n\\nEm vez de ter que carregar um conjunto completo de 16 Gizes, você pode usar o Giz Arco-Íris para pintar uma Runa que muda de cor e que conta como qualquer um deles!"
 	]
 	quest.690B89D23134B624.title: "&fGiz de &zArco-Íris&r"
 	quest.6C1BBA559963B3DF.quest_desc: [
@@ -355,7 +371,7 @@
 	quest.78ECC28DD4BA9696.title: "Ferramentas do Ofício: Vara de Adivinhação"
 	quest.7B574DD5CC5ACAE3.quest_desc: ["Antes de prosseguirmos com o &dOccultism&r, é hora de aprendermos sobre a melhoria de cada tipo de Pentáculo. Cada pentáculo é construído com base no anterior daquele tipo.\\n\\nIsso significa que, em vez de construir Pentáculos separados para cada nível de Ritual (por exemplo, um pentáculo separado para invocar &aDjinnis&r e para invocar &aFoliots&r), você pode ter um pentáculo que lida com múltiplos níveis de Rituais. Por exemplo, o &9Atração incentivada de Fatma&r é construído com base em todos os pentáculos de Invocação anteriores.\\n\\nPor causa disso, sugiro configurar 4 áreas de 19x19 para cada Pentáculo. Uma para Invocação, uma para Infusão, uma para Possessão e uma para rituais Variados (Wild e Eldritch)."]
 	quest.7B574DD5CC5ACAE3.title: "Prefácio sobre Pentáculos"
-	quest.7BCD4A425CF6199B.quest_desc: ["Depois de matar a Cabra da Misericórdia invocada do &9Xeovrenth Invocada&r, você se encontrará um &#4E2C00Essência da Crueldade&r mais rico. Combine isso com alguns &#4E2C00Grãos de Cacau&r para criar Giz &#4E2C00Marrom&r."]
+	quest.7BCD4A425CF6199B.quest_desc: ["Depois de matar a Bode da Misericórdia invocada do &9Xeovrenth Adjure&r, você se encontrará um &#4E2C00Essência da Crueldade&r mais rico. Combine isso com alguns &#4E2C00Grãos de Cacau&r para criar Giz &#4E2C00Marrom&r."]
 	quest.7BCD4A425CF6199B.title: "&#4E2C00Giz Marrom"
 	quest.7F09F8F98C13F11B.quest_desc: [
 		"O que é um Ritual Demoníaco sem um &cSacrifício&r! :D\\n\\nNa maioria das vezes, os Demônios gostam apenas de itens, então não tenha muito medo ainda. No entanto, se você tem uma Vaca favorita, pode precisar se preocupar. Desculpe, Mimosa.\\n\\n&aTigelas de Sacrifício&r são usadas para colocar itens necessários para Rituais. Elas podem ser colocadas em qualquer lugar dentro do Ritual, desde que não estejam cobrindo nenhum dos Gizes necessários. "
@@ -372,18 +388,22 @@
 	]
 	quest.7F59941D62E672B0.title: "&dFamiliares"
 	task.036759CF4EEFFC7D.title: "TodosOsDireitosReservados"
-	task.05A43D4098C30ED1.title: "Eldritch Chalices"
+	task.05A43D4098C30ED1.title: "Cálices Eldritch"
 	task.0EE813C344409F59.title: "Velas"
 	task.10037D5225C2D20E.title: "Tigela Sacrificial de Iesnium"
 	task.1709A45C149125F1.title: "TodosOsDireitosReservados"
+	task.1BBB313192F51FA8.title: "Bases de Atuadores de Armazenamento"
 	task.2C5C6F411E2F0CAF.title: "Qualquer #c:dusts/Netherita"
 	task.348A7E3E3A3D324E.title: "Sim, eu li isso e com certeza não vou esquecer!"
 	task.3621D48E2CFAF2C2.title: "Qualquer #c:wools"
+	task.4EDB733716D494CE.title: "Atuadores de Armazenamento"
+	task.51F520BF7DA37873.title: "Estabilizadores de Armazenamento"
 	task.523951BF097BA61F.title: "Qualquer #c:dusts/emerald"
-	task.53DE943DF951696B.title: "Demon Miner"
+	task.53DE943DF951696B.title: "Minerador Demoníaco"
 	task.55DE27AB2EDB306E.title: "Tigelas Sacrificiais"
 	task.57108C994437F25B.title: "Qualquer #ae2:all_nether_quartz"
-	task.6B57473B652B8AAB.title: "Entendendo as melhorias dos Pentáculos"
 	task.6A5F16B79D587128.title: "Tigelas Douradas"
+	task.6B57473B652B8AAB.title: "Entendendo as melhorias dos Pentáculos"
 	task.6C3887D42B6B2122.title: "Familiares"
+	task.792FA8ED0719803C.title: "Buracos de Minhoca Estáveis"
 }

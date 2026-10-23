@@ -25,7 +25,7 @@
 	quest.034AB493E1EC2E63.title: "Núcleos da Matriz Montadora"
 	quest.07E5B0BF7D8E055A.quest_subtitle: "+30% de Chance de Evasão"
 	quest.09F43EB79DDBD127.quest_desc: [
-		"O Entrelaçador de Dados Quântico permite que itens sejam armazenados em múltiplas dimensões, multiplicando efetivamente o armazenamento de crafting em um Multibloco de Computador Quântico por 4. Por exemplo, um armazenamento de crafting quântico de 256M agora fornecerá 1G de Armazenamento de Crafting."
+		"O Entrelaçador de Dados Quântico permite que itens sejam armazenados em múltiplas dimensões, multiplicando efetivamente o armazenamento de crafting em um Multibloco de Computador Quântico por 6. Por exemplo, um armazenamento de crafting quântico de 256M agora fornecerá 1,5G de Armazenamento de Crafting."
 		""
 		"&lVocê só pode ter 1 destes em um Multibloco de Computador Quântico."
 	]
@@ -37,7 +37,9 @@
 		"Para aprimorar sua Armadura Quântica, abra o Menu de Configuração da Armadura Quântica pressionando sua respectiva tecla de atalho (N por padrão)."
 	]
 	quest.0B4CE3969067FA31.title: "Melhorias para Armadura Quântica"
-	quest.0D8B4DAB82ABEF9D.quest_desc: ["Aceleradores Quânticos adicionam 8 threads de coprocessamento cada ao multibloco do Computador Quântico. É importante notar que todos os trabalhos de crafting sendo executados pelo Computador Quântico podem compartilhar todos os coprocessadores, então é uma boa ideia investir em uma grande quantidade deles."]
+	quest.0D8B4DAB82ABEF9D.quest_desc: [
+		"Aceleradores Quânticos adicionam 8 threads de coprocessamento cada ao multibloco do Computador Quântico. É importante notar que todos os trabalhos de crafting sendo executados pelo Computador Quântico podem compartilhar todos os coprocessadores, então é uma boa ideia investir em uma grande quantidade deles."
+	]
 	quest.0D8B4DAB82ABEF9D.title: "Esquecimento do Coprocessamento: Acelerador de Computador Quântico"
 	quest.0E06F323BF8C1D73.quest_desc: [
 		"Dada a inevitabilidade da decomposição do Fluix Entroizado em Drusa, você pode querer outras maneiras de cultivá-los automaticamente."
@@ -90,7 +92,7 @@
 	quest.27FC0C092EE00532.title: "Enlatando este Líquido: O Enlatador ME"
 	quest.2E61219FC0BAB675.quest_subtitle: "Até +5 de Alcance"
 	quest.3347CB6478F486C6.quest_subtitle: "Bancada de Células Onde Quer Que Você Vá"
-	quest.33B7C1D2A229EB5C.quest_desc: ["Já quis a configuração definitiva de Computador Quântico? Bem, aqui está uma configuração para você, focada em maximizar threads de coprocessamento.\\n\\n218 Vidros Estruturais de Computador Quântico, 123 Aceleradores de Computador Quântico, 1 Núcleo de Computador Quântico e 1 Multi-Threader de Computador Quântico é o que precisamos. Isso nos dá um total de 8928 threads de coprocessamento. Note que eu não incluí nenhum armazenamento aqui além do núcleo, já que o armazenamento de criação de 256M do núcleo já é bastante suficiente. A missão do Emaranhador de Dados é opcional por um motivo.\\n\\nObtenha 200 Vidros Estruturais de C.Q. e 100 Aceleradores de C.Q., e eu lhe darei o resto, porque sou tão generoso quanto o capítulo de Encantamento Apótico."]
+	quest.33B7C1D2A229EB5C.quest_desc: ["Já quis a configuração definitiva de Computador Quântico? Bem, aqui está uma configuração para você, focada em maximizar threads de coprocessamento.\\n\\n218 Vidros Estruturais de Computador Quântico, 123 Aceleradores de Computador Quântico, 1 Núcleo de Computador Quântico e 1 Multi-Threader de Computador Quântico é o que precisamos. Isso nos dá um total de 3.968 threads de coprocessamento. Note que eu não incluí nenhum armazenamento aqui além do núcleo, já que o armazenamento de criação de 256M do núcleo já é bastante suficiente. A missão do Entrelaçador de Dados é opcional por um motivo.\\n\\nObtenha 200 Vidros Estruturais de C.Q. e 100 Aceleradores de C.Q., e eu lhe darei o resto, porque sou tão generoso quanto o capítulo Apothic Enchanting."]
 	quest.33B7C1D2A229EB5C.quest_subtitle: ""
 	quest.33B7C1D2A229EB5C.title: "O Computador Quântico Definitivo"
 	quest.34FBD04361657724.quest_desc: [
@@ -121,7 +123,7 @@
 	quest.3916B48D7F294932.quest_desc: ["O Hub Sem Fio ME é uma melhoria para o Conector Sem Fio ME. Ele agora pode se conectar a 8 Conectores ou Hubs Sem Fio diferentes. Note que o Hub só pode transferir 32 canais no total."]
 	quest.3916B48D7F294932.title: "Ramos de Conexões: O Hub Sem Fio"
 	quest.3972EE0ECB215843.quest_desc: ["Extended e Advanced AE são addons para o Applied Energistics 2. Ambos se concentram em melhorar sua experiência, adicionando versões aprimoradas de vários dispositivos, e mais."]
-	quest.3972EE0ECB215843.title: "Extended e Advanced AE"
+	quest.3972EE0ECB215843.title: "Extended \\& Advanced AE"
 	quest.3B3F1DE1AF6EBC1E.quest_subtitle: "+10 de Força"
 	quest.3CF32F2314839B1D.quest_desc: [
 		"Cansado da decomposição do seu Quartzo de Certus em Drusa e do Fluix Entroizado? Nós podemos consertar isso! Com este Reparador de Cristal, você pode consertar Cristais de Certus em Drusa com Quartzo de Certus Carregado, e Fluix Entroizado com Pó de Ender."
@@ -188,7 +190,9 @@
 		"Pode ser irritante descobrir qual dos seus Provedores de Padrão está travado ao fazer grandes trabalhos de crafting. O Terminal de Acesso a Padrões Estendido pode destacar os Provedores de Padrão no mundo, facilitando sua localização."
 	]
 	quest.534D827A628907F4.title: "Melhor Acesso a Padrões: O Terminal de Acesso a Padrões Estendido"
-	quest.55DFC96B4CDBFA7D.quest_desc: ["O Núcleo de Computador Quântico é o coração do Computador Quântico. Ele possui 256M de armazenamento de crafting e 8 threads de coprocessamento por si só. É também o único bloco capaz de formar um Computador Quântico sozinho, quando alimentado pelos lados de Cima ou de Baixo, onde estão os conectores. No entanto, se usado para criar um multibloco, um computador muito mais poderoso pode ser criado."]
+	quest.55DFC96B4CDBFA7D.quest_desc: [
+		"O Núcleo de Computador Quântico é o coração do Computador Quântico. Ele possui 256M de armazenamento de crafting e 8 threads de coprocessamento por si só. É também o único bloco capaz de formar um Computador Quântico sozinho, quando alimentado pelos lados de Cima ou de Baixo, onde estão os conectores. No entanto, se usado para criar um multibloco, um computador muito mais poderoso pode ser criado."
+	]
 	quest.55DFC96B4CDBFA7D.title: "Coração dos Crafts: Núcleo de Computador Quântico"
 	quest.56DE217FEAE3F036.quest_desc: [
 		"O Provedor de Padrão Avançado ME é um novo tipo de Provedor de Padrão ME que aprimora um Provedor de Padrão padrão ou Estendido com a habilidade de configurar a face para a qual cada item individual em um padrão é enviado. Isso permite a automação de máquinas que requerem lados específicos para entradas específicas ser feita com um único bloco e sem tubos ou uma sub-rede, como com o Infusor Metalúrgico do Mekanism."
@@ -210,7 +214,7 @@
 		"De um Provedor de Padrão que pode enviar para lados específicos de uma máquina, a um computador multibloco que é capaz de executar trabalhos de crafting ilimitados, compartilhando coprocessadores entre esses crafts, e tudo mais."
 	]
 	quest.7725CB7D0AE55180.title: "Advanced AE"
-	quest.78215D704E6095B0.quest_desc: ["Você acha que &5&lMekanism&r e &l&7Modern Industrialization&r podem ter toda a diversão com seus conjuntos de armadura de fim de jogo? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r mas, como a &aMekaSuit&r, ela pode usar Energia como um escudo. \\nEla também tem melhorias que podem ser instaladas para te deixar ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar Energia dele automaticamente e retirar qualquer Item dele, não importa onde você esteja. \\n\\nAlém disso, usar o conjunto completo pode impedir que a &aRadiação&r te mate."]
+	quest.78215D704E6095B0.quest_desc: ["Você acha que &5&lMekanism&r e &l&7Modern Industrialization&r podem ter toda a diversão com seus conjuntos de armadura de fim de jogo? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r mas, como a &aTraje-Meka&r, ela pode usar Energia como um escudo. \\nEla também tem melhorias que podem ser instaladas para te deixar ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar Energia dele automaticamente e retirar qualquer Item dele, não importa onde você esteja. \\n\\nAlém disso, usar o conjunto completo pode impedir que a &aRadiação&r te mate."]
 	quest.78215D704E6095B0.quest_subtitle: "Não vai te deixar totalmente invencível"
 	quest.78215D704E6095B0.title: "Sistema ME como Armadura: A Armadura Quântica"
 	quest.7900A4836CC55428.quest_desc: [

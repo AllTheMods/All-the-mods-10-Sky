@@ -14,7 +14,7 @@
 	quest.1699BD1B8B348B7C.quest_desc: ["Uma combinação de Milho Jade Azul e Milho Dentado Amarelo resulta no Milho Asteca Preto."]
 	quest.2117CE8C21A9EE98.quest_desc: ["Uma combinação de Pimentões Vermelhos e Pretos."]
 	quest.223F47BDD763F306.quest_desc: ["Tomates Cereja têm uma chance de sofrer mutação aleatória para Tomates Pera Chocolate. \\n\\nNão sei de onde vieram o Chocolate ou as Peras, mas tudo bem!"]
-	quest.244B10862943A802.quest_subtitle: "Krazy World"
+	quest.244B10862943A802.quest_subtitle: "Mundo louco"
 	quest.2AFB12E742596864.quest_desc: ["O &aControlador de Fazenda&r é o coração da &a&lFazenda Automática&r, uma Máquina Multibloco perfeita para todas as Fazendas! \\n\\nVou explicar como construí-la na próxima Missão, aqui vou apenas explicar como usá-la. \\n\\nEsta &a&lFazenda Automática&r irá cultivar, colher e replantar todos os &2Cultivos&r que crescem dentro da Estrutura. De &a&lProductive Farming&r, &2&lMystical Agriculture&r e &2Cultivos&r do &2&lVanilla&r, todos podem ser cultivados! \\n\\nEla coletará todos os Drops no Controlador, que podem ser retirados manualmente ou através de Canos."]
 	quest.2AFB12E742596864.title: "&a&lFazenda Automática"
 	quest.2BFC97460B4B49F1.quest_desc: ["Uma mistura de Tomates Pera Chocolate e Tomates Pera Amarelos nos dará Tomates Sungold."]
@@ -33,7 +33,7 @@
 	quest.33C3C334981AF72E.quest_desc: ["Tomates Cereja e sua segunda evolução (eu já não usei essa piada?) o Tomate Pera Chocolate podem se combinar para formar um Tomate Pera Amarelo. \\n\\nDe onde veio o Amarelo? Ou a Pera de novo?"]
 	quest.383EDBE9AAAF4C99.quest_subtitle: "Linha do Microfone"
 	quest.3BB39CC4E8F40B67.quest_subtitle: "1,2... 1,2"
-	quest.3CBF4D703AA17199.quest_desc: ["&a&lProductive Farming&r é (no momento em que isto foi feito) o mais novo Mod Produtivo. \\n\\nEste Mod traz uma Estrutura Multibloco de Fazenda automática, novos Cultivos e mais Flores e cores de corante para elas! \\n\\nEle também funciona em conjunto com o &6&lProductive Bees&r e o &l&cD&6y&ee&an&ba&dm&ci&6c&es&r!"]
+	quest.3CBF4D703AA17199.quest_desc: ["&a&lProductive Farming&r é (no momento em que isto foi feito) o mais novo Mod Produtivo. \\n\\nEste Mod traz uma Estrutura Multibloco de Fazenda automática, novos Cultivos e mais Flores e cores de corante para elas! \\n\\nEle também funciona em conjunto com o &6&lProductive Bees&r e o &l&zDyenamics&r!"]
 	quest.3CBF4D703AA17199.quest_subtitle: "Quantos Mods ele vai fazer?"
 	quest.3CBF4D703AA17199.title: "&a&lProductive Farming"
 	quest.3E57854E27545581.quest_desc: ["Uma mistura de Pimentões Laranja e Amarelos."]
@@ -49,10 +49,10 @@
 	quest.48323FABB7E3D31E.quest_desc: ["Ao combinar o Tomate Roma com sua segunda evolução, o Tomate Beefsteak, obtemos o Tomate Blue Beauty. \\n\\nNo entanto, ele tem uma chance de se tornar outros 2 tipos de Tomates."]
 	quest.4B2754CD11FFE247.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_amaryllis.png width:100 height:150 align:center}"]
 	quest.4B2754CD11FFE247.quest_subtitle: "Bordô"
-	quest.4B2754CD11FFE247.title: "&4Amaryllis"
+	quest.4B2754CD11FFE247.title: "&4Amarílis"
 	quest.507821D8F9C064CF.quest_desc: ["Misturar Uvas Verdes e Uvas Vermelhas nos dá Uvas Concord. \\n\\nTambém conhecidas como Uvas Roxas!"]
 	quest.512A525B513DA118.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_chrysanthemum.png width:100 height:150 align:center}"]
-	quest.512A525B513DA118.quest_subtitle: "Magenta"
+	quest.512A525B513DA118.quest_subtitle: "magenta"
 	quest.512A525B513DA118.title: "&dCrisântemo"
 	quest.523AD3D448DE58A6.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hellebore.png width:100 height:150 align:center}"]
 	quest.523AD3D448DE58A6.quest_subtitle: "Cinza"
@@ -67,7 +67,7 @@
 	quest.5854DA8F791AD71F.title: "&2Urtiga"
 	quest.5969AEE09A61EC16.quest_desc: ["Ao combinar o Tomate Roma com sua segunda evolução, o Tomate Beefsteak, obtemos o Tomate White Wonder. \\n\\nNo entanto, ele tem uma chance de se tornar outros 2 tipos de Tomates."]
 	quest.5B21A7A5ED1DDABB.quest_desc: ["Beefsteaks podem surgir de uma Mutação aleatória com Tomates Roma."]
-	quest.5E4DE1FFA8A45C6D.quest_desc: ["&dFlores&r! Primeiro, como conseguimos essas novas e belas &dFlores&r! \\n\\nEssas &dFlores&r são obtidas da mesma forma que outras &dFlores&r, usando Farinha de Osso na &2Grama&r. \\n\\nDesculpe, &dCampos de Flores&r não ajudarão muito no &bCéu&r. \\n\\nVocê pode ver a aparência de todas essas &dFlores&r em suas Missões individuais! \\n\\nMas a Cor pode mudar. Isso porque temos um novo método de &6Cruzamento&r. \\n\\nSe tivermos &6Abelhas&r com &aMelhorias de Pólen&r em suas &6Colmeias&r, elas farão o &6Cruzamento&r dos tipos e Cores das &dFlores&r onde elas &aPolinizam&r. \\n\\nAs novas &dFlores&r irão surgir na &2Grama&r perto das &dFlores&r antigas, elas serão do mesmo tipo das &dFlores&r anteriores com uma de suas Cores ou uma combinação das duas Cores. \\n\\nIsso significa que você pode obter &9Papoulas Azuis&f, &4Taboas Bordô&r, ou até mesmo Tulipas Brancas! Ah espere, essa é uma &dFlor&r do &2&lVanilla&r..."]
+	quest.5E4DE1FFA8A45C6D.quest_desc: ["&dFlores&r! Primeiro, como conseguimos essas novas e belas &dFlores&r! \\n\\nEssas &dFlores&r são obtidas da mesma forma que outras &dFlores&r, usando Farinha de Osso na &2Grama&r. Desculpe, &dCampos de Flores&r não ajudarão muito no &bCéu&r. \\n\\nVocê pode ver a aparência de todas essas &dFlores&r em suas Missões individuais! \\n\\nMas a Cor pode mudar. Isso porque temos um novo método de &6Cruzamento&r. \\n\\nSe tivermos &6Abelhas&r com &aMelhorias de Pólen&r em suas &6Colmeias&r, elas farão o &6Cruzamento&r dos tipos e Cores das &dFlores&r onde elas &aPolinizam&r. \\n\\nAs novas &dFlores&r irão surgir na &2Grama&r perto das &dFlores&r antigas, elas serão do mesmo tipo das &dFlores&r anteriores com uma de suas Cores ou uma combinação das duas Cores. \\n\\nIsso significa que você pode obter &9Papoulas Azuis&f, &4Taboas Bordô&r, ou até mesmo Tulipas Brancas! Ah espere, essa é uma &dFlor&r do &2&lVanilla&r..."]
 	quest.5E4DE1FFA8A45C6D.title: "&dFLORES"
 	quest.60521AAE8BAA32C5.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hydrangea.png width:100 height:150 align:center}"]
 	quest.60521AAE8BAA32C5.quest_subtitle: "Rosa"
