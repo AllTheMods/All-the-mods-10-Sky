@@ -76,6 +76,14 @@ ServerEvents.recipes((allthemods) => {
     { mesh: Meshes.NETHERITE, amount: 2, chance: 0.05 }
   ])
 
+  // Power Ore
+  sieving("forcecraft:force_gem", Materials.Gravel, [
+    { mesh: Meshes.IRON, amount: 1, chance: 0.03 },
+    { mesh: Meshes.GOLD, amount: 1, chance: 0.05 },
+    { mesh: Meshes.DIAMOND, amount: 2, chance: 0.06 },
+    { mesh: Meshes.NETHERITE, amount: 2, chance: 0.08 }
+  ])
+
   // ===== Sand =====
 
   sieving("minecraft:cactus", Materials.Sand, [{ mesh: Meshes.DIAMOND, amount: 1, chance: 0.12 }])
