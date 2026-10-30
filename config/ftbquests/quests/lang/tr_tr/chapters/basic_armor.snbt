@@ -80,7 +80,7 @@
 	quest.1E3E688B3B52C4D2.title: "Yükseltici Zırh Süslemesi"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8Netherit&r"
-	quest.1FAE4A884E083283.quest_desc: ["&d&lForbidden and Arcanus&r modundaki &6Tyr&r zırhı, modun en iyi savunma ekipmanıdır; güçlü koruma ve dayanıklılık sunar. &5Draco Arcanus&r zırhının yükseltilmiş hâlidir ve modun ileri aşamalarındaki &6Forge&r gerektirir."]
+	quest.1FAE4A884E083283.quest_desc: ["&d&lForbidden and Arcanus&r modundaki &6Tyr&r zırhı, modun en iyi savunma ekipmanıdır; güçlü koruma ve dayanıklılık sunar. &5Draco Arcanus&r zırhının yükseltilmiş hâlidir ve modun ileri aşamalarındaki &6Hephaestus Ocağını&r gerektirir."]
 	quest.1FAE4A884E083283.quest_subtitle: "37"
 	quest.1FAE4A884E083283.title: "&6Tyr Zırhı"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
@@ -170,7 +170,7 @@
 	quest.3EA3A6414AB8A39C.quest_subtitle: "Sınama Odaları"
 	quest.3EA3A6414AB8A39C.title: "Akış Zırh Süslemesi"
 	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
-	quest.44CC11E67ADD0556.quest_desc: ["&d&lForbidden and Arcanus&r modundaki &5Draco Arcanus&r zırhı, iyi koruma özellikleri sunan yüksek kademeli bir settir. Modun &5Obsidiyen&r zırhının yükseltilmiş hâlidir; gerekli malzemeleri edinmek için modun &6Hephaestus Forge&r sistemine geçmeniz gerekir."]
+	quest.44CC11E67ADD0556.quest_desc: ["&d&lForbidden and Arcanus&r modundaki &5Draco Arcanus&r zırhı, iyi koruma özellikleri sunan yüksek kademeli bir settir. Modun &5Obsidiyen&r zırhının yükseltilmiş hâlidir; gerekli malzemeleri edinmek için modun &6Hephaestus Ocağı&r sistemine geçmeniz gerekir."]
 	quest.44CC11E67ADD0556.quest_subtitle: "30"
 	quest.44CC11E67ADD0556.title: "&5Draco Arcanus Zırhı"
 	quest.452DC5EB02D592B8.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_amethyst.png width:100 height:150 align:center}"]
