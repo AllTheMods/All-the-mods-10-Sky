@@ -2,7 +2,11 @@
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 ServerEvents.recipes((allthemods) => {
-  const aa = allthemods.recipes.actuallyadditions
+  allthemods.shaped('3x minecraft:paper', ['RR', 'RR'], { R: 'actuallyadditions:rice' }).id('actuallyadditions:rice_paper');
+  allthemods.replaceInput({ id: 'actuallyadditions:tagged_slime_block' }, '#c:slime_balls',
+    Ingredient.of('#c:slime_balls').except(['industrialforegoing:pink_slime']));
+
+  const aa = allthemods.recipes.actuallyadditions;
   /*
     aa.coffee_ingredient("#ae2:all_fluix", 2, [{effect: "minecraft:regeneration", amplifier: 0, duration: 60}], "Some Extra Text here?")
     aa.color_change("acacia_door", "#actuallyadditions:lamps")
@@ -23,12 +27,12 @@ ServerEvents.recipes((allthemods) => {
     */
 
   // laser(output, input, power)
-  aa.laser("occultism:iesnium_ore", "minecraft:ancient_debris", 50000)
+  aa.laser("occultism:iesnium_ore", "minecraft:ancient_debris", 50000);
 
   allthemods.recipes.actuallyadditions
     .crushing([{ stack: "mekanism:dust_coal", chance: 1.0 }], "#minecraft:coals")
-    .id("allthemods:actuallyadditions/crushing/coal_dust_from_shard")
-})
+    .id("allthemods:actuallyadditions/crushing/coal_dust_from_shard");
+});
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10: To the Sky.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
