@@ -51,6 +51,8 @@ ServerEvents.recipes((allthemods) => {
       .id(`allthemods:create_dragons_plus/ending/${id}`)
   }
 
+  allthemods.remove({ id: 'allthecompressed:compress/copper_alloy_block_1x' })
+
   for (let i = 1; i < 10; i++) {
     ;[
       `allthecompressed:cobblestone_${i}x`,
