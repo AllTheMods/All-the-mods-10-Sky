@@ -18,7 +18,16 @@
     "excessive_utilities"
   ],
   "priority_overrides": {},
-  "stone_variants": ["stone", "andesite", "deepslate", "diorite", "granite", "nether", "end", "ancient"],
+  "stone_variants": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "nether",
+    "end",
+    "ancient"
+  ],
   "tags": [
     "c:tiny_dusts/{material}",
     "c:dusts/{material}",
@@ -44,8 +53,15 @@
     "allthemods:compressed_{compressedmaterial}_{number}x"
   ],
   "ignored_tags": [],
-  "ignored_items": ["pneumaticcraft:plastic", "oritech:biosteel_ingot", "oritech:biosteel_block", "oritech:plastic_sheet"],
-  "ignored_recipe_types": ["cucumber:shaped_tag"],
+  "ignored_items": [
+    "pneumaticcraft:plastic",
+    "oritech:biosteel_ingot",
+    "oritech:biosteel_block",
+    "oritech:plastic_sheet"
+  ],
+  "ignored_recipe_types": [
+    "cucumber:shaped_tag"
+  ],
   "ignored_recipe_ids": [
     "create:crushing/compat/silentgems/deepslate_peridot_ore",
     "create:crushing/compat/silentgems/deepslate_ruby_ore",
@@ -53,12 +69,29 @@
     "create:crushing/compat/silentgems/peridot_ore",
     "create:crushing/compat/silentgems/ruby_ore",
     "create:crushing/compat/silentgems/sapphire_ore",
-	"create:crushing/compat/silentgems/nether_peridot_ore",
+    "create:crushing/compat/silentgems/nether_peridot_ore",
     "create:crushing/compat/silentgems/nether_ruby_ore",
     "create:crushing/compat/silentgems/nether_sapphire_ore",
-	"create:crushing/compat/silentgems/end_peridot_ore",
+    "create:crushing/compat/silentgems/end_peridot_ore",
     "create:crushing/compat/silentgems/end_ruby_ore",
-    "create:crushing/compat/silentgems/end_sapphire_ore"
+    "create:crushing/compat/silentgems/end_sapphire_ore",
+    "securitycraft:coal_mine",
+    "securitycraft:copper_mine",
+    "securitycraft:diamond_mine",
+    "securitycraft:emerald_mine",
+    "securitycraft:gold_mine",
+    "securitycraft:iron_mine",
+    "securitycraft:lapis_mine",
+    "securitycraft:redstone_mine",
+    "securitycraft:nether_gold_mine",
+    "securitycraft:deepslate_coal_mine",
+    "securitycraft:deepslate_copper_mine",
+    "securitycraft:deepslate_diamond_mine",
+    "securitycraft:deepslate_emerald_mine",
+    "securitycraft:deepslate_gold_mine",
+    "securitycraft:deepslate_iron_mine",
+    "securitycraft:deepslate_lapis_mine",
+    "securitycraft:deepslate_redstone_mine"
   ],
   "recipe_viewer_hiding": true,
   "loot_unification": false,
