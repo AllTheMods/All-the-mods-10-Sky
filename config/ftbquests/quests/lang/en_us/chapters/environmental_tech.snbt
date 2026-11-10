@@ -1,0 +1,135 @@
+{
+	quest.0DA3D0A1388BA35F.quest_desc: [
+		"&9Nanorite Crystals&r only come from the void in &5The End&r. Build an &6Aethium&r &dVoid Miner&r there and run the &bCrystal Miner&r program."
+		""
+		"A &9Nanorite Lens&r makes them much more common."
+	]
+	quest.0DA3D0A1388BA35F.title: "&9Nanorite"
+	quest.15E2D694E46937CF.quest_desc: ["Your &bLitherite&r &dVoid Miner&r can find &cErodium Crystals&r when it's running the &bCrystal Miner&r program. An &cErodium Lens&r makes them much more common."]
+	quest.15E2D694E46937CF.title: "&cErodium"
+	quest.2F4F9E7B5FA55D54.quest_desc: ["The &eCPU&r is crafted with &6Gold&r, &cComparators&r and a &bLitherite Crystal&r."]
+	quest.323D4FCAA9D12C2F.quest_desc: [
+		"Upgrade to a &aPladium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &aPladium Structure Frames&r from the previous tier's frames, using a &aPladium Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.323D4FCAA9D12C2F.title: "&aPladium Void Miner"
+	quest.3698787BAA8CD357.quest_desc: [
+		"&7Structure Panels&r are a crafting component for frames, machines and the Void Miner itself."
+		""
+		"The &7Clear Structure Panel&r works the same way if you'd rather see inside."
+	]
+	quest.3D54BDAB96807FBD.quest_desc: [
+		"Upgrade to an &eIonite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &eIonite Structure Frames&r from the previous tier's frames, using an &eIonite Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.3D54BDAB96807FBD.title: "&eIonite Void Miner"
+	quest.4E6A0D2EEE4078AE.quest_desc: [
+		"The &dMemory Programmer&r has more programs than just crystals:"
+		""
+		"&7Ore Miners&r (metallic, gemstone, mineral, magical), &7Resource Miners&r (frozen, loose, rocky) and &aBotanic Miners&r (flowery, foresty, garden). There's also a general &fMulti Miner&r."
+		""
+		"The specialised programs only find their own category. Click the checkmark when you've tried one."
+	]
+	quest.4E6A0D2EEE4078AE.title: "Other Programs"
+	quest.5093FFDE6B28F149.quest_desc: ["The &cLaser Core&r is part of every &dVoid Miner&r."]
+	quest.50FB38FFD0829262.quest_desc: [
+		"Upgrade to a &dXerothium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &dXerothium Structure Frames&r from the previous tier's frames, using a &dXerothium Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.50FB38FFD0829262.title: "&dXerothium Void Miner"
+	quest.587E88737E1D48E5.quest_desc: ["The &dMemory Programmer&r writes a program onto &9Flash Memory&r. The program tells a &dVoid Miner&r what to mine: crystals, ores, resources or plants."]
+	quest.5F80055812DF1793.quest_desc: [
+		"The &dVoid Miner CCU&r is the controller of the &dVoid Miner&r multiblock. It's built with Structure Frames, a &cLaser Core&r, a &bLaser Lens Holder&r, an &cEnergy Input&r and an &6Item Output&r."
+		""
+		"Put programmed &9Flash Memory&r in the CCU and give it power. What it can find depends on its tier, its program and its lens. The &dVoid Miner&r page in JEI shows the drops for each tier."
+		""
+		"In the &b&lSky&r there's plenty of void to mine!"
+	]
+	quest.5F80055812DF1793.title: "&bLitherite Void Miner"
+	quest.6BCE97505817612A.quest_desc: ["&9Flash Memory&r stores a &dVoid Miner&r program. You'll need one in every Void Miner, so make a few."]
+	quest.7CCC21AB664CEC18.quest_desc: [
+		"Program a &9Flash Memory&r with the &bCrystal Miner&r program."
+		""
+		"Crystal Miners are the only way to get the higher tier crystals, starting with &cErodium&r. Each tier of Void Miner unlocks the next crystal. The last two, &9Nanorite&r and &dXerothium&r, can only be mined in &5The End&r."
+		""
+		"Click the checkmark once you've programmed one."
+	]
+	quest.7CCC21AB664CEC18.title: "The Crystal Program"
+	quest.86CD02A4CBA65DEC.quest_desc: ["Your &eIonite&r &dVoid Miner&r can find &6Aethium Crystals&r when it's running the &bCrystal Miner&r program. An &6Aethium Lens&r makes them much more common."]
+	quest.86CD02A4CBA65DEC.title: "&6Aethium"
+	quest.94C7A48C79FD9C45.quest_desc: [
+		"&8Obsidian Plates&r are used in almost every &bEnvironmental Tech&r machine."
+		""
+		"Craft them from 4 &8Obsidian&r in a 2x2."
+	]
+	quest.96AA9B8002371332.quest_desc: [
+		"The &eAssembler&r is the main crafting machine for &bEnvironmental Tech&r parts. Items go in the slots around the centre, and it needs &cFE&r to run."
+		""
+		"Check JEI for everything it can make."
+	]
+	quest.98B11C8B14CBD634.quest_desc: ["Interconnects are made in the &eAssembler&r from a &cRedstone Imbued Obsidian Plate&r and crystals. Every tier has its own."]
+	quest.A4DDB0F2950023E4.quest_desc: ["Your &5Kyronite&r &dVoid Miner&r can find &aPladium Crystals&r when it's running the &bCrystal Miner&r program. A &aPladium Lens&r makes them much more common."]
+	quest.A4DDB0F2950023E4.title: "&aPladium"
+	quest.AB80A1D40E30EDE8.quest_desc: ["&7Modifiers&r change how a multiblock behaves. The &7Null Modifier&r is the blank one; the other modifiers are made from it in the &eAssembler&r."]
+	quest.BB65F7D98EEDAC18.quest_desc: [
+		"&bLitherite Structure Frames&r make up the body of a &bLitherite&r tier &dVoid Miner&r."
+		""
+		"Each higher tier of frame is crafted from the frame below it."
+	]
+	quest.BD83928EF24C0576.title: "Laser Diode"
+	quest.BE9243DCCE876341.quest_desc: [
+		"&dXerothium Crystals&r only come from the void in &5The End&r. Build a &9Nanorite&r &dVoid Miner&r there and run the &bCrystal Miner&r program."
+		""
+		"A &dXerothium Lens&r makes them much more common."
+	]
+	quest.BE9243DCCE876341.title: "&dXerothium"
+	quest.BFD3CD903848416F.quest_desc: ["&cEnergy Inputs&r feed &cFE&r into a multiblock. They're made in the &eAssembler&r, and each crystal tier has its own version."]
+	quest.C24EE77E38F0F4AA.quest_desc: [
+		"&fLenses&r are crafted from &fGlass&r. Grind them into coloured or crystal lenses with the &eLens Grinder&r."
+		""
+		"Put a lens in the &bLaser Lens Holder&r to make the drops that match it far more common. JEI shows which lens boosts which drop."
+	]
+	quest.C684B54142784EB2.quest_desc: [
+		"Upgrade to a &9Nanorite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &9Nanorite Structure Frames&r from the previous tier's frames, using a &9Nanorite Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.C684B54142784EB2.title: "&9Nanorite Void Miner"
+	quest.C72C7699E2CCE770.quest_desc: ["The &6Item Output&r is where your &dVoid Miner&r puts what it mines. Pipe items out of it."]
+	quest.D435DACC01BCD1B1.quest_desc: ["The &bLaser Lens Holder&r holds a &fLens&r in the &dVoid Miner&r. Lenses bias what the miner finds."]
+	quest.D639D3B74F209CC9.quest_desc: [
+		"Upgrade to a &5Kyronite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &5Kyronite Structure Frames&r from the previous tier's frames, using a &5Kyronite Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.D639D3B74F209CC9.title: "&5Kyronite Void Miner"
+	quest.D826759499DAD805.quest_desc: [
+		"Upgrade to an &6Aethium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &6Aethium Structure Frames&r from the previous tier's frames, using an &6Aethium Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.D826759499DAD805.title: "&6Aethium Void Miner"
+	quest.D8B6D368DF86D17E.quest_desc: [
+		"&bEnvironmental Tech&r is all about the &dVoid Miner&r: a multiblock that pulls resources straight out of the void beneath your island."
+		""
+		"Everything starts with &bLitherite Crystals&r. Craft them from &aEnder Pearls&r, an &aEmerald&r and &fNether Quartz&r. The more pearls and quartz you use, the more crystals you get, up to 8 at a time."
+	]
+	quest.D8B6D368DF86D17E.quest_subtitle: "Mining the Void"
+	quest.D8B6D368DF86D17E.title: "&bEnvironmental Tech"
+	quest.DE2396A6827C99F3.quest_desc: [
+		"Upgrade to an &cErodium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &cErodium Structure Frames&r from the previous tier's frames, using an &cErodium Interconnect&r from the &eAssembler&r."
+		""
+		"Higher tiers mine faster and can find rarer drops."
+	]
+	quest.DE2396A6827C99F3.title: "&cErodium Void Miner"
+	quest.DF6C08B336AF4BD8.title: "Volatile Memory"
+	quest.E7ADE7112545162B.quest_desc: ["Your &aPladium&r &dVoid Miner&r can find &eIonite Crystals&r when it's running the &bCrystal Miner&r program. An &eIonite Lens&r makes them much more common."]
+	quest.E7ADE7112545162B.title: "&eIonite"
+	quest.ECFC0AA7D2E9A582.quest_desc: ["Your &cErodium&r &dVoid Miner&r can find &5Kyronite Crystals&r when it's running the &bCrystal Miner&r program. A &5Kyronite Lens&r makes them much more common."]
+	quest.ECFC0AA7D2E9A582.title: "&5Kyronite"
+	quest.ED7444C62CE1AA53.quest_desc: ["Surround an &8Obsidian Plate&r with &cRedstone&r in the &eAssembler&r."]
+	quest.F6ECEF0055138900.title: "Null I/O"
+}
