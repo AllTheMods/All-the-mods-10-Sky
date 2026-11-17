@@ -9,7 +9,9 @@
 	quest.15E2D694E46937CF.title: "&cErodium"
 	quest.2F4F9E7B5FA55D54.quest_desc: ["The &eCPU&r is crafted with &6Gold&r, &cComparators&r and a &bLitherite Crystal&r."]
 	quest.323D4FCAA9D12C2F.quest_desc: [
-		"Upgrade to a &aPladium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &aPladium Structure Frames&r from the previous tier's frames, using a &aPladium Interconnect&r from the &eAssembler&r."
+		"Upgrade to a &aPladium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &aPladium Structure Frames&r from the previous tier's frames, using a &aPladium Interconnect&r from the &eAssembler&r. It also needs a &bVibranium Block&r."
+		""
+		"From this tier the &dVoid Miner&r can find &6Ancient Debris&r and &5Iesnium&r in &cThe Nether&r, and &5Draconium&r ores."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
@@ -20,7 +22,9 @@
 		"The &7Clear Structure Panel&r works the same way if you'd rather see inside."
 	]
 	quest.3D54BDAB96807FBD.quest_desc: [
-		"Upgrade to an &eIonite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &eIonite Structure Frames&r from the previous tier's frames, using an &eIonite Interconnect&r from the &eAssembler&r."
+		"Upgrade to an &eIonite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &eIonite Structure Frames&r from the previous tier's frames, using an &eIonite Interconnect&r from the &eAssembler&r. It also needs an &dUnobtainium Block&r."
+		""
+		"From this tier the &dVoid Miner&r can find &fIridium&r ore."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
@@ -35,14 +39,16 @@
 	quest.4E6A0D2EEE4078AE.title: "Other Programs"
 	quest.5093FFDE6B28F149.quest_desc: ["The &cLaser Core&r is part of every &dVoid Miner&r."]
 	quest.50FB38FFD0829262.quest_desc: [
-		"Upgrade to a &dXerothium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &dXerothium Structure Frames&r from the previous tier's frames, using a &dXerothium Interconnect&r from the &eAssembler&r."
+		"Upgrade to a &dXerothium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &dXerothium Structure Frames&r from the previous tier's frames, using a &dXerothium Interconnect&r from the &eAssembler&r. It also needs an &dUnobtainium-Vibranium Alloy Block&r."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
 	quest.50FB38FFD0829262.title: "&dXerothium Void Miner"
 	quest.587E88737E1D48E5.quest_desc: ["The &dMemory Programmer&r writes a program onto &9Flash Memory&r. The program tells a &dVoid Miner&r what to mine: crystals, ores, resources or plants."]
 	quest.5F80055812DF1793.quest_desc: [
-		"The &dVoid Miner CCU&r is the controller of the &dVoid Miner&r multiblock. It's built with Structure Frames, a &cLaser Core&r, a &bLaser Lens Holder&r, an &cEnergy Input&r and an &6Item Output&r."
+		"The &dVoid Miner CCU&r is the controller of the &dVoid Miner&r multiblock. In the &b&lSky&r it costs an &aAllthemodium Block&r on top of the usual crystals and laser parts."
+		""
+		"The multiblock is made of &bStructure Frames&r of the CCU's tier or higher, &7Structure Panels&r, a &cLaser Core&r and a &bLaser Lens Holder&r. The IO spots take an &cEnergy Input&r, an &6Item Output&r, &7Null I/O&r or a frame. Open the CCU and use &ePreview&r to see the shape, or &eBuild Multiblock&r to place it from your inventory."
 		""
 		"Put programmed &9Flash Memory&r in the CCU and give it power. What it can find depends on its tier, its program and its lens. The &dVoid Miner&r page in JEI shows the drops for each tier."
 		""
@@ -67,6 +73,8 @@
 	]
 	quest.96AA9B8002371332.quest_desc: [
 		"The &eAssembler&r is the main crafting machine for &bEnvironmental Tech&r parts. Items go in the slots around the centre, and it needs &cFE&r to run."
+		""
+		"In the &b&lSky&r it's built with &aAllthemodium Plates&r instead of pistons."
 		""
 		"Check JEI for everything it can make."
 	]
@@ -93,7 +101,7 @@
 		"Put a lens in the &bLaser Lens Holder&r to make the drops that match it far more common. JEI shows which lens boosts which drop."
 	]
 	quest.C684B54142784EB2.quest_desc: [
-		"Upgrade to a &9Nanorite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &9Nanorite Structure Frames&r from the previous tier's frames, using a &9Nanorite Interconnect&r from the &eAssembler&r."
+		"Upgrade to a &9Nanorite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &9Nanorite Structure Frames&r from the previous tier's frames, using a &9Nanorite Interconnect&r from the &eAssembler&r. It also needs a &bVibranium-Allthemodium Alloy Block&r."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
@@ -101,13 +109,15 @@
 	quest.C72C7699E2CCE770.quest_desc: ["The &6Item Output&r is where your &dVoid Miner&r puts what it mines. Pipe items out of it."]
 	quest.D435DACC01BCD1B1.quest_desc: ["The &bLaser Lens Holder&r holds a &fLens&r in the &dVoid Miner&r. Lenses bias what the miner finds."]
 	quest.D639D3B74F209CC9.quest_desc: [
-		"Upgrade to a &5Kyronite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &5Kyronite Structure Frames&r from the previous tier's frames, using a &5Kyronite Interconnect&r from the &eAssembler&r."
+		"Upgrade to a &5Kyronite&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &5Kyronite Structure Frames&r from the previous tier's frames, using a &5Kyronite Interconnect&r from the &eAssembler&r. It also needs a &bVibranium Block&r."
+		""
+		"From this tier the &dVoid Miner&r can find &bDiamond&r, &aEmerald&r, &eUranium&r, &eYellorite&r and &eUraninite&r ores."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
 	quest.D639D3B74F209CC9.title: "&5Kyronite Void Miner"
 	quest.D826759499DAD805.quest_desc: [
-		"Upgrade to an &6Aethium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &6Aethium Structure Frames&r from the previous tier's frames, using an &6Aethium Interconnect&r from the &eAssembler&r."
+		"Upgrade to an &6Aethium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &6Aethium Structure Frames&r from the previous tier's frames, using an &6Aethium Interconnect&r from the &eAssembler&r. It also needs an &dUnobtainium Block&r."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
@@ -120,7 +130,7 @@
 	quest.D8B6D368DF86D17E.quest_subtitle: "Mining the Void"
 	quest.D8B6D368DF86D17E.title: "&bEnvironmental Tech"
 	quest.DE2396A6827C99F3.quest_desc: [
-		"Upgrade to an &cErodium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &cErodium Structure Frames&r from the previous tier's frames, using an &cErodium Interconnect&r from the &eAssembler&r."
+		"Upgrade to an &cErodium&r &dVoid Miner&r. The CCU is crafted from the previous tier's CCU, and the &cErodium Structure Frames&r from the previous tier's frames, using an &cErodium Interconnect&r from the &eAssembler&r. It also needs an &aAllthemodium Block&r."
 		""
 		"Higher tiers mine faster and can find rarer drops."
 	]
