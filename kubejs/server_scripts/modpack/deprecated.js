@@ -10,7 +10,7 @@ ServerEvents.recipes((allthemods) => {
   allthemods.remove({ id: "happyhallows:mantel_deco_haunted_house" })
   allthemods.remove({ id: "happyhallows:apple_cider" })
 
-  const deprecated = [/^generatorgalore:/, /^translocators:/, /^glassential:/, /^trashcans:/]
+  const deprecated = [/^generatorgalore:/, /^translocators:/, /^glassential:/, /^trashcans:/, /^spikyspikes:/]
 
   deprecated.forEach((entry) => {
     allthemods.remove({ output: entry })

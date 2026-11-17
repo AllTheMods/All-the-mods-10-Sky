@@ -1897,7 +1897,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "2A6B52161759B041"
-				item: { components: { "ftbfiltersystem:filter": "or(item(spikyspikes:wooden_spike)item(spikyspikes:stone_spike)item(spikyspikes:iron_spike)item(spikyspikes:golden_spike)item(spikyspikes:diamond_spike)item(spikyspikes:netherite_spike))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(excessive_utilities:wooden_spike)item(excessive_utilities:stone_spike)item(excessive_utilities:iron_spike)item(excessive_utilities:golden_spike)item(excessive_utilities:diamond_spike)item(excessive_utilities:netherite_spike)item(spikyspikes:wooden_spike)item(spikyspikes:stone_spike)item(spikyspikes:iron_spike)item(spikyspikes:golden_spike)item(spikyspikes:diamond_spike)item(spikyspikes:netherite_spike))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -7.5d
