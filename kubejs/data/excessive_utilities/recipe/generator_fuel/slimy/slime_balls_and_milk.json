@@ -1,7 +1,7 @@
 {
   "type": "excessive_utilities:item_and_fluid_fuel",
   "duration": 100,
-  "fe_per_tick": 200,
+  "fe_per_tick": 640,
   "fluid_ingredient": {
     "amount": 250,
     "tag": "c:milk"

@@ -1,0 +1,9 @@
+{
+  "type": "excessive_utilities:single_item_fuel",
+  "duration": 10,
+  "fe_per_tick": 128,
+  "generator_type": "pink",
+  "ingredient": {
+    "tag": "c:dyed/pink"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "type": "excessive_utilities:single_item_fuel",
   "duration": 240,
-  "fe_per_tick": 160,
+  "fe_per_tick": 512,
   "generator_type": "death",
   "ingredient": {
     "tag": "c:storage_blocks/bone_meal"
