@@ -17,7 +17,9 @@
     "oritech",
     "excessive_utilities"
   ],
-  "priority_overrides": {},
+  "priority_overrides": {
+    "c:nuggets/diamond": "silentgear"
+  },
   "stone_variants": ["stone", "andesite", "deepslate", "diorite", "granite", "nether", "end", "ancient"],
   "tags": [
     "c:tiny_dusts/{material}",
