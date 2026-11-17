@@ -124,6 +124,8 @@ ServerEvents.recipes((allthemods) => {
 
   allthemods.remove({ id: "mysticalagriculture:watering_can" })
   allthemods.remove({ id: "mysticalagriculture:diamond_scythe" })
+  // Same shape as the Excessive Utilities Watering Can, which always won
+  allthemods.remove({ id: "pickletweaks:watering_can" })
 
   // Was 1 crystal -> 8 redstone from 4 redstone + an ender shard, an infinite redstone loop
   allthemods

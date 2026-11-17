@@ -2561,7 +2561,7 @@
 			]
 			tasks: [{
 				id: "4C906A47EBC15BC1"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:watering_can)item(pickletweaks:watering_can))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(excessive_utilities:watering_can)item(mysticalagriculture:watering_can)item(pickletweaks:watering_can))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 5.0d
