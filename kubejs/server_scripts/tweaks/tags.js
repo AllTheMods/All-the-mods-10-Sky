@@ -119,6 +119,7 @@ ServerEvents.tags("item", (allthemods) => {
 
   // for client removals
   allthemods.add("kubejs:olyremovedit", [
+    "forcecraft:time_torch",
     "mysticalagriculture:uraninite_essence",
     "mysticalagriculture:yellorium_essence",
     "mysticalagriculture:yellorium_essence",

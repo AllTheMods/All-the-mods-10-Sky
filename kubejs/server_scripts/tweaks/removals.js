@@ -5,6 +5,7 @@ ServerEvents.recipes((allthemods) => {
   //Complete removal, including JEI
   const removals = [
     "exmachinis:netherite_upgrade",
+    "forcecraft:time_torch",
     /geore:.*tungsten.*/,
     /geore:.*monazite.*/,
     "georenouveau:tungsten_geore_golem_charm",

@@ -1,0 +1,3 @@
+[general]
+	#Enable Time Torch [Default: true]
+	timeTorchEnabled = false
