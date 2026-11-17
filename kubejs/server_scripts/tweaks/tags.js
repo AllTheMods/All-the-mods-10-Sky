@@ -112,6 +112,9 @@ ServerEvents.tags("item", (allthemods) => {
   allthemods.remove("tombstone:seeds", "#mysticalagriculture:seeds")
   allthemods.remove("c:seeds", "#mysticalagriculture:seeds")
 
+  // Force Logs also match the vanilla charcoal recipe, so furnaces gave Charcoal instead of Golden Power Source
+  allthemods.remove("minecraft:logs_that_burn", "#forcecraft:force_logs")
+
   allthemods.add("chisel_chipped_integration:gems/diamond", "minecraft:diamond_block")
 
   // for client removals
