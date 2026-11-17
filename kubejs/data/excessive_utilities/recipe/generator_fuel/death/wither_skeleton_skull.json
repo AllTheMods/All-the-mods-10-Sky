@@ -1,7 +1,7 @@
 {
   "type": "excessive_utilities:single_item_fuel",
   "duration": 160,
-  "fe_per_tick": 200,
+  "fe_per_tick": 640,
   "generator_type": "death",
   "ingredient": {
     "item": "minecraft:wither_skeleton_skull"

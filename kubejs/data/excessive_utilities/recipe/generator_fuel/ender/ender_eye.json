@@ -1,7 +1,7 @@
 {
   "type": "excessive_utilities:single_item_fuel",
   "duration": 3200,
-  "fe_per_tick": 160,
+  "fe_per_tick": 512,
   "generator_type": "ender",
   "ingredient": {
     "item": "minecraft:ender_eye"

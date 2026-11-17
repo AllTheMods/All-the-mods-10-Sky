@@ -1,7 +1,7 @@
 {
   "type": "excessive_utilities:magmatic_fuel",
   "duration": 10,
-  "fe_per_tick": 100,
+  "fe_per_tick": 320,
   "ingredient": {
     "amount": 10,
     "tag": "c:lava"
