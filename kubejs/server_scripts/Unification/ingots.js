@@ -8,6 +8,8 @@ ServerEvents.recipes((allthemods) => {
   allthemods.remove({ id: "railcraft:brass_ingot_crafted_with_ingots" })
   allthemods.remove({ id: "mysticalagriculture:essence/extremereactors2/yellorium_ingot" })
   allthemods.remove({ id: "modern_industrialization:materials/bronze_dust" })
+  allthemods.replaceInput({ id: 'alltheores:crafting/hammer/steel/dust_from_ingot' }, '#c:ingots/steel',
+    Ingredient.of('#c:ingots/steel').except('#c:ingots/biosteel'))
 
   // Smelting
   allthemods.remove({ id: "mekanism:processing/lead/ingot/from_ore_smelting" })
