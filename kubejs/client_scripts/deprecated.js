@@ -3,7 +3,7 @@
 
 // Mods being phased out. Recipes are removed in server_scripts/modpack/deprecated.js
 ItemEvents.modifyTooltips((allthemods) => {
-  const deprecated = [/^generatorgalore:/, /^translocators:/, /^glassential:/, /^trashcans:/]
+  const deprecated = [/^generatorgalore:/, /^translocators:/, /^glassential:/, /^trashcans:/, /^spikyspikes:/]
 
   deprecated.forEach((entry) => {
     allthemods.add(entry, [Text.of("Deprecated, will be removed in a future update").red()])

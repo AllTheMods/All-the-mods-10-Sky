@@ -64,6 +64,10 @@ KubeJSTweaks.beforeRecipes((event) => {
   event.disable("oritech:compat/enderio/firecrafting/sculk")
   event.disable("oritech:compat/enderio/firecrafting/endstone")
 
+  // Need Merrymaking items, which aren't in the pack
+  event.disable("happyhallows:mantel_deco_haunted_house")
+  event.disable("happyhallows:apple_cider")
+
   // Scans items on result and add them back as conditions, izi fix
   event.getEntry(/^farmingforblockheads:market\//).forEach((entry) => {
     entry.addConditionsFromKey("result")

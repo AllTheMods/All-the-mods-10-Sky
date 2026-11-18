@@ -15,7 +15,7 @@
 	quest.19D9C6110D72EA7E.quest_desc: ["This is every &bSieve&r Block. \\n\\n&2Moss &fand &cRed Sand&r use 5x Compressed and everything else listed uses 6x Compressed."]
 	quest.19E8DD3B8554BF57.quest_desc: ["The &5Unobtainium Upgrade&r follows the same pattern. \\n\\nYou'll need a &5Block of Unobtainium&r, 7 &3Vibranium Ingots&r, and a &3Vibranium Upgrade Template&r. \\n\\nYou can duplicate them with another 7 &3Vibranium Ingots&f and a singular &eEndstone&r!"]
 	quest.19E8DD3B8554BF57.title: "&5Unobtainium Upgrade Template"
-	quest.1C29E6147752EE97.quest_desc: ["Don't like bees? You might prefer to use GeOres instead. Use the &c&lFoundry&r to pour 9 &6AllTheModium Ingots&r onto Sand 5x (59 049 Sand in total) to create a &6Budding Allthemodium GeOre&r. Same deal for &3Vibranium&r and &5Unobtainium&r, but with pouring those respective materials instead."]
+	quest.1C29E6147752EE97.quest_desc: ["Don't like bees? You might prefer to use GeOres instead. Use the &c&lFoundry&r to pour 9 &6AllTheModium Blocks&r (7290mB) onto Sand 5x (59 049 Sand in total) to create a &6Budding Allthemodium GeOre&r. Same deal for &3Vibranium&r and &5Unobtainium&r, but with pouring those respective materials instead."]
 	quest.1C29E6147752EE97.title: "Budding ATM Metal GeOres"
 	quest.208734A50051ECEC.quest_desc: [
 		"Like Upgrading anything to &6AllTheModium&r, you'll need an &6AllTheModium Ingot&f and &6AllTheModium Upgrade&r. \\n\\nYou'll just also need an &dArchmage's Spellbook&r! \\n\\nThe &6AllTheModium &dSpellbook&r will be able to Cast Tier 4 Glyphs. We don't exactly have any of those, though...it does let us use up to 12 glyphs per spell though. Make sure to keep an eye out for an arrow next to the Glyphs, like so:"

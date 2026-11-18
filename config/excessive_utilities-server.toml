@@ -200,7 +200,7 @@
 		#How much FE per tick the Furnace Generator produces when active.
 		# Default: 40
 		# Range: > 1
-		furnaceGeneratorFePerTick = 40
+		furnaceGeneratorFePerTick = 128
 		#How many times longer should a furnace fuel burn in the Survivalist Generator compared to a regular furnace.
 		# Default: 100.0
 		# Range: 0.0 ~ 1.7976931348623157E308
@@ -208,11 +208,11 @@
 		#How much FE per tick the Survivalist Generator produces when active.
 		# Default: 5
 		# Range: > 1
-		survivalistGeneratorFePerTick = 5
+		survivalistGeneratorFePerTick = 80
 		#How much FE the Overclocked Generator burns for each tick tha the item would have burned in a Furnace.
 		# Default: 40
 		# Range: > 1
-		overclockedGeneratorFePerBurnTick = 40
+		overclockedGeneratorFePerBurnTick = 128
 		#The radius in blocks that the Nether Star Generator applies the Withering II effect while active.
 		# Default: 10.0
 		# Range: 0.0 ~ 1.7976931348623157E308

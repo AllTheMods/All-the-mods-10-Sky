@@ -112,10 +112,14 @@ ServerEvents.tags("item", (allthemods) => {
   allthemods.remove("tombstone:seeds", "#mysticalagriculture:seeds")
   allthemods.remove("c:seeds", "#mysticalagriculture:seeds")
 
+  // Force Logs also match the vanilla charcoal recipe, so furnaces gave Charcoal instead of Golden Power Source
+  allthemods.remove("minecraft:logs_that_burn", "#forcecraft:force_logs")
+
   allthemods.add("chisel_chipped_integration:gems/diamond", "minecraft:diamond_block")
 
   // for client removals
   allthemods.add("kubejs:olyremovedit", [
+    "forcecraft:time_torch",
     "mysticalagriculture:uraninite_essence",
     "mysticalagriculture:yellorium_essence",
     "mysticalagriculture:yellorium_essence",
@@ -321,6 +325,9 @@ ServerEvents.tags("item", (allthemods) => {
 
   // Herbs and Harvest salt is only in c:items/salt
   allthemods.add("c:dusts/salt", "herbsandharvest:salt")
+
+  // Herbs and Harvest pepperoni and sausage use c:foods/pork, which no mod fills
+  allthemods.add("c:foods/pork", "#c:foods/raw_pork")
 })
 
 ServerEvents.tags("fluid", (allthemods) => {

@@ -124,6 +124,13 @@ ServerEvents.recipes((allthemods) => {
 
   allthemods.remove({ id: "mysticalagriculture:watering_can" })
   allthemods.remove({ id: "mysticalagriculture:diamond_scythe" })
+  // Same shape as the Excessive Utilities Watering Can, which always won
+  allthemods.remove({ id: "pickletweaks:watering_can" })
+
+  // Was 1 crystal -> 8 redstone from 4 redstone + an ender shard, an infinite redstone loop
+  allthemods
+    .shapeless(Item.of("minecraft:redstone", 4), ["excessive_utilities:resonating_redstone_crystal"])
+    .id("excessive_utilities:redstone_from_resonating_redstone_crystal")
 
   allthemods.shapeless(Item.of("4x minecraft:quartz"), ["#c:storage_blocks/quartz"])
 

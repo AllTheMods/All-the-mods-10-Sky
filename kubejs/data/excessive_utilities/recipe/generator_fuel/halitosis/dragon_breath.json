@@ -1,0 +1,9 @@
+{
+  "type": "excessive_utilities:single_item_fuel",
+  "duration": 12000,
+  "fe_per_tick": 128,
+  "generator_type": "halitosis",
+  "ingredient": {
+    "item": "minecraft:dragon_breath"
+  }
+}

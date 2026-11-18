@@ -1,0 +1,9 @@
+{
+  "type": "excessive_utilities:single_item_fuel",
+  "duration": 360,
+  "fe_per_tick": 128,
+  "generator_type": "frosty",
+  "ingredient": {
+    "item": "minecraft:packed_ice"
+  }
+}
