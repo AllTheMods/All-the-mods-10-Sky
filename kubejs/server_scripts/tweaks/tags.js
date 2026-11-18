@@ -325,6 +325,9 @@ ServerEvents.tags("item", (allthemods) => {
 
   // Herbs and Harvest salt is only in c:items/salt
   allthemods.add("c:dusts/salt", "herbsandharvest:salt")
+
+  // Herbs and Harvest pepperoni and sausage use c:foods/pork, which no mod fills
+  allthemods.add("c:foods/pork", "#c:foods/raw_pork")
 })
 
 ServerEvents.tags("fluid", (allthemods) => {
