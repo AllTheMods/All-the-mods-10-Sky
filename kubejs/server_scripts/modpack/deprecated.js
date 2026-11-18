@@ -5,11 +5,6 @@
 // Recipes that turn their items back into vanilla items (e.g. glassential:oak_door_from_oak_glass_door,
 // translocators:diamond_nugget_combine) output vanilla items, so they are kept for recycling.
 ServerEvents.recipes((allthemods) => {
-  // These Happy Hallows recipes need Merrymaking items (not in the pack) and fail to parse; remove them by id
-  // first so the output filters below don't log parse errors for them
-  allthemods.remove({ id: "happyhallows:mantel_deco_haunted_house" })
-  allthemods.remove({ id: "happyhallows:apple_cider" })
-
   const deprecated = [/^generatorgalore:/, /^translocators:/, /^glassential:/, /^trashcans:/, /^spikyspikes:/]
 
   deprecated.forEach((entry) => {
