@@ -85,10 +85,14 @@ ServerEvents.recipes((allthemods) => {
     allthemods.remove({ id: id })
     allthemods.custom(rewritten).id(`allthemods:envirotech/${id.split(":")[1]}`)
   })
-  
+
   // Resolve conflicts with EnviroCore Crystal Block Uncrafting
   ccuTiers.forEach((entry) => {
-	allthemods.replaceInput({ id: `envirocore:blocks/crystals/${entry.tier}/ct_uncraft_${entry.tier}_blocks`}, `#envirocore:${entry.tier}_blocks`, Ingredient.of(`#envirocore:${entry.tier}_blocks`).except(`envirocore:${entry.tier}`))
+    allthemods.replaceInput(
+      { id: `envirocore:blocks/crystals/${entry.tier}/ct_uncraft_${entry.tier}_blocks` },
+      `#envirocore:${entry.tier}_blocks`,
+      Ingredient.of(`#envirocore:${entry.tier}_blocks`).except(`envirocore:${entry.tier}`)
+    )
   })
 })
 
