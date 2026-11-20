@@ -328,6 +328,9 @@ ServerEvents.tags("item", (allthemods) => {
 
   // Herbs and Harvest pepperoni and sausage use c:foods/pork, which no mod fills
   allthemods.add("c:foods/pork", "#c:foods/raw_pork")
+  
+  // Allow Excessive Utilities Watering Cans to be used for Inferium Watering Can
+  allthemods.add("mysticalagriculture:watering_cans", "excessive_utilities:watering_can")
 })
 
 ServerEvents.tags("fluid", (allthemods) => {
