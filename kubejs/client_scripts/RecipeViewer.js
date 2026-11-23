@@ -19,6 +19,7 @@ RecipeViewerEvents.removeEntries("item", (allthemods) => {
 RecipeViewerEvents.removeEntriesCompletely("item", (allthemods) => {
   allthemods.remove("#kubejs:olyremovedit")
   allthemods.remove("supplementaries:faucet")
+  allthemods.remove("supplementaries:flint_block")
   allthemods.remove("ars_elemental:glyph_nullify_defense")
 })
 
