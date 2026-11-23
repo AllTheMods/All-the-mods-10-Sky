@@ -9,9 +9,7 @@ ServerEvents.recipes((allthemods) => {
     P: "#c:plates/steel"
   })
 
-  allthemods.shapeless('railcraft:cart_dispenser', [
-    'minecraft:dispenser',
-    'minecraft:minecart',
-    'minecraft:redstone'
-  ]).id('railcraft:cart_dispenser');
+  allthemods
+    .shapeless("railcraft:cart_dispenser", ["minecraft:dispenser", "minecraft:minecart", "minecraft:redstone"])
+    .id("railcraft:cart_dispenser")
 })

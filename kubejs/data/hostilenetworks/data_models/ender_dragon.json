@@ -32,10 +32,10 @@
       "count": 1
     }
   ],
-    "data_gained": {
-        "faulty": 3,
-        "basic": 12,
-        "advanced": 30,
-        "superior": 45
-    }
+  "data_gained": {
+    "faulty": 3,
+    "basic": 12,
+    "advanced": 30,
+    "superior": 45
+  }
 }

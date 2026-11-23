@@ -1,5 +1,7 @@
 ServerEvents.recipes((allthemods) => {
-  allthemods.stonecutting('ars_nouveau:sourcestone', 'ars_nouveau:smooth_sourcestone').id('ars_nouveau:smooth_sourcestone_to_sourcestone');
+  allthemods
+    .stonecutting("ars_nouveau:sourcestone", "ars_nouveau:smooth_sourcestone")
+    .id("ars_nouveau:smooth_sourcestone_to_sourcestone")
 
   allthemods.remove({ id: "ars_nouveau:glyph_wall" })
   allthemods
