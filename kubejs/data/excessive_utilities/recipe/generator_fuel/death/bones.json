@@ -4,6 +4,6 @@
   "fe_per_tick": 512,
   "generator_type": "death",
   "ingredient": {
-    "tag": "minecraft:bone"
+    "tag": "c:bones"
   }
 }
