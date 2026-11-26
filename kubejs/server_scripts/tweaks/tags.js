@@ -361,6 +361,12 @@ ServerEvents.tags("entity_type", (allthemods) => {
   allthemods.add("mob_grinding_utils:no_swab", "#allthemods:entity_blacklist")
   allthemods.add("mob_grinding_utils:no_spawn", "#allthemods:entity_blacklist")
   allthemods.add("enderio:spawner_blacklist", "#allthemods:entity_blacklist")
+  allthemods.add('occultism:soul_shattered_deny_list', '#allthemods:entity_blacklist')
+
+  allthemods.add('neovitae:deny_imprisonment', [
+	"#c:capturing_not_supported",
+	"#apothic_spawners:blacklisted_from_spawners"
+  ])
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10 To The Sky.
